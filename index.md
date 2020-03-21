@@ -1,7 +1,3 @@
----
-title: Welkom bij Dynamics Empire
----
-
 # Welkom bij Dynamics Empire
 
 Dynamics Empire is het enterprise resource planning (ERP)-systeem van cegeka-dsa: een integraal en compleet product voor vastgoedbeheer. Onze oplossing bestaat uit een achttal modules, waarvan de kern is gebaseerd op Microsoft Dynamics 365 Business Central en de marktstandaarden VERA en KOVRA. De software bevat gestandaardiseerde functionaliteiten voor alle aspecten van volkshuisvesting; van woningbeheer en klantrelaties tot personeelsmanagement en financiële administratie.

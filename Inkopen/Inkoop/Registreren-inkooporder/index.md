@@ -12,7 +12,7 @@ Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met bet
 2. Klik op  **Nieuw | + Nieuw** om een nieuwe inkooporder aan te maken.
 3. Selecteer in het veld **Leverancier** de leverancier waarvoor u een order aan wilt maken.
 4. Vul in de orderregels (onder kopje **Regels**) de volgende velden:
-    - **Soort**: 'Grootboekrekening'
+    - **Soort**: 'Grootboekrekening'.
     - **Nr.**: Dit is het nummer van de grootboekrekening waarop de kosten geboekt dienen te worden.
     - **Btw-productboekingsgroep**
     - **Omschrijving**

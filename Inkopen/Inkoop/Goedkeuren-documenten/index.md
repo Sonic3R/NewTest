@@ -8,11 +8,11 @@ Wanneer u een document moet goedkeuren krijgt u een goedkeuringsverzoek door mid
 
 1. In uw Rolcenter (startpagina) klikt u op de tegel **Goedkeuringen**. De gelijknamige pagina opent. Hierop worden alle documenten getoond die u goed dient te keuren.
 2. Klik op **Record openen**. Het document wordt geopend. Betreft het document een inkoopfactuur of inkoopcreditnota, dan kunt u via **Toon factuur** de originele factuur tonen.
-3. Controleer het document. Daarna kunt u een aantal zaken doen.
+3. Controleer het document. Daarna kunt u een aantal zaken doen:
     - Wanneer u de factuur ook door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Toevoegen goedkeurder](#toevoegen-goedkeurder)**.
     - Wanneer u de factuur namens u door iemand anders goed wil laten keuren, ga dan verder naar de processtap **[Delegeren goedkeuring](#delegeren-goedkeuring)**.
     - Wilt u de goedkeuringsaanvraag weigeren, ga dan verder naar de processtap **[Weigeren goedkeuringsaanvraag](#weigeren-goedkeuringsaanvraag)**.
-    - Bent u akkoord, dan kunt u de factuur goedkeuren Ga hiervoor naar de processtap **[Geven akkoord](#geven-akkoord)**.
+    - Bent u akkoord, dan kunt u de factuur goedkeuren. Ga hiervoor naar de processtap **[Akkoord geven](#akkoord-geven)**.
 
 ## Toevoegen goedkeurder
 
@@ -24,11 +24,11 @@ Wanneer u het document door iemand anders dan de al aanwezige goedkeurders goed 
 4. De toegevoegde fiatteur staat als laatste vermeld. Selecteer deze regel, klik op de naam van het feitenblok **Fiatteurs** en klik op **Omhoog** om de toegevoegde fiatteur één plaats omhoog te verplaatsten. Herhaal deze stap tot de toegevoegde fiatteur op de juiste plaats staat.
 >**LET OP**: De laatste fiatteur moet altijd voldoende procuratie hebben om het document goed te keuren. Wanneer u een fiatteur toevoegt die onvoldoende procuratie heeft kan deze dus niet als laatste fiatteur toegevoegd worden.
 5. Heeft u de toegevoegde fiatteur een positie gegeven vóór uw eigen positie, dan dient het document eerst door de toegevoegde persoon goedgekeurd te worden. De goedkeuringspost zal uit uw scherm verdwijnen en terugkeren wanneer de toegevoegde fiatteur het document goedgekeurd heeft.
-6. Heeft u de toegevoegde fiatteur een positie gegeven ná uw eigen positie, ga dan verder naar de stap **[Akkoord geven](#geven-akkoord)**.
+6. Heeft u de toegevoegde fiatteur een positie gegeven ná uw eigen positie, ga dan verder naar de stap **[Akkoord geven](#akkoord-geven)**.
 
 ## Delegeren goedkeuring
 
-Wanneer  u het document door iemand wil laten goedkeuren namens u, dan kunt u de goedkeuringsaanvraag delegeren.
+Als u het document door iemand wilt laten goedkeuren namens u, kunt u de goedkeuringsaanvraag delegeren.
 
 > - Een goedkeuringsaanvraag kan alleen gedelegeerd worden naar een gebruiker met gelijke of hogere procuratie.
 > - Een goedkeuringsaanvraag kan maar één keer gedelegeerd worden. Is het document al een keer gedelegeerd en wordt opnieuw geprobeerd het document te delegeren, dan zal een foutmelding getoond worden. 

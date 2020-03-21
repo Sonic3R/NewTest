@@ -1,6 +1,6 @@
 # Accorderen prestatie
 
-In dit werkproces wordt geaccordeerd dat de leverancier prestaties met betrekking tot een inkooporder heeft geleverd.Het gaat in dit werkproces om overige inkopen en dus niet om inkopen gerelateerd aan onderhoud, projecten, vastgoed en artikelen die op voorraad worden gehouden.
+In dit werkproces wordt geaccordeerd dat de leverancier prestaties met betrekking tot een inkooporder heeft geleverd. Het gaat in dit werkproces om overige inkopen en dus niet om inkopen gerelateerd aan onderhoud, projecten, vastgoed en artikelen die op voorraad worden gehouden.
 
 Wanneer de leverancier de prestatie voor de inkooporder geleverd heeft, dient dit geaccordeerd te worden. Dit doet u door middel van het boeken van ontvangsten.
 

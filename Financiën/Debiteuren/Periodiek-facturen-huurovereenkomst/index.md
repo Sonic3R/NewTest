@@ -53,48 +53,47 @@ Nadat u in de voorgaande stap aangegeven heeft welke periode gefactureerd dient 
 
 1. Klik op de pagina **Prol.-run kaart** op actie/functie **Uitvoeren/boeken**. De facturen worden gegenereerd, maar nog niet geboekt.
 2. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond.
-    * Als de status op de prolongatiekaart gelijk is aan Prol gereed zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**.
-    * Als de status op de prolongatiekaart *niet* gelijk is aan 'Prol gereed, dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)**.
+    * Als de status op de prolongatiekaart gelijk is aan 'Prol gereed', dan zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**.
+    * Als de status op de prolongatiekaart *niet* gelijk is aan 'Prol gereed', dan zijn er één of meerdere facturen die niet juist aangemaakt zijn. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)**.
 
 ## Controleren en oplossen fouten bij facturatie
 
 Wanneer er tijdens het genereren van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren.
 
-1. i op de pagina **Prol.-run kaart**  **Alle fouten**. De pagina **Fouten bij prolongatin** opent.
+1. Klik op de pagina **Prol.-run kaart** op **Alle fouten**. De pagina **Fouten bij prolongatie** opent.
 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. U dient deze fouten op te lossen.
-3. Wanneer dit is gebeurd klikt u op de pagina **Prol.-runkaart** opnieuw o **Uitvoeren/oeken**. De facturen die fouten veroorzaakten worden opnieuw gegenereerd.
-4. Nadat de facturen gegenereerd zijn wordt op zowel veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond.
-    * Als de status op de prolongatiekaart gelijk is aan Prol gereed zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**.
-    * Als de status op de prolongatiekaart *niet** gelijk is aan Prol gereed zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)** uit.
+3. Wanneer dit is gebeurd klikt u op de pagina **Prol.-runkaart** opnieuw op **Uitvoeren/boeken**. De facturen die fouten veroorzaakten worden opnieuw gegenereerd.
+4. Nadat de facturen gegenereerd zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond.
+    * Als de status op de prolongatiekaart gelijk is aan 'Prol gereed' zijn alle facturen zonder problemen aangemaakt. U kunt verder naar processtap **[Boeken facturen](#boeken-facturen)**.
+    * Als de status op de prolongatiekaart *niet* gelijk is aan 'Prol gereed' zijn er één of meerdere facturen die niet juist aangemaakt zijn. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij facturatie](#controleren-en-oplossen-fouten-bij-facturatie)** uit.
 
 ## Boeken facturen
 
 Wanneer er tijdens het genereren van de facturen geen fouten zijn ontstaan kunt u de gegenereerde facturen boeken.  
 
-1. Ki op de pagina **Prol.-runkaart** voor de actie **Uitvoeren / Boeken**. De facturen worden geboekt.
-2. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (olom **Boekingsstatus** in de prolongatieregels) de status getoond.
-    * Als de status op de prolongatiekaart gelijk is aan Boeken gereed zijn alle facturen zonder problemen geboekt.
-    * Als die u geboekt heeft voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**.* Als de prolongatie die u geboekt heeft voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
-    * Als de status op de prolongatiekaart *niet* gelijk is aan Boeken gereed zijn er één of meerdere facturen die niet zijn geboekt. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)**.
+1. Kies op de pagina **Prol.-runkaart** voor de actie **Uitvoeren / Boeken**. De facturen worden geboekt.
+2. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond.
+    * Als de status op de prolongatiekaart gelijk is aan 'Boeken gereed' zijn alle facturen zonder problemen geboekt.
+    * Als de prolongatie die u geboekt heeft voor de *voorgaande periode* was, ga dan verder met processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. Als de prolongatie die u geboekt heeft voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
+    * Als de status op de prolongatiekaart *niet* gelijk is aan 'Boeken gereed' zijn er één of meerdere facturen die niet zijn geboekt. Ga in dit geval verder naar processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)**.
 
 ## Controleren en oplossen fouten bij boeken
 
 Wanneer er tijdens het boeken van de facturen fouten zijn ontstaan dient u deze te controleren en te corrigeren.
 
-1. Ki op de pagina **Prol.-run kaart** vo **Alle fouten**. De pagina **Fouten bij prolongatierun** opent.
+1. Kies op de pagina **Prol.-run kaart** voor **Alle fouten**. De pagina **Fouten bij prolongatierun** opent.
 2. In dit scherm ziet u de foutmelding en bij elke eenheid en contractregel of klant het probleem dat zich voordoet. U dient deze fouten op te lossen.
-3. Wanneer dit is gebeurd kit u op de pagina **Prol.-run kaart** opnieuw voor de actie **Uitvoeren/boeken**. Er wordt  geprobeerd om de facturen die fouten veroorzaakten te boeken.
-4. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond
-    * Als de status op de prolongatiekaart gelijk is aan Boeken gereed zijn alle facturen zonder problemen geboekt.
-    * Als de prolongatie die u geboekt heeft voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**.
-    * Als die u geboekt heeft voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
-	* Als de status op de prolongatiekaart *niet* gelijk is aan 'Boeken gereed zijn er één of meerdere facturen die niet zijn geboekt. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)** uit.
+3. Wanneer dit is gebeurd kiest u op de pagina **Prol.-run kaart** opnieuw voor de actie **Uitvoeren/boeken**. Er wordt geprobeerd om de facturen die fouten veroorzaakten te boeken.
+4. Nadat de facturen geboekt zijn wordt op zowel de prolongatiekaart (veld **Status**) als op de individuele facturen (kolom **Boekingsstatus** in de prolongatieregels) de status getoond.
+    * Als de status op de prolongatiekaart gelijk is aan 'Boeken gereed' zijn alle facturen zonder problemen geboekt.
+    * Als de prolongatie die u geboekt heeft voor de *voorgaande periode* was, ga dan verder bij de processtap **[Instellen te factureren contracten komende periode](#instellen-te-factureren-contracten-komende-periode)**. Als de prolongatie die u geboekt heeft voor de *komende periode* was, ga dan verder bij processtap **[Verzenden facturen](#verzenden-facturen)**.
+	* Als de status op de prolongatiekaart *niet* gelijk is aan 'Boeken gereed' zijn er één of meerdere facturen die niet zijn geboekt. Voer in dit geval opnieuw de processtap **[Controleren en oplossen fouten bij boeken](#controleren-en-oplossen-fouten-bij-boeken)** uit.
 
 ## Instellen te factureren contracten komende periode
 
-Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u voor de komende periode instellen.
+Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u de prolongatierun voor de komende periode instellen.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de liongnoin.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de  lijst **Prolongatierunoverzicht**.
 2. De gelijknamige pagina opent. Klik op **Nieuw**.
 3. De pagina **Prol.-run kaart** opent. Vul op deze pagina de volgende velden:
 	* **Prol. periodenaam:** De te factureren maand. De velden **Boekingsdatum** en **Documentdatum** worden automatisch gevuld.
@@ -108,5 +107,5 @@ Wanneer u de facturen voor de voorgaande periode verwerkt hebt kunt u voor de ko
 
 Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van toepassing de facturen en digitale betaalverzoeken versturen.
 
-1. Ki op de pagina **Prol.-run kaart** voor de act **Postex**. De pagina **Prolongatiefactuur PROL+** opent.
+1. Kies op de pagina **Prol.-run kaart** voor de actie **Postex**. De pagina **Prolongatiefactuur PROL+** opent.
 2. Klik op **OK**. Voor de klanten waarvoor u heeft ingesteld dat zij een factuur of betaalverzoek moeten krijgen, wordt via Postex het betaalverzoek of de factuur verstuurd.

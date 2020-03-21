@@ -6,7 +6,7 @@ In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te beta
 
 Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand.
 
-1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
 2. Kies voor **Voorstelposten ophalen**.
 3. De pagina **Voorstelposten ophalen** opent. Vul hier de volgende velden met de aangegeven waarden:
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
@@ -20,7 +20,7 @@ Als u een betaalbestand voor leveranciersposten aan wilt maken dient u aan te ge
 
 Als u een betaalbestand voor klantposten aan wilt maken dient u aan te geven welke posten meegenomen moeten worden in het betaalbestand.
 
-1. Navigeer via het zoekveld ![zoeken icon](https://docs.meerstedewonen.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Telebankieren - bankoverzicht**.
 2. Klik op **Voorstelposten ophalen**, waarna de gelijknamige pagina opent.
 3. Vul de onderstaande velden op het scherm (als bepaalde velden niet zichtbaar zijn kunt u die toevoegen via de optie **+ Filteren...**):
 	* **Transactiedatum:** Datum waarop de betaling moet plaatsvinden.
@@ -45,7 +45,7 @@ Als er bij de vorige stap foutmeldingen of waarschuwingen zijn ontstaan bij het 
 
 Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het betaalvoorstel omzetten naar een betaalrun.
 
-1. Klik op de pagina **Telebankieren - bankoverzicht** op  **Voorstel**, waarna de pagina **voorstel** opent.
+1. Klik op de pagina **Telebankieren - bankoverzicht** op  **Voorstel**, waarna de gelijknamige pagina opent.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat.
 
 ## Controleren betaalrun

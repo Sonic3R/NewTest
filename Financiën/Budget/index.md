@@ -4,4 +4,4 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren budgetten](beheren-budgetten/) | Omschrijving van het werkproces
+[Beheren budgetten](beheren-budgetten/) | 

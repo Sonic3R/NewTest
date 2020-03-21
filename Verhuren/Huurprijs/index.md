@@ -7,6 +7,6 @@ Werkproces | Omschrijving
 [Voorbereiden jaarlijkse huurverhoging](voorbereiden-jaarlijkse-huurverhoging/) | Het voorbereiden van de jaarlijkse huurverhoging op basis van publicaties van de rijksoverheid.
 [Bepalen huurverhogingsbeleid](bepalen-huurverhogingsbeleid/) | Het beleid ten aanzien van de jaarlijkse huurverhoging vastleggen.
 [Uitvoeren jaarlijkse huurprijsaanpassing](uitvoeren-jaarlijkse-huurprijsaanpassing/) | De effecten van het huurverhogingsbeleid doorrekenen.
-[Rappeleren klant](rappeleren-klant/) | Omschrijving van het werkproces
-[Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/) | Omschrijving van het werkproces
-[Uitvoeren tussentijdse huurprijsaanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/) | Omschrijving van het werkproces.
+[Rappeleren klant](rappeleren-klant/) | 
+[Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/) | 
+[Uitvoeren tussentijdse huurprijsaanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/) | 

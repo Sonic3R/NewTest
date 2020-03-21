@@ -4,4 +4,4 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Aangeven BTW](aangeven-btw/) | Omschrijving van het werkproces
+[Aangeven BTW](aangeven-btw/) | 

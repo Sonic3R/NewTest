@@ -8,4 +8,4 @@ Werkproces | Omschrijving
 [Aanleveren incassobestand](aanleveren-incassobestand/) | Een incasso bestand genereren op basis van de te incasseren posten.
 [Verwerken bankmutaties](verwerken-bankmutaties/) | De bankmutaties verwerken.
 [Verwerken pintransacties](verwerken-pintransacties/) | De pintransacties verwerken.
-[Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/) | Omschrijving van het werkproces
+[Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/) | 

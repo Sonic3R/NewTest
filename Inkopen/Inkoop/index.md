@@ -4,9 +4,9 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Registreren inkooporder](registreren-inkooporder/) | Omschrijving van het werkproces
-[Accorderen prestatie](accorderen-prestatie/) | Omschrijving van het werkproces
-[Accorderen prestatie](accorderen-prestatie/ | Omschrijving van het werkproces
+[Registreren inkooporder](registreren-inkooporder/) | 
+[Accorderen prestatie](accorderen-prestatie/) | 
+[Accorderen prestatie](accorderen-prestatie/ | 
 [Goedkeuren documenten](goedkeuren-documenten/) | Verzoeken ter goedkeuring beoordelen en de beslissing vastleggen.
-[Beheren leveranciersinformatie](beheren-leveranciersinformatie/) | Omschrijving van het werkproces
-[Beheren onderhoudscontracten](beheren-onderhoudscontracten/) | Omschrijving van het werkproces
+[Beheren leveranciersinformatie](beheren-leveranciersinformatie/) | 
+[Beheren onderhoudscontracten](beheren-onderhoudscontracten/) | 

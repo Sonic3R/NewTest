@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 [Aanmanen debiteuren](aanmanen-debiteuren/) | Betalingsachterstanden signaleren en de debiteur op basis van de segmentatie en de duur van de achterstand manen om de achterstand te betalen.
 [Afsluiten betalingsregeling](afsluiten-betalingsregeling/) | De aanvraag van een betalingsregeling oordelen en indien mogelijk een betalingsregeling aanmaken.
 [Beëndigen betalingsregeling](beendigen-betalingsregeling/) | Betalingsregeling(en) beëindigen.
-[Uit handen geven vorderingen](uit-handen-geven-vorderingen/) | Omschrijving van het werkproces
-[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/) | Omschrijving van het werkproces
-[Afboeken vorderingen](afboeken-vorderingen/) | Omschrijving van het werkproces
-[Terugboeken vorderingen](terugboeken-vorderingen/) | Omschrijving van het werkproces
+[Uit handen geven vorderingen](uit-handen-geven-vorderingen/) | 
+[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/) | 
+[Afboeken vorderingen](afboeken-vorderingen/) | 
+[Terugboeken vorderingen](terugboeken-vorderingen/) | 

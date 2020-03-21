@@ -4,6 +4,6 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Initiëren ontwikkelproject](initieren-ontwikkelproject/) | Omschrijving van het werkproces
-[Uitvoeren ontwikkelproject](uitvoeren-ontwikkelproject/) | Omschrijving van het werkproces
-[In exploitatie nemen eenheden](in-exploitatie-nemen-eenheden/) | Omschrijving van het werkproces
+[Initiëren ontwikkelproject](initieren-ontwikkelproject/) | 
+[Uitvoeren ontwikkelproject](uitvoeren-ontwikkelproject/) | 
+[In exploitatie nemen eenheden](in-exploitatie-nemen-eenheden/) | 

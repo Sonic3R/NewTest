@@ -4,5 +4,5 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren vaste activa](beheren-vaste-activa/) | Omschrijving van het werkproces
-[Buiten gebruik stellen activum](buiten-gebruik-stellen-activum/) | Omschrijving van het werkproces
+[Beheren vaste activa](beheren-vaste-activa/) | 
+[Buiten gebruik stellen activum](buiten-gebruik-stellen-activum/) | 

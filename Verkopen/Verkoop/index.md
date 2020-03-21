@@ -4,10 +4,10 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Bepalen verkoopvorm](bepalen-verkoopvorm/) | Omschrijving van het werkproces
-[Bepalen vraagprijs](bepalen-vraagprijs/) | Omschrijving van het werkproces
-[Aanbieden eenheid](aanbieden-eenheid/) | Omschrijving van het werkproces
-[Begeleiden bezichtigingen](begeleiden-bezichtigingen/) | Omschrijving van het werkproces
-[Onderhandelen verkoopprijs](onderhandelen-verkoopprijs/) | Omschrijving van het werkproces
-[Notarieel afhandelen verkoop](notarieel-afhandelen-verkoop/) | Omschrijving van het werkproces
-[Terugkopen eenheid](terugkopen-eenheid/) | Omschrijving van het werkproces {.wp-table}
+[Bepalen verkoopvorm](bepalen-verkoopvorm/) | 
+[Bepalen vraagprijs](bepalen-vraagprijs/) | 
+[Aanbieden eenheid](aanbieden-eenheid/) | 
+[Begeleiden bezichtigingen](begeleiden-bezichtigingen/) | 
+[Onderhandelen verkoopprijs](onderhandelen-verkoopprijs/) | 
+[Notarieel afhandelen verkoop](notarieel-afhandelen-verkoop/) | 
+[Terugkopen eenheid](terugkopen-eenheid/) | 

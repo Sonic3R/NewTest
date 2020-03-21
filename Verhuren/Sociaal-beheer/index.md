@@ -4,4 +4,4 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Afhandelen overlast](afhandelen-overlast/) | Omschrijving van het werkproces {.wp-table}
+[Afhandelen overlast](afhandelen-overlast/) | 

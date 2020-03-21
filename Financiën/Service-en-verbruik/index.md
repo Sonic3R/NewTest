@@ -4,6 +4,6 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Vaststellen kosten en opbrengsten](vaststellen-kosten-en-opbrengsten/) | Omschrijving van het werkproces
-[Bepalen nieuwe voorschotten](bepalen-nieuwe-voorschotten/) | Omschrijving van het werkproces
-[Genereren afrekenresultaat](genereren-afrekenresultaat/) | Omschrijving van het werkproces
+[Vaststellen kosten en opbrengsten](vaststellen-kosten-en-opbrengsten/) | 
+[Bepalen nieuwe voorschotten](bepalen-nieuwe-voorschotten/) | 
+[Genereren afrekenresultaat](genereren-afrekenresultaat/) | 

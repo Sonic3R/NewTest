@@ -4,7 +4,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren financiering](beheren-financiering/) | Omschrijving van het werkproces
-[Generen overzicht gerealiseerde kasstromen](generen-overzicht-gerealiseerde-kasstromen/) | Omschrijving van het werkproces
-[Prognosticeren kasstromen](prognosticeren-kasstromen/) | Omschrijving van het werkproces
-[Prolongeren financiering](prolongeren-financiering/) | Omschrijving van het werkproces
+[Beheren financiering](beheren-financiering/) | 
+[Generen overzicht gerealiseerde kasstromen](generen-overzicht-gerealiseerde-kasstromen/) | 
+[Prognosticeren kasstromen](prognosticeren-kasstromen/) | 
+[Prolongeren financiering](prolongeren-financiering/) | 

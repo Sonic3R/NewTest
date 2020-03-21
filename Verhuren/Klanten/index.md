@@ -4,7 +4,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren klantinformatie](beheren-klantinformatie/) | Omschrijving van het werkproces
-[Afhandelen contactmoment](afhandelen-contactmoment/) | Omschrijving van het werkproces
-[Afhandelen klacht](afhandelen-klacht/ | Omschrijving van het werkproces
-[Meten klanttevredenheid](meten-klanttevredenheid/) | Omschrijving van het werkproces
+[Beheren klantinformatie](beheren-klantinformatie/) | 
+[Afhandelen contactmoment](afhandelen-contactmoment/) | 
+[Afhandelen klacht](afhandelen-klacht/ | 
+[Meten klanttevredenheid](meten-klanttevredenheid/) | 

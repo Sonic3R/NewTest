@@ -1,6 +1,6 @@
 # Aanleveren incassobestand
 
-In dit eproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
+In dit detailproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
 ## Ophalen voorstel klantposten
 
@@ -12,11 +12,11 @@ Als u een incassobestand voor klantposten aan wilt maken, dient u aan te geven w
 	* **Transactiedatum:** Datum waarop de incasso moet plaatsvinden.
 	* **Valutadatum:** Posten met een vervaldatum op of voor deze datum worden meegenomen in het betaalvoorstel. Bij een incasso op de eerste van de maand vult u hier bijvoorbeeld 01-03-2020 in.
 	* **Onze bank:** Bank vanaf waar de incasso uitgevoerd wordt.
-	* **Rekeningsoort:** 'Klant'
+	* **Rekeningsoort:** 'Klant'.
 	* **Code:** Selecteer de transactiewijze voor automatische incasso voor klantposten.
 	* **Onder het kopje Klantenpost** (als bepaalde velden niet zichtbaar zijn kunt u die toevoegen via de optie **+ Filteren...**):
 		* **Broncode:** Vul de broncode in. Voor prolongatieposten is dit 'PROLON', voor service- en verbruiksposten is dit 'SENV'.
-		* **Documenttype:** 'Factuur'
+		* **Documenttype:** 'Factuur'.
 		* **Boekingsdatum:** Wanneer u posten vanuit de prolongatie wilt incasseren vult u hier de boekingsdatum van de prolongatie in.
 4. Klik op **OK**. Het voorstel wordt aangemaakt en er zal een popup verschijnen met het resultaat.
 
@@ -56,8 +56,8 @@ Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat de betaa
 1. Selecteer in de lijst **Betaalrunlijst** (zie **[Controleren betaalrun](#controleren-betaalrun)**) de betaalrun waaruit u regels wilt annuleren en klik op **Bewerken**.
 2. Klik op **Status wijzigen**. Het scherm **Betaalrun - status wijzigen** opent. Vul hier de volgende velden:
     * **Nieuwe status:** 'Geannuleerd'.
-    * **Onze bank:** (Laat ongewijzigd.)
-    * **Runnummer:** (Laat ongewijzigd.)
+    * **Onze bank:** (laat ongewijzigd)
+    * **Runnummer:** (laat ongewijzigd)
 3. Klik op **OK**. De status van de betaalrunregels wordt aangepast naar **Geannuleerd**.  
 
 ## Exporteren betaalrun

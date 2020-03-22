@@ -2,9 +2,9 @@
 
 In dit werkproces wordt het overzicht van de te verwachte kasstromen gegenereerd en geanalyseerd.
 
-## Genereren kasstroom prognoseposten
+## Genereren kasstroomprognoseposten
 
-De eerste stap is het genereren van de kasstroom prognoseposten, zodat deze in een latere stap gebruikt kunnen worden in rapportages.
+De eerste stap is het genereren van de kasstroomprognoseposten, zodat deze in een latere stap gebruikt kunnen worden in rapportages.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de pagina **Cashflowprognoses**.
 2. Klik op **Nieuw**, een nieuwe **cashflowprognosekaart** wordt geopend. Vul de volgende velden:

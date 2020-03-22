@@ -9,7 +9,7 @@ Wanneer u de rekening-courant van een klant af wilt drukken kan dit vanaf pagina
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon")  naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u de rekening-courant wilt afdrukken.
-3. Open de klantkaart door op het nummer te kln en is o **Posten**. De pagina **Klantenposten** opent.
+3. Open de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantenposten** opent.
 4. Kies voor **Afdrukken**. De pagina **Rekening-courant cumulatief** opent. Klik op **Verzenden naar** en kies voor 'PDF' om de rekening-courant van de klant af te drukken.
 5. Het rekening-courantoverzicht wordt geopend als PDF.
 
@@ -45,7 +45,7 @@ Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt u dit doen 
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Zoek de klant op waarvoor u een individuele post uit wilt sluiten van aanmaningen.
-3. e de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantposten** opent.
+3. Open de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantposten** opent.
 4. Vul bij de post die u wilt uitsluiten van aanmaningen in het veld **Afwachten** de afwachtcode in die van toepassing is.
 
 ## Uitsluiten debiteur van aanmaningen

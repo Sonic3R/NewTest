@@ -1,4 +1,4 @@
-# Uit handen geven vordering
+# Uit handen geven vorderingen
 
 In dit werkproces worden vorderingen op klanten uit handen gegeven aan een deurwaarder en wordt de voortgang van het dossier bijgehouden.
 

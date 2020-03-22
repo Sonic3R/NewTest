@@ -6,24 +6,24 @@ In dit werkproces wordt de aanvraag van een betalingsregeling beoordeeld en indi
 
 U kunt de standaard betalingsregelingen aanmaken door het vullen van een betalingsregelingsjabloon. Betalingsregelingen met afwijkende termijnen of die niet binnen de voorwaarden van een sjabloon passen kunnen handmatig aangemaakt worden (zie **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)**).
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling maken**. De pagina **Betalingsregelingwizard** opent. Vul de volgende velden:
 	- **Sjablooncode**
 	- **Mandaatcode**: Dit is de mandaatcode voor automatische incasso. Heeft de klant nog geen mandaatcode, voer dan eerst de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)** uit.
 	- **Totaalbedrag Regeling**:
-		- Klik op de drie puntjes. et scherm **Betalingsregelingwizard** opent.
+		- Klik op de drie puntjes. Het scherm **Betalingsregelingwizard** opent.
 		- Selecteer de posten die u op wilt nemen in de betalingsregeling.
 		- Klik op **OK**.
-	- **Aantal termijn**: Geef het aantal termijnen voor de betalingsregeling op (het termijnbedrag wordt automatisch berekend).
+	- **Aantal termijn**: Geef het aantal termijnen voor de betalingsregeling op (het termijnbedrag wordt automatisch berekend)
 	**OF**
     - **Termijnbedrag**: Geef het bedrag per termijn op (het aantal termijnen wordt automatisch berekend.
-3. Klik op op **Termijnen aanmaken**. Er wordt een betalingsregeling aangemaakt. De betalingsregeling kan worden gecontroleerd (**[Controleren betalingsregeling](#controleren-betalingsregeling)**) en geactiveerd (**[Activeren betalingsregeling](#activeren-betalingsregeling)**). U keert terug naar de pagina **Klanten**.
+3. Klik op **Termijnen aanmaken**. Er wordt een betalingsregeling aangemaakt. De betalingsregeling kan worden gecontroleerd (**[Controleren betalingsregeling](#controleren-betalingsregeling)**) en geactiveerd (**[Activeren betalingsregeling](#activeren-betalingsregeling)**). U keert terug naar de pagina **Klanten**.
 
 ## Aanmaken betalingsregeling zonder sjabloon
 
 Wanneer u een betalingsregeling met afwijkende termijnen aan wilt maken, of wanneer u een betalingsregeling die niet binnen de sjabloonwaarde past aan wilt maken, kunt u dit zonder een sjabloon doen.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") de lijst **Klanten**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
 2. Selecteer de klant waarvoor u een betalingsregeling aan wilt maken en klik op **Betalingsregeling** (*Meer opties - Acties - Nieuw document*). De gelijknamige pagina opent. Wanneer u op **Enter** drukt krijgt de betalingsregeling een nummer.
 3. Selecteer in het veld **Code transactiewijze** op tabblad **Facturering** de transactiewijze waarmee de betalingsregeling betaald moet worden.
 4. Wanneer de betalingsregeling automatisch geïncasseerd dient te worden, vul dan het veld **Mandaatcode** met de juiste code. Heeft de klant nog geen mandaatcode, maak deze dan aan via de processtap **[Aanmaken nieuwe mandaatcode](#aanmaken-nieuwe-mandaatcode)**.
@@ -48,7 +48,7 @@ Wanneer u een betalingsregeling af wilt sluiten en u wilt de betalingsregelingst
 2. Druk op **Enter**. Er wordt een nummer gevuld in het veld **Code**.
 3. Vul de volgende velden:
 	- **Reden incasso**
-	- **Doorlopend**: 'an'
+	- **Doorlopend**: 'Aan'.
 	- **Datum tekening**: Wordt automatisch gevuld met de datum van vandaag.
 	- **Onze bankrekening**: Vul de bankrekening in vanaf waar geïncasseerd wordt.
 4. Klik op **OK**. Het mandaat wordt aangepast en wordt gevuld in het veld vanaf waar het nieuwe mandaat is aangemaakt.
@@ -62,7 +62,7 @@ Betalingsregelingen kunnen op verschillende wijzen aangemaakt zijn: via het Klan
 3. Klik op een regel om de desbetreffende betalingsregeling te openen.
 4. Controleer of de betalingsregeling correct is en geactiveerd kan worden.
 5. Wilt u de betalingsregeling aanpassen, kijk dan in de processtap **[Aanmaken betalingsregeling zonder sjabloon](#aanmaken-betalingsregeling-zonder-sjabloon)** hoe u de gegevens aan kunt passen.
-6. Wilt u de betalingsregeling verwijderen, informeer de klant hier dan over en klik op **Verwijderen**. De betalingsregeling wordt verwijderd. U keert terug naar de pagina etalingsregelingoverzicht**.
+6. Wilt u de betalingsregeling verwijderen, informeer de klant hier dan over en klik op **Verwijderen**. De betalingsregeling wordt verwijderd. U keert terug naar de pagina **Betalingsregelingoverzicht**.
 7. Is de betalingsregeling akkoord, dan kunt u verder gaan naar de stap **[Activeren betalingsregeling](#activeren-betalingsregeling)**.
 
 ## Activeren betalingsregeling

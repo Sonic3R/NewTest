@@ -37,7 +37,7 @@ Nadat u het kasdagboek aangemaakt heeft kunt u op de regels de pintransacties to
 
 Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt u de transactie boeken en het betaalbewijs afdrukken.
 
-1. Klik op **Boeken**. U krijgt de vraag of u het dagboek wilt boeken. D beantwoordt u met **Ja**.
-2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst af wilt afdrukken. Zijn er geen fouten, dan krijgt u de melding dat het boeken gelukt is.
+1. Klik op **Boeken**. U krijgt de vraag of u het dagboek wilt boeken. Dit beantwoordt u met **Ja**.
+2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst wilt afdrukken. Zijn er geen fouten, dan krijgt u de melding dat het boeken gelukt is.
 3. De pagina **Verzamelkwitantie** opent. Klik op **Afdrukken**. Afhankelijk van uw instellingen wordt het betaalbewijs direct afgedrukt of dient u eerst de printer te selecteren waarmee u het betaalbewijs wilt afdrukken.
 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken.

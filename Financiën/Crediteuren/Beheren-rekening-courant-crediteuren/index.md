@@ -28,7 +28,7 @@ Wanneer u de vereffening van leveranciersposten ongedaan wilt maken kunt u dit d
 2. Zoek de leverancier op waarvoor u de vereffening ongedaan wilt maken.
 3. Open de kaart en ga naar **Posten**. De pagina **Leveranciersposten** opent.
 4. Selecteer één van de posten waarvoor u de vereffening ongedaan wilt maken.
-5. Klik op **Vereffening posten ongedaan maken**. De pagina**Vereffening leveranciersposten ongedaan maken** opent.
+5. Klik op **Vereffening posten ongedaan maken**. De pagina **Vereffening leveranciersposten ongedaan maken** opent.
 6. Selecteer de regel(s) waarvoor u de vereffening ongedaan wilt maken en klik op **Vereffening ongedaan maken**. Er verschijnt een pop-up met de vraag of u door wilt gaan. Klik op **Ja**; de vereffening wordt nogmaals bevestigd. U keert terug naar de pagina **Leveranciersposten**.
 
 ## Instellen individuele afwachtcode

@@ -20,7 +20,7 @@ Nadat u bepaald heeft welke kosten overgeboekt dienen te worden kunt u deze kost
 	- **Boekingsdatum**
 	- **Bedrag**: De regels in het standaarddagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plakken en de Excel-regels terug te plakken in het dagboek.
 4. Verwijder de regels met een 0-bedrag uit het dagboek.
-5. Voordat u het memoriaal kunt boeken dient deze goedgekeurd te worden. Klik op **Goedkeuringsaanvraag verzenden** en dan op **Dagboekbatch** om het memoriaal goed te laten keuren. Het goedkeuren vind plaats binnen het proces GOEDKEUREN DOCUMENTEN.
+5. Voordat u het memoriaal kunt boeken dient deze goedgekeurd te worden. Klik op **Goedkeuringsaanvraag verzenden** en dan op **Dagboekbatch** om het memoriaal goed te laten keuren. Het goedkeuren vind plaats binnen het proces **[Goedkeuren documenten](../inkopen/inkoop/goedkeuren-documenten/)**.
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**.
 
 ## Raadplegen rapportageschema indirecte toewijzing
@@ -62,7 +62,7 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden, 
 	- **Boekingsdatum**
 	- **Bedrag**: De regels in het standaarddagboek hebben dezelfde volgorde als de regels die u in de voorgaande stap geëxporteerd hebt naar Excel. Neem de bedragen uit het rapportageschema over in de regels van het dagboek. U kunt dit één voor één doen of door het memoriaal naar Excel te exporteren, de bedragen in de juiste kolom te plakken en de Excel-regels terug te plakken in het dagboek.
 4. Verwijder de regels met een 0-bedrag uit het dagboek.
-5. Voordat u het memoriaal kunt boeken dient deze goedgekeurd te worden. Klik op **Goedkeuringsaanvraag verzenden** en dan op **Dagboekbatch** om het memoriaal goed te laten keuren. Het goedkeuren vind plaats binnen het proces GOEDKEUREN DOCUMENTEN.
+5. Voordat u het memoriaal kunt boeken dient deze goedgekeurd te worden. Klik op **Goedkeuringsaanvraag verzenden** en dan op **Dagboekbatch** om het memoriaal goed te laten keuren. Het goedkeuren vind plaats binnen het proces **[Goedkeuren documenten](../inkopen/inkoop/goedkeuren-documenten/)**.
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**.
 
 ## Zie ook

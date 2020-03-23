@@ -137,7 +137,7 @@ Wanneer de factuurregels aangemaakt zijn kan het document gematcht en geboekt wo
 
 ## Goedkeuren document
 
-Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces GOEDKEUREN DOCUMENTEN.
+Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces **[Goedkeuren documenten](../inkopen/inkoop/goedkeuren-documenten/)**.
 
 ## Behandelen geweigerde documenten
 

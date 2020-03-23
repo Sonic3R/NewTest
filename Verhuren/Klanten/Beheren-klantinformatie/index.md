@@ -4,7 +4,7 @@ In dit werkproces wordt informatie over bestaande klanten beheerd, zoals het aan
 
 Bepaalde informatie kan niet rechtstreeks bij de klant worden aangepast. In plaats daarvan moet de informatie worden aangepast bij het gerelateerde huishouden, waarna de aangepaste informatie automatisch beschikbaar is bij de betreffende klant.
 
-Het aanmaken van nieuwe klanten valt buiten dit proces, aangezien klanten worden aangemaakt door de stap **Effectueren huurovereenkomst** binnen het werkproces ONDERTEKENEN HUUROVEREENKOMST.
+Het aanmaken van nieuwe klanten valt buiten dit proces, aangezien klanten worden aangemaakt door de stap **Effectueren huurovereenkomst** binnen het werkproces **[Ondertekenen huurovereenkomst](../verhuur/ondertekenen-huurovereenkomst/)**.
 
 ## Aanpassen contactpersonen
 

@@ -71,7 +71,7 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Deurwaarderdossiers**.
 2. Selecteer het dossier dat u af wilt sluiten en open het via de optie **Bewerken**.
 3. Vul in het veld **Reden afsluiting** de reden voor afsluiten. Het veld **Afgesloten** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier.
-4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
+4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces **[Afboeken vordering](../afboeken-vordering/)**.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
 
 ## Zie ook

@@ -19,7 +19,7 @@ Wanneer u een inkooporder aanmaakt dient u hiervoor de algemene gegevens met bet
     - **Aantal**
     - **Directe kostprijs Excl. btw**
     - **Afdelingscode**
-5. Kies voor de actie **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden en wordt opgepakt binnen het werkproces GOEDKEUREN DOCUMENTEN.
+5. Kies voor de actie **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden en wordt opgepakt binnen het werkproces **[Goedkeuren documenten](../goedkeuren-documenten/)**.
 6. Wanneer u zelf voldoende procuratie heeft wordt het document vrijgegeven en kunt u verder gaan met **[Gunnen order](#gunnen-order)**.
 
 ## Gunnen order

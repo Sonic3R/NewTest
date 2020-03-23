@@ -44,7 +44,7 @@ Nadat de niet-DAEB-posten in de TI overgeboekt zijn naar de rekening-courant die
 
 ## Boeken memoriaal
 
-Wanneer er boekingen t.b.v. DAEB/niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor BOEKEN MEMORIAAL.
+Wanneer er boekingen t.b.v. DAEB/niet-DAEB zijn die handmatig verwerkt dienen te worden kunt u dit doen via het reguliere proces voor **[Boeken memoriaal](../boeken-memoriaal/)**.
 
 ## Zie ook
 

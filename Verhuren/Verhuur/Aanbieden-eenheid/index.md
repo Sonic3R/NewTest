@@ -41,7 +41,7 @@ De medewerker selecteert op de **VerhuurApp** de kandidaat met het hoogste rangn
 
 De kandidaat die de eenheid en aanbieding heeft geaccepteerd, verstrekt alle benodigde huishoudgegevens aan de medewerker van de corporatie. De medewerker controleert aan de hand van deze huishoudgegevens of de toewijzing van de eenheid aan deze kandidaat passend is. Daarbij controleert hij of de toewijzing voldoet aan de wettelijke criteria die door de Rijksoverheid worden gesteld binnen de passendheidstoets en staatssteunregeling. De medewerker voert deze controle uit met behulp van een externe tool, bijvoorbeeld van Finance Ideas.
 
-Als blijkt dat de toewijzing passend is of niet getoetst hoeft te worden, dan accepteert u als corporatie de kandidaat. Als blijkt dat de toewijzing niet passend is, dan bepaalt u of de kandidaat desondanks toch wordt geaccepteerd. Het accepteren van niet-passende kandidaten is toegestaan, mits aan het eind van het kalenderjaar de wettelijke normen op dit gebied niet worden overschreden (zie proces VERANTWOORDEN VERHURING).  
+Als blijkt dat de toewijzing passend is of niet getoetst hoeft te worden, dan accepteert u als corporatie de kandidaat. Als blijkt dat de toewijzing niet passend is, dan bepaalt u of de kandidaat desondanks toch wordt geaccepteerd. Het accepteren van niet-passende kandidaten is toegestaan, mits aan het eind van het kalenderjaar de wettelijke normen op dit gebied niet worden overschreden (zie proces **[Verantwoorden verhuring](../verantwoorden-verhuring/)**).  
 
 ## Registreren en terugkoppelen weigering
 

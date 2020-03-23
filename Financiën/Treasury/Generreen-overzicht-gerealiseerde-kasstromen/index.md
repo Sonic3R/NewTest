@@ -35,7 +35,7 @@ Er zal ook altijd een deel van de posten zijn waarbij geen kasstroomcategorie ge
 	- Het veld **Tegenrekeningnummer** bevat een klant- of leveranciersnummer. Kopieer dit nummer en navigeer naar de tabel **Klanten** of **Leveranciers** afhankelijk van het type nummer.
 	- Zoek de desbetreffende klant of leverancier op en klik op **Posten** om het overzicht van klant- of leveranciersposten te openen.
 	- Zoek de kasstroom met de complexe vereffening o.b.v. de boekingsdatum op. Klik op **Vereffende posten** om te zien hoe de post vereffend is.
-	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen BEHEREN REKENING COURANT DEBITEUREN / BEHEREN REKENING COURANT CREDITEUREN uit om de posten op een andere manier te vereffenen.
+	- Voer de stappen m.b.t. vereffeningen ongedaan maken en vereffenen in de werkprocessen **[Beheren rekening courant drediteuren](../debiteuren/beheren-rekening-courant-drediteuren/)** / **[Beheren rekening courant crediteuren](../crediteuren/beheren-rekening-courant-crediteuren/)** uit om de posten op een andere manier te vereffenen.
 
 ## Zie ook
 

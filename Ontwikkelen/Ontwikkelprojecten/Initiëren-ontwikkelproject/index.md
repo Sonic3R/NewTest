@@ -1,5 +1,4 @@
----
-title: Initieren ontwikkelproject
----
-
 # Initieren ontwikkelproject
+
+## Zie ook
+

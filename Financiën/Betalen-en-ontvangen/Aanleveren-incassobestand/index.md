@@ -70,7 +70,7 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 
 ## Zie ook
 
-[Aanleveren betaalbestand](aanleveren-betaalbestand/)  
-[Verwerken bankmutaties](verwerken-bankmutaties/)  
-[Verwerken pintransacties](verwerken-pintransacties/)  
-[Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/)
+[Aanleveren betaalbestand](../aanleveren-betaalbestand/)  
+[Verwerken bankmutaties](../verwerken-bankmutaties/)  
+[Verwerken pintransacties](../verwerken-pintransacties/)  
+[Verwerken overige betaalverzoeken](../verwerken-overige-betaalverzoeken/)

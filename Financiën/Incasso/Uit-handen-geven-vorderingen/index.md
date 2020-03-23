@@ -76,10 +76,10 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 
 ## Zie ook
 
-[Segmenteren debiteuren](segmenteren-debiteuren/)  
-[Aanmanen debiteuren](aanmanen-debiteuren/)  
-[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
-[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
-[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
-[Afboeken vorderingen](afboeken-vorderingen/)  
-[Terugboeken vorderingen](terugboeken-vorderingen/)
+[Segmenteren debiteuren](../segmenteren-debiteuren/)  
+[Aanmanen debiteuren](../aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](../afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
+[Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](../afboeken-vorderingen/)  
+[Terugboeken vorderingen](../terugboeken-vorderingen/)

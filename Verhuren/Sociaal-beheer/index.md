@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Toewijzen](toewijzen/)  
-[Klanten](klanten/)  
-[Verhuur](uitvoeren-ontwikkelproject/)  
-[Huurprijs](uitvoeren-ontwikkelproject/)
+[Toewijzen](../toewijzen/)  
+[Klanten](../klanten/)  
+[Verhuur](../uitvoeren-ontwikkelproject/)  
+[Huurprijs](../uitvoeren-ontwikkelproject/)

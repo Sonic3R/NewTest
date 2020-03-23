@@ -2,4 +2,4 @@
 
 ## Zie ook
 
-[Buiten gebruik stellen activum](buiten-gebruik-stellen-activum/)
+[Buiten gebruik stellen activum](../buiten-gebruik-stellen-activum/)

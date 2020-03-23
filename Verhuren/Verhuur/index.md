@@ -16,7 +16,7 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Toewijzen](toewijzen/)  
-[Klanten](klanten/)  
-[Sociaal beheer](sociaal-beheer/)  
-[Huurprijs](huuprijs/)
+[Toewijzen](../toewijzen/)  
+[Klanten](../klanten/)  
+[Sociaal beheer](../sociaal-beheer/)  
+[Huurprijs](../huuprijs/)

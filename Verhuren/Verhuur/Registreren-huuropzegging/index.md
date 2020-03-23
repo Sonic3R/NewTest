@@ -55,11 +55,11 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 
 ## Zie ook
 
-[Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/)  
-[Opstellen eindafrekening](opstellen-eindafrekening/)  
-[Innemen eenheid](innemen-eenheid/)  
-[Bepalen aanbiedhuur](Bepalen-aanbiedhuur/)  
-[Aanbieden eenheid](aanbieden-eenheid/)  
-[Verantwoorden verhuring](verantwoorden-verhuring/)  
-[Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/)  
-[Opleveren eenheid](opleveren-eenheid/)
+[Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
+[Opstellen eindafrekening](../opstellen-eindafrekening/)  
+[Innemen eenheid](../innemen-eenheid/)  
+[Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
+[Aanbieden eenheid](../aanbieden-eenheid/)  
+[Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
+[Opleveren eenheid](../opleveren-eenheid/)

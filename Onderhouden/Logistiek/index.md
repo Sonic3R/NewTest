@@ -12,4 +12,4 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Onderhoud](onderhoud/)
+[Onderhoud](../onderhoud/)

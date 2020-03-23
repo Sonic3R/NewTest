@@ -112,9 +112,9 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 ## Zie ook
 
-[Factureren onderhoudsdiensten](factureren-onderhoudsdiensten/)  
-[Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/)  
-[Factureren overige diensten](factureren-overige-diensten/)  
-[Factureren afrekening](factureren-afrekening/)  
-[Crediteren overige diensten](crediteren-overige-diensten/)  
-[Beheren rekening courant debiteuren](beheren-rekening-courant-debiteuren/)
+[Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
+[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
+[Factureren overige diensten](../factureren-overige-diensten/)  
+[Factureren afrekening](../factureren-afrekening/)  
+[Crediteren overige diensten](../crediteren-overige-diensten/)  
+[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)

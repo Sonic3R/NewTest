@@ -36,11 +36,11 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 
 ## Zie ook
 
-[Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/)  
-[Registreren huuropzegging](registreren-huuropzegging/)  
-[Opstellen eindafrekening](opstellen-eindafrekening/)  
-[Innemen eenheid](innemen-eenheid/)  
-[Aanbieden eenheid](aanbieden-eenheid/)  
-[Verantwoorden verhuring](verantwoorden-verhuring/)  
-[Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/)  
-[Opleveren eenheid](opleveren-eenheid/)
+[Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
+[Registreren huuropzegging](../registreren-huuropzegging/)  
+[Opstellen eindafrekening](../opstellen-eindafrekening/)  
+[Innemen eenheid](../innemen-eenheid/)  
+[Aanbieden eenheid](../aanbieden-eenheid/)  
+[Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
+[Opleveren eenheid](../opleveren-eenheid/)

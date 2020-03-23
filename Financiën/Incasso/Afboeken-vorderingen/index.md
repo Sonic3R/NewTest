@@ -27,10 +27,10 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 ## Zie ook
 
-[Segmenteren debiteuren](segmenteren-debiteuren/)  
-[Aanmanen debiteuren](aanmanen-debiteuren/)  
-[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
-[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
-[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
-[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
-[Terugboeken vorderingen](terugboeken-vorderingen/)
+[Segmenteren debiteuren](../segmenteren-debiteuren/)  
+[Aanmanen debiteuren](../aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](../afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
+[Terugboeken vorderingen](../terugboeken-vorderingen/)

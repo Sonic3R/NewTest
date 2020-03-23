@@ -39,6 +39,6 @@ Er zal ook altijd een deel van de posten zijn waarbij geen kasstroomcategorie ge
 
 ## Zie ook
 
-[Beheren financiering](beheren-financiering/)  
-[Prognosticeren kasstromen](prognosticeren-kasstromen/)  
-[Prolongeren financiering](prolongeren-financiering/)
+[Beheren financiering](../beheren-financiering/)  
+[Prognosticeren kasstromen](../prognosticeren-kasstromen/)  
+[Prolongeren financiering](../prolongeren-financiering/)

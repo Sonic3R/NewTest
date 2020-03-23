@@ -22,10 +22,10 @@ In deze stap wordt de voorgestelde segmentatie toegepast.
 
 ## Zie ook
 
-[Aanmanen debiteuren](aanmanen-debiteuren/)  
-[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
-[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
-[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
-[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
-[Afboeken vorderingen](afboeken-vorderingen/)  
-[Terugboeken vorderingen](terugboeken-vorderingen/)
+[Aanmanen debiteuren](../aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](../afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](../afboeken-vorderingen/)  
+[Terugboeken vorderingen](../terugboeken-vorderingen/)

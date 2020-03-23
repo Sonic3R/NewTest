@@ -12,12 +12,12 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Debiteuren](debiteuren/)  
-[Crediteuren](crediteuren/)  
-[Service en verbruik](service-en-verbruik/)  
-[Vaste activa](vaste-activa/)  
-[Btw](btw/)  
-[Grootboek](grootboek/)  
-[Budget](budget/)  
-[Incasso](incasso/)  
-[Treausry](treasury/)
+[Debiteuren](../debiteuren/)  
+[Crediteuren](../crediteuren/)  
+[Service en verbruik](../service-en-verbruik/)  
+[Vaste activa](../vaste-activa/)  
+[Btw](b../tw/)  
+[Grootboek](../grootboek/)  
+[Budget](../budget/)  
+[Incasso](../incasso/)  
+[Treausry](../treasury/)

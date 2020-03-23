@@ -2,4 +2,4 @@
 
 ## Zie ook
 
-[Beheren vaste activa](beheren-vaste-activa/)
+[Beheren vaste activa](../beheren-vaste-activa/)

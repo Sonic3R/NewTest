@@ -12,7 +12,7 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Klanten](klanten/)  
-[Sociaal beheer](sociaal-beheer/)  
-[Verhuur](uitvoeren-ontwikkelproject/)  
-[Huurprijs](uitvoeren-ontwikkelproject/)
+[Klanten](../klanten/)  
+[Sociaal beheer](../sociaal-beheer/)  
+[Verhuur](../uitvoeren-ontwikkelproject/)  
+[Huurprijs](../uitvoeren-ontwikkelproject/)

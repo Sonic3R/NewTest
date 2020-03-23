@@ -48,12 +48,12 @@ Wanneer er boekingen t.b.v. DAEB/niet-DAEB zijn die handmatig verwerkt dienen te
 
 ## Zie ook
 
-[Beheren dimensies](beheren-dimensies/)  
-[Boeken memoriaal](boeken-memoriaal/)  
-[Boeken periodiek memoriaal](boeken-periodiek-memoriaal/)  
-[Verdelen posten naar eenheidsniveau](verdelen-posten-naar-eenheidsniveau/)  
-[Overboeken categoriaal naar functioneel](overboeken-categoriaal-naar-functioneel/)  
-[Beheren clusterinformatie](beheren-clusterinformatie/)  
-[Afsluiten jaar](afsluiten-jaar/)  
-[Vereffenen grootboekposten](vereffenen-grootboekposten/)  
-[Dichtzetten periode](dichtzetten-periode/)
+[Beheren dimensies](../beheren-dimensies/)  
+[Boeken memoriaal](../oeken-memoriaal/)  
+[Boeken periodiek memoriaal](../boeken-periodiek-memoriaal/)  
+[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
+[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
+[Beheren clusterinformatie](../beheren-clusterinformatie/)  
+[Afsluiten jaar](../afsluiten-jaar/)  
+[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
+[Dichtzetten periode](../dichtzetten-periode/)

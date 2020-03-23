@@ -82,6 +82,6 @@ Elke regel bevat een indicatie van de transactiewijze en daar waar de transactie
 
 ## Zie ook
 
-[Afhandelen contactmoment](afhandelen-contactmoment/)  
-[Afhandelen klacht](afhandelen-klacht/)  
-[Meten klanttevredenheid](meten-klanttevredenheid/)
+[Afhandelen contactmoment](../afhandelen-contactmoment/)  
+[Afhandelen klacht](../afhandelen-klacht/)  
+[Meten klanttevredenheid](../meten-klanttevredenheid/)

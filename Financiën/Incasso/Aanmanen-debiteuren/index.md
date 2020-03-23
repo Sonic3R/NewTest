@@ -60,7 +60,7 @@ Nadat u de aanmaningen al dan niet gecontroleerd en aangepast heeft kunt u de aa
 1. Selecteer op de pagina **Aanmaningen** alle aanmaningsvoorstellen. (Klik daartoe eerst op de drie verticaal geplaatste puntjes achter een willekeurig aanmaningsnummer (*Meer opties weergeven*), kies voor *Meer selecteren* en selecteer alle regels.)
 2. Klik op **Verzenden**. De pagina **Aanmaningen verzenden** opent. Klik op **OK**. De aanmaningsvoorstellen worden definitief gemaakt en worden verplaatst naar de pagina **Verzonden aanmaningen**.
 3. Moeten de aanmaningen die u definitief gemaakt heeft verzonden worden, ga dan verder met processtap **[Versturen aanmaning](#versturen-aanmaning)**.
-4. Waren de aanmaningen die u definitief gemaakt heeft van het niveau Deurwaarder, ga dan verder met het werkproces UITHANDEN GEVEN VORDERING.
+4. Waren de aanmaningen die u definitief gemaakt heeft van het niveau Deurwaarder, ga dan verder met het werkproces **[Uit-handen-geven-vorderingen](uit-handen-geven-vorderingen/)**.
 
 ## Versturen aanmaning
 
@@ -86,10 +86,10 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 
 ## Zie ook
 
-[Segmenteren debiteuren](segmenteren-debiteuren/)  
-[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
-[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
-[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
-[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
-[Afboeken vorderingen](afboeken-vorderingen/)  
-[Terugboeken vorderingen](terugboeken-vorderingen/)
+[Segmenteren debiteuren](../segmenteren-debiteuren/)  
+[Afsluiten betalingsregeling](../afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](../afboeken-vorderingen/)  
+[Terugboeken vorderingen](../terugboeken-vorderingen/)

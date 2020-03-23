@@ -39,6 +39,6 @@ Nadat de voorstelposten aangemaakt zijn kan een rapportage o.b.v. de voorstelpos
 
 ## Zie ook
 
-[Beheren financiering](beheren-financiering/)  
-[Generen overzicht gerealiseerde kasstromen](generen-overzicht-gerealiseerde-kasstromen/)  
-[Prolongeren financiering](prolongeren-financiering/)
+[Beheren financiering](../beheren-financiering/)  
+[Generen overzicht gerealiseerde kasstromen](../generen-overzicht-gerealiseerde-kasstromen/)  
+[Prolongeren financiering](../prolongeren-financiering/)

@@ -44,11 +44,11 @@ In deze stap wordt de ondertekende huurovereenkomst gearchiveerd en verzonden na
 
 ## Zie ook
 
-[Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/)  
-[Registreren huuropzegging](registreren-huuropzegging/)  
-[Opstellen eindafrekening](opstellen-eindafrekening/)  
-[Innemen eenheid](innemen-eenheid/)  
-[Bepalen aanbiedhuur](Bepalen-aanbiedhuur/)  
-[Aanbieden eenheid](aanbieden-eenheid/)  
-[Verantwoorden verhuring](verantwoorden-verhuring/)  
-[Opleveren eenheid](opleveren-eenheid/)
+[Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
+[Registreren huuropzegging](../registreren-huuropzegging/)  
+[Opstellen eindafrekening](../opstellen-eindafrekening/)  
+[Innemen eenheid](../innemen-eenheid/)  
+[Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
+[Aanbieden eenheid](../aanbieden-eenheid/)  
+[Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Opleveren eenheid](../opleveren-eenheid/)

@@ -11,7 +11,7 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Toewijzen](toewijzen/)  
-[Sociaal beheer](sociaal-beheer/)  
-[Verhuur](uitvoeren-ontwikkelproject/)  
-[Huurprijs](uitvoeren-ontwikkelproject/)
+[Toewijzen](../toewijzen/)  
+[Sociaal beheer](../sociaal-beheer/)  
+[Verhuur](../uitvoeren-ontwikkelproject/)  
+[Huurprijs](../uitvoeren-ontwikkelproject/)

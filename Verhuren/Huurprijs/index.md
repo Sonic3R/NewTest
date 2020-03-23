@@ -13,7 +13,7 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Toewijzen](toewijzen/)  
-[Klanten](klanten/)  
-[Sociaal beheer](sociaal-beheer/)  
-[Verhuur](verhuur/)
+[Toewijzen](../toewijzen/)  
+[Klanten](../klanten/)  
+[Sociaal beheer](../sociaal-beheer/)  
+[Verhuur](../verhuur/)

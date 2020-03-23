@@ -41,6 +41,6 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 
 ## Zie ook
 
-[Ontvangen inkoopfacturen](ontvangen-inkoopfacturen/)  
-[Verwerken inkoopfacturen](verwerken-inkoopfacturen/)  
-[Verwerken inkoopcreditnotas](verwerken-inkoopcreditnotas/)
+[Ontvangen inkoopfacturen](../ontvangen-inkoopfacturen/)  
+[Verwerken inkoopfacturen](../verwerken-inkoopfacturen/)  
+[Verwerken inkoopcreditnotas](../verwerken-inkoopcreditnotas/)

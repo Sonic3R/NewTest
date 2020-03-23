@@ -2,5 +2,5 @@
 
 ## Zie ook
 
-[Bepalen nieuwe voorschotten](bepalen-nieuwe-voorschotten/)  
-[Genereren afrekenresultaat](genereren-afrekenresultaat/)
+[Bepalen nieuwe voorschotten](../bepalen-nieuwe-voorschotten/)  
+[Genereren afrekenresultaat](../genereren-afrekenresultaat/)

@@ -10,12 +10,12 @@ Werkproces | Omschrijving
 
 ## Zie ook
 
-[Debiteuren](debiteuren/)  
-[Crediteuren](crediteuren/)  
-[Betalen en ontvangen](betalen-en-ontvangen/)  
-[Vaste activa](vaste-activa/)  
-[Btw](btw/)  
-[Grootboek](grootboek/)  
-[Budget](budget/)  
-[Incasso](incasso/)  
-[Treausry](treasury/)
+[Debiteuren](../debiteuren/)  
+[Crediteuren](../crediteuren/)  
+[Betalen en ontvangen](../betalen-en-ontvangen/)  
+[Vaste activa](../vaste-activa/)  
+[Btw](../btw/)  
+[Grootboek](../grootboek/)  
+[Budget](../budget/)  
+[Incasso](../incasso/)  
+[Treausry](../treasury/)

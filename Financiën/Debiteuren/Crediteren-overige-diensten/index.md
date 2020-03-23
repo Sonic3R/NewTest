@@ -2,9 +2,9 @@
 
 ## Zie ook
 
-[Factureren onderhoudsdiensten](factureren-onderhoudsdiensten/)  
-[Periodiek facturen huurovereenkomst](periodiek-facturen-huurovereenkomst/)  
-[Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/)  
-[Factureren overige diensten](factureren-overige-diensten/)  
-[Factureren afrekening](factureren-afrekening/)  
-[Beheren rekening courant debiteuren](beheren-rekening-courant-debiteuren/)
+[Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
+[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
+[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
+[Factureren overige diensten](../factureren-overige-diensten/)  
+[Factureren afrekening](../factureren-afrekening/)  
+[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)

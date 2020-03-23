@@ -44,7 +44,7 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 
 ## Zie ook
 
-[Aanleveren betaalbestand](aanleveren-betaalbestand/)  
-[Aanleveren incassobestand](aanleveren-incassobestand/)  
-[Verwerken bankmutaties](verwerken-bankmutaties/)  
-[Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/)
+[Aanleveren betaalbestand](../aanleveren-betaalbestand/)  
+[Aanleveren incassobestand](../aanleveren-incassobestand/)  
+[Verwerken bankmutaties](../verwerken-bankmutaties/)  
+[Verwerken overige betaalverzoeken](../verwerken-overige-betaalverzoeken/)

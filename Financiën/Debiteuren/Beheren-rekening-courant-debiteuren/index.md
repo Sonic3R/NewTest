@@ -59,9 +59,9 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 
 ## Zie ook
 
-[Factureren onderhoudsdiensten](factureren-onderhoudsdiensten/)  
-[Periodiek facturen huurovereenkomst](periodiek-facturen-huurovereenkomst/)  
-[Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/)  
-[Factureren overige diensten](factureren-overige-diensten/)  
-[Factureren afrekening](factureren-afrekening/)  
-[Crediteren overige diensten](crediteren-overige-diensten/)
+[Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
+[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
+[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
+[Factureren overige diensten](../factureren-overige-diensten/)  
+[Factureren afrekening](../factureren-afrekening/)  
+[Crediteren overige diensten](../crediteren-overige-diensten/)

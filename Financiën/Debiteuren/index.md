@@ -5,7 +5,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Factureren onderhoudsdiensten](factureren-onderhoudsdiensten/) | De kosten voor correctief onderhoud factureren aan klanten.
-[Periodiek facturen huurovereenkomst](periodiek-facturen-huurovereenkomst/) | De maandelijke huur factureren aan de huurders. Dit proces wordt ook wel prolongeren genoemd.
+[Periodiek factureren huurovereenkomst](periodiek-facturen-huurovereenkomst/) | De maandelijke huur factureren aan de huurders. Dit proces wordt ook wel prolongeren genoemd.
 [Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/) | 
 [Factureren overige diensten](factureren-overige-diensten/) | 
 [Factureren afrekening](factureren-afrekening/) | 

@@ -87,6 +87,9 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 2. Klik op **Exporteren**. Het scherm **Exporteren PAIN** opent.
 3. Klik op **OK**. Het PAIN-bestand wordt opgeslagen op de in de exportprotocollen gedefinieerde locatie.
 
-## Zie ook:
+## Zie ook
 
-Aanleveren incassobestand  
+[Aanleveren incassobestand](aanleveren-incassobestand/)  
+[Verwerken bankmutaties](verwerken-bankmutaties/)  
+[Verwerken pintransacties](verwerken-pintransacties/)  
+[Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/)

@@ -30,4 +30,13 @@ Wanneer u de factuur wilt versturen naar de klant, bijvoorbeeld in het geval van
 
 Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekening gebracht wordt via de eindafrekening, kunt u de factuur direct boeken.
 
- 1. Klik op **Boeken**. De factuur wordt geboekt. De volgende factuur in de te verwerken verkoopfacturen opent.
+1. Klik op **Boeken**. De factuur wordt geboekt. De volgende factuur in de te verwerken verkoopfacturen opent.
+
+## Zie ook
+
+[Periodiek facturen huurovereenkomst](periodiek-facturen-huurovereenkomst/)  
+[Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/)  
+[Factureren overige diensten](factureren-overige-diensten/)  
+[Factureren afrekening](factureren-afrekening/)  
+[Crediteren overige diensten](crediteren-overige-diensten/)  
+[Beheren rekening courant debiteuren](beheren-rekening-courant-debiteuren/)

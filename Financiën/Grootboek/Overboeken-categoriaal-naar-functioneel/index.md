@@ -64,3 +64,15 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden, 
 4. Verwijder de regels met een 0-bedrag uit het dagboek.
 5. Voordat u het memoriaal kunt boeken dient deze goedgekeurd te worden. Klik op **Goedkeuringsaanvraag verzenden** en dan op **Dagboekbatch** om het memoriaal goed te laten keuren. Het goedkeuren vind plaats binnen het proces GOEDKEUREN DOCUMENTEN.
 6. Nadat het memoriaal goedgekeurd is keert u terug naar het dagboek en klikt u op **Boeken**.
+
+## Zie ook
+
+[Beheren dimensies](beheren-dimensies/)  
+[Boeken memoriaal](boeken-memoriaal/)  
+[Boeken periodiek memoriaal](boeken-periodiek-memoriaal/)  
+[Verdelen posten naar eenheidsniveau](verdelen-posten-naar-eenheidsniveau/)  
+[Verwerken DAEB/niet-DAEB-verdeling](verwerken-daeb-niet-daeb-verdeling/)  
+[Beheren clusterinformatie](beheren-clusterinformatie/)  
+[Afsluiten jaar](afsluiten-jaar/)  
+[Vereffenen grootboekposten](vereffenen-grootboekposten/)  
+[Dichtzetten periode](dichtzetten-periode/)

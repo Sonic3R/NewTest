@@ -1,4 +1,3 @@
-
 # Beheren rekening-courant crediteuren
 
 De rekening-courant van de crediteur wordt gevormd door de leveranciersposten. U kunt mutaties op deze **Leveranciersposten** uitvoeren.
@@ -19,7 +18,7 @@ Wanneer u leveranciersposten met elkaar wilt vereffenen kunt u dit doen vanaf de
 8. In het veld **Te vereffenen bedrag** kunt u eventueel het te vereffenen bedrag per post aanpassen.
 9. Kies de actie **Vereffening boeken**. De pagina **Vereffening boeken** opent.
 10. Vul in het veld **Boekingsdatum** de datum van vandaag in (sneltoets: H) en klik op **OK**. De vereffening wordt geboekt en u keert terug naar het scherm **Leveranciersposten**.
- 
+
 ## Ongedaan maken crediteurenpostenvereffening
 
 Wanneer u de vereffening van leveranciersposten ongedaan wilt maken kunt u dit doen vanaf de pagina **Leveranciersposten**.
@@ -39,3 +38,9 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 2. Zoek de leverancier op waarvoor u een individuele post uit wilt sluiten van automatische uitbetalingen.
 3. Open de kaart en ga naar **Posten**. De pagina **Leveranciersposten** opent.
 4. Vul bij de post die u wilt uitsluiten van automatische uitbetaling het veld **Afwachten** met de afwachtcode die van toepassing is.
+
+## Zie ook
+
+[Ontvangen inkoopfacturen](ontvangen-inkoopfacturen/)  
+[Verwerken inkoopfacturen](verwerken-inkoopfacturen/)  
+[Verwerken inkoopcreditnotas](verwerken-inkoopcreditnotas/)

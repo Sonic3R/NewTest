@@ -3,7 +3,6 @@
 De beschikbare eenheid wordt gepubliceerd, zodat woningzoekenden kunnen reageren op de eenheid. Hierbij wordt ervan uitgegaan dat de eenheid via de standaard VERA-WRV-koppeling wordt gepubliceerd in een extern woonruimteverdeelsysteem, zoals WoningNet of ZIG.
 Het publiceren gaat in twee stappen: voorbereiden van de publicatie in Dynamics Empire en daadwerkelijk publiceren van de eenheid in het woonruimteverdeelsysteem. Nadat de publicatie is gesloten, worden de reacties van de woningzoekenden verwerkt en wordt de rangorde van de kandidaten bepaald in het woonruimteverdeelsysteem.  
 
-
 ## Voorbereiden publicatie
 
 In deze stap bereidt u de publicatie van de beschikbare eenheid voor. Deze voorbereidende stap vindt plaats in Dynamics Empire. Daarbij verzamelt u alle details over de eenheid, de publicatie en de huurprijs waarvoor de eenheid wordt gepubliceerd.
@@ -29,7 +28,6 @@ In deze stap bereidt u de publicatie van de beschikbare eenheid voor. Deze voorb
 19. Tabblad **Vorige huurder** bevat details over de vorige huurder van de OG Eenheid. De **Vertrekdatum** is gelijk aan de einddatum van het opgezegde huurcontract, dat wil zeggen: het contract dat via de huuropzegging is gekoppeld aan de verhuuraanbieding. U kunt deze datum wijzigen. De overige details zijn afkomstig van de klant die is gekoppeld aan het opgezegde huurcontract. Om precies te zijn betreft het de gegevens van de persoon die binnen het betreffende huishouden de rol ‘contractant’ heeft. Als er binnen het huishouden meerdere personen zijn met de rol ‘contractant’, worden de gegevens overgenomen van de persoon bij wie de indicatie ‘Toon als eerst’ van toepassing is.
 Als u deze velden leeg maakt op deze pagina, worden de gegevens over de vorige huurder niet naar het extern woonruimteverdeelsysteem gestuurd.
 20. Zodra u constateert dat alle details juist en volledig zijn, klikt u op **Berichten versturen** | **Versturen beschikbaarheidsbericht**.  Zodoende stuurt u een bericht met alle getoonde details naar het woonruimteverdeelstysteem dat is vermeld op tabblad **Algemeen**.  
- 
 
 ## Publiceren eenheid 
 
@@ -39,12 +37,17 @@ In deze stap publiceert u daadwerkelijk de eenheid, zodat woningzoekenden de een
 2. Zoek de voorbereide eenheid op waarvan u de gegevens vanuit Dynamics Empire naar het woonruimteverdeelsysteem hebt gestuurd.
 3. Controleer de gegevens op juistheid en volledigheid. Als blijkt dat er nog gegevens uit Dynamics Empire ontbreken, ga dan terug naar de vorige stap **[Voorbereiden publicatie](#voorbereiden-publicatie)**. Vul daar waar nodig de publicatie van de eenheid aan met extra gegevens, zoals foto's. Als alle gegevens juist en compleet zijn, publiceer dan de eenheid.  
 
-
 ## Verwerken reacties  
 
 In deze stap verwerkt u de reacties van woningzoekenden op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.
 
-
 ## Bepalen rangorde  
 
 In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de gepubliceerde eenheid. Deze stap vindt plaats in het externe woonruimteverdeelsysteem.
+
+## Zie ook
+
+[Beheren woningzoekende-informatie](beheren-woningzoekende-informatie/)  
+[Verlengen inschrijving woningzoekende](verlengen-inschrijving-woningzoekende/)  
+[Selecteren kandidaten](selecteren-kandidaten)  
+[Toewijzen eenheid](toewijzen-eenheid)

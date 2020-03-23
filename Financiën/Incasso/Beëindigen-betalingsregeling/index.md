@@ -19,3 +19,13 @@ In deze processtap wordt uitgelegd hoe u betalingsregelingen die volledig voldaa
 2. Selecteer in het filterveld **Toon** de waarde **Volledig betaald**. In het scherm worden nu alle volledig betaalde betalingsregelingen getoond die nog niet beëindigd zijn.
 3. Selecteer alle regels en klik op **Markering aan**.
 4. Klik op **Betalingsregeling(en) beëindigen**. Het scherm **Beëindigingscode betalingsregeling** opent. Selecteer de code die van toepassing is en klik op **OK**. De geselecteerde betalingsregelingen worden beëindigd.
+
+## Zie ook
+
+[Segmenteren debiteuren](segmenteren-debiteuren/)  
+[Aanmanen debiteuren](aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
+[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](afboeken-vorderingen/)  
+[Terugboeken vorderingen](terugboeken-vorderingen/)

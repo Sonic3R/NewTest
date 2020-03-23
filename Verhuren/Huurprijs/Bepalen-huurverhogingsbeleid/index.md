@@ -1,4 +1,3 @@
-
 # Bepalen huurverhogingsbeleid
 
 In dit werkproces wordt het door de directie vastgestelde huurverhogingsbeleid voor het nieuwe tijdvak van de jaarlijkse huurverhoging bepaald in Dynamics Empire.
@@ -18,20 +17,28 @@ Geadviseerd wordt elk beleidstype een code en omschrijving te geven die iets zeg
 
 In deze stap voert u een nieuw tijdvak in en legt u per beleidstype het verhogingspercentage vast dat van toepassing is voor het nieuwe tijdvak.
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhogingstijdvakken**.  Een pagina wordt geopend met een overzicht met de bestaande tijdvakken.
- 2. Klik op **+ Nieuw** en voer in de kolommen **Code** en **Omschrijving** een betekenisvolle code en omschrijving van het nieuwe tijdvak in (bijvoorbeeld '2020-2021' en '1-7-2020 t/m 30-6-2021').
- 3. Selecteer in kolom **Ingangsdatum** de huurverhogingsdatum van het nieuwe tijdvak. Let op: deze datum moet op 1 juli liggen. Het systeem bepaalt automatisch de einddatum van het tijdvak.
- 4. Voer in kolom **Maximale basishuurverhogingspercentage** het verhogingspercentage in dat de Rijksoverheid heeft gepubliceerd als zijnde het maximum percentage waarmee de nettohuur van een individuele eenheid binnen het betreffende tijdvak mag worden verhoogd, als er geen inkomensafhankelijke huurverhoging wordt toegepast.
- 5. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhogingsbeleidstypes**.  Een pagina wordt geopend met een overzicht met de bestaande beleidstypes.
- 6. Selecteer een beleidstype waarvoor u een verhogingspercentage wilt vastleggen en navigeer naar **Verhogingspercentages voor beleidstypen**. Een pagina wordt geopend met een overzicht met verhogingspercentages per tijdvak per beleidstype.
- 7. Klik op **+ Nieuw**, selecteer in kolom **Tijdvakcode** de code van het nieuwe tijdvak en in kolom **Beleidstypecode** de code van het beleidstype waarvoor u een verhogingspercentage wil vastleggen.
- 8. Voer in kolom **Verhogingspercentage** het verhogingspercentage in dat in het huurverhogingsbeleid van het tijdvak is vastgesteld voor het betreffende gedeelte van het bezit.
- 9. Selecteer in kolom **Batchcode** de code van de indexeringsbatch die gebruikt moet worden voor het genereren van de huurverhogingsbrief.
- 10. Geef in kolom **Ingesteld verhogingspercentage is maximum** aan of het effectieve verhogingspercentage door afronding al dan niet boven het ingestelde verhogingspercentage mag uitkomen.
- 11. Sluit de pagina. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage wil vastleggen.
- 12. Selecteer een beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen (t.b.v. inkomensafhankelijke huurverhoging) en navigeer naar **Verhogingspercentages voor huishoudverklaringen**. Een pagina wordt geopend met een overzicht met verhogingspercentages per tijdvak per beleidstype per huishoudverklaringscode.
- 13. Klik op **+ Nieuw**, selecteer in kolom **Tijdvakcode** de code van het nieuwe tijdvak, in kolom **Beleidstypecode** de code van het beleidstype waarvoor u een verhogingspercentage wil vastleggen en in kolom **Huishoudverklaringscode** de code van de huishoudverklaring waarvoor u een verhogingspercentage wil vastleggen (**let op:** in de praktijk mag alleen voor code *'J'* (*'Hoog huishoudinkomen'*) een verhogingspercentage groter dan 0,0 worden vastgelegd).
- 14. Voer in kolom **Verhogingspercentage** het extra verhogingspercentage in dat in het huurverhogingsbeleid van het tijdvak is vastgesteld voor die eenheden die binnen het betreffende gedeelte van het bezit zijn verhuurd aan een huishouden met een hoog inkomen.
- 15. Als er in het geval van inkomensafhankelijke huurverhoging een andere huurverhogingsbrief moet worden verstuurd, selecteer dan in kolom **Batchcode** de code van de indexeringsbatch die gebruikt moet worden voor het genereren van de huurverhogingsbrief. Als u deze kolom leeg laat, dan wordt de indexeringsbatch gebruikt die is ingesteld bij het beleidstype.
- 16. Als de nettohuur in het geval van inkomensafhankelijke huurverhoging via een andere aftopping moet worden afgetopt, selecteer dan in kolom **Aftoppingscode**  de code van de aftopping die gebruikt moet worden.
- 17. Sluit de pagina. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhogingstijdvakken**.  Een pagina wordt geopend met een overzicht met de bestaande tijdvakken.
+2. Klik op **+ Nieuw** en voer in de kolommen **Code** en **Omschrijving** een betekenisvolle code en omschrijving van het nieuwe tijdvak in (bijvoorbeeld '2020-2021' en '1-7-2020 t/m 30-6-2021').
+3. Selecteer in kolom **Ingangsdatum** de huurverhogingsdatum van het nieuwe tijdvak. Let op: deze datum moet op 1 juli liggen. Het systeem bepaalt automatisch de einddatum van het tijdvak.
+4. Voer in kolom **Maximale basishuurverhogingspercentage** het verhogingspercentage in dat de Rijksoverheid heeft gepubliceerd als zijnde het maximum percentage waarmee de nettohuur van een individuele eenheid binnen het betreffende tijdvak mag worden verhoogd, als er geen inkomensafhankelijke huurverhoging wordt toegepast.
+5. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhogingsbeleidstypes**.  Een pagina wordt geopend met een overzicht met de bestaande beleidstypes.
+6. Selecteer een beleidstype waarvoor u een verhogingspercentage wilt vastleggen en navigeer naar **Verhogingspercentages voor beleidstypen**. Een pagina wordt geopend met een overzicht met verhogingspercentages per tijdvak per beleidstype.
+7. Klik op **+ Nieuw**, selecteer in kolom **Tijdvakcode** de code van het nieuwe tijdvak en in kolom **Beleidstypecode** de code van het beleidstype waarvoor u een verhogingspercentage wil vastleggen.
+8. Voer in kolom **Verhogingspercentage** het verhogingspercentage in dat in het huurverhogingsbeleid van het tijdvak is vastgesteld voor het betreffende gedeelte van het bezit.
+9. Selecteer in kolom **Batchcode** de code van de indexeringsbatch die gebruikt moet worden voor het genereren van de huurverhogingsbrief.
+10. Geef in kolom **Ingesteld verhogingspercentage is maximum** aan of het effectieve verhogingspercentage door afronding al dan niet boven het ingestelde verhogingspercentage mag uitkomen.
+11. Sluit de pagina. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage wil vastleggen.
+12. Selecteer een beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen (t.b.v. inkomensafhankelijke huurverhoging) en navigeer naar **Verhogingspercentages voor huishoudverklaringen**. Een pagina wordt geopend met een overzicht met verhogingspercentages per tijdvak per beleidstype per huishoudverklaringscode.
+13. Klik op **+ Nieuw**, selecteer in kolom **Tijdvakcode** de code van het nieuwe tijdvak, in kolom **Beleidstypecode** de code van het beleidstype waarvoor u een verhogingspercentage wil vastleggen en in kolom **Huishoudverklaringscode** de code van de huishoudverklaring waarvoor u een verhogingspercentage wil vastleggen (**let op:** in de praktijk mag alleen voor code *'J'* (*'Hoog huishoudinkomen'*) een verhogingspercentage groter dan 0,0 worden vastgelegd).
+14. Voer in kolom **Verhogingspercentage** het extra verhogingspercentage in dat in het huurverhogingsbeleid van het tijdvak is vastgesteld voor die eenheden die binnen het betreffende gedeelte van het bezit zijn verhuurd aan een huishouden met een hoog inkomen.
+15. Als er in het geval van inkomensafhankelijke huurverhoging een andere huurverhogingsbrief moet worden verstuurd, selecteer dan in kolom **Batchcode** de code van de indexeringsbatch die gebruikt moet worden voor het genereren van de huurverhogingsbrief. Als u deze kolom leeg laat, dan wordt de indexeringsbatch gebruikt die is ingesteld bij het beleidstype.
+16. Als de nettohuur in het geval van inkomensafhankelijke huurverhoging via een andere aftopping moet worden afgetopt, selecteer dan in kolom **Aftoppingscode**  de code van de aftopping die gebruikt moet worden.
+17. Sluit de pagina. Herhaal de vorige stappen voor elk beleidstype waarvoor u een verhogingspercentage voor huishoudverklaringen wil vastleggen.
+
+## Zie ook
+
+[Voorbereiden jaarlijkse huurverhoging](voorbereiden-jaarlijkse-huurverhoging/)  
+[Uitvoeren jaarlijkse huurprijsaanpassing](Uitvoeren-jaarlijkse-huurprijsaanpassing/)  
+[Rappeleren klant](rappeleren-klant/)  
+[Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/)  
+[Uitvoeren tussentijdse huurprijsaanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/)

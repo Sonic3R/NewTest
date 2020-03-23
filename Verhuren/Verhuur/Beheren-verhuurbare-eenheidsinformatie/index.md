@@ -3,21 +3,21 @@
 
 Binnen dit proces wordt informatie over verhuurbare eenheden beheerd.  Dit betreft de volgende soorten informatie:
 
- - [Basisinformatie](#registreren-basisinformatie-verhuurbare-eenheid)
- - [Woningwaardering](#aanpassen-woningwaardering)
- - [Streefhuur](#aanpassen-streefhuur)
- - [Exploitatievormen](#aanpassen-exploitatievorm)
- - [Administratief eigenaren](#aanpassen-administratief-eigenaar)
- - [Contactpersonen](#aanpassen-contactpersonen)
+- [Basisinformatie](#registreren-basisinformatie-verhuurbare-eenheid)
+- [Woningwaardering](#aanpassen-woningwaardering)
+- [Streefhuur](#aanpassen-streefhuur)
+- [Exploitatievormen](#aanpassen-exploitatievorm)
+- [Administratief eigenaren](#aanpassen-administratief-eigenaar)
+- [Contactpersonen](#aanpassen-contactpersonen)
 
 ## Registreren basisinformatie verhuurbare eenheid
 
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.
- 3. Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend.
- 4. Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+2. Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.
+3. Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend.
+4. Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd.
 
 De belangrijkste velden op tabblad **Algemeen** zijn:
 
@@ -43,7 +43,6 @@ De belangrijkste velden op tabblad **Exploitatie (Fin)** zijn:
 - **Huurverhogingsbeleidstype**: Het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd.
 - **Nettohuuraftopping**: De aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging.
 
- 
 ## Aanpassen woningwaardering
 
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund:
@@ -52,11 +51,11 @@ In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door e
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**.
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de juiste OG Eenheid.
- 3. Kies voor **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies).
- 4. Klik op **Nieuw**, selecteer een datum in het veld **Ingangsdatum** en verlaat het veld. Een nieuwe versie van de woningwaardering wordt aangemaakt met exact dezelfde details als de versie die tot nog toe actief was op de geselecteerde ingangsdatum. Als gevolg van het aanmaken van de nieuwe versie is de vorige versie actief *tot* de ingangsdatum van de nieuwe versie. Als de ingangsdatum van de nieuwe versie gelijk is aan de ingangsdatum van de vorige versie, dan krijgt de nieuwe versie een volgnummer dat 1 hoger is dan het volgnummer van de vorige versie en is de vorige versie op geen enkele datum meer actief.
- 5. Pas daar waar nodig details van de nieuwe versie aan.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+2. Selecteer de juiste OG Eenheid.
+3. Kies voor **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies).
+4. Klik op **Nieuw**, selecteer een datum in het veld **Ingangsdatum** en verlaat het veld. Een nieuwe versie van de woningwaardering wordt aangemaakt met exact dezelfde details als de versie die tot nog toe actief was op de geselecteerde ingangsdatum. Als gevolg van het aanmaken van de nieuwe versie is de vorige versie actief *tot* de ingangsdatum van de nieuwe versie. Als de ingangsdatum van de nieuwe versie gelijk is aan de ingangsdatum van de vorige versie, dan krijgt de nieuwe versie een volgnummer dat 1 hoger is dan het volgnummer van de vorige versie en is de vorige versie op geen enkele datum meer actief.
+5. Pas daar waar nodig details van de nieuwe versie aan.
 
 Voor elk soort woningwaardering zijn andere soorten details van toepassing. De details van de woningwaardering hebben betrekking op die eigenschappen van de OG Eenheid die van invloed zijn op de berekening van het **Totaal aantal punten afgerond**. Het aantal punten op zijn beurt bepaalt de maximale huurprijs van de OG Eenheid.
 
@@ -93,12 +92,12 @@ De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individ
 
 Per OG Eenheid bepaalt u met het veld **Clusterstreefhuurbepaling** of de streefhuur van de OG Eenheid wordt bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort, of door de instellingen bij de OG Eenheid zelf.
 
- 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
- 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
- 3. Open tabblad **Exploitatie (Fin.)**.  
- 4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de OG Eenheid zelf aanpassen.
- 5. Als u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is.
- 6. Als u de streefhuur van de OG Eenheid statisch wilt bepalen, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**.  Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
+3. Open tabblad **Exploitatie (Fin.)**.  
+4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de OG Eenheid zelf aanpassen.
+5. Als u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is.
+6. Als u de streefhuur van de OG Eenheid statisch wilt bepalen, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**.  Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is.
 
 ## Aanpassen exploitatievorm
 
@@ -119,7 +118,7 @@ Een OG Eenheid kan in verloop van tijd verschillende administratief eigenaren he
 - de *verhuringsingangsdatum*. d.w.z. de ingangsdatum die bepalend is voor de verantwoording verhuring (staatssteunregeling).
 
 Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stappen:
- 
+
 #### Aanvraag voor wijziging van administratief eigenaar invullen ####
 
 1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
@@ -137,8 +136,8 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
 3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend.
 4. Klik op **Administratief eigenaar wijzigen**.  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een gevulde regel met de **Status** 'Voorlopig' wordt getoond.
 5. Klik op **Goedkeuren**. De regel krijgt automatisch de **Status** 'Goedgekeurd'.
-7. Klik op **Sluiten**. De pagina genaamd **Administratief eigenaren per OG Eenheid** wordt weer geopend, nu met een extra regel met de nieuwe administratief eigenaar.
-8. Pas desgewenst de **Verhuring ingangdatum** aan in een datum die eerder ingaat dan de **Financiële ingangsdatum**.
+6. Klik op **Sluiten**. De pagina genaamd **Administratief eigenaren per OG Eenheid** wordt weer geopend, nu met een extra regel met de nieuwe administratief eigenaar.
+7. Pas desgewenst de **Verhuring ingangdatum** aan in een datum die eerder ingaat dan de **Financiële ingangsdatum**.
 
 ## Aanpassen contactpersonen
 
@@ -147,5 +146,16 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Selecteer de OG Eenheid en open de kaart door op het nummer te klikken.
 3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**
-5. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**.
-6. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen** (via het menu-item bovenin het tabblad).
+4. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**.
+5. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen** (via het menu-item bovenin het tabblad).
+
+## Zie ook
+
+[Registreren huuropzegging](registreren-huuropzegging/)  
+[Opstellen eindafrekening](opstellen-eindafrekening/)  
+[Innemen eenheid](innemen-eenheid/)  
+[Bepalen aanbiedhuur](Bepalen-aanbiedhuur/)  
+[Aanbieden eenheid](aanbieden-eenheid/)  
+[Verantwoorden verhuring](verantwoorden-verhuring/)  
+[Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/)  
+[Opleveren eenheid](opleveren-eenheid/)

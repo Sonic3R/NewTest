@@ -6,7 +6,7 @@ In dit werkproces worden de ontvangen inkoopfacturen gecontroleerd, gecodeerd en
 
 Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betalingsverplichting geboekt worden. Voorafgaand aan deze boeking kunnen de gegevens op de factuurkop gecontroleerd en aangevuld worden.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") op het veld **Boekstatus** = '**Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") op het veld **Boekstatus** = **'Ongeboekt'**. De pagina toont nu een overzicht van de facturen waarvoor de verplichting nog niet geboekt is.
 2. Open één van de facturen door op het nummer te klikken. De pagina **Inkoopfactuur** opent. Klik op **Factuur tonen** om de factuur te openen in DMS. De factuur wordt geopend in DMS.
 3. Controleer de volgende velden en pas waar nodig de gegevens aan:
 	- **Leverancier**
@@ -157,3 +157,9 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 3. Zet het veld **Boekstatus** op **Verplichting geboekt** en zet het veld **Status** op **Vrijgegeven**.
 4. Klik op **OK**. Alle facturen waarvoor dit mogelijk is worden definitief geboekt.
 5. Facturen waarbij de boekingsdatum in een afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt.
+
+## Zie ook
+
+[Ontvangen inkoopfacturen](ontvangen-inkoopfacturen/)  
+[Verwerken inkoopcreditnotas](verwerken-inkoopcreditnotas/)  
+[Beheren rekening courant crediteuren](beheren-rekening-courant-crediteuren/)

@@ -13,3 +13,10 @@ Werkproces | Omschrijving
 [Verantwoorden verhuring](verantwoorden-verhuring/) | De huishoudgegevens registreren op basis waarvan toewijzing wordt getoetst aan de passendheidstoets en staatssteunregeling.
 [Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/) | De huurovereenkomst ondertekenen en effectueren.
 [Opleveren eenheid](opleveren-eenheid/) | De eenheid aan de nieuwe huurder opleveren.
+
+## Zie ook
+
+[Toewijzen](toewijzen/)  
+[Klanten](klanten/)  
+[Sociaal beheer](sociaal-beheer/)  
+[Huurprijs](huuprijs/)

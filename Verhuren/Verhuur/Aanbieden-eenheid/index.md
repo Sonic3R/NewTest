@@ -29,7 +29,6 @@ In deze stap nodigt u meerdere kandidaten uit voor de groepsbezichtiging.
 4. Kies voor **Verhuuraanbieding**.
 5. Klik op de actie **Worddocument**, selecteer het Word-sjabloon betreffende de uitnodiging en klik op **OK**.
 
-
 ## Bezichtigen eenheid (groep)
 
 In deze stap bezichtigt de groep met kandidaten de beschikbare eenheid. Bij deze groepsbezichtiging is een medewerker van de corporatie aanwezig. Deze medewerker kan de **Verhuuraanbieding**, inclusief alle kandidaten, raadplegen op de **VerhuurApp**.
@@ -67,3 +66,14 @@ In deze stap legt u de acceptatie of weigering door de kandidaat vast in het woo
 ## Registreren weigering
 
 In deze stap legt u de weigering van de kandidaat door de corporatie vast in het woonruimteverdeelsysteem.  
+
+## Zie ook
+
+[Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/)  
+[Registreren huuropzegging](registreren-huuropzegging/)  
+[Opstellen eindafrekening](opstellen-eindafrekening/)  
+[Innemen eenheid](innemen-eenheid/)  
+[Bepalen aanbiedhuur](Bepalen-aanbiedhuur/)  
+[Verantwoorden verhuring](verantwoorden-verhuring/)  
+[Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/)  
+[Opleveren eenheid](opleveren-eenheid/)

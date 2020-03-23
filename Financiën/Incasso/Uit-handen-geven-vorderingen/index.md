@@ -73,3 +73,13 @@ Wanneer een klant de vordering heeft voldaan of wanneer de vordering oninbaar bl
 3. Vul in het veld **Reden afsluiting** de reden voor afsluiten. Het veld **Afgesloten** wordt gevuld met de datum van vandaag. Nieuwe posten gereed voor deze klant worden niet meer automatisch toegevoegd aan het dossier.
 4. Wanneer u een nog openstaande vordering af wilt boeken kunt u dit doen via het proces AFBOEKEN VORDERING.
 5. Wanneer u een dossier opnieuw wilt openen doet u dit door het veld **Reden afsluiting** leeg te maken.
+
+## Zie ook
+
+[Segmenteren debiteuren](segmenteren-debiteuren/)  
+[Aanmanen debiteuren](aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
+[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](afboeken-vorderingen/)  
+[Terugboeken vorderingen](terugboeken-vorderingen/)

@@ -49,3 +49,10 @@ U kunt een goedkeuringsaanvraag weigeren.
 Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren.
 
 1. U keurt de goedkeuringspost goed door de regel te selecteren en op **Goedkeuren** te klikken. De goedkeuringsaanvraag is goedgekeurd.
+
+## Zie ook
+
+[Registreren inkooporder](registreren-inkooporder/)  
+[Accorderen prestatie](accorderen-prestatie/)  
+[Beheren leveranciersinformatie](beheren-leveranciersinformatie/)  
+[Beheren onderhoudscontracten](beheren-onderhoudscontracten/)

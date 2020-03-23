@@ -24,3 +24,13 @@ Wanneer u de vordering op een klant af wilt boeken kunt u dit doen via het derde
 
 1. Vul op de dossierkaart in het veld **Reden afsluiting** (tabblad **Algemeen**) de reden van afsluiting in. Pas eventueel de datum **Afgesloten per** aan. Het dossier is nu afgesloten.
 2. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg.
+
+## Zie ook
+
+[Segmenteren debiteuren](segmenteren-debiteuren/)  
+[Aanmanen debiteuren](aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
+[Terugboeken vorderingen](terugboeken-vorderingen/)

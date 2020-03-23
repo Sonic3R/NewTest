@@ -1,4 +1,3 @@
-
 # Uitvoeren jaarlijkse huurprijsaanpassing
 
 In dit werkproces wordt de jaarlijkse huurprijsaanpassing uitgevoerd op basis van het vastgelegde huurverhogingsbeleid. Daarbij wordt voor elke eenheid de nieuwe nettohuur berekend: eerst in simulatie, en als definitief wanneer de uitkomsten van de simulatie acceptabel zijn. De berekening vindt per eenheid plaats op basis van het aan de eenheid toegewezen huurverhogingsbeleidstype en de nettohuuraftopping. Nadat de nieuwe nettohuur definitief is berekend, wordt de huurverhoging geëffectueerd. Ten slotte worden de klanten aangezegd, d.w.z. officieel geïnformeerd over de nieuwe nettohuur die ze vanaf de huurverhogingsdatum moeten gaan betalen.
@@ -38,17 +37,16 @@ b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waari
 
 _**Ad a:**_
 1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Onr. Goed Eenhedenoverzicht**.
-3. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
-4. Open tabblad **Exploitatie (Fin.)**.
-5. Selecteer in veld **Nettohuuraftopping** de juiste aftopping.
-6. Sluit de pagina.
+2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
+3. Open tabblad **Exploitatie (Fin.)**.
+4. Selecteer in veld **Nettohuuraftopping** de juiste aftopping.
+5. Sluit de pagina.
 
 _**Ad b:**_
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Huurverhogingseigenschappen voor OG Eenheden importeren**. Een pagina wordt geopend met enkele opties.
 2. Selecteer in optie **Werkmapbestandsnaam** het juiste Excel-bestand.
 3. Selecteer in optie **Werkbladnaam** het juiste werkblad in de geselecteerde werkmap.
 4. Klik op **OK**.  
-
 
 ## Aanvragen huishoudverklaringen
 
@@ -69,7 +67,6 @@ U importeert als volgt het antwoordbestand dat u heeft ontvangen van de Belastin
 3. Selecteer de **Huurverhogingsdatum** waarop de huurverhoging ingaat.
 4. Klik op **OK**.  
 
-
 ## Simuleren nieuwe nettohuur
 
 In deze stap simuleert u de berekening van de nieuwe nettohuur van één of meer OG Eenheden, op basis van de aan die OG Eenheden toegewezen beleidstypen en aftoppingen. Daartoe maakt u eerst voor die OG Eenheden huurverhogingsparameters aan, waarin alle gegevens worden verzameld die nodig zijn om de nieuwe nettohuur te berekenen. Vervolgens berekent u op basis van die parameters de nieuwe nettohuur in simulatie. De uitkomst van de berekening in simulatie wordt alleen opgeslagen in de tabel van de jaarlijkse huurverhoging, en dus niet in de contractregels van de OG Eenheden. De uitkomst van de simulatie heeft dus geen enkele invloed op de prolongatie van verhuurcontracten van de OG Eenheden.
@@ -89,7 +86,6 @@ In deze stap simuleert u de berekening van de nieuwe nettohuur van één of meer
 13. Klik op **Proces** en kies voor **Berekenen (simulatie)**. De nieuwe nettohuur van de geselecteerde OG Eenheden wordt berekend in simulatie-modus en de **Verwerkingsstatus** van de geselecteerde huurverhogingen wordt aangepast naar *Simulatie*.
 14. De uitkomst van de berekening (o.a. **Nieuwe nettohuur** en **Effectief verhogingspercentage**) wordt vermeld in de desbetreffende kolommen in het overzicht.  
 
-
 ## Controleren nieuwe nettohuur
 
 In deze stap controleert u de uitkomst van de simulatie van de berekening van de nieuwe nettohuur.
@@ -100,9 +96,9 @@ In deze stap controleert u de uitkomst van de simulatie van de berekening van de
 4. U kunt de uitkomsten van de berekening ook vanaf het overzicht exporteren naar Excel (klik op **Pagina** en kies voor **Openen in Excel**). In Excel kunt u o.a. de gemiddelde huursomstijging als gevolg van de jaarlijkse huurverhoging berekenen.
 
 Mocht de uitkomst van de simulatieberekening niet acceptabel zijn, pas dan het huurverhogingsbeleid van de desbetreffende OG Eenheden aan. Bijvoorbeeld:
- - door het ingestelde verhogingspercentage van één of meer beleidstypes aan te passen;
- - door andere beleidstypes en/of andere aftoppingen toe te wijzen aan bepaalde OG Eenheden;
- - door de eigenschappen van bepaalde beleidstypes te wijzigen.
+- door het ingestelde verhogingspercentage van één of meer beleidstypes aan te passen;
+- door andere beleidstypes en/of andere aftoppingen toe te wijzen aan bepaalde OG Eenheden;
+- door de eigenschappen van bepaalde beleidstypes te wijzigen.
 
 >**Let op**: Nadat u het huurverhogingsbeleid heeft aangepast, moet u eerst de huurverhogingsparameters van de desbetreffende OG Eenheden opnieuw aanmaken, voordat u opnieuw de nieuwe nettohuur van die OG Eenheden in simulatie gaat berekenen. Doet u dat niet, dan wordt de berekening uitgevoerd op basis van de vorige parameters waarin de gegevens zijn vastgelegd van het huurverhogingsbeleid zoals dat destijds was vastgelegd. In dat geval zal de uitkomst van de nieuwe berekening exact hetzelfde zijn als de vorige berekening.
 
@@ -142,3 +138,11 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 6. Selecteer de **Huurverhogingsdatum** waarvoor u de huurverhogingsbrief wil genereren.
 7. Klik op **Afdrukken**. De huurverhogingsbrieven worden gegenereerd.
 8. Herhaal bovenstaande stappen voor de overige indexeringsbatchen die zijn gebruikt bij het uitvoeren van de jaarlijkse huurverhoging.
+
+## Zie ook
+
+[Voorbereiden jaarlijkse huurverhoging](voorbereiden-jaarlijkse-huurverhoging/)  
+[Bepalen huurverhogingsbeleid](bepalen-huurverhogingsbeleid/)  
+[Rappeleren klant](rappeleren-klant/)  
+[Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/)  
+[Uitvoeren tussentijdse huurprijsaanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/)

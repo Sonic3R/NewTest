@@ -109,3 +109,12 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 
 1. Kies op de pagina **Prol.-run kaart** voor de actie **Postex**. De pagina **Prolongatiefactuur PROL+** opent.
 2. Klik op **OK**. Voor de klanten waarvoor u heeft ingesteld dat zij een factuur of betaalverzoek moeten krijgen, wordt via Postex het betaalverzoek of de factuur verstuurd.
+
+## Zie ook
+
+[Factureren onderhoudsdiensten](factureren-onderhoudsdiensten/)  
+[Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/)  
+[Factureren overige diensten](factureren-overige-diensten/)  
+[Factureren afrekening](factureren-afrekening/)  
+[Crediteren overige diensten](crediteren-overige-diensten/)  
+[Beheren rekening courant debiteuren](beheren-rekening-courant-debiteuren/)

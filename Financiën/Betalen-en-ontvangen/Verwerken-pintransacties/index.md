@@ -9,7 +9,7 @@ Om te beginnen met het verwerken van de bankmutaties moet als eerste een bankboe
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Kasboek**.
 2. Klik op **Nieuw**.
 3. Selecteer op de pagina **Fin. dagboeksjablonenoverzicht** het dagboeksjabloon voor de pinautomaat waarmee de betaling voldaan is.
-4.  Klik op **OK** waarna de pagina **Kasboek** opent.
+4. Klik op **OK** waarna de pagina **Kasboek** opent.
 5. Vul de volgende velden:
 	* **Beginsalo:** '0'.
 	* **Eindsaldo:** Het bedrag dat gepind is.
@@ -41,3 +41,10 @@ Nadat u de pintransacties vereffend heeft met één of meerdere klantposten kunt
 2. De regel wordt geboekt. Zijn er regels die een fout veroorzaken, dan krijgt u de vraag of u de foutenlijst wilt afdrukken. Zijn er geen fouten, dan krijgt u de melding dat het boeken gelukt is.
 3. De pagina **Verzamelkwitantie** opent. Klik op **Afdrukken**. Afhankelijk van uw instellingen wordt het betaalbewijs direct afgedrukt of dient u eerst de printer te selecteren waarmee u het betaalbewijs wilt afdrukken.
 4. Na het afdrukken wordt de pagina **Kasboek** gesloten en keert u terug naar de lijst met kasboeken.
+
+## Zie ook
+
+[Aanleveren betaalbestand](aanleveren-betaalbestand/)  
+[Aanleveren incassobestand](aanleveren-incassobestand/)  
+[Verwerken bankmutaties](verwerken-bankmutaties/)  
+[Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/)

@@ -19,3 +19,13 @@ In deze stap wordt de voorgestelde segmentatie toegepast.
 1. Selecteer op de pagina **Segmentatieoorstellen** de voorstellen die u wilt toepassen.
 2. Klik op **Segmentatievoorstellen toepassen**, waarna de gelijknamige pagina wordt geopend.
 3. Klik op **OK**. De voorstellen worden toegepast. Dit betekent dat de aanmaningsconditie op de klanten aangepast wordt naar het voorgestelde segment. U keert terug naar de pagina **Segmentatievoorstellen**.
+
+## Zie ook
+
+[Aanmanen debiteuren](aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](afboeken-vorderingen/)  
+[Terugboeken vorderingen](terugboeken-vorderingen/)

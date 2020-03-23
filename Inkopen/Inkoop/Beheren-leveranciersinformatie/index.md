@@ -22,7 +22,7 @@ Voordat u de leverancierskaart aan kunt maken dient u een contact aan te maken.
 De contactgegevens van de leverancier past u aan op de contactkaart.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Leveranciers** en open de leverancierskaart waarvoor u de contactgegevens aan wilt passen.
-2. Klik op **Contact** om de contactkaart van de leverancier te openen. Op de pagina die opent kunt u de contactgegevens van de leverancier aanpassen. 
+2. Klik op **Contact** om de contactkaart van de leverancier te openen. Op de pagina die opent kunt u de contactgegevens van de leverancier aanpassen.
 
 ## Aanmaken IBAN
 
@@ -55,3 +55,10 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Leveranciers** en open de leverancierskaart.
 2. Vul in het veld **Betalingsconditie** de standaard betaaltermijn voor facturen van deze leverancier in.
 3. Vul in het veld **Code transactiewijze** de standaard transactiewijze voor facturen van deze leverancier in.
+
+## Zie ook
+
+[Registreren inkooporder](registreren-inkooporder/)  
+[Accorderen prestatie](accorderen-prestatie/)  
+[Goedkeuren documenten](goedkeuren-documenten/)  
+[Beheren onderhoudscontracten](beheren-onderhoudscontracten/)

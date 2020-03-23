@@ -1,5 +1,6 @@
----
-title: Vaststellen kosten en opbrengsten
----
-
 # Vaststellen kosten en opbrengsten
+
+## Zie ook
+
+[Bepalen nieuwe voorschotten](bepalen-nieuwe-voorschotten/)  
+[Genereren afrekenresultaat](genereren-afrekenresultaat/)

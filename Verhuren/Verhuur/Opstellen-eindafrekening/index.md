@@ -1,10 +1,10 @@
 # Opstellen eindafrekening
 
 In dit proces wordt de eindafrekening opgesteld voor een klant van wie een huurcontract is beëindigd. De eindafrekening geeft een overzicht van de openstaande facturen van de betreffende klant. De facturen kunnen betrekking hebben op o.a.:
- - osten met betrekking tot mutatieonderhoud die de corporatie doorbelast aan de vertrekkende huurder;
- - nog niet betaalde huur van vorige prolongatieperioden;
- - terugbetaling van vooruitbetaalde huur;
- - terugbetaling van de waarborgsom.
+- kosten met betrekking tot mutatieonderhoud die de corporatie doorbelast aan de vertrekkende huurder;
+- nog niet betaalde huur van vorige prolongatieperioden;
+- terugbetaling van vooruitbetaalde huur;
+- terugbetaling van de waarborgsom.
 
 ## Genereren afrekening
 
@@ -25,3 +25,14 @@ In deze stap genereert u de eindafrekening voor de vertrekkende huurder. Om de e
 ## Verzenden afrekening
 
 In deze stap verstuurt u de gegenereerde eindafrekening naar de vertrekkende huurder. Deze stap vindt plaats buiten Dynamics Empire.
+
+## Zie ook
+
+[Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/)  
+[Registreren huuropzegging](registreren-huuropzegging/)  
+[Innemen eenheid](innemen-eenheid/)  
+[Bepalen aanbiedhuur](Bepalen-aanbiedhuur/)  
+[Aanbieden eenheid](aanbieden-eenheid/)  
+[Verantwoorden verhuring](verantwoorden-verhuring/)  
+[Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/)  
+[Opleveren eenheid](opleveren-eenheid/)

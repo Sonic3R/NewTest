@@ -74,3 +74,13 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 3. U krijgt de vraag of u het document wilt downloaden en bewerken. Klik op **Nee**. Het scherm **Vragenlijst** opent, waar u in de kolom **Antwoord** de vragen op de antwoorden invoert. Klik daarna op **Sluiten**.
 4. Klik op **Word**. Het scherm voor aanmaken van een WordLinkbrief opent. Selecteer het sjabloon voor het bevestigen van een nieuwe betalingsregeling en vul de benodigde vragen in.
 5. Verstuur het document naar de klant. De betalingsregeling is nu geactiveerd en de klant is geïnformeerd.
+
+## Zie ook
+
+[Segmenteren debiteuren](segmenteren-debiteuren/)  
+[Aanmanen debiteuren](aanmanen-debiteuren/)  
+[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](afboeken-vorderingen/)  
+[Terugboeken vorderingen](terugboeken-vorderingen/)

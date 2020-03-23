@@ -1,5 +1,7 @@
----
-title: Verwerken gerealiseerde kasstromen
----
+# Prolongeren financiering
 
-# Verwerken gerealiseerde kasstromen
+## Zie ook
+
+[Beheren financiering](beheren-financiering/)  
+[Generen overzicht gerealiseerde kasstromen](generen-overzicht-gerealiseerde-kasstromen/)  
+[Prognosticeren kasstromen](prognosticeren-kasstromen/)

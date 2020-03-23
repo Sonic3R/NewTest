@@ -83,3 +83,13 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 	* **Aanmaningsniveau:** Het aanmaningsniveau waarvoor u documenten wilt verzenden.
 	* **Documentdatum:** De documentdatum van de documenten die u wilt verzenden.
 3. Klik op **Openen in Excel**. De tabel wordt geopend in Excel.
+
+## Zie ook
+
+[Segmenteren debiteuren](segmenteren-debiteuren/)  
+[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
+[Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/)  
+[Afboeken vorderingen](afboeken-vorderingen/)  
+[Terugboeken vorderingen](terugboeken-vorderingen/)

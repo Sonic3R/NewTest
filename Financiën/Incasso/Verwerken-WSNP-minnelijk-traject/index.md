@@ -64,3 +64,13 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 2. Selecteer het derdendossier dat u wilt afsluiten en open het dossier.
 3. Vul in het veld **Reden afsluiting** (tabblad **Algemeen**) de reden van afsluiting in. Pas eventueel de datum **Afgesloten per** aan. Het dossier is nu afgesloten.
 4. Wanneer u het dossier opnieuw wilt openen maakt u het veld **Afgesloten per** leeg.
+
+## Zie ook
+
+[Segmenteren debiteuren](segmenteren-debiteuren/)  
+[Aanmanen debiteuren](aanmanen-debiteuren/)  
+[Afsluiten betalingsregeling](afsluiten-etalingsregeling/)  
+[Beëindigen betalingsregeling](beeindigen-betalingsregeling/)  
+[Uit handen geven vorderingen](uit-handen-geven-vorderingen/)  
+[Afboeken vorderingen](afboeken-vorderingen/)  
+[Terugboeken vorderingen](terugboeken-vorderingen/)

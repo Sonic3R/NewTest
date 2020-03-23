@@ -25,3 +25,15 @@ Wanneer u in de voorgaande stap uitzonderingen per gebruiker opgevoerd heeft en 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Gebruikersinstellingen** en zoek de gebruiker op waarvoor u de uitzondering ongedaan wilt maken. Open de kaart voor deze gebruiker.
 2. Maak het veld **Boeken toegest. vanaf** leeg.
 3. Bepaal of u het veld **Boeken toegest. tot** aan wilt passen.
+
+## Zie ook
+
+[Beheren dimensies](beheren-dimensies/)  
+[Boeken memoriaal](boeken-memoriaal/)  
+[Boeken periodiek memoriaal](boeken-periodiek-memoriaal/)  
+[Verdelen posten naar eenheidsniveau](verdelen-posten-naar-eenheidsniveau/)  
+[Overboeken categoriaal naar functioneel](overboeken-categoriaal-naar-functioneel/)  
+[Verwerken DAEB/niet-DAEB-verdeling](verwerken-daeb-niet-daeb-verdeling/)  
+[Beheren clusterinformatie](beheren-clusterinformatie/)  
+[Afsluiten jaar](afsluiten-jaar/)  
+[Vereffenen grootboekposten](vereffenen-grootboekposten/)

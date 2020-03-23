@@ -8,3 +8,10 @@ Werkproces | Omschrijving
 [Afhandelen contactmoment](afhandelen-contactmoment/) | 
 [Afhandelen klacht](afhandelen-klacht/ | 
 [Meten klanttevredenheid](meten-klanttevredenheid/) | 
+
+## Zie ook
+
+[Toewijzen](toewijzen/)  
+[Sociaal beheer](sociaal-beheer/)  
+[Verhuur](uitvoeren-ontwikkelproject/)  
+[Huurprijs](uitvoeren-ontwikkelproject/)

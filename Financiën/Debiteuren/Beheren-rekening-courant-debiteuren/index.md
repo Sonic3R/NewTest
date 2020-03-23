@@ -56,3 +56,12 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 2. Zoek de klant op die u uit wilt sluiten van aanmaningen. Open de klantenkaart.
 3. Selecteer in het veld **Aanmaningsconditiecode** (tabblad **Betalingen**, kies voor *Meer tonen*) de aanmaningsconditie die gebruikt wordt om klanten uit te sluiten van aanmaningen.
 4. Wanneer u het veld verlaat krijgt u de vraag of u de aanmaningsconditie op de klantposten aan wilt passen. Selecteer in dit scherm **Alle posten aanpassen** en klik op **OK**.
+
+## Zie ook
+
+[Factureren onderhoudsdiensten](factureren-onderhoudsdiensten/)  
+[Periodiek facturen huurovereenkomst](periodiek-facturen-huurovereenkomst/)  
+[Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/)  
+[Factureren overige diensten](factureren-overige-diensten/)  
+[Factureren afrekening](factureren-afrekening/)  
+[Crediteren overige diensten](crediteren-overige-diensten/)

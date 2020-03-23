@@ -6,3 +6,10 @@ Wanneer de leverancier de prestatie voor de inkooporder geleverd heeft, dient di
 
 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de **Inkooporders**. Selecteer de order waarvoor u de geleverde prestatie wilt accorderen.
 2. Klik op **Boeken** en daarna op het vervolgschermpje op **Ok**. De ontvangsten worden geboekt en u keert terug naar de order.
+
+## Zie ook
+
+[Registreren inkooporder](registreren-inkooporder/)  
+[Goedkeuren documenten](goedkeuren-documenten/)  
+[Beheren leveranciersinformatie](beheren-leveranciersinformatie/)  
+[Beheren onderhoudscontracten](beheren-onderhoudscontracten/)

@@ -1,5 +1,7 @@
----
-title: Verwerken inkoopcreditnotas
----
+# Verwerken inkoopcreditnota's
 
-# Verwerken inkoopcreditnotas
+## Zie ook
+
+[Ontvangen inkoopfacturen](ontvangen-inkoopfacturen/)  
+[Verwerken inkoopfacturen](verwerken-inkoopfacturen/)  
+[Beheren rekening courant crediteuren](beheren-rekening-courant-crediteuren/)

@@ -8,7 +8,7 @@ Na afloop van het kalenderjaar moeten de verantwoordingen verhuringen worden gec
 
 ## Registreren huishoudgegevens  
 
-In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid en de aanbiedhuur anderzijds, bepaalt het systeem automatisch of de toewijzing voldoet aan de wettelijke criteria van de passendheidstoets en staatssteunregeling. 
+In deze stap registreert u de huishoudgegevens van een individuele toewijzing van een eenheid in de verantwoording verhuring. Op basis van de ingevulde huishoudgegevens enerzijds en de eigenschappen van de eenheid en de aanbiedhuur anderzijds, bepaalt het systeem automatisch of de toewijzing voldoet aan de wettelijke criteria van de passendheidstoets en staatssteunregeling.
 
 Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Verantwoording verhuring**) is ingesteld dat de huishouddetails voor de verantwoording verhuring *niet* handmatig worden bepaald, d.w.z. dat de huishouddetails automatisch worden bepaald op basis van de informatie per persoon.
 
@@ -37,10 +37,10 @@ De verantwoording verhuring moet zijn gemarkeerd als zijnde *Definitief*, voorda
 16. Zodra u alle gegevens heeft geregistreerd en op juistheid heeft gecontroleerd, markeert u de verantwoording verhuring als zijnde definitief in veld **Verantwoording definitief**. Let op: zolang de verantwoording niet definitief is, kan de verhuuraanbieding niet worden geaccepteerd.
 17. Mocht het zo zijn dat nog niet alle benodigde gegevens beschikbaar zijn, maar de verhuuraanbieding al wel geaccepteerd moet worden, dan kunt u de indicatie **Incompleet dossier** aanvinken en een **Reden incompleet dossier** selecteren. Vervolgens kunt u - ondanks de aanwezigheid van fouten - de verantwoording toch als zijnde definitief markeren in veld **Verantwoording definitief**.
 18. Nadat de **verhuuraanbieding** is geaccepteerd, kunt u de gegevens van de definitieve **verantwoording verhuring** niet meer wijzigen. Als het toch noodzakelijk is deze gegevens aan te passen of aan te vullen (bijvoorbeeld omdat de indicatie incompleet dossier is aangevinkt), dan moet u een nieuwe versie van de verantwoording verhuring aanmaken. Dit doet u als volgt:
-17. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond).
-18. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
-19. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan.
-20. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**.
+19. Open de definitieve **verantwoording verhuring** (alle velden zijn grijs en kunnen niet meer worden gewijzigd en een notificatie bovenin de pagina wordt getoond).
+20. Klik op de knop **Nieuwe verantwoording**. Het systeem maakt een nieuwe versie van de verantwoording verhuring aan en kopieert alle beschikbare gegevens uit de vorige versie naar de nieuwe versie. Het systeem actualiseert ook het lijstje met betrokken personen op basis van de personen (contacten) binnen het huishouden.  
+21. Pas of vul daar waar nodig de gegevens in de nieuwe versie van de verantwoording verhuring aan.
+22. Markeer de nieuwe versie als zijnde definitief in veld **Verantwoording definitief**.
 
 ## Monitoren wettelijke normen
 
@@ -69,3 +69,14 @@ In deze stap schoont u de privacygevoelige gegevens uit de verantwoordingen verh
 3. Vul in veld **Opschoningspeildatum** de datum in die door het systeem wordt gebruikt als peildatum voor het selecteren van de verantwoordingen die moeten worden opgeschoond. Alle verantwoordingen worden opgeschoond waarvan de laatste versie als zijnde definitief is gemarkeerd en waarvan de huurcontractingangsdatum <= de ingevulde opschoningspeildatum.
 4. Geef aan of u de verantwoordingen verhuringen waarvan de laatste versie is aangemerkt als zijnde incompleet dossier, ook moeten worden opgeschoond.
 5. Klik op **OK**. Het systeem selecteert alle verantwoordingen die voldoen aan de genoemde criteria. Bij deze selectie kijkt het systeem per verantwoording alleen naar de laatste versie van die verantwoording. Als de *laatste* versie voldoet aan de selectiecriteria, dan schoont het systeem *alle* versies van die verantwoording op.
+
+## Zie ook
+
+[Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/)  
+[Registreren huuropzegging](registreren-huuropzegging/)  
+[Opstellen eindafrekening](opstellen-eindafrekening/)  
+[Innemen eenheid](innemen-eenheid/)  
+[Bepalen aanbiedhuur](Bepalen-aanbiedhuur/)  
+[Aanbieden eenheid](aanbieden-eenheid/)  
+[Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/)  
+[Opleveren eenheid](opleveren-eenheid/)

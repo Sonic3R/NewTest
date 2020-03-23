@@ -20,3 +20,10 @@ In deze stap drukt u de uitnodiging af voor ondertekening van de huurovereenkoms
 4. Navigeer naar de **Verhuuraanbieding**.  Een pagina wordt geopend met de details van de verhuuraanbieding.
 5. Klik op **Worddocument**. Een pagina wordt geopend waarop een lijst met beschikbare Word-sjablonen wordt getoond.
 6. Selecteer het Word-sjabloon voor het afdrukken van de uitnodiging voor ondertekening van de huurovereenkomst en klik op **OK**.
+
+## Zie ook
+
+[Beheren woningzoekende-informatie](beheren-woningzoekende-informatie/)  
+[Verlengen inschrijving woningzoekende](verlengen-inschrijving-woningzoekende/)  
+[Publiceren eenheid](publiceren-eenheid)  
+[Selecteren kandidaten](selecteren-kandidaten)

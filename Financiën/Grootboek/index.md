@@ -14,3 +14,15 @@ Werkproces | Omschrijving
 [Afsluiten jaar](afsluiten-jaar/) | 
 [Vereffenen grootboekposten](vereffenen-grootboekposten/) | 
 [Dichtzetten periode](dichtzetten-periode/) | 
+
+## Zie ook
+
+[Debiteuren](debiteuren/)  
+[Crediteuren](crediteuren/)  
+[Betalen en ontvangen](betalen-en-ontvangen/)  
+[Service en verbruik](service-en-verbruik/)  
+[Vaste activa](vaste-activa/)  
+[Btw](btw/)  
+[Budget](budget/)  
+[Incasso](incasso/)  
+[Treausry](treasury/)

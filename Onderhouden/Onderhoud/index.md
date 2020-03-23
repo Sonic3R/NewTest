@@ -12,3 +12,7 @@ Werkproces | Omschrijving
 [Beheren onroerend goed informatie](beheren-onroerend-goed-informatie/) | 
 [Initiëren onderhoudsproject](initiëren-onderhoudsproject/) | 
 [Uitvoeren onderhoudsproject](uitvoeren-onderhoudsproject/) | 
+
+## Zie ook
+
+[Logistiek](logistiek/)

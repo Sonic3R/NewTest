@@ -1,4 +1,3 @@
-
 # Voorbereiden jaarlijkse huurverhoging
 
 In dit werkproces wordt de jaarlijkse huurverhoging voorbereid. Doel is dat er nieuwe woningwaarderingen zijn aangemaakt voor alle OG Eenheden waarvan de nettohuur moet worden aangepast. De punten van deze nieuwe woningwaarderingen worden berekend op basis van enerzijds de nieuwe parameters die de Rijksoverheid heeft gepubliceerd voor het nieuwe tijdvak, en anderzijds de nieuwe WOZ-waarden die de gemeenten hebben aangeleverd. Op basis van de nieuwe woningwaarderingen wordt vervolgens per eenheid de nieuwe maximale huurprijs bepaald die geldt voor het nieuwe huurverhogingstijdvak.
@@ -47,3 +46,11 @@ In deze stap maakt u in bulk nieuwe woningwaarderingen aan voor alle OG Eenheden
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de WOZ-waarde uit een regel van de WOZ-gegevens van de OG Eenheid. Hierbij wordt de regel geselecteerd waarbij het veld **Jaar vanaf** het jaartal bevat waarbinnen de ingangsdatum van de woningwaardering valt. In het geval er meerdere regels voldoen aan dit criterium, dan wordt de regel geselecteerd met de hoogste **WOZ-peildatum**.
 De punten van deze nieuwe woningwaarderingen worden berekend op basis van de nieuwe WOZ-waarde en de nieuwe woningwaarderingparameters die u hiervoor heeft aangemaakt.
 Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die behoort bij het nieuwe aantal punten en bij het jaartal waarbinnen de ingangsdatum van de woningwaardering valt.
+
+## Zie ook
+
+[Bepalen huurverhogingsbeleid](bepalen-huurverhogingsbeleid/)  
+[Uitvoeren jaarlijkse huurprijsaanpassing](Uitvoeren-jaarlijkse-huurprijsaanpassing/)  
+[Rappeleren klant](rappeleren-klant/)  
+[Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/)  
+[Uitvoeren tussentijdse huurprijsaanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/)

@@ -5,3 +5,10 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Afhandelen overlast](afhandelen-overlast/) | 
+
+## Zie ook
+
+[Toewijzen](toewijzen/)  
+[Klanten](klanten/)  
+[Verhuur](uitvoeren-ontwikkelproject/)  
+[Huurprijs](uitvoeren-ontwikkelproject/)

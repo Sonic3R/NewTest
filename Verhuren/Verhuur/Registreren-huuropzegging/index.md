@@ -1,5 +1,6 @@
 # Registreren huuropzegging
-In dit werkproces wordt het huurcontract van een huurder op een eenheid beëindigd per een gegeven datum. Als de eenheid moet worden geïnspecteerd, worden bovendien afspraken geregistreerd voor de voor- en/of eindinspectie. Ten slotte wordt een bevestiging van de huuropzegging gestuurd. 
+
+In dit werkproces wordt het huurcontract van een huurder op een eenheid beëindigd per een gegeven datum. Als de eenheid moet worden geïnspecteerd, worden bovendien afspraken geregistreerd voor de voor- en/of eindinspectie. Ten slotte wordt een bevestiging van de huuropzegging gestuurd.
 
 ## Vastleggen huuropzegging
 
@@ -43,12 +44,22 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 10. Herhaal bovenstaande acties voor elke volgende inspectie die u wilt plannen.
 11. Klik op **Sluiten**.
 
-
 ## Bevestigingen huuropzegging
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
 2. Zoek de verhuurmutatie op waarvoor de bevestiging van de huuropzegging moet worden verstuurd.
-3. Open de detailpagina van de verhuurmutatie. 
+3. Open de detailpagina van de verhuurmutatie.
 4. Klik op **Navigeren** en kies voor **Huuropzeggingen**.
 5. Kies voor functie **Worddocument**.
-6. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**. 
+6. Selecteer het juiste Word-sjabloon voor de bevestiging van de huuropzegging en klik op **OK**.
+
+## Zie ook
+
+[Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/)  
+[Opstellen eindafrekening](opstellen-eindafrekening/)  
+[Innemen eenheid](innemen-eenheid/)  
+[Bepalen aanbiedhuur](Bepalen-aanbiedhuur/)  
+[Aanbieden eenheid](aanbieden-eenheid/)  
+[Verantwoorden verhuring](verantwoorden-verhuring/)  
+[Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/)  
+[Opleveren eenheid](opleveren-eenheid/)

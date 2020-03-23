@@ -11,3 +11,15 @@ Werkproces | Omschrijving
 [Factureren afrekening](factureren-afrekening/) | 
 [Crediteren overige diensten](crediteren-overige-diensten/) | 
 [Beheren rekening courant debiteuren](beheren-rekening-courant-debiteuren/) | De handmatige acties met debiteurenposten uitvoeren om de rekening courant van de debiteuren te beheren.
+
+## Zie ook
+
+[Crediteuren](crediteuren/)  
+[Betalen en ontvangen](betalen-en-ontvangen/)  
+[Service en verbruik](service-en-verbruik/)  
+[Vaste activa](vaste-activa/)  
+[Btw](btw/)  
+[Grootboek](grootboek/)  
+[Budget](budget/)  
+[Incasso](incasso/)  
+[Treausry](treasury/)

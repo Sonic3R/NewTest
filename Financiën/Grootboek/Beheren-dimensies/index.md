@@ -14,3 +14,15 @@ Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Dimensies**.
 2. Selecteer de dimensie waarvoor u een waarde wilt blokkeren en klik op **Dimensiewaarden**.
 3. Selecteer de dimensiewaarden die u wilt blokkeren en zet het vinkje in kolom **Geblokkeerd** op **Ja**.
+
+## Zie ook
+
+[Boeken memoriaal](boeken-memoriaal/)  
+[Boeken periodiek memoriaal](boeken-periodiek-memoriaal/)  
+[Verdelen posten naar eenheidsniveau](verdelen-posten-naar-eenheidsniveau/)  
+[Overboeken categoriaal naar functioneel](overboeken-categoriaal-naar-functioneel/)  
+[Verwerken DAEB/niet-DAEB-verdeling](verwerken-daeb-niet-daeb-verdeling/)  
+[Beheren clusterinformatie](beheren-clusterinformatie/)  
+[Afsluiten jaar](afsluiten-jaar/)  
+[Vereffenen grootboekposten](vereffenen-grootboekposten/)  
+[Dichtzetten periode](dichtzetten-periode/)

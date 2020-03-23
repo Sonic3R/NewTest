@@ -57,3 +57,15 @@ Wanneer het dagboek goedgekeurd is kunt u het dagboek boeken.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Diversendagboek**. Selecteer in het scherm dat opent het dagboek dat u wilt boeken klik op **OK**.
 2. Het scherm waarin u dagboekregels aan kunt maken opent. Selecteer in het veld **Batchnaam** de batch waarin u de regels wilt boeken en klik op **Boeken**.
+
+## Zie ook
+
+[Beheren dimensies](beheren-dimensies/)  
+[Boeken periodiek memoriaal](boeken-periodiek-memoriaal/)  
+[Verdelen posten naar eenheidsniveau](verdelen-posten-naar-eenheidsniveau/)  
+[Overboeken categoriaal naar functioneel](overboeken-categoriaal-naar-functioneel/)  
+[Verwerken DAEB/niet-DAEB-verdeling](verwerken-daeb-niet-daeb-verdeling/)  
+[Beheren clusterinformatie](beheren-clusterinformatie/)  
+[Afsluiten jaar](afsluiten-jaar/)  
+[Vereffenen grootboekposten](vereffenen-grootboekposten/)  
+[Dichtzetten periode](dichtzetten-periode/)

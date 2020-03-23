@@ -7,5 +7,5 @@
 [Plannen onderhoudsorder](../plannen-onderhoudsorder/)  
 [Uitvoeren onderhoudsorder](../uitvoeren-onderhoudsorder/)  
 [Beheren onroerend goed informatie](../beheren-onroerend-goed-informatie/)  
-[Initiëren onderhoudsproject](../initieren-onderhoudsproject/)  
+[Initiëren onderhoudsproject](../initiëren-onderhoudsproject/)  
 [Uitvoeren onderhoudsproject](../uitvoeren-onderhoudsproject/)

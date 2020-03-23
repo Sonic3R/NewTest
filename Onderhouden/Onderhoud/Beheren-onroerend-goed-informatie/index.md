@@ -7,5 +7,5 @@
 [Plannen onderhoudsorder](../plannen-onderhoudsorder/)  
 [Uitvoeren onderhoudsorder](../uitvoeren-onderhoudsorder/)  
 [Uitvoeren contractueel onderhoud](../uitvoeren-contractueel-onderhoud/)  
-[Initiëren onderhoudsproject](../initieren-onderhoudsproject/)  
+[Initiëren onderhoudsproject](../initiëren-onderhoudsproject/)  
 [Uitvoeren onderhoudsproject](../uitvoeren-onderhoudsproject/)

@@ -1,5 +1,7 @@
 # Beheren clusterinformatie
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  

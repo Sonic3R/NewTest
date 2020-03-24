@@ -1,5 +1,7 @@
 # Factureren verkoop onroerend goed
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  

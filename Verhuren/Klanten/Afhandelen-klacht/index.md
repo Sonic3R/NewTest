@@ -1,5 +1,7 @@
 # Afhandelen klacht
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren klantinformatie](../beheren-klantinformatie/)  

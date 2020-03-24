@@ -1,5 +1,7 @@
 # Uitvoeren contractueel onderhoud
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Uitvoeren inspectie](../uitvoeren-inspectie/)  

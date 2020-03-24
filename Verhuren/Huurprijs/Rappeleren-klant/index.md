@@ -1,5 +1,7 @@
 # Rappeleren klant
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  

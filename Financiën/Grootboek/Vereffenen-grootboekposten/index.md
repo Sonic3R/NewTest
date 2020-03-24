@@ -1,5 +1,7 @@
 # Vereffenen grootboekposten
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  

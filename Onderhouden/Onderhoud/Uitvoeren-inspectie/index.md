@@ -1,5 +1,7 @@
 # Uitvoeren inspectie
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Registreren onderhoudsverzoek](../registreren-onderhoudsverzoek/)  

@@ -1,5 +1,7 @@
 # Selecteren kandidaten
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren woningzoekende-informatie](../beheren-woningzoekende-informatie/)  

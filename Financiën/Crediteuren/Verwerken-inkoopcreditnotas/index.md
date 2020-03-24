@@ -1,5 +1,7 @@
 # Verwerken inkoopcreditnota's
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Ontvangen inkoopfacturen](../ontvangen-inkoopfacturen/)  

@@ -1,5 +1,7 @@
 # Meten klanttevredenheid
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren klantinformatie](../beheren-klantinformatie/)  

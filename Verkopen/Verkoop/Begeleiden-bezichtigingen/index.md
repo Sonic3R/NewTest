@@ -1,5 +1,7 @@
 # Begeleiden bezichtigingen
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Bepalen verkoopvorm](../bepalen-verkoopvorm/)  

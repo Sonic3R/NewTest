@@ -1,5 +1,7 @@
 # Notarieel afhandelen verkoop
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Bepalen verkoopvorm](../bepalen-verkoopvorm/)  

@@ -1,5 +1,7 @@
 # Vaststellen kosten en opbrengsten
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Bepalen nieuwe voorschotten](../bepalen-nieuwe-voorschotten/)  

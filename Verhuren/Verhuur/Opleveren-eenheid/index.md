@@ -1,5 +1,7 @@
 # Opleveren eenheid
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  

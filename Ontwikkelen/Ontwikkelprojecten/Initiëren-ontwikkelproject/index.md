@@ -1,5 +1,7 @@
 # Initiëren ontwikkelproject
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Uitvoeren ontwikkelproject](../uitvoeren-ontwikkelproject/)  

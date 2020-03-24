@@ -1,5 +1,7 @@
 # Beheren onroerend goed informatie
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Uitvoeren inspectie](../uitvoeren-inspectie/)  

@@ -1,5 +1,7 @@
 # Boeken periodiek memoriaal
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  

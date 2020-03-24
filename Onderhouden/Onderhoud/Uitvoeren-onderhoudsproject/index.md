@@ -1,5 +1,7 @@
 # Uitvoeren onderhoudsproject
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Uitvoeren inspectie](../uitvoeren-inspectie/)  

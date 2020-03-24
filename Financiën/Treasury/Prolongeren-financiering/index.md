@@ -1,5 +1,7 @@
 # Prolongeren financiering
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren financiering](../beheren-financiering/)  

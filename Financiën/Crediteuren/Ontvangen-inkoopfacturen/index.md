@@ -1,5 +1,7 @@
 # Ontvangen inkoopfacturen
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Verwerken inkoopfacturen](../verwerken-inkoopfacturen/)  

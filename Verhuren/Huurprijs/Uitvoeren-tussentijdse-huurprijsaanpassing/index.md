@@ -1,5 +1,7 @@
 # Uitvoeren tussentijdse huurprijsaanpassing
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  

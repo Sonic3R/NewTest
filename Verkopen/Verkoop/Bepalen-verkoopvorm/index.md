@@ -1,5 +1,7 @@
 # Bepalen verkoopvorm
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Bepalen vraagprijs](../bepalen-vraagprijs/)  

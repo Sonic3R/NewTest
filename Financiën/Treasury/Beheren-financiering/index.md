@@ -1,5 +1,7 @@
 # Beheren financiering
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Generen overzicht gerealiseerde kasstromen](../generen-overzicht-gerealiseerde-kasstromen/)  

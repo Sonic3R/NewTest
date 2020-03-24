@@ -1,5 +1,7 @@
 # Verdelen posten naar eenheidsniveau
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  

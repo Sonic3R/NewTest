@@ -1,5 +1,7 @@
 # Aanbieden eenheid
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Bepalen verkoopvorm](../bepalen-verkoopvorm/)  

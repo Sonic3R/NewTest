@@ -1,5 +1,7 @@
 # Onderhandelen verkoopprijs
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Bepalen verkoopvorm](../bepalen-verkoopvorm/)  

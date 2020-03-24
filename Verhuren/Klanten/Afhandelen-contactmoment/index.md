@@ -1,5 +1,7 @@
 # Afhandelen contactmoment
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Beheren klantinformatie](../beheren-klantinformatie/)  

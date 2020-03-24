@@ -1,5 +1,7 @@
 # Beheren woningzoekende-informatie
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Verlengen inschrijving woningzoekende](../verlengen-inschrijving-woningzoekende/)  

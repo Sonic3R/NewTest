@@ -1,5 +1,7 @@
 # Afhandelen huurverhogingsbezwaren
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  

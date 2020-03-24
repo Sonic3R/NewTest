@@ -1,5 +1,7 @@
 # Verwerken overige betaalverzoeken
 
+Binnenkort beschikbaar
+
 ## Zie ook
 
 [Aanleveren betaalbestand](../aanleveren-betaalbestand/)  

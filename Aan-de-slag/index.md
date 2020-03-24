@@ -5,9 +5,9 @@ Voor iedere hoofdfunctie is een eigen sectie ingericht, waarbinnen alle bedrijfs
 
 Hoofdfunctie | Omschrijving
 :--- | :---
-[Ontwikkelen](../ontwikkelen/) | Omschrijving van de hoofdfunties
-[Verhuren](../verhuren/) | Omschrijving van de hoofdfunties
-[Onderhouden](../onderhouden/) | Omschrijving van de hoofdfunties
-[Verkopen](../verkopen/) | Omschrijving van de hoofdfunties
-[Inkopen](../inkopen/) | Omschrijving van de hoofdfunties
-[Financiën](../financiën/) | Omschrijving van de hoofdfunties
+[Ontwikkelen](../ontwikkelen/) | Omschrijving van de hoofdfuncties
+[Verhuren](../verhuren/) | Omschrijving van de hoofdfuncties
+[Onderhouden](../onderhouden/) | Omschrijving van de hoofdfuncties
+[Verkopen](../verkopen/) | Omschrijving van de hoofdfuncties
+[Inkopen](../inkopen/) | Omschrijving van de hoofdfuncties
+[Financiën](../financiën/) | Omschrijving van de hoofdfuncties

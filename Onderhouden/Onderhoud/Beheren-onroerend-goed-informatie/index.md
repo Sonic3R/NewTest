@@ -9,6 +9,7 @@ Dit werkproces betreft het aanmaken van nieuwe onroerend goed eenheden en het be
 - Cartotheekitems van de eenheid 
 
 ## Aanmaken nieuwe eenheid
+
 In deze stap maakt u een nieuwe onroerend goed eenheid aan, inclusief het unieke eenheidsnummer en de koppeling aan een eenheidstype en eenheidsdetailsoort. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**. 
@@ -23,6 +24,7 @@ In deze stap maakt u een nieuwe onroerend goed eenheid aan, inclusief het unieke
 10.  Selecteer de **VERA-eenheiddetailsoort** waartoe de eenheid behoort in veld **Eenheiddetailsoort** in tabblad **VERA-eigenschappen**.  
 
 ## Aanpassen adres 
+
 In deze stap past u het adres van een bestaande eenheid aan. 
  
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**. 
@@ -31,8 +33,8 @@ In deze stap past u het adres van een bestaande eenheid aan.
 4. Verlaat het veld **Straatnaam**. Het systeem vult automatisch alle velden van het adres met de juiste waarden. 
 5. Het systeem koppelt aan de hand van de postcode/huisnummer-combinatie automatisch de juiste **CBS-buurt**, **CBS-wijk** en **Gemeente** aan de OG Eenheid. 
 
-
 ## Koppelen BAG-verblijfsobject 
+
 In deze stap koppelt u een BAG-verblijfsobject aan een OG Eenheid. Dit kunt u doen voor een individuele OG Eenheid of in bulk voor alle OG Eenheden. Voor een individuele eenheid gaat u als volgt te werk. 
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **Onr. Goed-Eenhedenoverzicht**. 
@@ -46,18 +48,16 @@ Om BAG-verblijfsobjecten in bulk toe te wijzen aan alle eenheden gaat u als volg
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de taak **BAG Import**. 
 2.  Klik op **Eenheid bij BAG zoeken**. Het systeem gaat nu proberen BAG-verblijfsobjecten te koppelen aan *alle* OG Eenheden in *alle* bedrijven. 
 
-
 ## Toewijzen dimensiewaarden 
+
 In deze stap wijst u dimensiewaarden toe aan een OG Eenheid. 
 
-
-
 ## Aanpassen gegevens t.b.v. onderhoud 
+
 In deze stap wijst u een vraagboomsoort en één of meerdere onderhoudsvormen toe aan een OG Eenheid. 
 
-
-
 ## Importeren nieuwe WOZ-waarden 
+
 In deze stap importeert u nieuwe WOZ-waarden van OG Eenheden, zodat deze per OG Eenheid in de vorm van een nieuwe regel worden toegevoegd in de WOZ-gegevens van die OG Eenheid. U kunt WOZ-waarden in bulk importeren met behulp van een CSV-bestand dat per OG Eenheid één regel met de volgende velden (gescheiden door komma's) bevat: 
 
  - Type = *WOZ-gegevens* 
@@ -84,11 +84,9 @@ Ook kunt u handmatig een nieuwe regel toevoegen of een bestaande regel aanpassen
 6. Om een nieuwe regel toe te voegen, selecteer een lege regel, selecteer een **WOZ-peildatum**, voer de **WOZ-taxatiewaarde** in en voer ene **Jaar vanaf** in. 
 7. Sluit de pagina. 
 
-
 ## Aanpassen cartotheekitems 
+
 In deze stap past u de cartotheekitems van een OG Eenheid aan. 
-
-
 
 ## Zie ook
 

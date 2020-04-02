@@ -71,7 +71,6 @@ Het verbeteren van projectnaam en -omschrijving is een actie die de projectleide
 3. Voer vervolgens (indien van toepassing) de velden **Functiecode**, **Bedrijfsnaam**, **Telefoon** en **E-mail** in.
 4. De contactpersoon staat nu gekoppeld aan het project. Dit is ook te vinden op het tabblad **Algemeen**. De drie contactpersonen met de hoogste prioriteit worden hier getoond.
 
->Uniformiteitsafspraak: Voor een consistente naamgeving is het raadzaam om de volgende richtlijn aan te houden:
+>**Uniformiteitsafspraak**: Voor een consistente naamgeving is het raadzaam om de volgende richtlijn aan te houden:
 **Naam** = Soort werk (schilderwerk) + clusternummer (TC0102) of indien meer clusters, (diverse clusters)
 **Omschrijving** = uitgebreide omschrijving werk (Schilderwerk kozijnen, ramen, deuren, boeiborden)
-

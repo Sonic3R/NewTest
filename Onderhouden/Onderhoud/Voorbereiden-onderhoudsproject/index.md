@@ -53,7 +53,7 @@ tabblad **Voorlopige projectregels**.
 5. Kies nu voor de functie **Aanmaken onderhoudsprojecten**.
 6. Na het voltooien van deze actie geeft Dynamics Empire aan dat er een X aantal projecten is aangemaakt. Klik op **OK** om de melding te sluiten.
 Er kunnen vanaf dit moment geen wijzigingen meer worden aangebracht op de **Kladblokbudgetimportkaart**. Alle correcties van fouten in de voorbereiding dienen in de projectadministratie te worden gecorrigeerd.
-7. Maak een taak aan (zie stap 3), gericht aan jouw collega die de Projectvoorbereiding heeft uitgevoerd, en geef de stand van zaken door (bijvoorbeeld "Er zijn 5 onderhoudsprojecten aangemaakt.").
+7. Maak een taak aan (zie stap 3), gericht aan uw collega die de Projectvoorbereiding heeft uitgevoerd, en geef de stand van zaken door (bijvoorbeeld "Er zijn 5 onderhoudsprojecten aangemaakt.").
 8. Sluit de Kladblokbudgetimportkaart.
 
 ### Verbeteren projectnaam en omschrijving
@@ -62,7 +62,6 @@ Het verbeteren van projectnaam en -omschrijving is een actie die de projectleide
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projecten**.
 2. Open een projectkaart door op het juiste projectnummer te klikken.
-3. Op de **Projectkaart** is op tabblad **Algemeen** een projectnummer en -omschrijving te zien. Deze kenmerken van het project worden door het systeem bepaald op basis van de bovenste voorlopige projectregel op de Kladblokbudgetimportkaart en dekt mogelijk niet de lading voor alle regels die aan het project zijn gekoppeld. Deze regels zijn terug te zien op tabblad **Budgetregels**. Doorloop alle projecten en pas de Naam en Omschrijving aan. Gebruik hierbij de bladerknoppen in het lint.
+*3. Op de **Projectkaart** is op tabblad **Algemeen** een projectnummer en -omschrijving te zien. Deze kenmerken van het project worden door het systeem bepaald op basis van de bovenste voorlopige projectregel op de Kladblokbudgetimportkaart en dekt mogelijk niet de lading voor alle regels die aan het project zijn gekoppeld. Deze regels zijn terug te zien op tabblad **Budgetregels**. Doorloop alle projecten en pas de Naam en Omschrijving aan. Gebruik hierbij de bladerknoppen in het lint.*
 
-
-
+### Toevoegen contactpersonen aan project

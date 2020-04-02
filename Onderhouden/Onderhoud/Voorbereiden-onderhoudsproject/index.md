@@ -60,8 +60,18 @@ Er kunnen vanaf dit moment geen wijzigingen meer worden aangebracht op de **Klad
 
 Het verbeteren van projectnaam en -omschrijving is een actie die de projectleider moet uitvoeren, direct na het aanmaken van onderhoudsprojecten. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projecten**.
-2. Open een projectkaart door op het juiste projectnummer te klikken.
-*3. Op de **Projectkaart** is op tabblad **Algemeen** een projectnummer en -omschrijving te zien. Deze kenmerken van het project worden door het systeem bepaald op basis van de bovenste voorlopige projectregel op de Kladblokbudgetimportkaart en dekt mogelijk niet de lading voor alle regels die aan het project zijn gekoppeld. Deze regels zijn terug te zien op tabblad **Budgetregels**. Doorloop alle projecten en pas de Naam en Omschrijving aan. Gebruik hierbij de bladerknoppen in het lint.*
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Open een projectkaart door de juiste regel te selecteren en op **Bewerken** te klikken.
+3. Op de **Projectkaart** is op tabblad **Algemeen** een **Naam** en **Omschrijving** te zien. Deze worden door het systeem bepaald op basis van de bovenste voorlopige projectregel op de Kladblokbudgetimportkaart en dekken mogelijk niet de lading voor alle regels die aan het project zijn gekoppeld. Deze regels zijn terug te zien op tabblad **Budgetregels**. Doorloop alle projecten en pas waar nodig de **Naam** en **Omschrijving** aan. U kunt hiervoor gebruik maken van de pijlknoppen links en rechts in het scherm, aan weerszijden van de projectkaart.
 
 ### Toevoegen contactpersonen aan project
+
+1. Het toevoegen van een contactpersoon aan een project kan op tabblad **Contactpersonen** op de projectkaart.
+2. Klik op de dropdownknop in veld **Contactnr.** en selecteer de juiste contactpersoon.
+3. Voer vervolgens (indien van toepassing) de velden **Functiecode**, **Bedrijfsnaam**, **Telefoon** en **E-mail** in.
+4. De contactpersoon staat nu gekoppeld aan het project. Dit is ook te vinden op het tabblad **Algemeen**. De drie contactpersonen met de hoogste prioriteit worden hier getoond.
+
+>Uniformiteitsafspraak: Voor een consistente naamgeving is het raadzaam om de volgende richtlijn aan te houden:
+**Naam** = Soort werk (schilderwerk) + clusternummer (TC0102) of indien meer clusters, (diverse clusters)
+**Omschrijving** = uitgebreide omschrijving werk (Schilderwerk kozijnen, ramen, deuren, boeiborden)
+

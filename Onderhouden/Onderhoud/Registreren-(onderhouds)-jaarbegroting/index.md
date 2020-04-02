@@ -16,11 +16,11 @@ In dit proces worden alle uitvoeringsactiviteiten van de jaarbegroting ingelezen
 	* **Voorlopige projectregels**: Op dit tabblad vindt u de begrotingsregels na verwerking.
 	* **Functies**: Op dit tabblad kunt u functies toekennen aan de contactpersonen (projectteam) van geïmporteerde begrotingsregels.
 4. Kies voor de actie/functie **Budget importeren** om een bestand met begrotingsregels te importeren. Dynamics Empire opent een venster genaamd **Import budget planmatig onderhoud**. Vul de velden in dit venster in als volgt:
-    * **Importsjablooncode**: de code van het te gebruiken importsjabloon.
-    * **Omschrijving**: de omschrijving van het importsjabloon en is aan te passen naar een omschrijving voor. het geïmporteerde bestaand (bijvoorbeeld begroting PO 2017).
-    * **Bestandsnaam**: Selecteer met behulp van de sysedit (…) het te importeren bestand.
-    * **Projecttype**: betreft de projecttype van de begrotingsregels die je wilt importeren (PO-CO-SO).
-    * **Begrotingsjaar**: betreft een boekjaar van de begrotingsregels.
+    * **Importsjablooncode**: Dit is de code van het te gebruiken importsjabloon.
+    * **Omschrijving**: Hier staat de omschrijving van het importsjabloon; deze is aan te passen naar een omschrijving voor het geïmporteerde bestaand (bijvoorbeeld begroting PO 2017).
+    * **Bestandsnaam**: Selecteer met behulp van de assistedit (…) het te importeren bestand.
+    * **Projecttype**: Dit betreft het projecttype van de begrotingsregels die u wilt importeren (PO-CO-SO).
+    * **Begrotingsjaar**: Dit betreft een boekjaar van de begrotingsregels.
 5. Klik op **Import**. Wanneer de import slaagt, krijgt u hiervan een melding: 'De import is succesvol verlopen.' Sluit de melding.
 6. Het resultaat is te zien op de bovenste twee onderdelen van de Kladblokbudgetimportkaart. Sluit de kaart.
 7. Terug op het Kladblokimportoverzicht ziet u nu een nieuw record waarin handmatige begrotingsregels zijn geïmporteerd.

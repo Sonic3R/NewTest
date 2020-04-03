@@ -12,4 +12,5 @@ Binnenkort beschikbaar
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Afsluiten jaar](../afsluiten-jaar/)  
 [Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
-[Dichtzetten periode](../dichtzetten-periode/)
+[Dichtzetten periode](../dichtzetten-periode/)  
+[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)

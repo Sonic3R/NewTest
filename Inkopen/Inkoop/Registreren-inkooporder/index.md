@@ -41,4 +41,5 @@ Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwi
 [Accorderen prestatie](../accorderen-prestatie/)  
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Beheren leveranciersinformatie](../beheren-leveranciersinformatie/)  
-[Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)
+[Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)  
+[Inkopen PO/VGO](../inkopen-po-vgo/)

@@ -13,3 +13,4 @@ Wanneer de leverancier de prestatie voor de inkooporder geleverd heeft, dient di
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Beheren leveranciersinformatie](../beheren-leveranciersinformatie/)  
 [Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)
+[Inkopen PO/VGO](../inkopen-po-vgo/)

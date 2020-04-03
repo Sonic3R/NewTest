@@ -5,5 +5,5 @@ Binnenkort beschikbaar
 ## Zie ook
 
 [Beheren financiering](../beheren-financiering/)  
-[Generen overzicht gerealiseerde kasstromen](../generen-overzicht-gerealiseerde-kasstromen/)  
+[Genereren overzicht gerealiseerde kasstromen](../genereren-overzicht-gerealiseerde-kasstromen/)  
 [Prognosticeren kasstromen](../prognosticeren-kasstromen/)

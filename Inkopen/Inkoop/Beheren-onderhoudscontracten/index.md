@@ -8,3 +8,4 @@ Binnenkort beschikbaar
 [Accorderen prestatie](../accorderen-prestatie/)  
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Beheren leveranciersinformatie](../beheren-leveranciersinformatie/)
+[Inkopen PO/VGO](../inkopen-po-vgo/)

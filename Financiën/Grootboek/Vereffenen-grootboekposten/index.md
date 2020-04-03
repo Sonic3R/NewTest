@@ -12,5 +12,5 @@ Binnenkort beschikbaar
 [Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Afsluiten jaar](../afsluiten-jaar/)  
-[Dichtzetten periode](../dichtzetten-periode/)
+[Dichtzetten periode](../dichtzetten-periode/)  
 [Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)

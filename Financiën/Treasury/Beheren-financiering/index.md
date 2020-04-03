@@ -4,6 +4,6 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Generen overzicht gerealiseerde kasstromen](../generen-overzicht-gerealiseerde-kasstromen/)  
+[Genereren overzicht gerealiseerde kasstromen](../genereren-overzicht-gerealiseerde-kasstromen/)  
 [Prognosticeren kasstromen](../prognosticeren-kasstromen/)  
 [Prolongeren financiering](../prolongeren-financiering/)

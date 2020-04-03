@@ -70,3 +70,4 @@ Nadat u de boekingen t.b.v. de jaarafsluiting verwerkt heeft dient u de instelli
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
 [Dichtzetten periode](../dichtzetten-periode/)
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)

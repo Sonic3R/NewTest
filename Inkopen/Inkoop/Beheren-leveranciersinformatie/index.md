@@ -62,3 +62,4 @@ Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de
 [Accorderen prestatie](../accorderen-prestatie/)  
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)
+[Inkopen PO/VGO](../inkopen-po-vgo/)

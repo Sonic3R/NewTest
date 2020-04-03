@@ -1,4 +1,4 @@
-# Begeleiden bezichtigingen
+# Terugkopen eenheid
 
 Binnenkort beschikbaar
 
@@ -7,6 +7,6 @@ Binnenkort beschikbaar
 [Bepalen verkoopvorm](../bepalen-verkoopvorm/)  
 [Bepalen vraagprijs](../bepalen-vraagprijs/)  
 [Aanbieden eenheid](../aanbieden-eenheid/)  
+[Begeleiden bezichtigingen](../begeleiden-bezichtigingen/)  
 [Onderhandelen verkoopprijs](../onderhandelen-verkoopprijs/)  
-[Notarieel afhandelen verkoop](../notarieel-afhandelen-verkoop/)  
-[Terugkopen eenheid](../terugkopen-eenheid/)
+[Notarieel afhandelen verkoop](../notarieel-afhandelen-verkoop/)

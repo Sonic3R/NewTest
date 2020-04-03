@@ -26,3 +26,4 @@ Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn 
 [Afsluiten jaar](../afsluiten-jaar/)  
 [Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
 [Dichtzetten periode](../dichtzetten-periode/)
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)

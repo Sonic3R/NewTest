@@ -13,3 +13,4 @@ Binnenkort beschikbaar
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Afsluiten jaar](../afsluiten-jaar/)  
 [Dichtzetten periode](../dichtzetten-periode/)
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)

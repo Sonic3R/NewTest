@@ -69,3 +69,4 @@ Wanneer het dagboek goedgekeurd is kunt u het dagboek boeken.
 [Afsluiten jaar](../afsluiten-jaar/)  
 [Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
 [Dichtzetten periode](../dichtzetten-periode/)
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)

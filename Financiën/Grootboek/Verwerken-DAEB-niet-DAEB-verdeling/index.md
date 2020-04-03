@@ -56,5 +56,5 @@ Wanneer er boekingen t.b.v. DAEB/niet-DAEB zijn die handmatig verwerkt dienen te
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Afsluiten jaar](../afsluiten-jaar/)  
 [Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
-[Dichtzetten periode](../dichtzetten-periode/)
+[Dichtzetten periode](../dichtzetten-periode/)  
 [Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)

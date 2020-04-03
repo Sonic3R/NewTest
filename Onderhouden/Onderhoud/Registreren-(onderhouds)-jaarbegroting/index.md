@@ -27,5 +27,15 @@ In dit proces worden alle uitvoeringsactiviteiten van de jaarbegroting ingelezen
 Wanneer u een foutief bestand heeft geïmporteerd, selecteer dan de betreffende regel en klik op **Verwijderen**. De Kladblokbudgetimportkaart wordt dan in zijn geheel verwijderd.
 8. Voor het eventueel verder verwerken van de begrotingsregels selecteert u het nieuwe record en kiest u voor **Bewerken**, waarmee de kaart in een bewerkbare vorm wordt geopend.
 
-    
+## Zie ook
+
+[Actualiseren prognose](../actualiseren-prognose/)  
+[Beheren onroerend goed informatie](../beheren-onroerend-goed-informatie/)  
+[Bewaken onderhoudsproject](../bewaken-onderhoudsproject/)  
+[Plannen onderhoudsorder](../plannen-onderhoudsorder/)  
+[Registreren onderhoudsverzoek](../registreren-onderhoudsverzoek/)  
+[Uitvoeren contractueel onderhoud](../uitvoeren-contractueel-onderhoud/)  
+[Uitvoeren inspectie](../uitvoeren-inspectie/)  
+[Uitvoeren onderhoudsorder](../uitvoeren-onderhoudsorder/)  
+[Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
   

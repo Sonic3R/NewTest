@@ -88,4 +88,11 @@ Wanneer voor het plannen van activiteiten gebruik gemaakt wordt van **MS-Project
 
 ## Uitwerken plan
 
+### Opstellen (globale) projectplanning
+
+Als de planning wordt opgesteld in MS-Project, worden de activiteiten gepland in MS-Project. Wanneer start- en/of einddatum (mijlpalen) wijzigen, worden deze automatisch doorgezet naar de projectadministratie in Dynamics Empire
+
+### Opstellen bestek
+
+De projectleider planmatig onderhoud stelt een werkomschrijving en bestek op ten behoeve van de inkoop van het planmatig onderhoud. In de werkomschrijving en bestek zijn de aard van de werkzaamheden, technische elementen en gewenste planning beschreven.
 

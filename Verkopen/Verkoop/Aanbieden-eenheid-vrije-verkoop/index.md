@@ -4,9 +4,7 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Bepalen vraagprijs](../bepalen-vraagprijs/)  
-[Aanbieden eenheid](../aanbieden-eenheid/)  
-[Begeleiden bezichtigingen](../begeleiden-bezichtigingen/)  
-[Onderhandelen verkoopprijs](../onderhandelen-verkoopprijs/)  
-[Notarieel afhandelen verkoop](../notarieel-afhandelen-verkoop/)  
-[Terugkopen eenheid](../terugkopen-eenheid/)
+[Aanbieden eenheid zittende huurder](../aanbieden-eenheid-zittende-huurder/)  
+[Afsluiten verkoopovereenkomst](../afsluiten-verkoopovereenkomst/)  
+[Terugkopen eenheid](../terugkopen-eenheid/)  
+[Voorbereiden verkoop](../voorbereiden-verkoop/)  

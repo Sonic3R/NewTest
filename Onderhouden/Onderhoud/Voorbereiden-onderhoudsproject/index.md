@@ -64,13 +64,28 @@ Het verbeteren van projectnaam en -omschrijving is een actie die de projectleide
 2. Open een projectkaart door de juiste regel te selecteren en op **Bewerken** te klikken.
 3. Op de **Projectkaart** is op tabblad **Algemeen** een **Naam** en **Omschrijving** te zien. Deze worden door het systeem bepaald op basis van de bovenste voorlopige projectregel op de Kladblokbudgetimportkaart en dekken mogelijk niet de lading voor alle regels die aan het project zijn gekoppeld. Deze regels zijn terug te zien op tabblad **Budgetregels**. Doorloop alle projecten en pas waar nodig de **Naam** en **Omschrijving** aan. U kunt hiervoor gebruik maken van de pijlknoppen links en rechts in het scherm, aan weerszijden van de projectkaart.
 
+## Plannen projecten
+
+De projecten worden gepland (uitvoeringsjaar) en voor ieder afzonderlijk project wordt de projectorganisatie vastgesteld. Zowel de planning (start- en einddatum) als de projectorganisatie worden in de projectadministratie vastgelegd.
+
+### Projecten plannen (MS-Project)
+
+Wanneer voor het plannen van activiteiten gebruik gemaakt wordt van **MS-Project**, dienen projecten te worden doorgezet naar MS-Project (integratie Dynamics Empire en MS-Project). Vanaf dat moment vindt synchronisatie plaats van start- en einddatum tussen MS-Project en de projectadministratie.
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Projectoverzicht** en open het juiste project door de regel te selecteren en op **Bewerken** te klikken.
+2. Vul op tabblad **Algemeen** de **Startdatum** en **Opleverdatum** in.
+3. Kies voor de actie **Openen in MS Project**. Hiermee wordt het betreffende project in MS Project geopend. Als er nog geen project in MS Project bestond, moet dit eerst worden aangemaakt (geëxporteerd). Als er al eerder een export vanuit Dynamics Empire naar MS Project heeft plaatsgevonden, dan wordt het bestaande projectplan geopend en getoond.
+>Afhankelijk van de instelling worden óf de werksoorten en resources óf de projectfases vanuit Dynamics Empire naar MS-Project geëxporteerd. 
+4. Kies voor de actie **Vanuit MS Project importeren**. Hiermee worden de data van het betreffende project van MS Project in Dynamics Empire geïmporteerd. Bij de import worden alleen de datumvelden van in Dynamics Empire bestaande regels (fasen of werksoorten) geactualiseerd. Er worden geen nieuwe regels (in MS Project: taken) aangemaakt of verwijderd in Dynamics Empire. Bij het importeren wordt ook de in MS Project ingestelde voorgaande planningsactiviteit (predecessor) geïmporteerd, zodat deze bij een nieuwe export weer wordt aangemaakt. Deze voorganger is onder Microsoft Dynamics NAV niet muteerbaar en er wordt geen rekening mee gehouden met de start- en einddatumcontrole.
+5. Kies voor de actie **Naar MS Project exporteren**. Hiermee worden de data van het betreffende project vanuit Dynamics Empire naar MS Project geëxporteerd. Het project wordt direct in MS Project geopend.
+
 ### Toevoegen contactpersonen aan project
 
-1. Het toevoegen van een contactpersoon aan een project kan op tabblad **Contactpersonen** op de projectkaart.
-2. Klik op de dropdownknop in veld **Contactnr.** en selecteer de juiste contactpersoon.
-3. Voer vervolgens (indien van toepassing) de velden **Functiecode**, **Bedrijfsnaam**, **Telefoon** en **E-mail** in.
-4. De contactpersoon staat nu gekoppeld aan het project. Dit is ook te vinden op het tabblad **Algemeen**. De drie contactpersonen met de hoogste prioriteit worden hier getoond.
+1. Het toevoegen van een contactpersoon binnen een project kan op het tabblad **Contactpersonen**. Klik daartoe onder **Beheren** (bovenin tabblad) op **Nieuwe regel**, of klik in een lege regel in het veld **Contactnr.**.
+2. Klik op het dropdown-pijltje en selecteer de juiste contactpersoon.
+3. Voer vervolgens (indien van toepassing) de **Functiecode**, **Bedrijfsnaam**, **Telefoon** en **E-mail** in.
+4. De contactpersoon staat nu gekoppeld aan het project. Dit is ook terug te vinden op het tablad Algemeen; de drie contactpersonen met de hoogste prioriteit worden daar getoond.
 
->**Uniformiteitsafspraak**: Voor een consistente naamgeving is het raadzaam om de volgende richtlijn aan te houden:
->* **Naam** = Soort werk (schilderwerk) + clusternummer (TC0102) of indien meer clusters, (diverse clusters)
->* **Omschrijving** = uitgebreide omschrijving werk (Schilderwerk kozijnen, ramen, deuren, boeiborden)
+## Uitwerken plan
+
+

@@ -36,5 +36,5 @@ Wanneer u in de voorgaande stap uitzonderingen per gebruiker opgevoerd heeft en 
 [Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Afsluiten jaar](../afsluiten-jaar/)  
-[Vereffenen grootboekposten](../vereffenen-grootboekposten/)
+[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
 [Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)

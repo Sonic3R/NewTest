@@ -10,7 +10,7 @@ Als u begint met het typen van tekens, geeft Business Central direct overeenkoms
 
 De kolom rechts geeft de algemene categorie van het resultaat aan, bijvoorbeeld 'Lijsten' of 'Taken' of 'Rapporten en analyse'.  
 
-Onder aan het venster **Vertel me wat u wilt doen** wordt een actie **verkennen** weergegeven waarmee een functieoverzicht wordt geopend dat alle beschikbare functies voor uw rol of voor alle rollen toont. Dit opent u door op de link **Probeer het uit** te klikken. Zie voor meer informatie [Pagina's zoeken met de rolverkenner](../Paginas-zoeken-met-de-Rolverkenner/).
+Onder aan het venster **Vertel me wat u wilt doen** wordt een link met de tekst **Probeer het uit** weergegeven waarmee een functieoverzicht wordt geopend dat alle beschikbare functies voor uw rol of voor alle rollen toont. Zie voor meer informatie [Pagina's zoeken met de rolverkenner](../Paginas-zoeken-met-de-Rolverkenner/).
 
 > [!NOTE]  
 > Als u liever het toetsenbord gebruikt, gebruikt u de Tab-toets en de pijltoetsen om een item in de resultaten te kiezen. Als u op Enter drukt op het toetsenbord zonder een resultaat te kiezen, opent Business Central het resultaat dat het eerst wordt weergegeven.

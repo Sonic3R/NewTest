@@ -1,16 +1,16 @@
-# Pagina's en informatie zoeken met Vertel me
+# Pagina's en informatie zoeken met Vertel me wat u wilt doen
 
-In dit onderwerp wordt beschreven hoe Vertel me u kan helpen snel naar zaken zoals acties, pagina's of rapporten te gaan, informatie te zoeken over hoe u een bepaalde taak voltooit en aanvullende apps en consultingservices ontdekt voor Business Central.  
+In dit onderwerp wordt beschreven hoe **Vertel me wat u wilt doen** u kan helpen snel naar zaken zoals acties, pagina's of rapporten te gaan, informatie te zoeken over hoe u een bepaalde taak voltooit en aanvullende apps en consultingservices ontdekt voor Business Central.  
 
 > [!VIDEO https://go.microsoft.com/fwlink/?linkid=2086048]
 
-Wanneer u hulp nodig hebt om iets te vinden, gebruikt u het ![zoeken icon](/assets/images/zoeken.png "zoeken icon") **pictogram Vertel me wat u wilt doen** om ernaar te zoeken. U kunt ook ALT+Q gebruiken om Vertel me te gebruiken.
+Wanneer u hulp nodig hebt om iets te vinden, gebruikt u het ![zoeken icon](/assets/images/zoeken.png "zoeken icon") **pictogram Vertel me wat u wilt doen** in de adresbalk, zichtbaar bovenaan iedere pagina, om ernaar te zoeken. U kunt ook - op elk gewenst moment - de toetscombinatie **ALT+Q** indrukken om de functie op te roepen.
 
-Als u begint met het typen van tekens, geeft Business Central direct overeenkomsten weer. Resultaten in de lijst veranderen naarmate u meer tekens typt. Als u merkt dat wanneer u het woord 'product' invoert de resultaten **artikelen** bevatten, is dat omdat Vertel me synoniemen en alternatieve zoektermen gebruikt om het gemakkelijk te maken acties, pagina's en rapporten te vinden.
+Als u begint met het typen van tekens, geeft Business Central direct overeenkomsten weer. Resultaten in de lijst veranderen naarmate u meer tekens typt. Als u merkt dat wanneer u het woord 'product' invoert de resultaten **artikelen** bevatten, is dat omdat **Vertel me** synoniemen en alternatieve zoektermen gebruikt om het gemakkelijk te maken om acties, pagina's en rapporten te vinden.
 
-De kolom rechts geeft de algemene categorie van het resultaat aan. Bijvoorbeeld of er een lijstpagina wordt geopend of of het een beheerderstaak is.  
+De kolom rechts geeft de algemene categorie van het resultaat aan, bijvoorbeeld 'Lijsten' of 'Taken' of 'Rapporten en analyse'.  
 
-Onder aan het venster **Vertel me** wordt een actie genaamd **verkennen** weergegeven waarmee een functieoverzicht wordt geopend dat u alle beschikbare functies voor uw rol of voor alle rollen toont. Zie voor meer informatie [Pagina's zoeken met de rolverkenner](../Paginas-zoeken-met-de-Rolverkenner/).
+Onder aan het venster **Vertel me wat u wilt doen** wordt een actie **verkennen** weergegeven waarmee een functieoverzicht wordt geopend dat alle beschikbare functies voor uw rol of voor alle rollen toont. Dit opent u door op de link **Probeer het uit** te klikken. Zie voor meer informatie [Pagina's zoeken met de rolverkenner](../Paginas-zoeken-met-de-Rolverkenner/).
 
 > [!NOTE]  
 > Als u liever het toetsenbord gebruikt, gebruikt u de Tab-toets en de pijltoetsen om een item in de resultaten te kiezen. Als u op Enter drukt op het toetsenbord zonder een resultaat te kiezen, opent Business Central het resultaat dat het eerst wordt weergegeven.

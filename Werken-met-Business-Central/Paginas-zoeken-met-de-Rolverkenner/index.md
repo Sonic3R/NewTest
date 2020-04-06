@@ -6,7 +6,7 @@ Elk element in de rolverkenner is een actie waarmee een pagina wordt geopend. Di
 
 U kunt de rolverkenner op verschillende manieren openen:  
 - vanuit het Rolcentrum en alle lijstpagina's via de toetscombinatie **Shift+F12**
-- vanuit het venster **Vertel me wat u wilt doen** (op te roepen via Alt+Q, of via de knop ![zoeken icon](/assets/images/menu.png "zoeken icon") rechts in de adresbalk) via de link onderin: **Probeer het uit**.
+- vanuit het venster **Vertel me wat u wilt doen** (op te roepen via de toetscombinatie **Alt+Q**, of via de knop ![zoeken icon](/assets/images/menu.png "zoeken icon") rechts in de adresbalk) via de link onderin: **Probeer het uit**.
 
 Om een overzicht te krijgen van de zakelijke functies die, naast uw eigen functies, beschikbaar zijn voor alle andere rollen, kiest u de knop **Alles verkennen**, bovenaan op de pagina waarop de rolverkenner wordt weergegeven.
 

@@ -6,7 +6,7 @@ De functionaliteit waarmee veldwaarden voor u worden ingevoerd, wordt meestal aa
 
 ## Het selectievakje **Salderingsbedrag voorstellen** op de pagina **Fin. dagboekbatches**
 
-Wanneer u bijvoorbeeld dagboekregels invoert voor meerdere uitgaven die allemaal naar dezelfde bankrekening moeten worden geboekt, kunt u telkens als u een nieuwe dagboekregel voor een uitgave invoert, het veld **Bedrag** op de bankrekeningregel automatisch laten bijwerken in het bedrag waarmee de uitgaven sluitend worden gemaakt. Zie [Werken met diversendagboeken](../Werken-met-diversendagboeken/) voor meer informatie over het werken met diversendagboeken.
+Wanneer u bijvoorbeeld dagboekregels invoert voor meerdere uitgaven die allemaal naar dezelfde bankrekening moeten worden geboekt, kunt u telkens als u een nieuwe dagboekregel voor een uitgave invoert, het veld **Bedrag** op de bankrekeningregel automatisch laten bijwerken in het bedrag waarmee de uitgaven sluitend worden gemaakt. Zie [Werken met diversendagboeken](../werken-met-diversendagboeken/) voor meer informatie over het werken met diversendagboeken.
 
 ### Het veld **Bedrag** op salderingsdagboekregels automatisch laten invullen
 
@@ -14,7 +14,7 @@ Wanneer u bijvoorbeeld dagboekregels invoert voor meerdere uitgaven die allemaal
 2. Op de regel voor de dagboekbatch van uw voorkeur kiest u het selectievakje **Salderingsbedrag voorstellen**.
 3. Open het dagboek en ga door met het registreren en boeken van transacties met de beschreven functie voor automatische invoer van een veldwaarde.
 
-Zie [Werken met diversendagboeken](../Werken-met-diversendagboeken/) voor meer informatie over het instellen van een persoonlijke dagboekbatch, bijvoorbeeld voor de verwerking van uitgaven.
+Zie [Werken met diversendagboeken](../werken-met-diversendagboeken/) voor meer informatie over het instellen van een persoonlijke dagboekbatch, bijvoorbeeld voor de verwerking van uitgaven.
 
 ## Het veld **Ontvangstdatum automatisch invullen** op de pagina **Betalingsregistratie**
 

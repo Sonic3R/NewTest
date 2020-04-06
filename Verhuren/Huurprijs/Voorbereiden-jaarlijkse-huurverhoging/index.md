@@ -50,7 +50,7 @@ Deze nieuwe woningwaarderingen bevatten per OG Eenheid de maximale huurprijs die
 ## Zie ook
 
 [Bepalen huurverhogingsbeleid](../bepalen-huurverhogingsbeleid/)  
-[Uitvoeren jaarlijkse huurprijsaanpassing](../uitvoeren-jaarlijkse-huurprijsaanpassing/)  
+[Uitvoeren jaarlijkse huurverhoging](../uitvoeren-jaarlijkse-huurverhoging/)  
 [Rappeleren klant](../rappeleren-klant/)  
 [Afhandelen huurverhogingsbezwaren](../afhandelen-huurverhogingsbezwaren/)  
 [Uitvoeren tussentijdse huurprijsaanpassing](../uitvoeren-tussentijdse-huurprijsaanpassing/)

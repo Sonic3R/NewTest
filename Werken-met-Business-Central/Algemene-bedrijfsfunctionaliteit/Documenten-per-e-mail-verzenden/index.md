@@ -1,6 +1,6 @@
 # Documenten per e-mail verzenden
 
-Om de inhoud van bedrijfsdocumenten snel aan uw zakelijke partners door te geven, zoals de betalingsgegevens over verkoopdocumenten aan klanten, kunt u de functie Rapportlay-out gebruiken om documentspecifieke inhoud te definiëren die automatisch wordt ingevoegd in hoofdteksten van e-mail. Zie voor meer informatie [Lay-outs van rapporten en documenten beheren](../Indelingen-van-rapporten-en-documenten-beheren/).
+Om de inhoud van bedrijfsdocumenten snel aan uw zakelijke partners door te geven, zoals de betalingsgegevens over verkoopdocumenten aan klanten, kunt u de functie Rapportlay-out gebruiken om documentspecifieke inhoud te definiëren die automatisch wordt ingevoegd in hoofdteksten van e-mail. Zie voor meer informatie [Lay-outs van rapporten en documenten beheren](../indelingen-van-rapporten-en-documenten-beheren/).
 
 Als u e-mails vanuit Business Central wilt inschakelen, start u de begeleide instelling **E-mail instellen** in het rolcentrum.
 
@@ -40,7 +40,7 @@ In de volgende procedure wordt beschreven hoe u een geboekte verkoopfactuur als 
 7. In het veld **Bijlage** wordt de gegenereerde factuur standaard gekoppeld als een PDF-bestand.
 8. Voer in het veld **Hoofdgedeelte** een kort bericht aan de ontvanger in.
 
-    Als een documentspecifieke e-mailhoofdtekst is ingesteld op de pagina **Rapportselectie - Verkoop**, wordt het veld **Hoofdtekst** automatisch ingevuld. Zie voor meer informatie [Een documentspecifieke e-mailhoofdtekst instellen voor verkoopfacturen](#Een-documentspecifieke-e-mailhoofdtekst-instellen-voor-verkoopfacturen).
+    Als een documentspecifieke e-mailhoofdtekst is ingesteld op de pagina **Rapportselectie - Verkoop**, wordt het veld **Hoofdtekst** automatisch ingevuld. Zie voor meer informatie [Een documentspecifieke e-mailhoofdtekst instellen voor verkoopfacturen](#een-documentspecifieke-e-mailhoofdtekst-instellen-voor-verkoopfacturen).
 9. Kies de knop **OK** om het e-mailbericht te verzenden.
 
 > [!NOTE]  

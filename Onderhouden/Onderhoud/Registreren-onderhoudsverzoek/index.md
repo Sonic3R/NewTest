@@ -4,12 +4,10 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Actualiseren prognose](../actualiseren-prognose/)  
-[Beheren onroerend goed informatie](../beheren-onroerend-goed-informatie/)  
-[Bewaken onderhoudsproject](../bewaken-onderhoudsproject/)  
-[Plannen onderhoudsorder](../plannen-onderhoudsorder/)  
-[Registreren (onderhouds)jaarbegroting](../registreren-onderhouds-jaarbegroting/)  
-[Uitvoeren contractueel onderhoud](../uitvoeren-contractueel-onderhoud/)  
-[Uitvoeren inspectie](../uitvoeren-inspectie/)  
-[Uitvoeren onderhoudsorder](../uitvoeren-onderhoudsorder/)  
-[Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
+[Uitvoeren inspectie](onderhoud/uitvoeren-inspectie/)  
+[Samenstellen onderhoudsorders](onderhoud/samenstellen-onderhoudsorders/)  
+[Bewaken uitvoering onderhoudsorders](onderhoud/bewaken-uitvoering-onderhoudsorders/)  
+[Uitvoeren onderhoudsorder](onderhoud/Uitvoeren-onderhoudsorder/)  
+[Uitvoeren contractueel onderhoud](onderhoud/uitvoeren-contractueel-onderhoud/)  
+[Beheren onroerend goed informatie](onderhoud/beheren-onroerend-goed-informatie/)  
+[Beheren collectief object informatie](onderhoud/beheren-collectief-object-informatie/)

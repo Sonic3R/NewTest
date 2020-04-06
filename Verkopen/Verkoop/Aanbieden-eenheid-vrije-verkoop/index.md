@@ -1,10 +1,10 @@
-# Bepalen verkoopvorm
+# Aanbieden eenheid vrije verkoop
 
 Binnenkort beschikbaar
 
 ## Zie ook
 
-[Aanbieden eenheid zittende huurder](../aanbieden-eenheid-zittende-huurder/)  
-[Afsluiten verkoopovereenkomst](../afsluiten-verkoopovereenkomst/)  
-[Terugkopen eenheid](../terugkopen-eenheid/)  
-[Voorbereiden verkoop](../voorbereiden-verkoop/)  
+[Voorbereiden verkoop](../Voorbereiden-verkoop/)  
+[Aanbieden eenheid zittende huurder](../Aanbieden-eenheid-zittende-huurder/)  
+[Afsluiten verkoopovereenkomst](../Afsluiten-verkoopovereenkomst/)  
+[Terugkopen eenheid](../Terugkopen-eenheid/)

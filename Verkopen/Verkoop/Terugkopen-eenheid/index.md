@@ -4,7 +4,7 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Aanbieden eenheid vrije verkoop](../aanbieden-eenheid-vrije-verkoop/)  
-[Aanbieden eenheid zittende huurder](../aanbieden-eenheid-zittende-huurder/)  
-[Afsluiten verkoopovereenkomst](../afsluiten-verkoopovereenkomst/)  
-[Voorbereiden verkoop](../voorbereiden-verkoop/)  
+[Voorbereiden verkoop](../Voorbereiden-verkoop/)  
+[Aanbieden eenheid zittende huurder](../Aanbieden-eenheid-zittende-huurder/)  
+[Aanbieden eenheid vrije verkoop](../Aanbieden-eenheid-vrije-verkoop/)  
+[Afsluiten verkoopovereenkomst](../Afsluiten-verkoopovereenkomst/)

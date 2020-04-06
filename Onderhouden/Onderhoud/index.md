@@ -5,14 +5,15 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Uitvoeren inspectie](uitvoeren-inspectie/) | 
-[Registreren onderhoudsverzoek](registreren-onderhoudsverzoek/) | Het onderhoudsverzoek van de aanvrager registreren, beoordelen en indien in behandeling genomen toewijzen aan een uitvoerder.
-[Plannen onderhoudsorder](plannen-onderhoudsorder/) | 
-[Uitvoeren onderhoudsorder](uitvoeren-onderhoudsorder/) | 
+[Registreren onderhoudsverzoek](registreren-onderhoudsverzoek/) | 
+[Samenstellen onderhoudsorders](samenstellen-onderhoudsorders/) | 
+[Bewaken uitvoering onderhoudsorders](bewaken-uitvoering-onderhoudsorders/) | 
+[Uitvoeren onderhoudsorder](Uitvoeren-onderhoudsorder/) | 
 [Uitvoeren contractueel onderhoud](uitvoeren-contractueel-onderhoud/) | 
 [Beheren onroerend goed informatie](beheren-onroerend-goed-informatie/) | 
-[Initiëren onderhoudsproject](initiëren-onderhoudsproject/) | 
-[Uitvoeren onderhoudsproject](uitvoeren-onderhoudsproject/) | 
+[Beheren collectief object informatie](beheren-collectief-object-informatie/) | 
 
 ## Zie ook
 
 [Logistiek](../logistiek/)
+[Onderhoudsprojecten](../onderhoudsprojecten/)

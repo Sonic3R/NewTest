@@ -4,4 +4,4 @@ Deze hoofdfunctie is opgedeeld in onderstaande bedrijfsfuncties, waarbij aan elk
 
 Bedrijfsfunctie | Werkproces
 :--- | :---
-[Verkoop](verkoop/) | <ul><li>[Bepalen verkoopvorm](verkoop/bepalen-verkoopvorm/)</li><li>[Bepalen vraagprijs](verkoop/bepalen-vraagprijs/)</li><li>[Aanbieden eenheid](verkoop/aanbieden-eenheid/)</li><li>[Begeleiden bezichtigingen](verkoop/begeleiden-bezichtigingen/)</li><li>[Onderhandelen verkoopprijs](verkoop/onderhandelen-verkoopprijs/)</li><li>[Notarieel afhandelen verkoop](verkoop/notarieel-afhandelen-verkoop/)</li><li>[Terugkopen eenheid](verkoop/terugkopen-eenheid/)</li></ul>
+[Verkoop](verkoop/) | <ul><li>[Voorbereiden verkoop](Voorbereiden-verkoop/)</li><li>[Aanbieden eenheid zittende huurder](Aanbieden-eenheid-zittende-huurder/)</li><li>[Aanbieden eenheid vrije verkoop](Aanbieden-eenheid-vrije-verkoop/)</li><li>[Afsluiten verkoopovereenkomst](Afsluiten-verkoopovereenkomst/)</li><li>[Terugkopen eenheid](Terugkopen-eenheid/)</li></ul>

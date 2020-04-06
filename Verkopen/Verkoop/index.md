@@ -4,10 +4,8 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Bepalen verkoopvorm](bepalen-verkoopvorm/) | 
-[Bepalen vraagprijs](bepalen-vraagprijs/) | 
-[Aanbieden eenheid](aanbieden-eenheid/) | 
-[Begeleiden bezichtigingen](begeleiden-bezichtigingen/) | 
-[Onderhandelen verkoopprijs](onderhandelen-verkoopprijs/) | 
-[Notarieel afhandelen verkoop](notarieel-afhandelen-verkoop/) | 
-[Terugkopen eenheid](terugkopen-eenheid/) | 
+[Voorbereiden verkoop](Voorbereiden-verkoop/) | 
+[Aanbieden eenheid zittende huurder](Aanbieden-eenheid-zittende-huurder/) | 
+[Aanbieden eenheid vrije verkoop](Aanbieden-eenheid-vrije-verkoop/) | 
+[Afsluiten verkoopovereenkomst](Afsluiten-verkoopovereenkomst/) | 
+[Terugkopen eenheid](Terugkopen-eenheid/) | 

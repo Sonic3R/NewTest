@@ -6,6 +6,6 @@ Binnenkort beschikbaar
 
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  
 [Bepalen huurverhogingsbeleid](../bepalen-huurverhogingsbeleid/)  
-[Uitvoeren jaarlijkse huurprijsaanpassing](../uitvoeren-jaarlijkse-huurprijsaanpassing/)  
+[Uitvoeren jaarlijkse huurverhoging](../uitvoeren-jaarlijkse-huurverhoging/)  
 [Rappeleren klant](../rappeleren-klant/)  
 [Afhandelen huurverhogingsbezwaren](../afhandelen-huurverhogingsbezwaren/)

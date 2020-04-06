@@ -12,7 +12,7 @@ De goedgekeurde plannen moeten worden gecommuniceerd met de huurders. Dit kan do
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het **Kladblokimportoverzicht**. Selecteer de juiste regel en klik op **Bewerken**.
 2. Uitgangspunt is hier dat de begrotingsregels compleet zijn (zie **Kladblokimportregels**). Dat wil zeggen: in de begrotingsregels is de samenstelling van de projecten al bepaald (**Sjablooncode**). Daarnaast is bepaald wie de projecten zal uitvoeren (projectleider, toezichthouder, woonconsulent, contractbeheerder). Tevens in de initiële planning bepaald (start en opleverdatum).
-2. Om de regels te verwerken kiest u voor de actie/functie **Samenvoegen alle regels op basis van Sjablooncode**. Dynamics Empire zal alle **Kladblokimportregels** samenvoegen of kopiëren naar het deel **Voorlopige projectregels** op de kaart, waarbij onderstaand beschreven bewerking wordt uitgevoerd.
+3. Om de regels te verwerken kiest u voor de actie/functie **Samenvoegen alle regels op basis van Sjablooncode**. Dynamics Empire zal alle **Kladblokimportregels** samenvoegen of kopiëren naar het deel **Voorlopige projectregels** op de kaart, waarbij onderstaand beschreven bewerking wordt uitgevoerd.
 
 ### Samenvoegen
 
@@ -98,12 +98,6 @@ De projectleider planmatig onderhoud stelt een werkomschrijving en bestek op ten
 
 ## Zie ook
 
-[Actualiseren prognose](../actualiseren-prognose/)  
-[Beheren onroerend goed informatie](../beheren-onroerend-goed-informatie/)  
 [Bewaken onderhoudsproject](../bewaken-onderhoudsproject/)  
-[Plannen onderhoudsorder](../plannen-onderhoudsorder/)  
-[Registreren (onderhouds)jaarbegroting](../registreren-onderhouds-jaarbegroting/)  
-[Registreren onderhoudsverzoek](../registreren-onderhoudsverzoek/)  
-[Uitvoeren contractueel onderhoud](../uitvoeren-contractueel-onderhoud/)  
-[Uitvoeren inspectie](../uitvoeren-inspectie/)  
-[Uitvoeren onderhoudsorder](../uitvoeren-onderhoudsorder/)  
+[Registreren (onderhouds) jaarbegroting](../registreren-(onderhouds)-jaarbegroting/)  
+[Actualiseren prognose](../actualiseren-prognose/)

@@ -5,12 +5,14 @@ Soms moet u een geboekt document bijwerken omdat informatie die relevant is voor
 U voert de wijziging uit op een bewerkbare versie van het originele document, aangegeven met "**- Bijwerken**" in de paginatitel. De pagina bevat een subset van de velden in het originele document, waarvan sommige niet-bewerkbare velden zijn die alleen ter informatie worden getoond.
 
 De functionaliteit is beschikbaar voor de volgende documenten in alle landenversies:
+
 - Geboekte verkoopverzending
 - Geboekte inkoopfactuur
 - Geboekte retourverzending
 - Geboekte retourontvangst
 
 De volgende aanvullende documenten kunnen in geselecteerde landversies worden bewerkt:
+
 - ES: Geboekte verkoopfactuur, Geboekte verkoopcreditnota, Geboekte inkoopcreditnota
 - APAC: Geboekte verkoopcreditnota, Geboekte inkoopcreditnota
 - RU: Geboekte verkoopcreditnota

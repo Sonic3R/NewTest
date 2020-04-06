@@ -1,10 +1,10 @@
-# Terugkopen eenheid
+# Voorbereiden verkoop
 
 Binnenkort beschikbaar
 
 ## Zie ook
 
-[Aanbieden eenheid vrije verkoop](../aanbieden-eenheid-vrije-verkoop/)  
-[Aanbieden eenheid zittende huurder](../aanbieden-eenheid-zittende-huurder/)  
-[Afsluiten verkoopovereenkomst](../afsluiten-verkoopovereenkomst/)  
-[Terugkopen eenheid](../terugkopen-eenheid/)  
+[Aanbieden eenheid zittende huurder](../Aanbieden-eenheid-zittende-huurder/)  
+[Aanbieden eenheid vrije verkoop](../Aanbieden-eenheid-vrije-verkoop/)  
+[Afsluiten verkoopovereenkomst](../Afsluiten-verkoopovereenkomst/)  
+[Terugkopen eenheid](../Terugkopen-eenheid/)

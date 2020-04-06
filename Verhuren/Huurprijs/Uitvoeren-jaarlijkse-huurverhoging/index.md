@@ -13,6 +13,7 @@ a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart**
 b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waarin per OG Eenheid het nummer van de OG Eenheid en de code van het toe te wijzen beleidstype is vermeld. Om dit Excel-werkblad te kunnen importeren, moet de eerste kolom exact de naam **Eenheidnr.** hebben en de tweede kolom de naam **Huurverhogingsbeleidstypecode**.
 
 _**Ad a:**_
+
 1. Ga via de het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Onr. Goed Eenhedenoverzicht**.
 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
 3. Open tabblad **Exploitatie (Fin.)**.
@@ -20,6 +21,7 @@ _**Ad a:**_
 5. Sluit de pagina.
 
 _**Ad b:**_
+
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Huurverhogingseigenschappen voor OG Eenheden importeren**.  Een pagina wordt geopend met enkele opties.
 2. Selecteer in optie **Werkmapbestandsnaam** het juiste Excel-bestand.
 3. Selecteer in optie **Werkbladnaam** het juiste werkblad in de geselecteerde werkmap.
@@ -36,6 +38,7 @@ a. Aan een individuele OG Eenheid via de pagina **Onroerend goed eenheidkaart**
 b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waarin per OG Eenheid het nummer van de OG Eenheid en de code van het toe te wijzen beleidstype is vermeld. Om dit Excel-werkblad te kunnen importeren, moet de eerste kolom exact de naam **Eenheidnr.** hebben en de derde kolom de naam **Nettohuur aftoppingscode**.
 
 _**Ad a:**_
+
 1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Onr. Goed Eenhedenoverzicht**.
 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
 3. Open tabblad **Exploitatie (Fin.)**.
@@ -43,6 +46,7 @@ _**Ad a:**_
 5. Sluit de pagina.
 
 _**Ad b:**_
+
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Huurverhogingseigenschappen voor OG Eenheden importeren**. Een pagina wordt geopend met enkele opties.
 2. Selecteer in optie **Werkmapbestandsnaam** het juiste Excel-bestand.
 3. Selecteer in optie **Werkbladnaam** het juiste werkblad in de geselecteerde werkmap.
@@ -53,6 +57,7 @@ _**Ad b:**_
 In deze stap vraagt u huishoudverklaringen aan voor die OG Eenheden waarvoor u van plan bent de nettohuur inkomensafhankelijk te verhogen, d.w.z. verhogen met een percentage dat boven het maximum basisverhogingspercentage ligt dat door de Rijksoverheid is vastgesteld voor het betreffende huurverhogingstijdvak.  Deze huishoudverklaringen vraagt u aan bij de Belastingdienst via een zogenoemd vraagbestand. Dit vraagbestand kunt u exporteren uit Dynamics Empire. De Belastingdienst verstrekt de aangevraagde huishoudverklaringen in de vorm van een antwoordbestand. Dit antwoordbestand kunt u importeren in Dynamics Empire.
 
 U maakt als volgt een vraagbestand aan dat u kunt verstrekken aan de Belastingdienst:
+
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Aanvraaggegevens huishoudverklaringen exporteren**. Een pagina wordt geopend met enkele opties en filtermogelijkheden.
 2. Selecteer het **Huurverhogingstijdvak** waarop de inkomensafhankelijke huurverhoging betrekking heeft.
 3. Selecteer de **Huurverhogingsdatum** waarop de huurverhoging ingaat.
@@ -62,6 +67,7 @@ U maakt als volgt een vraagbestand aan dat u kunt verstrekken aan de Belastingdi
 7. Upload het vraagbestand (of de vraagbestanden) via het webportaal van de Belastingdienst. Voor meer informatie, zie: [http://www.inkomensafhankelijkehuurverhoging.nl](http://www.inkomensafhankelijkehuurverhoging.nl).
 
 U importeert als volgt het antwoordbestand dat u heeft ontvangen van de Belastingdienst:
+
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Huishoudverklaringen importeren**. Een pagina wordt geopend met twee opties.
 2. Selecteer het antwoordbestand in optie **Bestandsnaam**.
 3. Selecteer de **Huurverhogingsdatum** waarop de huurverhoging ingaat.
@@ -96,6 +102,7 @@ In deze stap controleert u de uitkomst van de simulatie van de berekening van de
 4. U kunt de uitkomsten van de berekening ook vanaf het overzicht exporteren naar Excel (klik op **Pagina** en kies voor **Openen in Excel**). In Excel kunt u o.a. de gemiddelde huursomstijging als gevolg van de jaarlijkse huurverhoging berekenen.
 
 Mocht de uitkomst van de simulatieberekening niet acceptabel zijn, pas dan het huurverhogingsbeleid van de desbetreffende OG Eenheden aan. Bijvoorbeeld:
+
 - door het ingestelde verhogingspercentage van één of meer beleidstypes aan te passen;
 - door andere beleidstypes en/of andere aftoppingen toe te wijzen aan bepaalde OG Eenheden;
 - door de eigenschappen van bepaalde beleidstypes te wijzigen.

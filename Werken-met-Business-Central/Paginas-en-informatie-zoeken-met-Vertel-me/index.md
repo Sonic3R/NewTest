@@ -34,4 +34,4 @@ De sectie **Ga naar Rapporten en analyse** biedt toegang tot rapportagehulpmidde
 
 ## Zoeken naar gegevens
 
-De functie **Vertel me wat u wilt doen** zoekt niet naar gegevens, zoals klantnamen, adressen of transacties. In plaats hiervan kunt u gegevens zoeken in lijstpagina's door het pictogram ![lijst zoeken icon](/assets/images/lijst-zoeken.png "lijst zoeken icon") **Zoeken** te kiezen in de linkerbovenhoek van de lijstkoptekst. De zoekopdracht is alleen van toepassing op de lijst die u weergeeft. Zie voor meer informatie [Lijsten sorteren, zoeken en filteren](../Sorteren,-zoeken-en-filteren/).
+De functie **Vertel me wat u wilt doen** zoekt niet naar gegevens, zoals klantnamen, adressen of transacties. In plaats hiervan kunt u gegevens zoeken in lijstpagina's door het pictogram ![lijst zoeken icon](/assets/images/lijst-zoeken.png "lijst zoeken icon") **Zoeken** te kiezen in de linkerbovenhoek van de lijstkoptekst. De zoekopdracht is alleen van toepassing op de lijst die u weergeeft. Zie voor meer informatie [Sorteren, zoeken en filteren](../Sorteren-zoeken-en-filteren/).

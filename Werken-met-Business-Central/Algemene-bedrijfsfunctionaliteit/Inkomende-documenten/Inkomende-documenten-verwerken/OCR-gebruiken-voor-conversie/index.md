@@ -8,12 +8,12 @@ Na enkele seconden krijgt u het bestand weer terug van de OCR-service als een el
 
 Omdat OCR is gebaseerd op optische herkenning, is het waarschijnlijk dat de OCR-service tekens in uw PDF- of afbeeldingsbestanden verkeerd interpreteert wanneer bijvoorbeeld de documenten van een bepaalde leverancier voor het eerst worden verwerkt. De service interpreteert het bedrijfslogo mogelijk niet als de naam van de leverancier of interpreteert het totaalbedrag op een ontvangstbewijs verkeerd vanwege de lay-out ervan. Als u deze fouten voortaan wilt voorkomen, kunt u ze corrigeren in een aparte versie van de pagina **Inkomende documenten**. Vervolgens stuurt u de correcties terug naar de OCR-service om deze te trainen in het interpreteren van de specifieke tekens wanneer de volgende keer een PDF- of afbeeldingsbestand voor dezelfde leverancier wordt ontvangen. Zie voor meer informatie [De OCR-service trainen om fouten te voorkomen](#De-OCR-service-trainen-om-fouten-te-voorkomen).
 
-Het verkeer van bestanden van en naar de OCR-service wordt verwerkt door een specifiek taakwachtrij-item, dat automatisch wordt gemaakt als u de gerelateerde serviceverbinding inschakelt. Zie voor meer informatie [Inkomende documenten instellen](../Inkomende-documenten-instellen/).
+Het verkeer van bestanden van en naar de OCR-service wordt verwerkt door een specifiek taakwachtrij-item, dat automatisch wordt gemaakt als u de gerelateerde serviceverbinding inschakelt. Zie voor meer informatie [Inkomende documenten instellen](../inkomende-documenten-instellen/).
 
 ## Een PDF-of afbeeldingsbestand verzenden naar de OCR-service vanaf de pagina **Inkomende documenten**
 
 1. Kies het pictogram ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), voer **Inkomende documenten** in en kies vervolgens de gerelateerde koppeling.
-2. Maak een nieuwe inkomende documentrecord en koppel het bestand eraan. Zie [Inkomende documentrecords maken](../Inkomende-documentrecords-maken/) voor meer informatie.  
+2. Maak een nieuwe inkomende documentrecord en koppel het bestand eraan. Zie [Inkomende documentrecords maken](../inkomende-documentrecords-maken/) voor meer informatie.  
 3. Selecteer op de pagina **Inkomende documenten** een of meer regels en kies vervolgens de actie **Verzenden naar taakwachtrij**.
 
     De waarde in het veld **OCR-status** verandert in **Gereed**. Het bijgevoegde PDF- of afbeeldingsbestand wordt naar de OCR-service verzonden door de taakwachtrij, volgens de planning, op voorwaarde dat er geen fouten zijn.
@@ -25,10 +25,10 @@ De waarde in het veld **OCR-status** verandert in **Verzonden** als er geen fout
 
 Vanuit uw e-mailtoepassing kunt u een e-mailbericht verzenden naar de aanbieder van de OCR-service met het PDF- of afbeeldingsbestand als bijlage. Zie de website van de provider van de OCR-service voor meer informatie over het e-mailadres waarnaar het bericht moet worden verzonden.
 
-Omdat er geen inkomende documentrecord bestaat voor het bestand, wordt automatisch een nieuwe record gemaakt op de pagina **Inkomende documenten** wanneer u het resulterende elektronische document ontvangt van de OCR-service. Zie [Inkomende documentrecords maken](../Inkomende-documentrecords-maken/) voor meer informatie.
+Omdat er geen inkomende documentrecord bestaat voor het bestand, wordt automatisch een nieuwe record gemaakt op de pagina **Inkomende documenten** wanneer u het resulterende elektronische document ontvangt van de OCR-service. Zie [Inkomende documentrecords maken](../inkomende-documentrecords-maken/) voor meer informatie.
 
 > [!NOTE]  
-> Als u op een tablet of telefoon werkt, kunt u het bestand naar de OCR-service verzenden zodra u een foto van het document hebt gemaakt, of u kunt rechtstreeks een inkomend document maken. Zie [Inkomende documentrecords maken door een foto te maken](../Inkomende-documentrecords-maken/#Een-inkomende-documentrecord-maken-door-een-foto-te-maken) voor meer informatie.
+> Als u op een tablet of telefoon werkt, kunt u het bestand naar de OCR-service verzenden zodra u een foto van het document hebt gemaakt, of u kunt rechtstreeks een inkomend document maken. Zie [Inkomende documentrecords maken door een foto te maken](../inkomende-documentrecords-maken/#Een-inkomende-documentrecord-maken-door-een-foto-te-maken) voor meer informatie.
 
 ## Het resulterende elektronische document ontvangen van de OCR-service
 
@@ -47,7 +47,7 @@ Als u geen verwerkingswachtrij gebruikt of een voltooid OCR-document eerder wilt
 4. Kies de knop **Ok**. Het OCR-proces is voltooid en het resulterende elektronische document wordt verzonden naar de pagina **Inkomende documenten** in Business Central in overeenstemming met het verwerkingswachtrijschema.
 5. Herhaal stap 4 voor elk ander OCR-document dat moet worden geverifieerd.
 
-U kunt nu doorgaan met het, handmatig of automatisch, maken van documentrecords voor de ontvangen elektronische documenten in Business Central. Zie de volgende procedure voor meer informatie. U kunt ook de nieuwe inkomende documentrecord aan een bestaand geboekt of niet-geboekt document koppelen zodat het bronbestand gemakkelijk toegankelijk is vanuit Business Central. Zie [Procedure: Inkomende documenten verwerken](../Inkomende-documenten-verwerken/) voor meer informatie.
+U kunt nu doorgaan met het, handmatig of automatisch, maken van documentrecords voor de ontvangen elektronische documenten in Business Central. Zie de volgende procedure voor meer informatie. U kunt ook de nieuwe inkomende documentrecord aan een bestaand geboekt of niet-geboekt document koppelen zodat het bronbestand gemakkelijk toegankelijk is vanuit Business Central. Zie [Procedure: Inkomende documenten verwerken](../inkomende-documenten-verwerken/) voor meer informatie.
 
 ## Een inkoopfactuur op basis van een elektronisch document ontvangen van de OCR-service maken
 

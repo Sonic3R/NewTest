@@ -4,7 +4,7 @@ Een batchtaak is een routine waarmee gegevens in batches worden verwerkt, zoals 
 
 Een batchverwerking lijkt op een lijst, alleen wordt bij een batchverwerking het resultaat van de bewerking niet gebruikt om de resultaten af te drukken, maar om gegevens direct bij te werken.
 
-U kunt plannen wanneer een batchtaak wordt uitgevoerd. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../Algemene-bedrijfsfunctionaliteit/Gebruik-van-taakwachtrijen-om-taken-te-plannen/).
+U kunt plannen wanneer een batchtaak wordt uitgevoerd. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../algemene-bedrijfsfunctionaliteit/gebruik-van-taakwachtrijen/).
 
 ## Een batchverwerking uitvoeren
 

@@ -18,7 +18,7 @@ In de volgende procedure wordt uitgelegd hoe u meerdere inkooporders onmiddellij
 In de volgende procedure wordt uitgelegd hoe u inkooporders in een batch boekt. De stappen zijn vergelijkbaar voor alle inkoop- en verkoopdocumenten waarbij de actie **Batchboeken** beschikbaar is.
 
 > [!NOTE]
-> Batchboeking van documenten gebeurt op de achtergrond zoals gedefinieerd door een taakwachtrijpost, die eerst moet worden ingesteld. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../Gebruik-van-taakwachtrijen-om-taken-te-plannen/).
+> Batchboeking van documenten gebeurt op de achtergrond zoals gedefinieerd door een taakwachtrijpost, die eerst moet worden ingesteld. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../gebruik-van-taakwachtrijen/).
 
 1. Kies het pictogram ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), voer **Inkooporders** in en kies vervolgens de gerelateerde koppeling.  
 2. Ga op de pagina **Inkooporders** door met het selecteren van alle te boeken orders:
@@ -33,6 +33,6 @@ In de volgende procedure wordt uitgelegd hoe u inkooporders in een batch boekt. 
 7. Kies de knop **Ok**.
 8. Als u mogelijke problemen wilt zien die zijn opgetreden tijdens het batchboeken van documenten, opent u de pagina **Foutberichtregister**.
 
-De inkooporders worden nu toegevoegd aan een speciale taakwachtrijpost, die bepaalt wanneer de documenten worden geboekt. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../Gebruik-van-taakwachtrijen-om-taken-te-plannen/).
+De inkooporders worden nu toegevoegd aan een speciale taakwachtrijpost, die bepaalt wanneer de documenten worden geboekt. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../gebruik-van-taakwachtrijen/).
 
 Als u **PDF** selecteert in het veld **Soort rapportuitvoer**, zijn succesvol geboekte inkooporders beschikbaar in het onderdeel **Rapportinbox** in uw rolcentrum.

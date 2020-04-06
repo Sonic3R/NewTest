@@ -21,5 +21,5 @@ Het proces voor inkomende documenten kan bestaan uit de volgende voornaamste act
 
 | Aan | Zie |
 | --- | --- |
-| De functie Inkomende documenten instellen en de OCR-service instellen. |[Inkomende documenten instellen](Inkomende-documenten-instellen/) |
-| Maak inkomende documentrecords, koppel bestanden, gebruik OCR om PDF-bestanden om te zetten in elektronische documenten, converteer elektronische documenten naar documentrecords, controleer inkomende documentrecords uit geboekte verkoop- en inkoopdocumenten. |[Inkomende documenten verwerken](Inkomende-documenten-verwerken/) |
+| De functie Inkomende documenten instellen en de OCR-service instellen. |[Inkomende documenten instellen](inkomende-documenten-instellen/) |
+| Maak inkomende documentrecords, koppel bestanden, gebruik OCR om PDF-bestanden om te zetten in elektronische documenten, converteer elektronische documenten naar documentrecords, controleer inkomende documentrecords uit geboekte verkoop- en inkoopdocumenten. |[Inkomende documenten verwerken](inkomende-documenten-verwerken/) |

@@ -63,7 +63,7 @@ Het woord voor 'werkdatum' in de taal die is ingesteld door de instelling **Taal
 
 Als u geen werkdatum hebt gedefinieerd, wordt de huidige datum als de werkdatum gebruikt. Het gebruik van een werkdatum is handig als u veel transacties hebt met een andere datum dan de huidige.
 
-Zie ook [Basisinstellingen wijzigen, zoals de werkdatum](../Basisinstellingen-wijzigen/#Werkdatum).
+Zie ook [Basisinstellingen wijzigen, zoals de werkdatum](../basisinstellingen-wijzigen/#Werkdatum).
 
 ### Ultimodatum
 

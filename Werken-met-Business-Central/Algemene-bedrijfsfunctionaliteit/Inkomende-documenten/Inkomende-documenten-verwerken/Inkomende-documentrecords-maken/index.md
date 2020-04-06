@@ -4,7 +4,7 @@ Op de pagina **Inkomende documenten** kunt u verschillende functies gebruiken om
 
 Als u een extern document wilt registreren in Business Central, moet u eerst een inkomende documentrecord maken of voltooien. U kunt dit handmatig doen of u kunt een foto van het externe document maken en vervolgens de inkomende documentrecord maken met het afbeeldingsbestand bijgevoegd.
 
-Voordat u de functie Inkomende documenten gebruikt, moet u de benodigde instellingen uitvoeren. Zie voor meer informatie [Inkomende documenten instellen](../Inkomende-documenten-instellen/).
+Voordat u de functie Inkomende documenten gebruikt, moet u de benodigde instellingen uitvoeren. Zie voor meer informatie [Inkomende documenten instellen](../inkomende-documenten-instellen/).
 
 ## Een inkomend document goedkeuren of weigeren
 

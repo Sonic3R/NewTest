@@ -4,19 +4,19 @@ U kunt werkstromen maken om bedrijfsprocestaken te verbinden die door verschille
 
 Op de pagina **Werkstroom** kunt u een werkstroom maken door de betrokken stappen te vermelden op de regels. Elke stap bestaat uit een werkstroomgebeurtenis, aangepast door gebeurteniscondities, en een werkstroomantwoord met antwoordopties. U definieert werkstroomregels door velden op werkstroomregels te vullen vanuit lijsten met vaste gebeurtenis- en reactiewaarden die scenario's vertegenwoordigen die worden ondersteund door de toepassingscode.  
 
-Wanneer u werkstromen maakt, kunt u de stappen van bestaande werkstromen of van werkstroomsjablonen kopiëren. Werkstroomsjablonen vertegenwoordigen niet-bewerkbare werkstromen die in de algemene versie van Business Central bestaan. De code voor werkstroomsjablonen die door Microsoft worden toegevoegd hebben het voorvoegsel "MS-", zoals in "MS-PIW". Zie voor meer informatie [Werkstromen maken van werkstroomsjablonen](../Werkstromen-maken-van-werkstroomsjablonen/).  
+Wanneer u werkstromen maakt, kunt u de stappen van bestaande werkstromen of van werkstroomsjablonen kopiëren. Werkstroomsjablonen vertegenwoordigen niet-bewerkbare werkstromen die in de algemene versie van Business Central bestaan. De code voor werkstroomsjablonen die door Microsoft worden toegevoegd hebben het voorvoegsel "MS-", zoals in "MS-PIW". Zie voor meer informatie [Werkstromen maken van werkstroomsjablonen](../werkstromen-maken-van-werkstroomsjablonen/).  
 
 Als uw bedrijfsscenario werkstroomgebeurtenissen of -reacties vereist die niet worden ondersteund, moet een Microsoft-partner ze implementeren door de toepassingscode aan te passen.  
 
 > [!NOTE]  
-> Alle berichten over werkstroomstappen worden verzonden via een taakwachtrij. Zorg dat de taakwachtrij in uw installatie is ingesteld om werkstroomberichten te verwerken, en dat het selectievakje **Automatisch starten van NAS** is geselecteerd. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../Gebruik-van-taakwachtrijen-om-taken-te-plannen/).  
+> Alle berichten over werkstroomstappen worden verzonden via een taakwachtrij. Zorg dat de taakwachtrij in uw installatie is ingesteld om werkstroomberichten te verwerken, en dat het selectievakje **Automatisch starten van NAS** is geselecteerd. Zie voor meer informatie [Gebruik van taakwachtrijen om taken te plannen](../gebruik-van-taakwachtrijen/).  
 
 ## Een workflow maken
 
 1. Kies het pictogram ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), voer **Werkstromen** in en kies de gerelateerde koppeling.  
 2. Kies de actie **Nieuw**. De pagina **Werkstroom** verschijnt.  
 3. Voer in het veld **Code** maximaal 20 tekens in om de werkstroom te identificeren.  
-4. Als u de werkstroom wilt maken van een werkstroomsjabloon, kiest u op de pagina **Werkstromen** de actie **Werkstroom maken van sjabloon**. Zie voor meer informatie [Werkstromen maken van werkstroomsjablonen](../Werkstromen-maken-van-werkstroomsjablonen/).  
+4. Als u de werkstroom wilt maken van een werkstroomsjabloon, kiest u op de pagina **Werkstromen** de actie **Werkstroom maken van sjabloon**. Zie voor meer informatie [Werkstromen maken van werkstroomsjablonen](../werkstromen-maken-van-werkstroomsjablonen/).  
 5. Beschrijf de werkstroom in het veld **Omschrijving**.  
 6. Geef in het veld **Categorie** op tot welke categorie de werkstroom hoort.  
 7. Geef in het veld **Als gebeurtenis** de gebeurtenis op die zich moet voordoen om de werkstroomstap te starten.  
@@ -68,7 +68,7 @@ Als uw bedrijfsscenario werkstroomgebeurtenissen of -reacties vereist die niet w
     >  U kunt alleen de inspringing van een stap wijzigen als er geen verdere stap is.  
 
 12. Herhaal stap 7 t/m 11 om meer werkstroomstappen toe te voegen, voor of na de stap die u zojuist hebt gemaakt.  
-13. Schakel het selectievakje **Ingeschakeld** in om aan te geven dat de werkstroom wordt gestart zodra de gebeurtenis in de eerste stap van het type **Startpunt** plaatsvindt. Zie voor meer informatie [Werkstromen gebruiken](../Werkstromen-gebruiken/).  
+13. Schakel het selectievakje **Ingeschakeld** in om aan te geven dat de werkstroom wordt gestart zodra de gebeurtenis in de eerste stap van het type **Startpunt** plaatsvindt. Zie voor meer informatie [Werkstromen gebruiken](../werkstromen-gebruiken/).  
 
 > [!NOTE]  
 > Schakel het een werkstroom pas in als u zeker weet dat de werkstroom af is en dat de betreffende werkstroomstappen kunnen beginnen.  

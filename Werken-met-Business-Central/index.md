@@ -25,7 +25,7 @@ In de volgende tabel wordt een gedeelte van de algemene functionaliteit weergege
 | Zien welke velden moeten worden ingevuld. |[Verplichte velden detecteren](verplichte-velden-detecteren/) |
 |Begrijpen hoe de computerlandinstellingen de gebruikersinterface en de Helpsite beïnvloeden en hoe u de taal wijzigt.|[Taal en landinstellingen wijzigen](taal-en-landinstellingen-wijzigen/)|
 |Leren hoe u werkt met Excel vanuit praktisch overal in Business Central|[Weergeven en bewerken in Excel](weergeven-en-bewerken-in-Excel/)|
-|Bestanden toevoegen, koppelingen toevoegen of notities schrijven op kaarten en documenten.|[Bijlagen, koppelingen en notities op kaarten en in documenten beheren](bijlagen-koppelingen-en-notities-op-kaarten-en-in-documenten-beheren/)|
+|Bestanden toevoegen, koppelingen toevoegen of notities schrijven op kaarten en documenten.|[Bijlagen, koppelingen en notities op kaarten en in documenten beheren](bijlagen-koppelingen-en-notities-beheren/)|
 | Basisinstellingen wijzigen zoals bedrijf, werkdatum en rolcentrum. |[Basisinstellingen wijzigen](basisinstellingen-wijzigen/) |
 |Gewaarschuwd worden over bepaalde gebeurtenissen of wijzigingen in de status, zoals wanneer u een klant gaat factureren die een achterstallig saldo heeft.|[Berichten beheren](berichten-beheren/)|
 | Wijzigen welke en waar gebruikersinterface-elementen worden weergegeven volgens uw voorkeuren.|[Uw werkruimte personaliseren](uw-werkruimte-personaliseren/) |

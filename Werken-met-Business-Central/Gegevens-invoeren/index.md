@@ -8,7 +8,7 @@ In de voorbeelden in dit artikel worden de demonstratiegegevens gebruikt.
 
 Er zijn verschillende sneltoetsen waarmee u 'muisvrij' kunt werken en de gegevensinvoer kunt versnellen, vooral bij grootschalige invoer en herhaald typewerk.
 
-Zie voor meer informatie over sneltoetsen [Toetsenbordsneltoetsen](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/). Enkele sneltoetsen worden in dit artikel besproken.
+Zie voor meer informatie over sneltoetsen [Toetsenbordsneltoetsen](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/). Enkele sneltoetsen worden in dit artikel besproken.
 
 ## Gegevensinvoer versnellen met snelinvoer
 
@@ -20,7 +20,7 @@ U bent mogelijk al vertrouwd met het gebruik van de Tab-toets om van het ene vel
 
 Elk veld kan worden gemarkeerd als zijnde *opgenomen in snelinvoer* of *uitgesloten van snelinvoer*. Velden die in snelinvoer zijn opgenomen, worden opgenomen in het pad wanneer u op Enter drukt; velden die zijn uitgesloten van snelinvoer, worden dat niet.
 
-Wanneer u klaar bent met het invoeren van gegevens in een veld, drukt u gewoon op Enter om de wijzigingen te bevestigen en naar het volgende veld te gaan. Als u de volgorde wilt omkeren en naar het vorige veld wilt gaan, drukt u op Shift+Enter. Zie voor meer informatie over sneltoetsen [Sneltoetsen voor snelinvoer voor velden](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/#Sneltoetsen-voor-snelle-invoer-voor-velden/).
+Wanneer u klaar bent met het invoeren van gegevens in een veld, drukt u gewoon op Enter om de wijzigingen te bevestigen en naar het volgende veld te gaan. Als u de volgorde wilt omkeren en naar het vorige veld wilt gaan, drukt u op Shift+Enter. Zie voor meer informatie over sneltoetsen [Sneltoetsen voor snelinvoer voor velden](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/#Sneltoetsen-voor-snelle-invoer-voor-velden/).
 
 #### Tips en trucs
 
@@ -40,7 +40,7 @@ Als u wilt wijzigen welke velden zijn opgenomen in of uitgesloten van snelinvoer
 1. Start personalisatie door het pictogram ![instellingen icon](/assets/images/instellingen.png "instellingen icon") te selecteren en vervolgens de actie **Personaliseren**.
 2. Selecteer een veld dat u wilt wijzigen of selecteer in lijsten de corresponderende kolomkop en kies vervolgens **Opnemen in snelinvoer** of **Uitsluiten van snelinvoer**.
 
-Zie voor meer informatie over personalisatie [Uw werkruimte personaliseren](../Uw-werkruimte-personaliseren/).
+Zie voor meer informatie over personalisatie [Uw werkruimte personaliseren](../uw-werkruimte-personaliseren/).
 
 ## Verplichte velden
 
@@ -64,11 +64,11 @@ U kunt een of meer rijen uit een lijst of een enkel veld op een pagina kopiëren
 
 Als u in een lijst het veld in dezelfde kolom van de bovenliggende rij wilt selecteren en het in de huidige rij wilt plakken, drukt u op F8.
 
-Zie voor meer informatie [Veelgestelde vragen over kopiëren en plakken](../Veelgestelde-vragen-over-kopiëren-en-plakken/).
+Zie voor meer informatie [Veelgestelde vragen over kopiëren en plakken](../veelgestelde-vragen-over-kopiëren-en-plakken/).
 
 ## Regelitems filteren
 
-Als u wilt beginnen met filteren, selecteert u het ![filter icon](/assets/images/filter.png "filter icon") boven aan de lijst of drukt u op Shift+F3 om het filterdeelvenster te openen. U werkt met het filterdeelvenster zoals met elke andere lijst. Zie [Filteren](../Sorteren-zoeken-en-filteren/#Filteren) voor meer informatie.
+Als u wilt beginnen met filteren, selecteert u het ![filter icon](/assets/images/filter.png "filter icon") boven aan de lijst of drukt u op Shift+F3 om het filterdeelvenster te openen. U werkt met het filterdeelvenster zoals met elke andere lijst. Zie [Filteren](../sorteren-zoeken-en-filteren/#Filteren) voor meer informatie.
 
 Filteren is met name handig bij het weergeven en analyseren van langere documenten. Stel dat u een geboekte verkoopfactuur opent en de regelartikelen filtert om alle regelartikelen weer te geven die een individuele korting van meer dan 5% hebben, of dat u filtert om alleen fietsaccessoires met 'pro' in de naam weer te geven.
 
@@ -129,11 +129,11 @@ U kunt negatieve getallen op twee manieren invoeren. Nummer -20.5 kan worden ing
 U kunt datums en tijden invoeren in alle velden die speciaal zijn toegewezen aan datums (datumvelden). U kunt datums met of zonder scheidingstekens invoeren.
 
 > [!NOTE]  
-> Hoe u datums en tijden invoert, hangt af van uw instellingen onder **Regio**. Zie voor meer informatie [Basisinstellingen wijzigen](../Basisinstellingen-wijzigen/).  
+> Hoe u datums en tijden invoert, hangt af van uw instellingen onder **Regio**. Zie voor meer informatie [Basisinstellingen wijzigen](../basisinstellingen-wijzigen/).  
 
 ### Datums invoeren
 
-Voor datumvelden kunt u de datumselectie gebruiken. Hiermee selecteert u een datum in een kalender of voert u handmatig datums in. Deze sectie geeft een kort overzicht van hoe u datums invoert. Zie voor meer informatie [Werken met kalenderdatums en tijden](../Werken-met-agendadatums-en-tijden/).
+Voor datumvelden kunt u de datumselectie gebruiken. Hiermee selecteert u een datum in een kalender of voert u handmatig datums in. Deze sectie geeft een kort overzicht van hoe u datums invoert. Zie voor meer informatie [Werken met kalenderdatums en tijden](../werken-met-agendadatums-en-tijden/).
 
 Voor handmatige datuminvoer kunt u twee, vier, zes of acht cijfers invoeren:  
 
@@ -151,7 +151,7 @@ U kunt in plaats van een specifieke datum ook een van deze codes invoeren.
 |--------------|----------------|  
 |h|Dit is de datum van vandaag (de systeemdatum voor de computer).|  
 |p|Hiermee wordt een boekhoudperiode opgegeven, waarbij p de eerste boekhoudperiode is, p2 de tweede boekhoudperiode is, enzovoort. |
-|w|Dit is de werkdatum die is ingesteld in de toepassing. Zie [Basisinstellingen wijzigen](../Basisinstellingen-wijzigen/) als u de werkdatum wilt wijzigen. Het gebruik van een werkdatum is handig als u veel transacties hebt met een andere datum dan de huidige.|
+|w|Dit is de werkdatum die is ingesteld in de toepassing. Zie [Basisinstellingen wijzigen](../basisinstellingen-wijzigen/) als u de werkdatum wilt wijzigen. Het gebruik van een werkdatum is handig als u veel transacties hebt met een andere datum dan de huidige.|
 |u|Hiermee geeft u op dat de datum na u een ultimodatum is, bijvoorbeeld U311201.|  
 
 ## Tijden invoeren

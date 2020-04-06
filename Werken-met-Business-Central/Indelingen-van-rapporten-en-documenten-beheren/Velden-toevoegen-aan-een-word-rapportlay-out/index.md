@@ -9,7 +9,7 @@ Een rapportgegevensset kan bestaan uit velden die labels, gegevens en afbeelding
   
 1. Open, als het nog niet open is, het Word-document met de rapportlay-out in Word.  
   
-     Zie voor meer informatie [Een aangepaste lay-out voor een rapport maken en wijzigen](../Aangepaste-rapportlay-outs-maken-en-wijzigen/).  
+     Zie voor meer informatie [Een aangepaste lay-out voor een rapport maken en wijzigen](../aangepaste-rapportlay-outs-maken-en-wijzigen/).  
   
 2. Geef het tabblad **Ontwikkelaar** weer in het lint van Microsoft Word.  
   

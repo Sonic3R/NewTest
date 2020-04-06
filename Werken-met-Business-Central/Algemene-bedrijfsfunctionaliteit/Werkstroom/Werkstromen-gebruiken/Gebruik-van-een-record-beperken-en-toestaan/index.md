@@ -13,7 +13,7 @@ In de volgende procedure wordt beschreven hoe u het boeken van inkooporders kunt
 ## Een werkstroomstap maken die voorkomt dat niet-goedgekeurde inkooporders worden geboekt
 
 1. Kies het pictogram ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), voer **Werkstromen** in en kies de gerelateerde koppeling.  
-2. Maak op de pagina **Werkstromen** een nieuwe werkstroom genaamd Goedkeuringswerkstroom inkooporder. Zie voor meer informatie [Werkstromen maken](../Werkstromen-instellen/Werkstromen-maken/).  
+2. Maak op de pagina **Werkstromen** een nieuwe werkstroom genaamd Goedkeuringswerkstroom inkooporder. Zie voor meer informatie [Werkstromen maken](../werkstromen-instellen/werkstromen-maken/).  
 3. Kies de actie **Kopiëren van werkstroomsjabloon**.  
 4. Kies het veld **Bronwerkstroomcode** en kies vervolgens op de pagina **Werkstroomsjablonen** de werkstroomsjabloon Goedkeuringswerkstroom inkooporder.  
 

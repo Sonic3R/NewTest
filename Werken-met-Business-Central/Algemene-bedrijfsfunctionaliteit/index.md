@@ -11,7 +11,7 @@ De volgende tabel bevat deze algemene bedrijfsgebieden met koppelingen naar onde
 
 | Aan | Zie |
 | --- | --- |
-|Voeg extra informatie toe aan rekeningen, klantenkaarten of verkooporders om overeenkomsten, zoals een speciale prijs of leveringsmethode, te doen toekomen aan andere gebruikers.|[Opmerkingen toevoegen aan kaarten en documenten](opmerkingen-toevoegen-aan-kaarten-en-documenten/)|
+|Voeg extra informatie toe aan rekeningen, klantenkaarten of verkooporders om overeenkomsten, zoals een speciale prijs of leveringsmethode, te doen toekomen aan andere gebruikers.|[Opmerkingen toevoegen aan kaarten en documenten](opmerkingen-toevoegen/)|
 |Lopende, geboekte of gearchiveerde documenten weergeven die gerelateerd zijn aan verkoop- en inkooporderregels.|[Documentregels traceren](documentregels-traceren/)|
 | Deel de inhoud van bedrijfsdocumenten snel met uw zakelijke partners, zoals doorgeven van betalingsgegevens over verkoopdocumenten aan klanten. |[Documenten per e-mail verzenden](documenten-per-e-mail-verzenden/) |
 |Archiveer verkoop- en inkooporders, offertes, raamcontracten, retourorders en raamcontracten en gebruik het gearchiveerde document om het document waaruit het is gearchiveerd, opnieuw te maken.|[Documenten archiveren](documenten-archiveren/)|

@@ -64,20 +64,18 @@ Voor lijsten worden de filters weergegeven in een filtervenster dat links van de
 
 Voor 'gewone' velden die gegevens, instellingsdatum of bedrijfsgegevens bevatten, kunt u filters instellen door gegevens te selecteren en filterwaarden te typen, en u kunt symbolen gebruiken om geavanceerde filtercriteria te definiëren. Zie voor meer informatie **[Filtercriteria invoeren](#filtercriteria-invoeren)**.
 
-Voor velden van het type **Optie** kunt u echter alleen een filter instellen door een of meer opties te selecteren in een vervolgkeuzelijst met beschikbare opties. Een voorbeeld van een optieveld is het veld **Status** op de pagina **Verkooporders**.
-
-> [!NOTE]
-> Wanneer u meerdere opties als filterwaarde selecteert, wordt de relatie tussen de opties gedefinieerd als *OF*. Als u bijvoorbeeld zowel het selectievakje **Open** als **Vrijgegeven** selecteert in het filterveld **Status** op de pagina **Verkooporders**, betekent dit dat verkooporders die open of vrijgegeven zijn, worden weergegeven.
+Voor velden van het type **Optie** kunt u echter alleen een filter instellen door een of meer opties te selecteren uit de vervolgkeuzelijst met beschikbare opties. Een voorbeeld van een optieveld is het veld **Status** op de lijstpagina **Inkooporders**. Dit veld kunt u filteren op de waarden 'Open', 'Vrijgegeven', 'Wacht op goedkeuring' en 'Wacht op vooruitbetaling'. Hierbij geldt dat wanneer u meerdere opties als filterwaarde selecteert, de relatie tussen die opties vervolgens wordt gedefinieerd als *OF*. Als u bijvoorbeeld zowel het selectievakje 'Open' als 'Vrijgegeven' selecteert in het filterveld **Status** op de lijstpagina **Inkooporders**, betekent dit dat de inkooporders worden weergegeven waarvoor geldt dat ze óf open óf vrijgegeven zijn.
 
 ### Filters instellen voor lijsten
 
-In lijsten stelt u filters in met behulp van het filtervenster. Als u het filtervenster voor een lijst wilt weergeven, kiest u de vervolgkeuzepijl naast de naam van de pagina en kiest u vervolgens de actie **Filtervenster weergeven**. U kunt ook drukken op **Shift+F3**.
+In lijsten stelt u filters in met behulp van het **filterdeelvenster**. Als u dit venster voor een lijst wilt weergeven, kiest u het filtericoon ![filter icon](/assets/images/filter.png "filter icon") **Filterdeelvenster weergeven**, rechtsboven op de pagina. U kunt ook drukken op **Shift+F3**.
 
-Als u het filtervenster voor een kolom in een lijst wilt weergeven, kiest u de vervolgkeuzepijl en kiest u vervolgens de actie **Filter**. U kunt ook drukken op **Shift+F3**. Het filtervenster wordt geopend met de geselecteerde kolom weergegeven als een filterveld in de sectie **Filter lijst op**.
+Als u het filtervenster voor een kolom in een lijst wilt weergeven, kiest u de keuzepijl naast de kolomnaam en selecteert u de actie **Filteren op deze waarde**. Het filterdeelvenster verschijnt links op de pagina, met in het veld **Filter lijst op:** de waarde uit de betreffende kolom ingevuld.  
+U kunt dit voor meerdere kolommen doen, waarvoor dan in het filterdeelvenster de verschillende waarden worden vermeld. Bedenk goed dat al deze gefilterde waarden dan uiteraard hun invloed hebben op de uitkomst in de lijst. Wilt u de filtering voor een specifieke kolom verwijderen, dan klikt u op het kruisje naast de kolomnaam onder **Filter lijst op:**, of u kiest de keuzepijl naast de kolomnaam en selecteert de actie **Filter wissen**.
 
-Het filterdeelvenster bevat de huidige filters voor een lijst en biedt u de mogelijkheid uw eigen filters in te stellen op een of meer velden door de actie **+ Filter** te kiezen.
+Het filterdeelvenster bevat de huidige filters voor een lijst en biedt u de mogelijkheid uw eigen filters in te stellen op een of meer velden door de actie **+ Filteren** te kiezen.
 
- Een filterdeelvenster is verdeeld in drie gedeelten: **Weergaven**, **Filter lijst op** en **Filter totalen op**:
+Een filterdeelvenster is verdeeld in drie gedeelten: **Weergaven**, **Filter lijst op** en **Filter totalen op**:
 
 - **Weergaven**
 

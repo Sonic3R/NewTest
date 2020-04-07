@@ -1,6 +1,6 @@
 # Pagina's zoeken met de Rolverkenner
 
-U kunt een overzicht krijgen van alle zakelijke functies die beschikbaar zijn voor uw rol en voor andere rollen als u nog een stap verder gaat. We noemen dit functieoverzicht de **Rolverkenner**.
+U kunt een overzicht krijgen van alle zakelijke functies die beschikbaar zijn voor uw rol, en voor andere rollen als u nog een stap verder gaat. We noemen dit functieoverzicht de **Rolverkenner**.
 
 Elk element in de rolverkenner is een actie waarmee een pagina wordt geopend. Dienovereenkomstig kunt u de rolverkenner ook gebruiken als middel om te navigeren in Business Central.
 

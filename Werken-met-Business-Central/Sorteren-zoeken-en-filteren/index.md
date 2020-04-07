@@ -20,7 +20,7 @@ Als u een lijst wilt sorteren, kunt u op de kolomkoptekst klikken om te schakele
 
 Boven aan elke lijstpagina staat een actie ![lijst zoeken icon](/assets/images/lijst-zoeken.png "lijst zoeken icon") **Zoeken** waarmee u snel en makkelijk de records in een lijst kunt beperken tot de gegevens die u wilt zien.
 
-Als u wilt zoeken, kiest u de actie Zoeken en typt u in het zoekveld de tekst die u zoekt. U kunt letters, cijfers en andere symbolen invoeren. Zodra u begint met typen geeft Dynamics Empire vanzelf, op basis van herkenning, resultaten weer die aan de getypte tekst voldoen. Hoe meer letters u opgeeft, hoe specifieker het zoekresultaat zal zijn. Over het algemeen wordt geprobeerd in alle velden tekst overeen te laten komen. Er wordt geen onderscheid gemaakt tussen hoofdletters en kleine letters (hoofdletterongevoelig), en er wordt gezocht naar overeenkomst met tekst die ergens in het veld, aan het begin, aan het einde of in het midden wordt geplaatst.
+Als u wilt zoeken, kiest u de actie Zoeken en typt u in het zoekveld de tekst die u zoekt. U kunt letters, cijfers en andere symbolen invoeren. Zodra u begint met typen geeft Dynamics Empire vanzelf, op basis van herkenning, resultaten weer die aan de getypte tekst voldoen. Hoe meer letters u opgeeft, hoe specifieker het zoekresultaat zal zijn. Over het algemeen wordt geprobeerd in alle velden tekst overeen te laten komen. Er wordt geen onderscheid gemaakt tussen hoofdletters en kleine letters (hoofdletterongevoelig), en er wordt gezocht naar overeenkomst met tekst die ergens in het veld, aan het begin, aan het einde of in het midden wordt geplaatst. Een belangrijk kenmerk is dat gezocht wordt in álle velden op de pagina, en daarmee in álle kolommen.
 
 ### De zoekactie verfijnen
 
@@ -49,7 +49,7 @@ In de volgende tabel vindt u enkele voorbeelden om aan te geven hoe u de zoekact
 
 ## Filteren
 
-Filtering biedt een geavanceerdere en flexibelere manier om te bepalen welke records in een lijst worden weergegeven of in een rapport of XMLport worden weergegeven. Er zijn twee belangrijke verschillen tussen zoeken en filteren, zoals wordt beschreven in de volgende tabel.
+Filteren biedt een geavanceerde en flexibele manier om te bepalen welke records in een lijst worden weergegeven, of in een rapport of XMLport. Er zijn twee belangrijke verschillen tussen zoeken en filteren, zoals wordt beschreven in de volgende tabel.
 
 || **Zoeken** | **Filteren** |
 |--|----------|------------|
@@ -62,7 +62,7 @@ Voor lijsten worden de filters weergegeven in een filtervenster dat links van de
 
 ### Filteren met optievelden
 
-Voor 'gewone' velden die gegevens, instellingsdatum of bedrijfsgegevens bevatten, kunt u filters instellen door gegevens te selecteren en filterwaarden te typen, en u kunt symbolen gebruiken om geavanceerde filtercriteria te definiëren. Zie voor meer informatie [Filtercriteria invoeren](#Filtercriteria-invoeren).
+Voor 'gewone' velden die gegevens, instellingsdatum of bedrijfsgegevens bevatten, kunt u filters instellen door gegevens te selecteren en filterwaarden te typen, en u kunt symbolen gebruiken om geavanceerde filtercriteria te definiëren. Zie voor meer informatie **[Filtercriteria invoeren](#/filtercriteria-invoeren)**.
 
 Voor velden van het type **Optie** kunt u echter alleen een filter instellen door een of meer opties te selecteren in een vervolgkeuzelijst met beschikbare opties. Een voorbeeld van een optieveld is het veld **Status** op de pagina **Verkooporders**.
 

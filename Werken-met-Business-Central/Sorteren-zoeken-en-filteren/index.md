@@ -62,7 +62,7 @@ Voor lijsten worden de filters weergegeven in een filtervenster dat links van de
 
 ### Filteren met optievelden
 
-Voor 'gewone' velden die gegevens, instellingsdatum of bedrijfsgegevens bevatten, kunt u filters instellen door gegevens te selecteren en filterwaarden te typen, en u kunt symbolen gebruiken om geavanceerde filtercriteria te definiëren. Zie voor meer informatie **[Filtercriteria invoeren](#/filtercriteria-invoeren)**.
+Voor 'gewone' velden die gegevens, instellingsdatum of bedrijfsgegevens bevatten, kunt u filters instellen door gegevens te selecteren en filterwaarden te typen, en u kunt symbolen gebruiken om geavanceerde filtercriteria te definiëren. Zie voor meer informatie **[Filtercriteria invoeren](#filtercriteria-invoeren)**.
 
 Voor velden van het type **Optie** kunt u echter alleen een filter instellen door een of meer opties te selecteren in een vervolgkeuzelijst met beschikbare opties. Een voorbeeld van een optieveld is het veld **Status** op de pagina **Verkooporders**.
 

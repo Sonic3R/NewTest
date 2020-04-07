@@ -1,50 +1,48 @@
 # Sorteren, zoeken en filteren
 
-U kunt een paar dingen doen om records in een lijst, in een rapport of XMLport te scannen, te vinden en te beperken. U kunt de records bijvoorbeeld sorteren, doorzoeken en filteren. U kunt sommige of al deze methoden tegelijkertijd toepassen om snel uw gegevens te zoeken of te analyseren.
+Er zijn verschillende manieren in Dynamics Empire om een reeks met records in te perken tot exact die gegevens die voor u van belang zijn. Dit geldt zowel voor lijstpagina’s als voor rapporten en XMLports. U kunt de records bijvoorbeeld (door)zoeken, sorteren en filteren, of u kunt een combinatie van deze methoden toepassen.
 
 Voor rapporten en XMLports kunt u filters instellen zoals in lijsten om af te bakenen welke gegevens in het rapport of XMLport moeten worden opgenomen, maar u kunt niet sorteren en zoeken.
 
 > [!TIP]
 > Wanneer u uw gegevens weergeeft als tegels, kunt u zoeken en elementaire filtering gebruiken. Als u de volledige set functies wilt gebruiken voor sorteren, zoeken en filteren, kiest u het pictogram ![lijst icon](/assets/images/lijst.png "lijst icon") om de records als lijst weer te geven.
 
-## Sorteervolgorde
+## Sorteren
 
-Met de sorteerfunctie krijgt u snel een overzicht van de gegevens. Als u veel klanten hebt, kunt u er bijvoorbeeld voor kiezen hen te sorteren op **Klantnr.**, **Klantboekingsgroep**, **Valutacode**, **Land-/regiocode** of **Btw-nummer** voor het door u gewenste overzicht.
+Met de sorteerfunctie krijgt u snel een overzicht van de gegevens op het scherm. U kunt er bijvoorbeeld voor kiezen om in het **Onr. Goed-Eenhedenoverzicht** alle eenheden te sorteren op **Straatnaam**, **Status**, **Type** of **Clustercode**.
 
-Als u een lijst wilt sorteren, kunt u een kolomkoptekst kiezen om te schakelen tussen op- en aflopend, of de pijl-omlaag in de kolomkop kiezen en vervolgens de actie **Oplopend** of **Aflopend** kiezen.  
+Als u een lijst wilt sorteren, kunt u op de kolomkoptekst klikken om te schakelen tussen op- en aflopend, of de pijl-omlaag in de kolomkop kiezen en vervolgens de actie **Oplopend** of **Aflopend** kiezen.  
 
 > [!NOTE]  
 > Sorteren wordt niet ondersteund bij afbeeldingen, BLOB-velden, FlowFilters en velden die niet deel van een tabel zijn.  
 
 ## Zoeken
 
-Boven aan elke lijstpagina staat een actie ![lijst zoeken icon](/assets/images/lijst-zoeken.png "lijst zoeken icon") **Zoeken** die een snelle en gemakkelijke manier biedt om de records in een lijst te reduceren en alleen de records weer te geven die de gegevens bevatten die u wilt zien.
+Boven aan elke lijstpagina staat een actie ![lijst zoeken icon](/assets/images/lijst-zoeken.png "lijst zoeken icon") **Zoeken** waarmee u snel en makkelijk de records in een lijst kunt beperken tot de gegevens die u wilt zien.
 
-Als u wilt zoeken, kiest u de actie **Zoeken** en typt u de tekst die u zoekt, in het vak. U kunt letters, cijfers en andere symbolen invoeren.
+Als u wilt zoeken, kiest u de actie Zoeken en typt u in het zoekveld de tekst die u zoekt. U kunt letters, cijfers en andere symbolen invoeren. Zodra u begint met typen geeft Dynamics Empire vanzelf, op basis van herkenning, resultaten weer die aan de getypte tekst voldoen. Hoe meer letters u opgeeft, hoe specifieker het zoekresultaat zal zijn. Over het algemeen wordt geprobeerd in alle velden tekst overeen te laten komen. Er wordt geen onderscheid gemaakt tussen hoofdletters en kleine letters (hoofdletterongevoelig), en er wordt gezocht naar overeenkomst met tekst die ergens in het veld, aan het begin, aan het einde of in het midden wordt geplaatst.
 
 ### De zoekactie verfijnen
 
-Over het algemeen wordt geprobeerd in alle velden tekst overeen te laten komen. Er wordt geen onderscheid gemaakt tussen hoofdletters en kleine letters (hoofdletterongevoelig) en wordt gezocht naar overeenkomst met tekst die ergens in het veld, aan het begin, aan het einde of in het midden wordt geplaatst.
+U kunt de zoekactie echter sturen, en daarmee de lijst met getoonde resultaten beperken, door speciale tekens te gebruiken.
 
-U kunt echter een exactere zoekactie maken door speciale tekens te gebruiken.
+- Als u alleen veldwaarden wilt zoeken die exact overeenkomen met de volledige tekst en de hoofdletters/kleine letters, plaatst u de zoektekst tussen enkele aanhalingstekens (bijvoorbeeld `'man'`).
 
-- Als u alleen veldwaarden wilt zoeken die exact overeenkomen met de volledige tekst en de hoofdletters/kleine letters, plaatst u de zoektekst tussen enkele aanhalingstekens (`''` bijvoorbeeld `'man'`).
+- Als u veldwaarden wilt zoeken die beginnen met een bepaalde tekst en overeenkomen met de hoofdletters/kleine letters, plaatst u een `*` achter de tekst (bijvoorbeeld `man*`).
 
-- Als u veldwaarden wilt zoeken die beginnen met een bepaalde tekst en overeenkomen met de hoofdletters/kleine letters, plaatst u `*` achter de tekst (bijvoorbeeld `man*`).
+- Als u veldwaarden wilt zoeken die eindigen met een bepaalde tekst en overeenkomen met de hoofdletters/kleine letters, plaatst u een `*` vóór de tekst (bijvoorbeeld `*man`).
 
-- Als u veldwaarden wilt zoeken die eindigen met een bepaalde tekst en overeenkomen met de hoofdletters/kleine letters, plaatst u `*` vóór de tekst (bijvoorbeeld `*man`).
-
-- Wanneer u `''` of `*` gebruikt, wordt onderscheid gemaakt tussen hoofdletters en kleine letters. Als u hoofdletterongevoelig wilt zoeken, plaatst u `@` vóór de zoektekst (bijvoorbeeld `@man*`).
+- Wanneer u `''` of `*` gebruikt, wordt onderscheid gemaakt tussen hoofdletters en kleine letters. Als u hoofdletterongevoelig wilt zoeken, plaatst u een `@` vóór de zoektekst (bijvoorbeeld `@man*`).
 
 In de volgende tabel vindt u enkele voorbeelden om aan te geven hoe u de zoekactie kunt gebruiken.
 
 |Zoekcriteria|Zoekt…|
 |---------------|----------|
-|`man`<br />of <br />`Man`|Alle records met velden die de tekst **man** bevatten, ongeacht hoofdletters. Bijvoorbeeld **Manchester**, **manual** of **Sportsman**. |
+|`man`<br />of <br />`Man`|Alle records met velden die de tekst **man** bevatten, ongeacht hoofdletters. Bijvoorbeeld **Manderveen**, **mannelijk** of **Brinkman**. |
 |`'Man'`|Alle records met velden die alleen **Man** bevatten, ongeacht hoofdletters.|
-|`Man*`|Alle records met velden die beginnen met de tekst <b>Man</b>, met identieke hoofdletters/kleine letters. Bijvoorbeeld **Manchester**, maar niet **manual** of **Sportsman**.|
-|`@Man*`|Alle records met velden die beginnen met **man**, ongeacht hoofdletters. Bijvoorbeeld **Manchester** en **manual**, maar niet **Sportsman**.|
-|`@*man`|Alle records met velden die eindigen met **man**, ongeacht hoofdletters. Bijvoorbeeld **Sportsman**, maar niet **Manchester** of **manual**.|
+|`Man*`|Alle records met velden die beginnen met de tekst <b>Man</b>, met identieke hoofdletters/kleine letters. Bijvoorbeeld **Manderveen**, maar niet **mannelijk** of **Brinkman**.|
+|`@Man*`|Alle records met velden die beginnen met **man**, ongeacht hoofdletters. Bijvoorbeeld **Manderveen** en **mannelijk**, maar niet **Brinkman**.|
+|`@*man`|Alle records met velden die eindigen met **man**, ongeacht hoofdletters. Bijvoorbeeld **Brinkman**, maar niet **Manderveen** of **mannelijk**.|
 
 > [!TIP]
 > U kunt op **F3** drukken om het zoekvak te activeren en te deactiveren. Zie voor meer informatie [Toetsenbordsneltoetsen](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/).

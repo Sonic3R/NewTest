@@ -1,6 +1,6 @@
 # Inkopen PO/VGO
 
-Binnenkort beschikbaar
+In dit werkproces worden diensten voor planmatig onderhoud en vastgoedontwikkeling ingekocht.
 
 ## Zie ook
 

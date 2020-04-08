@@ -36,6 +36,13 @@ Wanneer er geen foutmeldingen (meer) in het betaalvoorstel staan kunt u het beta
 1. Klik op **Voorstel**, waarna de pagina **Telebankiervoorstel** opent.
 2. Klik op **Verwerken**, waarna de betaalrun wordt aangemaakt. Er verschijnt een popup met het resultaat.
 
+## Controleren betaalrun
+
+Nadat u de betaalrun aangemaakt heeft kunt u deze controleren.
+
+ 1. Klik op de pagina **Telebankieren - bankoverzicht** op **Betaalrun**. De pagina **Betaalrunlijst** opent. 
+ 2. Klik op **Weergeven** om de regels in de betaalrun te tonen. 
+
 ## Annuleren betaalrunregels
 
 Wanneer naar aanleiding van het controleren van de betaalrun blijkt dat één of meerdere regels niet meegenomen moeten worden in de betaalrun, kunt u individuele regels annuleren zonder de hele betaalrun te hoeven annuleren.

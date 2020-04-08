@@ -22,6 +22,19 @@ De informatie wordt ook overgehaald in een eventuele opdracht- of afwijzingsbrie
 
 ### Vastleggen inkoopoffertes
 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Selecteer een project van het type NB (Nieuwbouw), (BB) renovatie, SL (sloop) of GX (grondexploitatie) in het overzicht en klik op **Bewerken** om de kaart van het project te openen.
+3. Selecteer op het kaartdeel met titel **Budgetregels** de regel(s) waarvoor u een offerte wilt aanvragen. Kies voor de functie **Inkoopofferte aanvragen** (te vinden in de menu-opties direct boven de budgetregels).
+4. Dynamics Empire vraagt om een bevestiging; klik op **Ja**.
+5. In het overzicht met leveranciers dat nu verschijnt selecteert u de juiste (eventueel met behulp van de zoek-functie); klik op **OK**. Dynamics Empire zal een inkoopoffertekaart aanmaken die aan het project gekoppeld is.
+6. Terug op de projectkaart zal in het feitenblok **Budgetgegevens** het aantal achter **Werkderden** met 1 zijn opgehoogd. (Feitenblok **Budgetgegevens** toont het aantal inkoopregels van de geselecteerde budgetregel en feitenblok **Projectgegevens** toont alle inkoopregels van het project.)
+7. Herhaal bovenstaande stappen als u voor een tweede leverancier een offerte wilt aanvragen. Het resultaat zal een tweede offertekaart zijn die gekoppeld is aan de budgetregel voor een andere leverancier, en uiteraard zullen de aantallen in de feitenblokken wijzigen.
+8. Klik op het getal achter item **Werkderden** in het feitenblok. Het **Werkderdenoverzicht** dat verschijnt laat alle inkoopstukken zien die zijn aangemaakt vanuit het project en de budgetregel.
+>**Verkeerde leverancier gekozen?** Selecteer de betreffende offerte (zie ook kolom **Regelsoort**) en klik boven in het werkderdenoverzicht op **Budget**. Op de verschenen projectbudgetkaart selecteert u op 'tabblad' **Werkderden** de juiste regel en kiest u boven in het tabblad in het menu voor de functie **Inkoopofferte verwijderen**.
+9. Selecteer in het werkderdenoverzicht de juiste offerte en klik op **Kaart**. Vul op de offertekaart de volgende gegevens in:
+  - **Verzochte ontvangstdatum (vereist)**
+  - **Contact** (naam van uw contactpersoon bij de leverancier, niet vereist)
+  - **Omschrijving** op de offerteregels
 
 
 

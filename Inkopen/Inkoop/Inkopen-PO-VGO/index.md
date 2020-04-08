@@ -2,6 +2,12 @@
 
 In dit werkproces worden diensten voor planmatig onderhoud en vastgoedontwikkeling ingekocht.
 
+## Selecteren inkoopprocedure
+
+### Wet- en regelgeving
+
+
+
 ## Zie ook
 
 [Accorderen prestatie](../accorderen-prestatie/)  

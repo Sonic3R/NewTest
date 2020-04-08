@@ -51,7 +51,12 @@ Om BAG-verblijfsobjecten in bulk toe te wijzen aan alle eenheden gaat u als volg
 
 ## Toewijzen dimensiewaarden
 
-In deze stap wijst u dimensiewaarden toe aan een OG Eenheid.
+In deze stap wijst u dimensiewaarden toe aan een OG Eenheid. 
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**. 
+2. Selecteer de OG Eenheid waaraan u een dimensiewaarde toe wilt voegen. Navigeer naar **Dimensies**. 
+3. Geef in de kolom **Dimensiecode** aan welk type dimensiewaarde u toe wilt voegen. 
+4. Geef in de kolom **Dimensiewaardecode** de dimensiewaarde op.
 
 ## Aanpassen gegevens t.b.v. onderhoud
 

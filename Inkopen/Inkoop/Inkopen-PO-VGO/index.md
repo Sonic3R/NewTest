@@ -32,9 +32,44 @@ De informatie wordt ook overgehaald in een eventuele opdracht- of afwijzingsbrie
 8. Klik op het getal achter item **Werkderden** in het feitenblok. Het **Werkderdenoverzicht** dat verschijnt laat alle inkoopstukken zien die zijn aangemaakt vanuit het project en de budgetregel.
 >**Verkeerde leverancier gekozen?** Selecteer de betreffende offerte (zie ook kolom **Regelsoort**) en klik boven in het werkderdenoverzicht op **Budget**. Op de verschenen projectbudgetkaart selecteert u op 'tabblad' **Werkderden** de juiste regel en kiest u boven in het tabblad in het menu voor de functie **Inkoopofferte verwijderen**.
 9. Selecteer in het werkderdenoverzicht de juiste offerte en klik op **Kaart**. Vul op de offertekaart de volgende gegevens in:
-  - **Verzochte ontvangstdatum (vereist)**
-  - **Contact** (naam van uw contactpersoon bij de leverancier, niet vereist)
-  - **Omschrijving** op de offerteregels
+    - **Verzochte ontvangstdatum (vereist)**
+    - **Contact** (naam van uw contactpersoon bij de leverancier, niet vereist)
+    - **Omschrijving** op de offerteregels
+10. Als er meer dan één offerte is aangevraagd verschijnen er links en rechts van de geopende offertekaart *navigatiepijlen*. Hiermee kunt u ofwel naar de volgende offertekaart bladeren, ofwel naar de vorige. Doe dit om ook op de andere offertes de nodige gegevens in te vullen.
+
+### Versturen inkoopoffertes
+
+In deze processtap moeten de aanvragen verstuurd worden naar de verschillende leveranciers. Dit kan per brief of per e-mail.
+
+1. Klik op een offertekaart op de actie **Worddocument** om een offertebrief te genereren en te versturen. U komt in een overzicht met briefsjablonen ten behoeve van inkoop. Selecteer het gewenste sjabloon en klik op **OK**.
+2. Als de brief 'vragen stelt', wordt een vragenlijst geopend. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
+3. Zie voor verdere verwerking het proces VERWERKEN UITGAANDE POST.
+
+## Ontvangen offertes
+
+De aangevraagde offertes moeten worden ingediend in een gesloten envelop met daarop vermeld de werkopdracht, uiterste inzenddatum en uiterste inzendtijdstip. De poststukken worden vastgelegd in het Postregistratiesysteem (geen onderdeel van Dynamics Empire). Na het verstrijken van het uiterste inschrijfmoment, worden de enveloppen door de daarvoor verantwoordelijke functionarissen (4-ogenprincipe) geopend en worden de inschrijfbedragen in de projectadministratie geregistreerd. De inschrijvingen worden gescand en gearchiveerd in het digitale projectarchief. 
+
+### Verwerken ontvangen offertes
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Selecteer het juiste project en klik op het getal achter **Werkderden** in het feitenblok **Projectgegevens**.
+3. Kies in het **Werkderdenoverzicht** voor de betreffende offerte en klik op **Kaart** om de offertekaart te openen.
+4. Leg de gegevens uit de offerte hier vast, zoals de **Ontvangstdatum** en het **Offertenr. leverancier**. Het geoffreerde bedrag (of geoffreerde bedragen) legt u vast in het kaartdeel getiteld **Regels**. Vul daar op de regel in ieder geval het veld **Directe kostprijs Excl. btw**.
+5. Mocht de leverancier zaken hebben uitgesloten, of heeft u verder nog interessante informatie voor een vergelijking van offertes, leg dit dan vast als opmerking. Dit doet u door in de menubalk te navigeren naar de optie **Opmerkingen**.
+6. Sluit uiteindelijk de offertekaart, waarna u terugkeert in het werkderdenoverzicht. Als een tweede offerte is ontvangen herhaalt u bovenstaande stappen. Beide offertes zullen dan de status 'In behandeling' krijgen, waarna u over kunt gaan tot het vergelijken en afwijzen of gunnen van de offertes.
+
+### Archiveren offertes in DMS
+
+Inkomende poststukken worden over het algemeen gescand door de postkamer, geïndexeerd en gearchiveerd.
+
+## Beslissen leverancier
+
+Het doel van deze stap is de leverancier te selecteren met wie een overeenkomst wordt aangegaan. Er zijn drie gunningscriteria:
+· Beste prijs-kwaliteitsverhouding
+· Laagste prijs
+· Hoogste kwaliteit
+
+Het past bij professioneel opdrachtgeverschap om in beginsel aan te besteden op basis van beste prijskwaliteitsverhouding. U zult hiervoor de door uw corporatie aangegeven richtlijnen dienen te volgen.
 
 
 

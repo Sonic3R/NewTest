@@ -71,6 +71,31 @@ Het doel van deze stap is de leverancier te selecteren met wie een overeenkomst 
 
 Het past bij professioneel opdrachtgeverschap om in beginsel aan te besteden op basis van beste prijskwaliteitsverhouding. U zult hiervoor de door uw corporatie aangegeven richtlijnen dienen te volgen.
 
+## Registreren inkooporder
+
+De opdracht aan de gekozen leverancier wordt in de projectadministratie vastgelegd. De inkooporder wordt eventueel verdeeld in termijnen.
+
+### Inkoopofferte omzetten in een order
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Zoek het juiste project op en klik op het getal achter **Werkderden** in het feitenblok **Projectgegevens**.
+3. Selecteer in het **Werkderdenoverzicht** de betreffende offerte en klik op **Kaart** om de offertekaart te openen.
+4. Kies voor de actie **Order maken**. Dynamics Empire vraagt nu om een bevestiging; een klik op **Ja** leidt tot de melding dat de offerte is omgezet naar een order (die u al dan niet direct in kunt zien).
+5. Na sluiten van de offertekaart laat het werkderdenoverzicht een nieuwe regel zien met **Regelsoort** = 'Order'. Tevens is te zien dat de status van de offerte is veranderd in 'Omgezet'. De offerte is gearchiveerd in Dynamics Empire en niet meer te wijzigen. De inkooporder heeft status 'Open'.
+6. Sluit het werkderdenoverzicht;op de projectkaart (of in het projectoverzicht) is te zien dat de projectstatus is gewijzigd in 'Order (gegund)'.
+
+### Aanmaken van een inkooporder (zonder inkoopofferte)
+
+Wanneer de inkoopprijs op een andere wijze is verkregen dan via een inkoopofferte, bijvoorbeeld bij meer–minderwerk, met behulp van eenheidsprijzen of een contract, kunt u een order zonder tussenkomst van een offerte aanmaken. Bij een meerwerkorder wordt een positieve directe kostprijs ingevuld, bij een minderwerkorder een negatieve (of aantal wordt als '-1' ingevuld). Voor het factureren van meer- of minderwerk zijn twee mogelijkheden voorhanden: een losse factuur/creditnota, of een factuur/creditnota in combinatie met de oorspronkelijke order.
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Zoek het juiste project op en klik op **Bewerken** om de projectkaart te openen.
+3. Selecteer de budgetregels waarvoor u een order wilt aanmaken en kies boven in het menu van het 'tabblad' **Budgetregels** voor de functie **Inkooporder aanmaken**. Dynamics Empire vraagt om een bevestiging; klik op **Ja**. 
+4. Een overzicht met leveranciers wordt getoond. U kunt in dit overzicht de gewenste leverancier opzoeken (via de zoekfunctie boven in het scherm) en selecteren. Na de bevestiging via de knop **OK** geeft Dynamics Empire te kennen dat de order is aangemaakt. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in '3 Order'. De aangemaakte inkooporder is te vinden via het feitenblok, item **Werkderden**. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
+5. Klik op het aantal in feitenblok **Budgetgegevens** (als het een VGO-project betreft) of feitenblok **Projectgegevens** (als het een Onderhoudsproject betreft) om de inkooporder te openen. U komt in het **Werkderdenoverzicht** terecht. In dit overzicht staan alle inkoopoffertes en -orders die zijn aangemaakt vanuit het project.
+>**Verkeerde leverancier gekozen?** Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt de inkooporder verwijderen: selecteer één van de orderregels in het werkderdenoverzicht en kies voor **Budget**. De budgetkaart die verschijnt is de kaart van de budgetregel waar vanuit u de inkooporder heeft aangemaakt. Selecteer op tabblad **Werkderden** de betreffende inkooporder en kies de functie **Inkooporder Verwijderen**. (Als een deel van de inkooporder al gefactureerd is, kan de order niet verwijderd worden.) Klik daarna op **Inkooporder afhandelen**. Sluit de budgetkaart.
+6. 
+
 
 
 ## Zie ook

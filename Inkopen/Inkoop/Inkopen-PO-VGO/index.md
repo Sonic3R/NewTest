@@ -126,9 +126,14 @@ Selecteer in alle andere gevallen het gewenste opdrachtsjabloon en klik op **OK*
 
 Leveranciers mogen van een professionele opdrachtgever verwachten dat hij goed en inhoudelijk onderbouwd uitlegt waarom zij al dan niet zijn geselecteerd of de opdracht niet aan hen wordt gegund. Hiertoe maakt u de afwijzingsbrief aan en verstuurt u deze.
 
-1. 
-
-
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Zoek het juiste project op en klik op het getal achter **Werkderden** in het feitenblok **Projectgegevens**.
+3. In het **Werkderdenoverzicht** is te zien dat de betreffende offerte de status 'In behandeling' heeft. (De status verandert van 'Open' naar 'In behandeling' wanneer de door de leverancier opgegeven prijs en aanvullende gegevens op de kaart zijn ingevuld.)
+4. Selecteer de offerte en kies voor **Kaart**.
+5. Kies op de offertekaart voor menu-item **Worddocument** om een dankbrief te genereren en te versturen.
+6. Wanneer het systeem om een bevestiging vraagt klikt u op **Ja**. U komt in een overzicht met briefsjablonen ten behoeve van inkoop. Selecteer het gewenste briefsjabloon en klik op **OK**.
+7. Als de brief 'vragen stelt', wordt een vragenlijst geopend. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
+8. Voor een verdere beschrijving van het proces, zie VERWERKEN UITGAANDE POST.
 
 ## Zie ook
 

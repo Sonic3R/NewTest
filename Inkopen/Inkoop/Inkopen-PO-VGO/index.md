@@ -108,6 +108,25 @@ Wanneer de inkoopprijs op een andere wijze is verkregen dan via een inkoopoffert
 >**Tip!** Als het veel regels betreft, kunt u de regels overhevelen naar Excel om ze daar te bewerken. Selecteer hiertoe de regels, druk op Ctrl+C, ga naar Excel en druk op Ctrl+V. U kunt de informatie vervolgens in Excel aanvullen/wijzigen en weer terugplakken in DE. Om terug te kunnen plakken, dient u uiteraard de regels intact te houden in Excel (dus geen regels toevoegen in Excel). Ten behoeve van termijnen moeten regels in Dynamics Empire worden gesplitst.
 
 ## Goedkeuren document
+Afhankelijk van de interne afspraken hierover binnen de corporatie, en van de instellingen in Dynamics Empire, zullen bepaalde documenten onderhevig zijn aan het goedkeuringsproces. Zie hiervoor de beschrijving in het werkproces **[Goedkeuren documenten](../goedkeuren-documenten/)**.
+
+## Verstrekken opdracht
+
+Deze stap betreft het daadwerkelijk verstrekken van de opdracht aan de leverancier. De brief waarin de opdracht wordt verstrekt wordt voorzien van de handtekening van de betreffende manager, automatisch gearchiveerd in het DMS en is vanuit de projectadministratie direct opvraagbaar. 
+Als de leverancier is aangesloten op het **Leveranciersportaal** is de opdracht daar ook zichtbaar. Nadat de inkooporder is goedgekeurd, is de status van het project automatisch 'Gegund' geworden.
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Inkooporders (Projecten)**.
+2. Selecteer/open de order die u wilt gunnen en kies voor **Worddocument**.
+3. Een overzicht met briefsjablonen wordt getoond. Gebruik sjabloon **Gunnen zonder brief** als u een historische order opvoert waarvan de brief inmiddels in DMS is opgeslagen. In dat geval wilt u slechts alle statussen omzetten en niet de brief versturen. Sluit daarna het geopende Worddocument.  
+Selecteer in alle andere gevallen het gewenste opdrachtsjabloon en klik op **OK**.
+4. Er wordt eventueel een vragenvenster geopend. Alle antwoorden die u opgeeft in het vragenvenster worden in de uiteindelijke brief verwerkt. Beantwoord de vragen in kolom **Antwoord** en klik op **OK**.
+5. Voor het verder versturen van de opdrachtbrief, zie VERWERKEN UITGAANDE POST.
+
+## Versturen afwijzingsbrief
+
+Leveranciers mogen van een professionele opdrachtgever verwachten dat hij goed en inhoudelijk onderbouwd uitlegt waarom zij al dan niet zijn geselecteerd of de opdracht niet aan hen wordt gegund. Hiertoe maakt u de afwijzingsbrief aan en verstuurt u deze.
+
+1. 
 
 
 

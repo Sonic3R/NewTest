@@ -94,7 +94,20 @@ Wanneer de inkoopprijs op een andere wijze is verkregen dan via een inkoopoffert
 4. Een overzicht met leveranciers wordt getoond. U kunt in dit overzicht de gewenste leverancier opzoeken (via de zoekfunctie boven in het scherm) en selecteren. Na de bevestiging via de knop **OK** geeft Dynamics Empire te kennen dat de order is aangemaakt. Bij een planmatigonderhoudsproject wordt de status van het project omgezet in '3 Order'. De aangemaakte inkooporder is te vinden via het feitenblok, item **Werkderden**. Het aantal in dit feitenblok is toegenomen en geeft het aantal inkoopregels weer die zijn aangemaakt vanuit het project.
 5. Klik op het aantal in feitenblok **Budgetgegevens** (als het een VGO-project betreft) of feitenblok **Projectgegevens** (als het een Onderhoudsproject betreft) om de inkooporder te openen. U komt in het **Werkderdenoverzicht** terecht. In dit overzicht staan alle inkoopoffertes en -orders die zijn aangemaakt vanuit het project.
 >**Verkeerde leverancier gekozen?** Mocht u een order hebben aangemaakt voor een verkeerde leverancier, dan kunt u als volgt de inkooporder verwijderen: selecteer één van de orderregels in het werkderdenoverzicht en kies voor **Budget**. De budgetkaart die verschijnt is de kaart van de budgetregel waar vanuit u de inkooporder heeft aangemaakt. Selecteer op tabblad **Werkderden** de betreffende inkooporder en kies de functie **Inkooporder Verwijderen**. (Als een deel van de inkooporder al gefactureerd is, kan de order niet verwijderd worden.) Klik daarna op **Inkooporder afhandelen**. Sluit de budgetkaart.
-6. 
+6. Nu is het tijd om de orderkaart in te vullen met relevante gegevens. Selecteer één van de orderregels in het werkderdenoverzicht en klik op **Kaart** om de orderkaart te openen.
+7. Vul op 'tabblad' **Regels** de **Directe kostprijs** als orderbedrag excl. btw. Als de order aangemaakt is vanuit een offerte, dan zijn de directe kostprijzen reeds ingevuld. Pas eventueel de **Directe kostprijs Excl. btw** aan als u onderhandeld hebt over de offerteprijs.
+8. Als het ingevulde bedrag **Directe kostprijs Excl. btw** hoger is dan het budgetbedrag excl. btw maakt het systeem hiervan melding. Bovendien kleurt de orderregel rood.
+9. Inkooporderregels kunnen opgesplitst worden ten behoeve van termijnen. Dit moet echter binnen de structuur van de aanwezige orderregels gebeuren, rekening houdend met de volgorde waarin de werkzaamheden worden uitgevoerd.
+>Stel, we hebben te maken met twee orderregels die verband houden met twee budgetregels: één budgetregel voor het vervangen van plafondafwerking, tegen 21% BTW en voor 71.000 euro, en één budgetregel voor het schilderen van het plafond voor een bedrag van 20.000 euro. Het schilderen kan als slottermijn worden gezien. Het vervangen van het plafond kan opgedeeld worden in twee termijnen.
+10. Selecteer de regel(s) die u wilt opdelen en klik op **Termijn toevoegen**. Als vijf regels geselecteerd worden en er worden twee termijnen toegevoegd, dan onstaan er hierdoor vijftien regels (drie termijnen per budgetregel).
+11. Het scherm **Termijnen toevoegen** wordt geopend. Vul in veld **Extra aantal termijnen** '1' in en klik op **OK**. De inkooporderregel zal worden gesplitst in twee regels.
+12. Pas het veld **Directe kostprijs** aan als de termijnen niet evenredig zijn.
+>**Let op!** Dynamics Empire rekent het aanpassen van de directe kostprijs niet door naar andere regels. Bedenk dus, voordat u deze handeling gaat doen, wat het bedrag per termijn zal zijn. Mocht de inkooporder uit meer regels bestaan die u wilt opdelen t.b.v. termijnen, selecteer dan alle regels.
+13. Voer in kolom **Omschrijving 2** een omschrijving in van de termijnen.
+14. Voer een **Verwachte factuurdatum** per termijn op.
+>**Tip!** Als het veel regels betreft, kunt u de regels overhevelen naar Excel om ze daar te bewerken. Selecteer hiertoe de regels, druk op Ctrl+C, ga naar Excel en druk op Ctrl+V. U kunt de informatie vervolgens in Excel aanvullen/wijzigen en weer terugplakken in DE. Om terug te kunnen plakken, dient u uiteraard de regels intact te houden in Excel (dus geen regels toevoegen in Excel). Ten behoeve van termijnen moeten regels in Dynamics Empire worden gesplitst.
+
+## Goedkeuren document
 
 
 

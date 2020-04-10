@@ -1,6 +1,6 @@
 # Basisinstellingen wijzigen
 
-Op de pagina **Mijn instellingen** (oproepbaar via het pictogram ![instellingen icon](/assets/images/instellingen.png "instellingen icon") rechts boven in het scherm) kunt u basisinstellingen bekijken en wijzigen voor Dynamics Empire. De wijzigingen die u aanbrengt, hebben alleen invloed op uw werkruimte, niet op de werkruimten van andere gebruikers.  
+Op de pagina **Mijn instellingen** kunt u basisinstellingen bekijken en wijzigen voor Dynamics Empire. De wijzigingen die u aanbrengt, hebben alleen invloed op uw werkruimte, niet op de werkruimten van andere gebruikers.  
 
 ## Rolcentrum
 
@@ -20,7 +20,11 @@ De standaardrol is **Bedrijfsmanager**, maar u kunt een andere rol met bijbehore
 
 ## Bedrijf
 
-Een bedrijf werkt als een container voor gegevens in Dynamics Empire. Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd. Via de AssistEdit krijgt u de in Dynamics Empire vertegenwoordigde bedrijven te zien.
+Een bedrijf werkt als een container voor gegevens in Dynamics Empire. Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd.
+
+1. Kies in de rechterbovenhoek het pictogram **Instellingen** ![instellingen icon](/assets/images/instellingen.png "instellingen icon") en kies vervolgens de actie **Mijn instellingen**.
+2. Selecteer op de pagina **Mijn instellingen** in het veld **Bedrijf** het bedrijf dat u standaard wilt gebruiken. Klik hiertoe op de AssistEdit naast het veld, waarna de beschikbare bedrijven worden getoond. 
+3. Klik op de knop **Ok** ter bevestiging van uw keuze.
 
 ## De bedrijfsnaam wijzigen
 
@@ -28,21 +32,15 @@ De bedrijfsnaam wordt altijd in de linkerbovenhoek van het scherm weergegeven en
 
 1. Kies het pictogram ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), voer **Bedrijfsgegevens** in en kies de gerelateerde koppeling.
 2. Voer in het veld **Naam** de nieuwe bedrijfsnaam in.
-3. Verlaat de pagina. Het systeem start opnieuw op en geeft het nieuwe bedrijf in de linkerbovenhoek weer.
-
-## Een bedrijfsbadge weergeven voor snelle toegang tot bedrijfsgegevens
-
-U kunt een aangepaste badge in de rechterbovenhoek toevoegen, die u kunt kiezen om de bedrijfsnaam en tenantinformatie snel in een pop-upvenster te bekijken.
-
-1. Kies het pictogram ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), voer **Bedrijfsgegevens** in en kies de gerelateerde koppeling.
-2. Vul op het sneltabblad **Bedrijfsbadge** indien nodig de velden in. Wijs een veld aan om een korte omschrijving te lezen.
-
-> [!NOTE]
-> Als een bedrijfsbadge is gedefinieerd, kunt u de bedrijfsnaam niet wijzigen zoals beschreven in [De bedrijfsnaam wijzigen](#De-bedrijfsnaam-wijzigen).
+3. Verlaat de pagina. Na opnieuw opstarten van het systeem staat de gewijzigde bedrijfsnaam in de linkerbovenhoek.
 
 ## Werkdatum
 
 De meest gebruikte werkdatum is de datum van vandaag. U moet de werkdatum mogelijk tijdelijk wijzigen om taken te kunnen uitvoeren, zoals het voltooien van transacties voor een datum die niet de datum van vandaag is.
+
+1. Kies in de rechterbovenhoek het pictogram **Instellingen** ![instellingen icon](/assets/images/instellingen.png "instellingen icon") en kies vervolgens de actie **Mijn instellingen**.
+2. Vul op de pagina **Mijn instellingen** in het veld **Werkdatum** de datum die u als werkdatum wilt gebruiken. 
+3. Klik op de knop **Ok** ter bevestiging van uw keuze.
 
 > [!TIP]  
 > Typ in alle datumvelden **v** om snel de datum van vandaag in te voeren en typ **w** om snel de werkdatum in te voeren. Dit is de waarde in het veld **Werkdatum** op de pagina **Mijn instellingen**.

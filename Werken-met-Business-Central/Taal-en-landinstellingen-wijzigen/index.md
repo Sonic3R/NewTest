@@ -21,10 +21,3 @@ U wijzigt de landinstellingen op de pagina **Mijn instellingen**. Zie voor meer 
 ## Toepassingsversie
 
 Op de pagina **Help en ondersteuning** (bereikbaar via het vraagteken, rechts boven op de pagina) ziet u op welke versie van Business Central uw Dynamics Empire-bedrijf is gebaseerd. Als u een bedrijf een andere basis wilt geven, kan de systeembeheerder een nieuwe productieomgeving maken.
-
-### Hoe kan de ik de taal veranderen?
-
-Het is eenvoudig: schuif naar de onderzijde van de browserpagina en kies het wereldbolsymbool in de linkerbenedenhoek.
-
-> [!NOTE]  
-> De lijst bevat alle talen die door de Microsoft Docs-site worden ondersteund. Business Central is beschikbaar in een beperkt aantal landen/regio's, maar de Helpinhoud is beschikbaar gemaakt in meer talen. Echter, de Helpinhoud is niet beschikbaar in alle talen die de Microsoft Docs-site ondersteunt.

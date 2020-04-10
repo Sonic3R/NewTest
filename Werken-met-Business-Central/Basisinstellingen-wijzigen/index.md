@@ -59,14 +59,14 @@ Wanneer de werkdatum niet is ingesteld op de datum van vandaag, verschijnen er t
 
 ## Regio
 
-De instelling bij **Regio** bepaalt de weergave of notatie van datums, tijden, nummers en valuta's.
+De instelling bij **Regio** op de pagina **Mijn instellingen** bepaalt de weergave of notatie van datums, tijden, nummers en valuta's.
 
 ## Taal
 
-Wijzigt de weergavetaal. Dit veld wordt alleen weergegeven als uit meerdere talen kan worden gekozen.
+De waarde in het veld **Taal** op de pagina **Mijn instellingen** wordt alleen weergegeven als uit meerdere talen kan worden gekozen.
 
-De aanvankelijke taal wordt bepaald door de beheerder of door uw browserinstellingen als u zich aanmeldt voor Business Central. De taal die u instelt, wordt op alle apparaten gebruikt waarop u zich aanmeldt, zoals een telefoon of tablet.
+De aanvankelijke taal wordt bepaald door de beheerder of door uw browserinstellingen als u zich aanmeldt voor Dynamics Empire. De taal die u instelt, wordt op alle apparaten gebruikt waarop u zich aanmeldt, zoals een telefoon of tablet.
 
-## Wijzigen wanneer ik berichten ontvang
+## Ontvangen berichten
 
-Klik op deze koppeling om de meldingen te zien of aan te passen die u ontvangt over bepaalde gebeurtenissen of statuswijzigingen, bijvoorbeeld wanneer u een klant wilt gaan factureren die een openstaand saldo heeft of wanneer de beschikbare voorraad lager is dan de hoeveelheid die u op het punt staat te verkopen. Zie voor meer informatie [Berichten beheren](../Berichten-beheren/).
+De tekst **Wijzigen wanneer ik berichten ontvang.** in het veld **Berichten** op de pagina **Mijn instellingen** vormt een link; klik hierop om de meldingen te zien of aan te passen die u ontvangt over bepaalde gebeurtenissen of statuswijzigingen, bijvoorbeeld wanneer u een klant wilt gaan factureren die een openstaand saldo heeft of wanneer een eenheid die u op het punt staat aan te bieden al verhuurd is. Zie voor meer informatie [Berichten beheren](../Berichten-beheren/).

@@ -70,7 +70,8 @@ Voor velden van het type **Optie** kunt u echter alleen een filter instellen doo
 
 In lijsten stelt u filters in met behulp van het **filterdeelvenster**. Als u dit venster voor een lijst wilt weergeven, kiest u het filtericoon ![filter icon](/assets/images/filter.png "filter icon") **Filterdeelvenster weergeven**, rechtsboven op de pagina. U kunt ook drukken op **Shift+F3**.
 
-Als u het filtervenster voor een kolom in een lijst wilt weergeven, kiest u de keuzepijl naast de kolomnaam en selecteert u de actie **Filteren op deze waarde**. Het filterdeelvenster verschijnt links op de pagina, met in het veld **Filter lijst op:** de waarde uit de betreffende kolom ingevuld.  
+Als u het filtervenster voor een kolom in een lijst wilt weergeven, met een filter dat alleen records weergeeft met dezelfde waarde als in de geselecteerde cel, kiest u de keuzepijl naast de kolomnaam en selecteert u de actie **Filteren op deze waarde**. Het filterdeelvenster verschijnt links op de pagina, met in het veld **Filter lijst op:** de waarde uit de betreffende cel ingevuld. U kunt ook drukken op **Alt+F3**.
+
 U kunt dit voor meerdere kolommen doen, waarvoor dan in het filterdeelvenster de verschillende waarden worden vermeld. Bedenk goed dat al deze gefilterde waarden dan uiteraard hun invloed hebben op de uitkomst in de lijst. Wilt u de filtering voor een specifieke kolom verwijderen, dan klikt u op het kruisje naast de kolomnaam onder **Filter lijst op:**, of u kiest de keuzepijl naast de kolomnaam en selecteert de actie **Filter wissen**.
 
 Het filterdeelvenster bevat de huidige filters voor een lijst en biedt u de mogelijkheid uw eigen filters in te stellen op een of meer velden door de actie **+ Filteren** te kiezen.
@@ -83,21 +84,21 @@ Een filterdeelvenster is verdeeld in drie gedeelten: **Weergaven**, **Filter lij
 
 - **Filter lijst op**
 
-  Hier voegt u filters toe aan specifieke velden om het aantal weergegeven records te reduceren. Als u een filter wilt toevoegen, kiest u de actie **+ Filter**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
+  Hier voegt u filters toe aan specifieke velden om het aantal weergegeven records te reduceren. Als u een filter wilt toevoegen, kiest u de actie **+ Filteren**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst. 
+  
+  >Note: Zodra een filter is ingesteld en de focus wordt verlegd naar een ander deel in het filterdeelvenster, dan wordt de optie **+ Filteren** vervangen door **Bewerken**. Klik hierop om de focus weer te verleggen.
 
 - **Filter totalen op**
 
-  Sommige lijsten met berekende velden, zoals bedragen en aantallen, bevatten het gedeelte **Filter totalen op**, waarin u verschillende dimensies kunt aanpassen die van invloed zijn op berekeningen. Als u een filter wilt toevoegen, kiest u de actie **+ Filter**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
-
-U kunt een eenvoudig filter rechtstreeks in een lijst instellen met behulp van het filtervenster, namelijk een filter dat alleen records weergeeft met dezelfde waarde als in de geselecteerde cel. Selecteer een cel in de lijst, kies de vervolgkeuzepijl en kies vervolgens de actie **Filteren op deze waarde**. U kunt ook drukken op **Alt+F3**.
+  Sommige lijsten met berekende velden, zoals bedragen en aantallen, bevatten het gedeelte **Filter totalen op**, waarin u verschillende dimensies kunt aanpassen die van invloed zijn op berekeningen. Als u een filter wilt toevoegen, kiest u de actie **+ Filteren** (indien nodig: eerst **Bewerken**) en typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
 
 ### Filters instellen in rapporten, batchtaken en XMLports
 
-Voor rapporten, batchtaken en XMLports zijn de filters direct zichtbaar op de aanvraagpagina. De aanvraagpagina toont de laatst gebruikte filters volgens uw selectie in het veld **Standaardwaarden gebruiken uit**.
+Voor rapporten, batchtaken en XMLports zijn de filters direct zichtbaar op de aanvraagpagina. De aanvraagpagina toont de laatst gebruikte filters volgens uw selectie in het veld **Standaardwaarden gebruiken uit**. Zie voor meer informatie Opgeslagen instellingen gebruiken.
 
 De hoofdsectie **Filter** toont de standaardfiltervelden die u gebruikt om af te bakenen welke records in het rapport of de XMLport moeten worden opgenomen. Als u een filter wilt toevoegen, kiest u de actie **+ Filter**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
 
-In de sectie **Totalen filteren op** kunt u verschillende dimensies aanpassen die van invloed zijn op berekeningen in het rapport of de XMLport. Als u een filter wilt toevoegen, kiest u de actie **+ Filter**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
+In de sectie **Filter totalen op** kunt u verschillende dimensies aanpassen die van invloed zijn op berekeningen in het rapport of de XMLport. Als u een filter wilt toevoegen, kiest u de actie **+ Filteren**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
 
 ## Filtercriteria invoeren
 

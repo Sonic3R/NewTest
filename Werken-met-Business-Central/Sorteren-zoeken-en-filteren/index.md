@@ -94,7 +94,7 @@ Een filterdeelvenster is verdeeld in drie gedeelten: **Weergaven**, **Filter lij
 
 ### Filters instellen in rapporten, batchtaken en XMLports
 
-Voor rapporten, batchtaken en XMLports zijn de filters direct zichtbaar op de aanvraagpagina. De aanvraagpagina toont de laatst gebruikte filters volgens uw selectie in het veld **Standaardwaarden gebruiken uit**. Zie voor meer informatie [Opgeslagen instellingen gebruiken](../Werken-met-rapporten-batchverwerkingen-en-XMLports#opgeslagen-instellingen-gebruiken/)
+Voor rapporten, batchtaken en XMLports zijn de filters direct zichtbaar op de aanvraagpagina. De aanvraagpagina toont de laatst gebruikte filters volgens uw selectie in het veld **Standaardwaarden gebruiken uit**. Zie voor meer informatie [Opgeslagen instellingen gebruiken](../Werken-met-rapporten-batchverwerkingen-en-XMLports/#opgeslagen-instellingen-gebruiken/).
 
 De hoofdsectie **Filter** toont de standaardfiltervelden die u gebruikt om af te bakenen welke records in het rapport of de XMLport moeten worden opgenomen. Als u een filter wilt toevoegen, kiest u de actie **+ Filter**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
 

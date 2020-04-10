@@ -5,10 +5,7 @@ Voor Dynamics Empire geldt een ondersteuning in twee talen: Nederlands en Engels
 
 Als u de taal van de gebruikersinterface wilt wijzigen, gaat u naar de pagina **Mijn instellingen** via het instellingen-icoon (rader) rechts boven in het scherm. Zie voor meer informatie [Basisinstellingen wijzigen](../Basisinstellingen-wijzigen/#Taal).  
 
-Deze meertalige functionaliteit heeft geen invloed op de taal waarin de toepassingsgegevens zijn opgeslagen. De taal van deze gegevens wordt bestuurd door het toepassingsontwerp. De namen van artikelen in de voorraad en de opmerkingen voor een klant zijn voorbeelden van dergelijke tekst. Deze tekst wordt dus niet vertaald.  
-
-> [!NOTE]  
-> In Business Central wordt slechts één tekenset voor gegevens ondersteund. Daarom worden bepaalde tekens mogelijk niet ondersteund in uw tenant en kunnen er problemen optreden wanneer u gegevens ophaalt die zijn ingevoerd met een andere tekenset. Uw tenant ondersteunt bijvoorbeeld alleen Engelse en Russische tekens en u voert gegevens in een andere taal in. De gegevens worden dan mogelijk niet juist opgeslagen. Neem contact op met de systeembeheerder om te informeren welke talen precies worden ondersteund voor uw versie van Business Central.  
+Deze meertalige functionaliteit heeft geen invloed op de taal waarin de toepassingsgegevens zijn opgeslagen. De taal van deze gegevens wordt bestuurd door het toepassingsontwerp. De namen van artikelen in de voorraad en de opmerkingen voor een klant (huurder) zijn voorbeelden van dergelijke tekst. Deze tekst wordt dus niet vertaald.  
 
 ## De landinstellingen wijzigen
 
@@ -23,11 +20,7 @@ U wijzigt de landinstellingen op de pagina **Mijn instellingen**. Zie voor meer 
 
 ## Toepassingsversie
 
-Op de pagina **Help en ondersteuning** ziet u op welke versie van Business Central uw bedrijf is gebaseerd. Als u een bedrijf een andere basis wilt geven, kan de systeembeheerder een nieuwe productieomgeving maken.
-
-## Talen van de Business Central Help
-
-De helpinhoud voor de kernfunctionaliteit in Business Central publiceert naar de Microsoft Docs-site en is beschikbaar in een aantal verschillende talen. Als u toegang tot de documenten hebt vanuit Business Central, wordt de inhoud in uw taal weergegeven. Als een bepaalde pagina nog niet beschikbaar in uw taal is, blijft deze in het Engels worden weergegeven.
+Op de pagina **Help en ondersteuning** (bereikbaar via het vraagteken, rechts boven op de pagina) ziet u op welke versie van Business Central uw Dynamics Empire-bedrijf is gebaseerd. Als u een bedrijf een andere basis wilt geven, kan de systeembeheerder een nieuwe productieomgeving maken.
 
 ### Hoe kan de ik de taal veranderen?
 

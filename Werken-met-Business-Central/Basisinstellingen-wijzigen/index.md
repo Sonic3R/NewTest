@@ -1,32 +1,30 @@
 # Basisinstellingen wijzigen
 
-Op de pagina **Mijn instellingen** kunt u basisinstellingen bekijken en wijzigen voor Business Central. De wijzigingen die u aanbrengt, hebben alleen invloed op uw werkruimte, niet op de werkruimten van andere gebruikers.  
+Op de pagina **Mijn instellingen** (oproepbaar via het pictogram ![instellingen icon](/assets/images/instellingen.png "instellingen icon") rechts boven in het scherm) kunt u basisinstellingen bekijken en wijzigen voor Dynamics Empire. De wijzigingen die u aanbrengt, hebben alleen invloed op uw werkruimte, niet op de werkruimten van andere gebruikers.  
 
 ## Rolcentrum
 
 Het rolcentrum vertegenwoordigt de startpagina, een startscherm dat is ontworpen voor de vereisten van een specifieke rol in een organisatie. Afhankelijk van uw rol krijgt u in het Rolcentrum een overzicht van het bedrijf, uw afdeling of uw persoonlijke taken. Het helpt u ook navigeren naar uw dagelijkse taken en werk te zoeken dat aan u is toegewezen.
 
-- Bovenaan kunt u met de navigatie schakelen tussen klanten, leveranciers, artikelen en andere belangrijke lijsten met informatie. Op dezelfde manier kunt u met acties taken starten, zoals een nieuwe verkoopfactuur maken, direct vanuit het Rolcentrum.
+- Bovenaan kunt u met de navigatie schakelen tussen klanten, leveranciers, bankrekeningen en andere belangrijke lijsten met informatie. Op dezelfde manier kunt u met acties taken starten, zoals een nieuwe verhuuraanbieding maken, direct vanuit het Rolcentrum.
 
-- In het midden ziet u het gebied **Activiteiten**, dat actuele gegevens toont en waarop kan worden geklikt of getikt om meer gedetailleerde informatie te bekijken. KPI´s (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven. U kunt ook een lijst met favoriete klanten maken in het rolcentrum voor zakelijke accounts waarmee u vaak zaken doet of waaraan u speciale aandacht moet geven.
+- In het midden ziet u het gebied **Activiteiten**, dat actuele gegevens toont en waarop kan worden geklikt of getikt om meer gedetailleerde informatie te bekijken. KPI´s (Key Performance Indicators) kunnen worden ingesteld om een geselecteerd diagram weer te geven voor een visuele weergave van bijvoorbeeld cashflow of inkomsten en uitgaven. U kunt ook een lijst met favoriete klanten maken in het rolcentrum voor contacten waarmee u vaak te maken hebt of waaraan u speciale aandacht moet geven.
 
 ### De rol wijzigen
 
-De standaardrol is **Bedrijfsmanager**, maar u kunt een andere rol selecteren om een rolcentrum te selecteren dat beter aan uw behoeften voldoet.
+De standaardrol is **Bedrijfsmanager**, maar u kunt een andere rol met bijbehorend rolcentrum selecteren dat beter aan uw behoeften voldoet.
 
 1. Kies in de rechterbovenhoek het pictogram **Instellingen** ![instellingen icon](/assets/images/instellingen.png "instellingen icon") en kies vervolgens de actie **Mijn instellingen**.
-2. Selecteer op de pagina **Instellingen** in het veld **Rol** de rol die u als standaard wilt gebruiken. Selecteer bijvoorbeeld **Accountant**.
-3. Kies de knop **Ok**.
+2. Selecteer op de pagina **Mijn instellingen** in het veld **Rol** de rol die u als standaard wilt gebruiken. Klik hiertoe op de AssistEdit naast het veld, waarna de beschikbare rollen worden getoond. 
+3. Klik op de knop **Ok** ter bevestiging van uw keuze.
 
 ## Bedrijf
 
-Een bedrijf werkt als een container voor gegevens in Business Central. Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd.
-
-Het standaardbedrijf heet CRONUS en bevat alleen demogegevens. U kunt een nieuw bedrijf met aangepaste gegevens maken. Zie [Nieuwe bedrijven](about-new-company.md) maken voor meer informatie.
+Een bedrijf werkt als een container voor gegevens in Dynamics Empire. Een database kan meerdere bedrijven bevatten, maar er kan slechts één bedrijf tegelijk worden geselecteerd. Via de AssistEdit krijgt u de in Dynamics Empire vertegenwoordigde bedrijven te zien.
 
 ## De bedrijfsnaam wijzigen
 
-De bedrijfsnaam wordt altijd in de linkerbovenhoek weergegeven en werkt als een actie die u kunt kiezen om terug te gaan naar het rolcentrum. U kunt deze naam wijzigen op de pagina **Bedrijfsgegevens**.
+De bedrijfsnaam wordt altijd in de linkerbovenhoek van het scherm weergegeven en werkt als een actie die u kunt kiezen om terug te gaan naar het rolcentrum. U kunt deze naam wijzigen op de pagina **Bedrijfsgegevens**.
 
 1. Kies het pictogram ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), voer **Bedrijfsgegevens** in en kies de gerelateerde koppeling.
 2. Voer in het veld **Naam** de nieuwe bedrijfsnaam in.

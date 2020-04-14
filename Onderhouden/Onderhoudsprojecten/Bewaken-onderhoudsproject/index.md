@@ -70,7 +70,7 @@ Het systeem controleert op bovenstaande zaken. Het systeem controleert niet of d
 
 ## Beoordelen leverancier
 
-
+Tot slot dient de leverancier te worden beoordeeld op zijn prestaties, waarna het project als gereed kan worden beschouwd.
 
 ## Zie ook
 

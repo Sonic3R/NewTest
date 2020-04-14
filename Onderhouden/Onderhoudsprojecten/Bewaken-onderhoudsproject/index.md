@@ -43,8 +43,14 @@ Nadat de werkzaamheden gereed zijn gemeld, moet het opgeleverde werk (de prestat
 
 ## Technisch gereedmelden project
 
-Het project wordt in Dynamics Empire Online gereed gemeld door de status van het project op 'Technisch gereed' te zetten.
+Het (onderhouds)project wordt in Dynamics Empire Online gereed gemeld door de status van het project op 'Technisch gereed' te zetten.
 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Selecteer het juiste project en klik op **Bewerken**.
+3. Verander de status van '4 Order gegund' naar '5 Technisch gereed'.
+4. Sluit de projectkaart.
+
+>**Note:** Status 'Technisch gereed' is de status waarbij de leverancier klaar is met het uitvoeren van werkzaamheden en er geen aanvullende opdrachten meer zullen worden aangemaakt vanuit het project voor meer-/minderwerk. Tijdens deze status wordt tevens de overdracht naar de beheersorganisatie uitgevoerd. Dit houdt in het bijwerken van de cartotheek, woningwaardering, tekeningen, enz. In status 'Technisch gereed' kunnen de prognoses van het project tevens voor een laatste keer worden aangepast. En tijdens status 'Technisch gereed' worden facturen ontvangen voor alle nog openstaande inkooptermijnen.
 
 
 ## Zie ook

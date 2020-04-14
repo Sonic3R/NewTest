@@ -50,7 +50,7 @@ Het (onderhouds)project wordt in Dynamics Empire gereedgemeld door de status van
 3. Verander de status van '4 Order gegund' naar '5 Technisch gereed'.
 4. Sluit de projectkaart.
 
->Status 'Technisch gereed' is de status waarbij de leverancier klaar is met het uitvoeren van werkzaamheden en er geen aanvullende opdrachten meer zullen worden aangemaakt vanuit het project voor meer-/minderwerk. Tijdens deze status wordt tevens de overdracht naar de beheersorganisatie uitgevoerd. Dit houdt in het bijwerken van de cartotheek, woningwaardering, tekeningen, enz. In status 'Technisch gereed' kunnen de prognoses van het project tevens voor een laatste keer worden aangepast. En tijdens status 'Technisch gereed' worden facturen ontvangen voor alle nog openstaande inkooptermijnen.
+Status 'Technisch gereed' is de status waarbij de leverancier klaar is met het uitvoeren van werkzaamheden en er geen aanvullende opdrachten meer zullen worden aangemaakt vanuit het project voor meer-/minderwerk. Tijdens deze status wordt tevens de overdracht naar de beheersorganisatie uitgevoerd. Dit houdt in het bijwerken van de cartotheek, woningwaardering, tekeningen, enz. In status 'Technisch gereed' kunnen de prognoses van het project tevens voor een laatste keer worden aangepast. En tijdens status 'Technisch gereed' worden facturen ontvangen voor alle nog openstaande inkooptermijnen.
 
 ## Afsluiten project
 
@@ -62,9 +62,9 @@ Het project wordt in Dynamics Empire afgesloten door het project op 'Afgehandeld
 4. Sluit de projectkaart.
 
 Projecten kunnen alleen afgehandeld worden als:  
-    * alle facturen zijn geboekt en betaald;
-    * alle vergoedingen en doorbelastingen zijn geboekt en betaald;
-    * alle openstaande offertes en orders zijn afgehandeld of verwijderd.
+   * alle facturen zijn geboekt en betaald;
+   * alle vergoedingen en doorbelastingen zijn geboekt en betaald;
+   * alle openstaande offertes en orders zijn afgehandeld of verwijderd.
 
 Het systeem controleert op bovenstaande zaken. Het systeem controleert niet of de overdracht naar de beheersorganisatie is gebeurd, zoals het bijwerken van de cartotheek, woningwaardering, etc. Deze controle hoort thuis bij het verkrijgen van decharge om het project af te sluiten.
 

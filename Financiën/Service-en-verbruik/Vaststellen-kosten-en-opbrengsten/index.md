@@ -22,7 +22,7 @@ De eerste stap in het afrekenproces is het vaststellen van de voorschotten.
 
 ## Exporteren voorschotten t.b.v. servicebureau
 
-Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM, dient u de gegevens van de huurders en aangemaakte voorschotten te exporteren. Om de voorschotten t.b.v. servicebureaus te kunnen exporteren dient op het cluster aangegeven te zijn dat er afgerekend wordt door middel van een servicebureau (zie werkinstructie BEHEREN CLUSTERINFORMATIE).
+Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM, dient u de gegevens van de huurders en aangemaakte voorschotten te exporteren. Om de voorschotten t.b.v. servicebureaus te kunnen exporteren dient op het cluster aangegeven te zijn dat er afgerekend wordt door middel van een servicebureau (zie werkinstructie BEHEREN CLUSTERINFORMATIE).**[Beheren clusterinformatie](../inkopen/inkoop/goedkeuren-documenten/)**
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Aanmaken bestand ISTA Nederland** (Dit bestand heeft de naam ISTA in zich maar kan ook gebruikt worden voor servicebureau TECHEM).  
 2. Selecteer in het scherm dat open in het veld **Batchnaam** de batch waarvoor u gegevens wilt exporteren.

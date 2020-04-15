@@ -6,23 +6,23 @@ In dit werkproces worden kosten en opbrengsten van service en verbruik bepaald e
 
 De eerste stap in het afrekenproces is het vaststellen van de voorschotten. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Aanmaken voorschotten**. 
-2. Selecteer in het scherm dat open de batch die u wilt afrekenen in het veld **Batchnaam**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor de actie/functie **Aanmaken voorschotten**. 
+2. Selecteer in het scherm dat opent de batch die u wilt afrekenen in het veld **Batchnaam**. 
 3. Wanneer u met clustergroepen werk selecteert u in het veld **Clustegroepfilter** de clustergroep waarvoor u de voorschotten aan wilt maken. 
 4. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de voorschotten aan wilt maken. 
-5. Laat de optie **Voorschotten met bedrag nul niet opnemen** uit staan
+5. Laat de optie **Voorschotten met bedrag nul niet opnemen** uit staan.
 6. Zet de optie **Voorschotten inclusief Btw-bedrag opnemen in afrekening** aan. 
-7. Zet de optie **Foutenlog aanmanen** aan.
-8. Klik op **OK**. Er wordt een melding gegeven hoeveel nieuwe voorschotten aangemaakt zijn. Dit aantal toont **niet** het aantal eenheden in het cluster maar het aantal contracten waarvoor een afrekening opgesteld zal worden. 
-9. U kunt een overzicht van de aangemaakte voorschotten opvragen door op **Voorschotten - lijst** te klikken. 
-	- Selecteer op de pagina die opent de **AfrekBatchnaam** die van toepassing is  
+7. Zet de optie **Foutenlog aanmaken** aan.
+8. Klik op **OK**. Er wordt een melding gegeven hoeveel nieuwe voorschotten aangemaakt zijn. Dit aantal toont *niet* het aantal eenheden in het cluster, maar het aantal contracten waarvoor een afrekening opgesteld zal worden. 
+9. U kunt een overzicht van de aangemaakte voorschotten opvragen door het rapport **Voorschotten - lijst** op te starten. 
+	- Selecteer op de pagina die opent de **AfrekBatchnaam** die van toepassing is.  
 	- Zet de optie **Details tonen** aan. 
 	- Stel, afhankelijk van of u afrekent o.b.v. clustergroepen of niet, een filter in op  **Clustergroep** of **Clusternr.**
-	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken klik op **OK**. 
+	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken en klik op **OK**. 
 
 ## Exporteren voorschotten t.b.v. servicebureau
 
-Wanneer u elementen afrekent via aan servicebureau, bijvoorbeeld ISTA of TECHEM dient u de gegevens van de huurders en aangemaakte voorschotten te exporteren. Om de voorschotten t.b.v. servicebureaus te kunnen exporteren dient op het cluster aangegeven te zijn dat er afgerekend wordt door middel van en servicebureau (zie werkinstructie BEHEREN CLUSTERINFORMATIE).
+Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM, dient u de gegevens van de huurders en aangemaakte voorschotten te exporteren. Om de voorschotten t.b.v. servicebureaus te kunnen exporteren dient op het cluster aangegeven te zijn dat er afgerekend wordt door middel van een servicebureau (zie werkinstructie BEHEREN CLUSTERINFORMATIE).
 
 1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Aanmaken bestand ISTA Nederland** (Dit bestand heeft de naam ISTA in zich maar kan ook gebruikt worden voor servicebureau TECHEM).  
 2. Selecteer in het scherm dat open in het veld **Batchnaam** de batch waarvoor u gegevens wilt exporteren.

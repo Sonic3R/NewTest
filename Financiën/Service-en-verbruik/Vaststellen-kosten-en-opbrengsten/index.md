@@ -22,17 +22,17 @@ De eerste stap in het afrekenproces is het vaststellen van de voorschotten.
 
 ## Exporteren voorschotten t.b.v. servicebureau
 
-Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM, dient u de gegevens van de huurders en aangemaakte voorschotten te exporteren. Om de voorschotten t.b.v. servicebureaus te kunnen exporteren dient op het cluster aangegeven te zijn dat er afgerekend wordt door middel van een servicebureau (zie werkinstructie BEHEREN CLUSTERINFORMATIE).**[Beheren clusterinformatie](../inkopen/inkoop/goedkeuren-documenten/)**
+Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM, dient u de gegevens van de huurders en aangemaakte voorschotten te exporteren. Om de voorschotten t.b.v. servicebureaus te kunnen exporteren dient op het cluster aangegeven te zijn dat er afgerekend wordt door middel van een servicebureau (zie werkinstructie **[Beheren clusterinformatie](../financiën/grootboek/beheren-clusterinformatie/)**).
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Aanmaken bestand ISTA Nederland** (Dit bestand heeft de naam ISTA in zich maar kan ook gebruikt worden voor servicebureau TECHEM).  
-2. Selecteer in het scherm dat open in het veld **Batchnaam** de batch waarvoor u gegevens wilt exporteren.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor de actie/functie **Aanmaken bestand ISTA Nederland** (dit bestand heeft weliswaar de naam ISTA in zich, maar kan ook gebruikt worden voor servicebureau TECHEM).  
+2. Selecteer in het scherm dat opent in het veld **Batchnaam** de batch waarvoor u gegevens wilt exporteren.
 3. Selecteer in het veld **Servicebureau** het servicebureau waarvoor u gegevens wilt exporteren.
-4. Vul in het veld **Pijldatum voorschotbedrag** de datum van vandaag. 
+4. Vul in het veld **Pijldatum voorschotbedrag** de datum van vandaag in. 
 5. Laat de optie **SV-afrekeningen voor verkochte OGE"s uitsluiten** uit staan. 
-6. Stel, afhankelijk van of u afrekent o.b.v. clustergroepen of niet, een filter in op  **Clustergroep** of **Nr.** en klik op **OK**. 
-7. Het bestandje wordt geëxporteerd en kan aangeleverd worden bij het Service bureau. 
+6. Stel, afhankelijk van of u afrekent o.b.v. clustergroepen of niet, een filter in op **Clustergroep** of **Nr.** en klik op **OK**. 
+7. Het bestandje wordt geëxporteerd en kan aangeleverd worden bij het servicebureau. 
 
-## Doorgeven en markeren kosten t.b.v. servicebureau
+## HIERRRR Doorgeven en markeren kosten t.b.v. servicebureau
 
 Wanneer u elementen afrekent via aan servicebureau, bijvoorbeeld ISTA of TECHEM dient u naast de gegevens van de huurders en de in rekening gebrachte voorschotten ook de gemaakte kosten aanleveren te leveren bij het servicebureau. Wanneer u deze kosten op kostencode en cluster geboekt heeft kunt u via het overzicht **SV-kostenselectie** een overzicht maken van deze kosten. Daarnaast dient u in het overzicht **SV-kostenselectie** aan te geven dat deze kosten niet mee lopen met regulier af te rekenen kosten. 
 

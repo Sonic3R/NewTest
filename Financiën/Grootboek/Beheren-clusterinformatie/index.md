@@ -71,7 +71,7 @@ Wanneer u in een eerdere stap eenheden toegevoegd heeft aan het cluster of verwi
 5. Klik op **Verdeelsleutel activeren** om de verdeelsleutel te activeren. 
 6. Herhaal stap 2 t/m 5 wanneer u verdeelsleutels met verschillenden verdeelsleuteltypes wilt actualiseren.
 
-## Muteren Service- en verbruikselementen
+## Muteren service- en verbruikselementen
 
 Wanneer een cluster gebruikt wordt binnen het proces 'Service- en verbruiksafrekening' dienen de elementen die afgerekend worden beheerd te worden. Deze processtap beschrijft hoe u elementen toekent aan een cluster en hoe u deze elementen beheert. 
 

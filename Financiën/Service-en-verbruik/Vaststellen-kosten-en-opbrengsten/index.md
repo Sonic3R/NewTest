@@ -49,7 +49,7 @@ Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM,
 	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken en klik op **OK**. 
 7. U heeft nu een overzicht dat u kunt gebruiken als basis voor het aanleveren van de door het servicebureau te verdelen kosten.
 
-## Importeren kostenverdeling servicebureau
+## HIERRR Importeren kostenverdeling servicebureau
 
 Nadat het servicebureau de door u aangeleverde kosten heeft verdeeld kunt u deze kosten inlezen. 
 

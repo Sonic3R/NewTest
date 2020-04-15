@@ -1,10 +1,9 @@
-# Afsluiten verkoopovereenkomst
+# Notarieel afhandelen verkoop
 
 Binnenkort beschikbaar
 
 ## Zie ook
 
-[Voorbereiden verkoop](../Voorbereiden-verkoop/)  
-[Aanbieden eenheid zittende huurder](../Aanbieden-eenheid-zittende-huurder/)  
-[Aanbieden eenheid vrije verkoop](../Aanbieden-eenheid-vrije-verkoop/)  
+[Aangaan verkoopovereenkomst](../Aangaan-verkoopovereenkomst/)  
+[Herijken bestemming verkoop](../Herijken-bestemming-verkoop/)  
 [Terugkopen eenheid](../Terugkopen-eenheid/)

@@ -1,6 +1,6 @@
-# Uitvoeren jaarlijkse huurprijsaanpassing
+# Uitvoeren jaarlijkse huurverhoging
 
-In dit werkproces wordt de jaarlijkse huurprijsaanpassing uitgevoerd op basis van het vastgelegde huurverhogingsbeleid. Daarbij wordt voor elke eenheid de nieuwe nettohuur berekend: eerst in simulatie, en als definitief wanneer de uitkomsten van de simulatie acceptabel zijn. De berekening vindt per eenheid plaats op basis van het aan de eenheid toegewezen huurverhogingsbeleidstype en de nettohuuraftopping. Nadat de nieuwe nettohuur definitief is berekend, wordt de huurverhoging geëffectueerd. Ten slotte worden de klanten aangezegd, d.w.z. officieel geïnformeerd over de nieuwe nettohuur die ze vanaf de huurverhogingsdatum moeten gaan betalen.
+In dit werkproces wordt de jaarlijkse huurverhoging uitgevoerd op basis van het vastgelegde huurverhogingsbeleid. Daarbij wordt voor elke eenheid de nieuwe nettohuur berekend: eerst in simulatie, en als definitief wanneer de uitkomsten van de simulatie acceptabel zijn. De berekening vindt per eenheid plaats op basis van het aan de eenheid toegewezen huurverhogingsbeleidstype en de nettohuuraftopping. Nadat de nieuwe nettohuur definitief is berekend, wordt de huurverhoging geëffectueerd. Ten slotte worden de klanten aangezegd, d.w.z. officieel geïnformeerd over de nieuwe nettohuur die ze vanaf de huurverhogingsdatum moeten gaan betalen.
 
 ## Toewijzen beleidstypes
 

@@ -32,22 +32,22 @@ Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM,
 6. Stel, afhankelijk van of u afrekent o.b.v. clustergroepen of niet, een filter in op **Clustergroep** of **Nr.** en klik op **OK**. 
 7. Het bestandje wordt geëxporteerd en kan aangeleverd worden bij het servicebureau. 
 
-## HIERRRR Doorgeven en markeren kosten t.b.v. servicebureau
+## Doorgeven en markeren kosten t.b.v. servicebureau
 
-Wanneer u elementen afrekent via aan servicebureau, bijvoorbeeld ISTA of TECHEM dient u naast de gegevens van de huurders en de in rekening gebrachte voorschotten ook de gemaakte kosten aanleveren te leveren bij het servicebureau. Wanneer u deze kosten op kostencode en cluster geboekt heeft kunt u via het overzicht **SV-kostenselectie** een overzicht maken van deze kosten. Daarnaast dient u in het overzicht **SV-kostenselectie** aan te geven dat deze kosten niet mee lopen met regulier af te rekenen kosten. 
+Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM, dient u naast de gegevens van de huurders en de in rekening gebrachte voorschotten ook de gemaakte kosten aan te leveren bij het servicebureau. Wanneer u deze kosten op kostencode en cluster geboekt heeft, kunt u via het overzicht **SV-kostenselectie** een overzicht maken van deze kosten. Daarnaast dient u in dit overzicht aan te geven dat deze kosten niet meelopen met regulier af te rekenen kosten. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-kostenselectie**. Dit overzicht toont alle nog niet verdeelde kosten. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-kostenselectie**. Dit overzicht toont alle nog niet verdeelde kosten. 
 2. Stel een filter in op de **Afrekenbatchnaam** waarvoor u kosten wilt doorgeven. 
-3. Stel een filter in op  **Clusternr. ** voor het cluster waarvoor u kosten wilt doorgeven. De pagina toont alle kosten die voor deze afrekenbatch voor dit cluster nog afgerekend moeten worden. Mist u kosten of staan kosten onterecht in dit overzicht dat vind u in de processtap **[Beoordelen kosten](#beoordelen-kosten)** hoe u kosten corrigeert of toekent aan andere afrekenbatches
-4. Voor alle kosten die verdeeld worden door een servicebureau dient u aan te geven dat deze niet meegenomen dienen te worden in de reguliere kosten toerekening. Dit doet u door veld **Niet verder verdelen** op de desbetreffende regel aan te vinken. Het veld **Afrekenbatchnaam** wordt automatisch leeg gemaakt.
-5. U kunt het overzicht met kosten exporteren naar Excel en daar bewerken zodat u het op kan sturen naar het servicebureau. 
-6. U kunt ook een overzicht van de benodigde kostennota's genereren door te klikken op **Overzicht kostennota's**. Vul op de pagina die opent de volgende velden:
-	- **Details verdeling**: Aan
-	- **Nieuwe pagina per cluster**: Aan
+3. Stel een filter in op  **Clusternr.** voor het cluster waarvoor u kosten wilt doorgeven. De pagina toont alle kosten die voor deze afrekenbatch voor dit cluster nog afgerekend moeten worden. Mist u kosten of staan kosten onterecht in dit overzicht, dan kunt u in de processtap **[Beoordelen kosten](#beoordelen-kosten)** zien hoe u kosten corrigeert of toekent aan andere afrekenbatches.
+4. Voor alle kosten die verdeeld worden door een servicebureau dient u aan te geven dat deze niet meegenomen dienen te worden in de reguliere kostentoerekening. Dit doet u door veld **Niet verder verdelen** op de desbetreffende regel aan te vinken. Het veld **Afrekenbatchnaam** wordt automatisch leeggemaakt.
+5. U kunt het overzicht met kosten exporteren naar Excel (via opties **Openen/Bewerken in Excel**) en daar bewerken, zodat u het op kunt sturen naar het servicebureau. 
+6. U kunt ook een overzicht van de benodigde kostennota's genereren door te klikken op **Overzicht kostennota's**. Vul op de pagina die verschijnt de volgende velden:
+	- **Details verdeling**: 'Aan'.
+	- **Nieuwe pagina per cluster**: 'Aan'.
 	- **Clusternummer**
 	- **Kostencode**: Vul hier in voor welke kostencodes u de kosten wilt rapporteren. 
-	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken klik op **OK**. 
-7. U heeft nu een overzicht wat u kunt gebruiken als basis voor het aanleveren van de door het servicebureau te verdelen kosten.
+	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken en klik op **OK**. 
+7. U heeft nu een overzicht dat u kunt gebruiken als basis voor het aanleveren van de door het servicebureau te verdelen kosten.
 
 ## Importeren kostenverdeling servicebureau
 

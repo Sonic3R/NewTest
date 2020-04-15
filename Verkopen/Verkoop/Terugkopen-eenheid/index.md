@@ -4,7 +4,6 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Voorbereiden verkoop](../Voorbereiden-verkoop/)  
-[Aanbieden eenheid zittende huurder](../Aanbieden-eenheid-zittende-huurder/)  
-[Aanbieden eenheid vrije verkoop](../Aanbieden-eenheid-vrije-verkoop/)  
-[Afsluiten verkoopovereenkomst](../Afsluiten-verkoopovereenkomst/)
+[Aangaan verkoopovereenkomst](../Aangaan-verkoopovereenkomst/)  
+[Herijken bestemming verkoop](../Herijken-bestemming-verkoop/)  
+[Notarieel afhandelen verkoop](../Notarieel-afhandelen-verkoop/)  

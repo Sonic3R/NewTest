@@ -1,6 +1,6 @@
-# Voorbereiden jaarlijkse huurverhoging
+# Voorbereiden jaarlijkse huurprijsaanpassing
 
-In dit werkproces wordt de jaarlijkse huurverhoging voorbereid. Doel is dat er nieuwe woningwaarderingen zijn aangemaakt voor alle OG Eenheden waarvan de nettohuur moet worden aangepast. De punten van deze nieuwe woningwaarderingen worden berekend op basis van enerzijds de nieuwe parameters die de Rijksoverheid heeft gepubliceerd voor het nieuwe tijdvak, en anderzijds de nieuwe WOZ-waarden die de gemeenten hebben aangeleverd. Op basis van de nieuwe woningwaarderingen wordt vervolgens per eenheid de nieuwe maximale huurprijs bepaald die geldt voor het nieuwe huurverhogingstijdvak.
+In dit werkproces wordt de jaarlijkse huurprijsaanpassing voorbereid. Doel is dat er nieuwe woningwaarderingen zijn aangemaakt voor alle OG Eenheden waarvan de nettohuur moet worden aangepast. De punten van deze nieuwe woningwaarderingen worden berekend op basis van enerzijds de nieuwe parameters die de Rijksoverheid heeft gepubliceerd voor het nieuwe tijdvak, en anderzijds de nieuwe WOZ-waarden die de gemeenten hebben aangeleverd. Op basis van de nieuwe woningwaarderingen wordt vervolgens per eenheid de nieuwe maximale huurprijs bepaald die geldt voor het nieuwe huurverhogingstijdvak.
 
 ## Aanpassen woningwaarderingparameters
 

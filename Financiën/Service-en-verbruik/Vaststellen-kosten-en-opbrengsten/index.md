@@ -1,8 +1,6 @@
 # Vaststellen kosten en opbrengsten
 
-# Vaststellen kosten en opbrengsten
-
-In dit werkproces worden kosten en opbrengsten van service en verbruik bepaalt en verrekend. De hieronder beschreven stappen worden per cluster uitgevoerd. 
+In dit werkproces worden kosten en opbrengsten van service en verbruik bepaald en verrekend. De hieronder beschreven stappen worden per cluster uitgevoerd. 
 
 ## Vaststellen voorschotten
 

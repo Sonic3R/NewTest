@@ -1,6 +1,12 @@
 # Beheren clusterinformatie
 
-Binnenkort beschikbaar
+In dit werkproces worden nieuwe clusters aangemaakt en worden bestaande clusters beheerd.
+
+## Aanmaken cluster
+
+In deze stap maakt u een nieuw cluster aan en voert u de benodigde basisgegevens op.
+
+
 
 ## Zie ook
 

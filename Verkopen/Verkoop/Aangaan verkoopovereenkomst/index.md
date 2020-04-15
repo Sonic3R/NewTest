@@ -1,4 +1,4 @@
-# Aanbieden eenheid zittende huurder
+# Aangaan verkoopovereenkomst
 
 Binnenkort beschikbaar
 

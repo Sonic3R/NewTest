@@ -69,7 +69,7 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden, 
 
 [Beheren dimensies](../beheren-dimensies/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
-[Boeken periodiek memoriaal](../boeken-periodiek-memoriaal/)  
+[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
 [Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  

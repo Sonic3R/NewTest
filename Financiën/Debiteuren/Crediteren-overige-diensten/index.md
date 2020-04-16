@@ -15,53 +15,54 @@ Wanneer u een credit nota wilt maken voor niet verhuurgerelateerde zaken kunt u 
 	- Kies voor actie/functie **Document kopiëren**. Selecteer in het veld **Documenttype** 'Geboekte factuur'. 
 	- Selecteer in het veld **Documentnr.** het document dat u wilt kopiëren. 
 	- Klik op **OK**. 
-	- U kunt nu verder gaan naar de stap **[Boeken en versturen verhuurgerelateerde creditnota](#Boeken-en-versturen-verhuurgerelateerde-creditnota)** 
-5. Wanneer u geen andere factuur als basis kunt gebruiken voor de factuurregels vul of muteer dan de volgende velden in de factuurregel
-	- **Soort**: Grootboekrekening
+	- U kunt nu verder gaan naar de stap **[Boeken en versturen verhuurgerelateerde creditnota](#Boeken-en-versturen-verhuurgerelateerde-creditnota)**.
+4. Wanneer u geen andere factuur als basis kunt gebruiken voor de factuurregels vul of muteer dan de volgende velden in de factuurregel
+	- **Soort**: 'Grootboekrekening'.
 	- **Nr.**: Grootboek waarop de kosten gecrediteerd dienen te worden. 
-	- **Btw- productboekingsgroep**: De btw soort die van toepassing is.
+	- **Btw-productboekingsgroep**: De btw-soort die van toepassing is.
 	- **Omschrijving**: De omschrijving van de gecrediteerde kosten. Deze omschrijving wordt meegegeven in het grootboek en wordt getoond op de creditnota. 
-	- **Aantal**: 1
+	- **Aantal**: '1'.
 	- **Eenheidsprijs Excl. btw**
-	 - **Dimensie waarden velden**: Velden die eindigen met de het woord code zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	 - **Dimensiewaardenvelden**: Velden die eindigen met het woord '-code' zijn velden waar dimensies (zoals afdelingsdimensie of clusterdimensie) gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden, zijn deze velden verplicht om in te vullen.  
 
-## Boeken en versturen verhuurgerelateerde creditnota
+## Boeken en versturen niet-verhuurgerelateerde creditnota
 
-Nadat u de factuurgegevens gevuld heeft kunt u de verkoopcreditnota boeken en versturen. 
+Nadat u de factuurgegevens gevuld heeft kunt u de verhuurcreditnota boeken en versturen. 
 
-1. Klik op **Boeken en verzenden**. 
-2. Klik op **...** en selecteer in het veld **E-mail** **Ja (standaardinstellingen gebruiken)**. Klik op **Ok**. Klik op **Ja**. 
-3. De creditnota wordt geboekt en er wordt een e-mail met bijlage klaar gezet die u kunt versturen. 
+1. Kies voor **Boeken en verzenden**. 
+2. Klik op **...** (achter **Document verzenden naar**) en kies in het veld **E-mail** voor **Ja (standaardinstellingen gebruiken)**. Klik op **Ok** en klik op **Ja**. 
+3. De creditnota wordt geboekt en er wordt een e-mail met bijlage klaargezet die u kunt versturen. 
 
-## Maak credit nota voor verhuur gerelateerde diensten
+## Maak creditnota voor verhuurgerelateerde diensten
 
-Wanneer u een credit nota aan wilt maken voor verhuurgerelateerde zaken kunt u hier een verhuurcreditnota voor aanmaken. 
+Wanneer u een creditnota aan wilt maken voor verhuurgerelateerde zaken kunt u hier een verhuurcreditnota voor aanmaken. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Verhuurcreditnota's** en klik op **Nieuw**. Er wordt een nieuwe verhuurcreditnota aangemaakt. 
-2. Vul of muteer de volgende velden op de factuur kop:
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurcreditnota's** en klik op **+Nieuw**. Er wordt een nieuwe verhuurcreditnota aangemaakt. 
+2. Vul of muteer de volgende velden:
 	- **Klantnaam**
 	- **Boekingsomschrijving**: Het onderwerp van de creditnota.
 	- **Boekingsdatum**
 3. Wanneer u een eerder gefactureerde verhuurfactuur wilt crediteren kunt u dit doen door middel van het kopiëren van de originele factuur. 
-	- Klik op **Document kopiëren**. Selecteer in het veld **Documenttype** **Geboekte factuur**. 
-	- Selecteer in het veld **Documentnr.** het document wat u wilt kopiëren. 
+	- Kies voor actie/functie **Document kopiëren**. Selecteer in het veld **Documenttype** 'Geboekte factuur'. 
+	- Selecteer in het veld **Documentnr.** het document dat u wilt kopiëren. 
 	- Klik op **OK**. 
-	- U kunt nu verder gaan naar de stap **[Boeken en versturen verhuur gerelateerde credit nota](#Boeken-en-versturen-verhuur-gerelateerde-credit-nota)** 
-4. Vul of muteer de volgende velden in de factuurregel
-	- **Soort**: Element
+	- U kunt nu verder gaan naar de stap **[Boeken en versturen verhuurgerelateerde creditnota](#Boeken-en-versturen-verhuurgerelateerde-creditnota)**.
+4. Vul of muteer de volgende velden in de factuurregel:
+	- **Soort**: 'Element'.
 	- **Eenheidnr.**
-	- **Contractvolgnr.**: Maak dit veld leeg
+	- **Contractvolgnr.**: Maak dit veld leeg.
 	- **Nr.**: Elementnummer waarvoor u kosten wilt crediteren.
-	- **Btw- productboekingsgroep**: De btw soort die van toepassing is.
+	- **Btw- productboekingsgroep**: De btw-soort die van toepassing is.
 	- **Omschrijving**: De omschrijving van de te crediteren kosten. Deze omschrijving wordt meegegeven in het grootboek en wordt getoond op de factuur. 
 	- **Eenheidsprijs Excl. btw**
 
-## Boeken en versturen niet verhuur gerelateerde credit nota
+## Boeken en versturen niet-verhuurgerelateerde creditnota
 
 Nadat u de factuurgegevens gevuld heeft kunt u de verhuurcreditnota boeken en versturen. 
 
 1. Klik op **Boeken en afdrukken**. Klik op **Verzenden naar**. Kies voor **PDF-document**. 
 3. Sla het PDF document op en verstuur het document via de post of email. 
+
 ## Zie ook
 
 [Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  

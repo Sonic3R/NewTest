@@ -109,8 +109,8 @@ Voordat u de afrekening definitief boekt kunt u de kostenverdeling (laten) beoor
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor het rapport **SV Saldilijst**. 
 2. Selecteer in het scherm dat opent in het veld **Afrekeningsbatchnaam** de batch waarvoor u de kostenverdeling wilt beoordelen. 
 3. Zet de optie **Details tonen** aan. 
-4. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustergroepfilter** de clustergroep waarvoor u de kostenverdeling wilt beoordelen. 
-5. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de kostenverdeling wilt beoordelen. 
+4. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustergroep** de clustergroep waarvoor u de kostenverdeling wilt beoordelen. 
+5. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusternr.** het cluster waarvoor u de kostenverdeling wilt beoordelen. 
 6. Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken en klik op **OK**. 
 7. Het rapport toont per OGE, per klant, per element de volgende gegevens:
 	- Voorschotten
@@ -128,33 +128,34 @@ Wanneer u in één van de voorgaande stappen erachter bent gekomen dat er ergens
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Verwijderen SV-afrekeningen**. 
 2. Selecteer in het scherm dat opent in het veld **Afrekenbatchnaam** de batch waarvoor u de afrekeningen wilt verwijderen. 
 3. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustergroepfilter** de clustergroep waarvoor u de afrekeningen wilt verwijderen. 
-4. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de afrekeningen wilt verwijderen. 
+4. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de afrekeningen wilt verwijderen.
 5. Laat de optie **Geboekte afrekeningen verwijderen** uit staan. 
 6. Klik op **OK**.
 7. U kunt de afrekening nu opnieuw opbouwen vanaf processtap **[Vaststellen voorschotten](#vaststellen-voorschotten)**. 
 
 ## Accorderen afrekening
 
-Wanneer de kostenverdeling juist is en u heeft ingesteld dat afrekeningen gefiatteerd dienen ten te worden voordat ze geboekt kunnen worden kunt u de beoordeelde afrekeningen accorderen. 
+Wanneer de kostenverdeling juist is en u heeft ingesteld dat afrekeningen gefiatteerd dienen te worden voordat ze geboekt kunnen worden, kunt u de beoordeelde afrekeningen accorderen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Instellen status en fiatteren**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor de actie/functie **Instellen status en fiatteren**. 
 2. Laat het veld **Status** leeg. 
 3. Zet de optie **Fiat** aan. 
-4. Wanneer u met clustergroepen werk selecteert u in het veld **Clustegroepfilter** de clustergroep waarvoor u de afrekeningen wilt fiatteren.
-5. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de afrekeningen wilt fiatteren.
+4. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustergroep** de clustergroep waarvoor u de afrekeningen wilt fiatteren.
+5. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusternr.** het cluster waarvoor u de afrekeningen wilt fiatteren.
+6. Klik op **OK**.
 
 ## Boeken afrekening
 
 Nadat de verdeling van de kosten beoordeeld en goed bevonden is en wanneer de afrekening (wanneer nodig) geaccordeerd is kunnen de afrekeningen geboekt worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Boeken**. 
-2. Selecteer in het scherm dat open in het veld **Afrekenbatch** de batch waarvoor u de afrekeningen wilt boeken. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor de actie **Boeken**. 
+2. Selecteer in het scherm dat opent in het veld **Batchnaam** de batch waarvoor u de afrekeningen wilt boeken. 
 3. Vul in het veld **Boekingsdatum** de boekingsdatum waarop u de afrekening wilt boeken.
 4. Vul in het veld **Documentdatum** de boekingsdatum waarop u de afrekening wilt boeken.
 5. Zet de optie **Direct boeken** aan. 
-6. Wanneer u met clustergroepen werk selecteert u in het veld **Clustegroepfilter** de clustergroep waarvoor u de afrekeningen wilt boeken.
-7. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de afrekeningen wilt boeken.
-8. Pas de overige velden niet aan. 
+6. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustegroep** de clustergroep waarvoor u de afrekeningen wilt boeken.
+7. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusternr.** het cluster waarvoor u de afrekeningen wilt boeken.
+8. Pas de overige velden niet aan.
 9. Klik op **OK**. U krijgt een aantal vragen die u dient te beantwoorden, hierna worden de afrekeningen geboekt. 
 
 ## Zie ook

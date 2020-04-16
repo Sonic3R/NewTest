@@ -4,22 +4,22 @@ In dit werkproces worden geboekte service- en verbruikafrekeningen aan de klante
 
 ## Versturen creditafrekening
 
-Wanneer er creditfacturen verstuurd dienen te worden kunt u dit doen via Postex
+Wanneer er creditfacturen verstuurd dienen te worden kunt u dit doen via Postex.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verzend SV creditnota's  naar Postex**. 
-2. Zet de optie **Interactie registreren** aan. 
-3. Zet de optie **Teksten par Batch** aan. 
-4. Stel filters is om specifieke afrekeningen naar Postex te versturen. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het rapport **Verzend SV creditnota's naar Postex**. 
+2. Zet de optie **Interactie registreren** aan.
+3. Zet de optie **Teksten per Batch** aan. 
+4. Stel filters in om specifieke afrekeningen naar Postex te versturen. 
 5. Klik op **OK**.
 
-## Versturen debit afrekening
+## Versturen debitafrekening
 
-Wanneer er facturen verstuurd dienen te worden kunt u dit doen via Postex
+Wanneer er facturen verstuurd dienen te worden kunt u dit doen via Postex.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verzend SV afrekening+Ola - euro SEPA naar Postex**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het rapport **Verzend SV afrekening+Ola - euro SEPA naar Postex**. 
 2. Zet de optie **Interactie registreren** aan. 
-3. Zet de optie **Teksten par Batch** aan. 
-4. Stel filters is om specifieke afrekeningen naar Postex te versturen. 
+3. Zet de optie **Teksten per Batch** aan. 
+4. Stel filters in om specifieke afrekeningen naar Postex te versturen. 
 5. Klik op **OK**.
 
 ## Zie ook

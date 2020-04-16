@@ -18,7 +18,7 @@ Wanneer u een nieuwe eenheid of een nieuw cluster aangemaakt heeft kan het zijn 
 ## Zie ook
 
 [Boeken memoriaal](../boeken-memoriaal/)  
-[Boeken periodiek memoriaal](../boeken-periodiek-memoriaal/)  
+[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
 [Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
 [Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  

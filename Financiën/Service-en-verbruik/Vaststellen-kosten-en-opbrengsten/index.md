@@ -49,70 +49,70 @@ Wanneer u elementen afrekent via een servicebureau, bijvoorbeeld ISTA of TECHEM,
 	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken en klik op **OK**. 
 7. U heeft nu een overzicht dat u kunt gebruiken als basis voor het aanleveren van de door het servicebureau te verdelen kosten.
 
-## HIERRR Importeren kostenverdeling servicebureau
+## Importeren kostenverdeling servicebureau
 
 Nadat het servicebureau de door u aangeleverde kosten heeft verdeeld kunt u deze kosten inlezen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Inlezen bestand ISTA Nederland**. 
-2. Selecteer in het scherm dat open in het veld **Batchnaam** de batch waarvoor u gegevens wilt inlezen.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor de actie/functie **Inlezen bestand ISTA Nederland**. 
+2. Selecteer in het scherm dat opent in het veld **Batchnaam** de batch waarvoor u gegevens wilt inlezen.
 3. Selecteer in het veld **Servicebureau** het servicebureau waarvoor u gegevens wilt inlezen.
 4. Laat de opties **Nieuw voorschot overnemen** en **Test bestand** uit staan. 
 5. Klik op **OK** en klik op **Kiezen**. 
 6. Selecteer het bestand dat u in wilt lezen en klik op **Openen**. 
-7. Het programma toont het aantal records wat verwerkt is. De kostenverdeling voor de kosten verdeeld door het servicebureau zijn nu ingelezen. 
+7. Het programma toont het aantal records dat verwerkt is. De kostenverdeling voor de kosten verdeeld door het servicebureau zijn nu ingelezen. 
 
 ## Beheren verdeelsleutels
 
-Voordat u kosten gaat verdelen dienen de verdeelsleutels voor de kosten goed ingesteld te worden. De verdeelsleutels stelt u in op de elementen gekoppeld aan de kostencode. In de werkinstructie BEHEREN CLUSTERINFORMATIE vind u hou u deze elementen beheerd.
+Voordat u kosten gaat verdelen dienen de verdeelsleutels voor de kosten goed ingesteld te worden. De verdeelsleutels stelt u in op de elementen die gekoppeld zijn aan de kostencode. In de werkinstructie **[Beheren clusterinformatie](../financiën/grootboek/beheren-clusterinformatie/)** vindt u hoe u deze elementen beheert.
 
 ## Beoordelen kosten
 
 Voordat u de kosten voor de afrekening kunt verdelen dient u de te verdelen kosten te beoordelen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-kostenselectie**. Dit overzicht toont alle nog niet verdeelde kosten. 
-2. Stel een filter in op  **Clusternr. ** voor het cluster waarvoor u kosten wilt verdelen. De pagina toont alle kosten die voor deze afrekenbatch voor dit cluster nog afgerekend moeten worden. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-kostenselectie**. Dit overzicht toont alle nog niet verdeelde kosten. 
+2. Stel een filter in op **Clusternr.** voor het cluster waarvoor u kosten wilt verdelen. De pagina toont alle kosten die voor deze afrekenbatch voor dit cluster nog afgerekend moeten worden. 
 3. De kolom **Afrekenbatchnaam** geeft aan aan welke afrekenperiode kosten toegerekend zullen worden. Wanneer er kosten toegekend zijn aan een verkeerde afrekenbatch kunt u de waarde in deze kolom aanpassen. 
 
-> Let op. Voor kosten die afgerekend worden via een servicebureau (ISTA/TECHEM) geldt dat het veld **Afrekenbatchnaam** altijd leeg moet zijn. 
+> **Let op!** Voor kosten die afgerekend worden via een servicebureau (ISTA/TECHEM) geldt dat het veld **Afrekenbatchnaam** altijd leeg moet zijn. 
 
-4. Wanneer kosten in geen enkele afrekening meegenomen dienen te worden  kunt u dit aangeven. Dit doet u door veld **Niet verder verdelen** op de desbetreffende regel aan te vinken. Het veld **Afrekenbatchnaam** wordt automatisch leeg gemaakt.
-5. Klik op **Kostencodeposten** om te zien welke kosten in voorgaande periode afgerekend zijn. Dit kan helpen bij het beoordelen van de kosten van de nog af te rekenen periodes.
-6. Wanneer er kosten ontbreken of op een verkeerd cluster geboekt zijn kunt u kosten corrigeren met behulp van memoriaal boekingen **[Boeken memoriaal](#boeken-memoriaal)**. 
-7. U kunt een overzicht van  kostennota's genereren door te klikken op **Overzicht kostennota's**. Vul op de pagina die opent de volgende velden:
-	- **Details verdeling**: Aan
-	- **Nieuwe pagina per cluster**: Aan
+4. Wanneer kosten in geen enkele afrekening meegenomen dienen te worden kunt u dit aangeven. Dit doet u door veld **Niet verder verdelen** op de desbetreffende regel aan te vinken. Het veld **Afrekenbatchnaam** wordt automatisch leeg gemaakt.
+5. Klik op **Kostencodeposten** om te zien welke kosten in voorgaande periode afgerekend zijn. Dit kan helpen bij het beoordelen van de kosten van de nog af te rekenen perioden.
+6. Wanneer er kosten ontbreken of op een verkeerd cluster geboekt zijn kunt u kosten corrigeren met behulp van memoriaalboekingen **[Boeken memoriaal](../boeken-memoriaal/)**. 
+7. U kunt een overzicht van  kostennota's genereren door te kiezen voor optie **Overzicht kostennota's**. Vul op de pagina die opent de volgende velden:
+	- **Details verdeling**: 'Aan'.
+	- **Nieuwe pagina per cluster**: 'Aan'.
 	- **Clusternummer**
 	- **Afrekenbatchnaam**
-	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken klik op **OK**. 
+	- Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken en klik op **OK**. 
 
 ## Boeken memoriaal
 
-Wanneer u service en verbruik kosten wilt corrigeren kunt u dit doen via het reguliere memoriaal BOEKEN MEMORIAAL. 
+Wanneer u service- en verbruikskosten wilt corrigeren kunt u dit doen via het reguliere memoriaal (zie **[Boeken memoriaal](../boeken-memoriaal/)**). 
 
 ## Verdelen kosten
 
-Nadat de alle kosten in het overzicht **SV-kostenselectie** toegewezen zijn aan de juiste afrekenbatch kunnen de kosten verdeeld worden. 
+Nadat alle kosten in het overzicht **SV-kostenselectie** toegewezen zijn aan de juiste afrekenbatch kunnen de kosten verdeeld worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **Verdelen kostencodes**. 
-2. Selecteer in het scherm dat open in het veld **Batchnaam** de batch waarvoor u de kosten wilt verdelen. 
-3. Wanneer u met clustergroepen werk selecteert u in het veld **Clustegroepfilter** de clustergroep waarvoor u de kosten wilt verdelen. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor de actie/functie **Verdelen kostencodes**. 
+2. Selecteer in het scherm dat opent in het veld **Batchnaam** de batch waarvoor u de kosten wilt verdelen. 
+3. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustergroepfilter** de clustergroep waarvoor u de kosten wilt verdelen. 
 4. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de kosten wilt verdelen. 
-5. Kies bij  in het veld **Verdelen over** Afrekenperiode
-6. Laat de optie **Verkochten OGE's uitsluiten** uit staan.
-7. Zet de optie **Foutenlog aanmanen** aan.
+5. Kies in het veld **Verdelen over** voor 'Afrekenperiode'.
+6. Laat de optie **Verkochte OGE's uitsluiten** uit staan.
+7. Zet de optie **Foutenlog aanmaken** aan.
 8. Klik op **OK** om de kosten te verdelen. 
 
 ## Beoordelen kostenverdeling
 
-Voordat u de afrekening definitief boekt kunt u de kostenvredelening (laten) beoordelen. Dat kan het best gedaan worden via het rapport **SV saldi lijst**
+Voordat u de afrekening definitief boekt kunt u de kostenverdeling (laten) beoordelen. Dat kan het best gedaan worden via het rapport **SV saldi lijst**.
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar de lijst **SV-afrekeningenoverzicht**. Klik op **SV saldi lijst**. 
-2. Selecteer in het scherm dat open in het veld **Afrekenbatchnaam** de batch waarvoor u de kostenverdeling wilt beoordelen. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **SV-afrekeningoverzicht**. Kies voor het rapport **SV Saldilijst**. 
+2. Selecteer in het scherm dat opent in het veld **Afrekeningsbatchnaam** de batch waarvoor u de kostenverdeling wilt beoordelen. 
 3. Zet de optie **Details tonen** aan. 
-4. Wanneer u met clustergroepen werk selecteert u in het veld **Clustegroepfilter** de clustergroep waarvoor u de kostenverdeling wilt beoordelen. 
+4. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustergroepfilter** de clustergroep waarvoor u de kostenverdeling wilt beoordelen. 
 5. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de kostenverdeling wilt beoordelen. 
 6. Klik op **Verzenden naar**, kies het bestandstype dat u wilt gebruiken en klik op **OK**. 
-7. Het rapport toont per OGE, per klant, per element de volgende gegevens
+7. Het rapport toont per OGE, per klant, per element de volgende gegevens:
 	- Voorschotten
 	- Toegerekende kosten
 	- Eventuele voorschotten vanuit leegstand
@@ -123,17 +123,17 @@ Voordat u de afrekening definitief boekt kunt u de kostenvredelening (laten) beo
 
 ## Beoordelen kostenverdeling
 
-Wanneer u in één van de voorgaande stappen er achter bent gekomen dat er ergens iets verkeerd gegaan is kunt u nog niet geboekte afrekeningen eenvoudig verwijderen en opnieuw opbouwen. 
+Wanneer u in één van de voorgaande stappen erachter bent gekomen dat er ergens iets verkeerd is gegaan, kunt u nog niet geboekte afrekeningen eenvoudig verwijderen en opnieuw opbouwen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Verwijderen SV-afrekeningen**. 
-2. Selecteer in het scherm dat open in het veld **Afrekenbatchnaam** de batch waarvoor u de afrekeningen wilt verwijderen. 
-3. Wanneer u met clustergroepen werk selecteert u in het veld **Clustegroepfilter** de clustergroep waarvoor u de afrekeningen wilt verwijderen. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Verwijderen SV-afrekeningen**. 
+2. Selecteer in het scherm dat opent in het veld **Afrekenbatchnaam** de batch waarvoor u de afrekeningen wilt verwijderen. 
+3. Wanneer u met clustergroepen werkt selecteert u in het veld **Clustergroepfilter** de clustergroep waarvoor u de afrekeningen wilt verwijderen. 
 4. Wanneer u niet met clustergroepen werkt selecteert u in het veld **Clusterfilter** het cluster waarvoor u de afrekeningen wilt verwijderen. 
 5. Laat de optie **Geboekte afrekeningen verwijderen** uit staan. 
 6. Klik op **OK**.
 7. U kunt de afrekening nu opnieuw opbouwen vanaf processtap **[Vaststellen voorschotten](#vaststellen-voorschotten)**. 
 
-## Accoderen afrekening
+## Accorderen afrekening
 
 Wanneer de kostenverdeling juist is en u heeft ingesteld dat afrekeningen gefiatteerd dienen ten te worden voordat ze geboekt kunnen worden kunt u de beoordeelde afrekeningen accorderen. 
 

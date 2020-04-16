@@ -50,7 +50,7 @@ Wanneer er boekingen t.b.v. DAEB/niet-DAEB zijn die handmatig verwerkt dienen te
 
 [Beheren dimensies](../beheren-dimensies/)  
 [Boeken memoriaal](../oeken-memoriaal/)  
-[Boeken periodiek memoriaal](../boeken-periodiek-memoriaal/)  
+[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
 [Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
 [Beheren clusterinformatie](../beheren-clusterinformatie/)  

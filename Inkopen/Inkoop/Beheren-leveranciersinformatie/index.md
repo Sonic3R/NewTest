@@ -36,7 +36,7 @@ De contactgegevens van de leverancier past u aan op de contactkaart.
 
 Ten behoeve van spent-analyses kunt u een dimensie opvoeren voor het type van de leverancier.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Leveranciers**, open de leverancierskaart en klik op **Dimensies**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Leveranciers**, open de leverancierskaart en navigeer naar **Dimensies**.
 2. **Dimensiecode**: Dimensiecode voor type leverancier.
 3. **Dimensiewaardecode**: Het type leverancier.
 

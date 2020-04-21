@@ -97,5 +97,5 @@ Wanneer u alle bankboekregels toegekend of vereffend heeft kunt u het bankboek b
 
 [Aanleveren betaalbestand](../aanleveren-betaalbestand/)  
 [Aanleveren incassobestand](../aanleveren-incassobestand/)  
+[Verwerken overige betaalverzoeken](../verwerken-overige-betaalverzoeken/)  
 [Verwerken pintransacties](../verwerken-pintransacties/)  
-[Verwerken overige betaalverzoeken](../verwerken-overige-betaalverzoeken/)

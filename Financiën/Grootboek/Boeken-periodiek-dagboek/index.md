@@ -24,6 +24,7 @@ Nadat de regels in het periodieke dagboek juist gevuld zijn kunt u de regels boe
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  
+[Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
 [Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  

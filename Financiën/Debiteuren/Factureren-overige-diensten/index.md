@@ -59,9 +59,9 @@ Nadat u de factuurgegevens gevuld heeft kunt u de verkoopfactuur boeken en verst
 
 ## Zie ook
 
-[Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
-[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
-[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
-[Factureren afrekening](../factureren-afrekening/)  
+[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)  
 [Crediteren overige diensten](../crediteren-overige-diensten/)  
-[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)
+[Factureren afrekening](../factureren-afrekening/)  
+[Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
+[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
+[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  

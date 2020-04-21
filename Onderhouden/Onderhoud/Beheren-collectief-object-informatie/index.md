@@ -4,10 +4,10 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Uitvoeren inspectie](onderhoud/uitvoeren-inspectie/)  
+[Beheren onroerend goed informatie](onderhoud/beheren-onroerend-goed-informatie/)  
+[Bewaken uitvoering onderhoudsorders](onderhoud/bewaken-uitvoering-onderhoudsorders/)  
 [Registreren onderhoudsverzoek](onderhoud/registreren-onderhoudsverzoek/)  
 [Samenstellen onderhoudsorders](onderhoud/samenstellen-onderhoudsorders/)  
-[Bewaken uitvoering onderhoudsorders](onderhoud/bewaken-uitvoering-onderhoudsorders/)  
-[Uitvoeren onderhoudsorder](onderhoud/Uitvoeren-onderhoudsorder/)  
 [Uitvoeren contractueel onderhoud](onderhoud/uitvoeren-contractueel-onderhoud/)  
-[Beheren onroerend goed informatie](onderhoud/beheren-onroerend-goed-informatie/)
+[Uitvoeren inspectie](onderhoud/uitvoeren-inspectie/)  
+[Uitvoeren onderhoudsorder](onderhoud/Uitvoeren-onderhoudsorder/)  

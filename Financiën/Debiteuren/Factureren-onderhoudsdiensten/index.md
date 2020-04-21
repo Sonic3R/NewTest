@@ -34,9 +34,9 @@ Als de factuur niet afgedrukt hoeft te worden, omdat deze bijvoorbeeld in rekeni
 
 ## Zie ook
 
-[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
-[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
-[Factureren overige diensten](../factureren-overige-diensten/)  
-[Factureren afrekening](../factureren-afrekening/)  
+[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)  
 [Crediteren overige diensten](../crediteren-overige-diensten/)  
-[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)
+[Factureren afrekening](../factureren-afrekening/)  
+[Factureren overige diensten](../factureren-overige-diensten/)  
+[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
+[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  

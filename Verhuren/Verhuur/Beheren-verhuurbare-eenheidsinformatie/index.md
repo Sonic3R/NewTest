@@ -152,10 +152,10 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
 ## Zie ook
 
 [Aanbieden eenheid](../aanbieden-eenheid/)  
-[Registreren huuropzegging](../registreren-huuropzegging/)  
-[Opstellen eindafrekening](../opstellen-eindafrekening/)  
-[Innemen eenheid](../innemen-eenheid/)  
 [Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
-[Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Innemen eenheid](../innemen-eenheid/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
 [Opleveren eenheid](../opleveren-eenheid/)
+[Opstellen eindafrekening](../opstellen-eindafrekening/)  
+[Registreren huuropzegging](../registreren-huuropzegging/)  
+[Verantwoorden verhuring](../verantwoorden-verhuring/)  

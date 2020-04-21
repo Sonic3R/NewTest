@@ -28,14 +28,14 @@ Wanneer u in de voorgaande stap uitzonderingen per gebruiker opgevoerd heeft en 
 
 ## Zie ook
 
+[Afsluiten jaar](../afsluiten-jaar/)  
+[Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Beheren dimensies](../beheren-dimensies/)  
 [Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
-[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
-[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
+[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)  
 [Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
-[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
-[Beheren clusterinformatie](../beheren-clusterinformatie/)  
-[Afsluiten jaar](../afsluiten-jaar/)  
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)  
+[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
 [Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
-[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)
+[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  

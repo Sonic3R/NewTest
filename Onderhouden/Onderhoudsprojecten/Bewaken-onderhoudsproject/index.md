@@ -74,6 +74,6 @@ Tot slot dient de leverancier te worden beoordeeld op zijn prestaties, waarna he
 
 ## Zie ook
 
-[Actualiseren prognose](../actualiseren-prognose/)
+[Actualiseren prognose](../actualiseren-prognose/)  
 [Registreren (onderhouds) jaarbegroting](../registreren-(onderhouds)-jaarbegroting/)  
 [Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  

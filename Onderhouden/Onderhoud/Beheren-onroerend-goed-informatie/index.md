@@ -96,10 +96,10 @@ In deze stap past u de cartotheekitems van een OG Eenheid aan.
 
 ## Zie ook
 
-[Uitvoeren inspectie](onderhoud/uitvoeren-inspectie/)  
+[Beheren collectief object informatie](onderhoud/beheren-collectief-object-informatie/)  
+[Bewaken uitvoering onderhoudsorders](onderhoud/bewaken-uitvoering-onderhoudsorders/)  
 [Registreren onderhoudsverzoek](onderhoud/registreren-onderhoudsverzoek/)  
 [Samenstellen onderhoudsorders](onderhoud/samenstellen-onderhoudsorders/)  
-[Bewaken uitvoering onderhoudsorders](onderhoud/bewaken-uitvoering-onderhoudsorders/)  
-[Uitvoeren onderhoudsorder](onderhoud/Uitvoeren-onderhoudsorder/)  
 [Uitvoeren contractueel onderhoud](onderhoud/uitvoeren-contractueel-onderhoud/)  
-[Beheren collectief object informatie](onderhoud/beheren-collectief-object-informatie/)
+[Uitvoeren inspectie](onderhoud/uitvoeren-inspectie/)  
+[Uitvoeren onderhoudsorder](onderhoud/Uitvoeren-onderhoudsorder/)  

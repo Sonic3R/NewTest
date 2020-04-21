@@ -10,14 +10,14 @@ In dit werkproces worden grootboekposten met elkaar vereffend of worden eerder g
 
 ## Zie ook
 
+[Afsluiten jaar](../afsluiten-jaar/)  
+[Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Beheren dimensies](../beheren-dimensies/)  
 [Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
-[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
-[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
-[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
-[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
-[Beheren clusterinformatie](../beheren-clusterinformatie/)  
-[Afsluiten jaar](../afsluiten-jaar/)  
+[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)  
 [Dichtzetten periode](../dichtzetten-periode/)  
-[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)
+[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)  
+[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
+[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  

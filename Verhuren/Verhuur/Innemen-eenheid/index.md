@@ -4,11 +4,11 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
-[Registreren huuropzegging](../registreren-huuropzegging/)  
-[Opstellen eindafrekening](../opstellen-eindafrekening/)  
-[Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
 [Aanbieden eenheid](../aanbieden-eenheid/)  
-[Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
+[Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
 [Opleveren eenheid](../opleveren-eenheid/)
+[Opstellen eindafrekening](../opstellen-eindafrekening/)  
+[Registreren huuropzegging](../registreren-huuropzegging/)  
+[Verantwoorden verhuring](../verantwoorden-verhuring/)  

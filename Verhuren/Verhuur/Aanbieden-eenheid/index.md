@@ -69,11 +69,12 @@ In deze stap legt u de weigering van de kandidaat door de corporatie vast in het
 
 ## Zie ook
 
+
 [Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
-[Registreren huuropzegging](../registreren-huuropzegging/)  
-[Opstellen eindafrekening](../opstellen-eindafrekening/)  
-[Innemen eenheid](../innemen-eenheid/)  
 [Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
-[Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Innemen eenheid](../innemen-eenheid/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
 [Opleveren eenheid](../opleveren-eenheid/)
+[Opstellen eindafrekening](../opstellen-eindafrekening/)  
+[Registreren huuropzegging](../registreren-huuropzegging/)  
+[Verantwoorden verhuring](../verantwoorden-verhuring/)  

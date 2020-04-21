@@ -28,11 +28,11 @@ In deze stap verstuurt u de gegenereerde eindafrekening naar de vertrekkende huu
 
 ## Zie ook
 
-[Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
-[Registreren huuropzegging](../registreren-huuropzegging/)  
-[Innemen eenheid](../innemen-eenheid/)  
-[Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
 [Aanbieden eenheid](../aanbieden-eenheid/)  
-[Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
+[Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
+[Innemen eenheid](../innemen-eenheid/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
 [Opleveren eenheid](../opleveren-eenheid/)
+[Registreren huuropzegging](../registreren-huuropzegging/)  
+[Verantwoorden verhuring](../verantwoorden-verhuring/)  

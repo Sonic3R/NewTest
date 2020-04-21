@@ -29,6 +29,6 @@ Wanneer u een foutief bestand heeft geïmporteerd, selecteer dan de betreffende 
 
 ## Zie ook
 
-[Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
-[Bewaken onderhoudsproject](../bewaken-onderhoudsproject/)  
 [Actualiseren prognose](../actualiseren-prognose/)
+[Bewaken onderhoudsproject](../bewaken-onderhoudsproject/)  
+[Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  

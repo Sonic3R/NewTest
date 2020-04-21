@@ -21,14 +21,14 @@ In dit werkproces worden de clusterverdeelsleutels (in bulk) geactualiseerd op b
 
 ## Zie ook
 
+[Afsluiten jaar](../afsluiten-jaar/)  
+[Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Beheren dimensies](../beheren-dimensies/)  
 [Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
-[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
-[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
-[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
-[Beheren clusterinformatie](../beheren-clusterinformatie/)  
-[Afsluiten jaar](../afsluiten-jaar/)  
-[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
+[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)  
 [Dichtzetten periode](../dichtzetten-periode/)  
-[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)
+[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
+[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
+[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
+[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  

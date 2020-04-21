@@ -11,10 +11,10 @@ In dit werkproces worden vorderingen die eerder waren afgeboekt weer teruggeboek
 
 ## Zie ook
 
-[Segmenteren debiteuren](../segmenteren-debiteuren/)  
 [Aanmanen debiteuren](../aanmanen-debiteuren/)  
+[Afboeken vorderingen](../afboeken-vorderingen/)  
 [Afsluiten betalingsregeling](../afsluiten-etalingsregeling/)  
 [Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
+[Segmenteren debiteuren](../segmenteren-debiteuren/)  
 [Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  
 [Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
-[Afboeken vorderingen](../afboeken-vorderingen/)

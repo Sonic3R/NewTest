@@ -4,6 +4,6 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Beheren klantinformatie](../beheren-klantinformatie/)  
 [Afhandelen contactmoment](../afhandelen-contactmoment/)  
+[Beheren klantinformatie](../beheren-klantinformatie/)  
 [Meten klanttevredenheid](../meten-klanttevredenheid/)

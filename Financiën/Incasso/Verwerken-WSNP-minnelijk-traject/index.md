@@ -67,10 +67,10 @@ Wanneer de klant zijn vordering volledig heeft voldaan of wanneer u de vordering
 
 ## Zie ook
 
-[Segmenteren debiteuren](../segmenteren-debiteuren/)  
 [Aanmanen debiteuren](../aanmanen-debiteuren/)  
+[Afboeken vorderingen](../afboeken-vorderingen/)  
 [Afsluiten betalingsregeling](../afsluiten-etalingsregeling/)  
 [Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
-[Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  
-[Afboeken vorderingen](../afboeken-vorderingen/)  
+[Segmenteren debiteuren](../segmenteren-debiteuren/)  
 [Terugboeken vorderingen](../terugboeken-vorderingen/)
+[Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  

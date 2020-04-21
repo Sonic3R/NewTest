@@ -15,6 +15,7 @@ Per grootboekrekening is ingesteld of kosten geboekt op clusterniveau verdeeld m
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  
+[Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
 [Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  

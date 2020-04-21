@@ -86,10 +86,10 @@ Naast dat u de aanmaningen kunt versturen kunt u het overzicht van aanmaningen o
 
 ## Zie ook
 
-[Segmenteren debiteuren](../segmenteren-debiteuren/)  
+[Afboeken vorderingen](../afboeken-vorderingen/)  
 [Afsluiten betalingsregeling](../afsluiten-etalingsregeling/)  
 [Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
+[Segmenteren debiteuren](../segmenteren-debiteuren/)  
+[Terugboeken vorderingen](../terugboeken-vorderingen/)
 [Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  
 [Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
-[Afboeken vorderingen](../afboeken-vorderingen/)  
-[Terugboeken vorderingen](../terugboeken-vorderingen/)

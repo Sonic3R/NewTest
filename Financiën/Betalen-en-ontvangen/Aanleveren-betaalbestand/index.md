@@ -91,5 +91,5 @@ Wanneer de betaalrun gecontroleerd en goed bevonden is, kan deze geëxporteerd w
 
 [Aanleveren incassobestand](../aanleveren-incassobestand/)  
 [Verwerken bankmutaties](../verwerken-bankmutaties/)  
+[Verwerken overige betaalverzoeken](../verwerken-overige-betaalverzoeken/)  
 [Verwerken pintransacties](../verwerken-pintransacties/)  
-[Verwerken overige betaalverzoeken](../verwerken-overige-betaalverzoeken/)

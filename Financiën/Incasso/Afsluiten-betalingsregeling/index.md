@@ -77,10 +77,10 @@ Wanneer u de betalingsregeling gecontroleerd heeft kunt u deze activeren.
 
 ## Zie ook
 
-[Segmenteren debiteuren](../segmenteren-debiteuren/)  
 [Aanmanen debiteuren](../aanmanen-debiteuren/)  
+[Afboeken vorderingen](../afboeken-vorderingen/)  
 [Beëindigen betalingsregeling](../beeindigen-betalingsregeling/)  
+[Segmenteren debiteuren](../segmenteren-debiteuren/)  
+[Terugboeken vorderingen](../terugboeken-vorderingen/)
 [Uit handen geven vorderingen](../uit-handen-geven-vorderingen/)  
 [Verwerken WSNP/minnelijk traject](../verwerken-wsnp-minnelijk-traject/)  
-[Afboeken vorderingen](../afboeken-vorderingen/)  
-[Terugboeken vorderingen](../terugboeken-vorderingen/)

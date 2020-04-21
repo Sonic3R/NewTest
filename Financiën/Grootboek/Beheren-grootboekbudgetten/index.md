@@ -4,6 +4,7 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
+[Beheren dimensies](../beheren-dimensies/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
 [Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  

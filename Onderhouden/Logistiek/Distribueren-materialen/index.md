@@ -5,6 +5,6 @@ Binnenkort beschikbaar
 ## Zie ook
 
 [Bestellen materialen](../bestellen-materialen/)  
+[Inventariseren voorraad](../inventariseren-voorraad/)  
 [Ontvangen materialen](../ontvangen-materialen/)  
 [Retourneren materialen](../retourneren-materialen/)  
-[Inventariseren voorraad](../inventariseren-voorraad/)

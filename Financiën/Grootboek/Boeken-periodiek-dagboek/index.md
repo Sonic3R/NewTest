@@ -23,14 +23,14 @@ Nadat de regels in het periodieke dagboek juist gevuld zijn kunt u de regels boe
 
 ## Zie ook
 
+[Afsluiten jaar](../afsluiten-jaar/)  
+[Beheren clusterinformatie](../beheren-clusterinformatie/)  
 [Beheren dimensies](../beheren-dimensies/)  
 [Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
-[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
-[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
-[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
-[Beheren clusterinformatie](../beheren-clusterinformatie/)  
-[Afsluiten jaar](../afsluiten-jaar/)  
-[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
 [Dichtzetten periode](../dichtzetten-periode/)  
-[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)
+[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)  
+[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
+[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
+[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  

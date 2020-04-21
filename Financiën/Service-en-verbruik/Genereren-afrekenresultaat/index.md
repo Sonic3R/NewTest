@@ -32,5 +32,5 @@ In deze processtap zet u alle kosten die meegenomen dienen te worden in het resu
 
 ## Zie ook
 
+[Bepalen nieuwe voorschotten](../bepalen-nieuwe-voorschotten/)  
 [Vaststellen kosten en opbrengsten](../vaststellen-kosten-en-opbrengsten/)  
-[Bepalen nieuwe voorschotten](../bepalen-nieuwe-voorschotten/)

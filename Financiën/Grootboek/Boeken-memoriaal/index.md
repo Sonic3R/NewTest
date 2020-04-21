@@ -61,6 +61,7 @@ Wanneer het dagboek goedgekeurd is kunt u het dagboek boeken.
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  
+[Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
 [Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  

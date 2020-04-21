@@ -63,6 +63,6 @@ In deze stap handelt u een taak af die is toegewezen aan een team waarvan u deel
 
 ## Zie ook
 
-[Beheren klantinformatie](../beheren-klantinformatie/)  
 [Afhandelen klacht](../afhandelen-klacht/)  
+[Beheren klantinformatie](../beheren-klantinformatie/)  
 [Meten klanttevredenheid](../meten-klanttevredenheid/)

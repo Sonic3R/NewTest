@@ -68,6 +68,7 @@ Nadat u bepaald heeft welke kosten nog op een cluster geboekt dienen te worden, 
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  
+[Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
 [Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  

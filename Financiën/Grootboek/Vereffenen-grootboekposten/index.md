@@ -11,6 +11,7 @@ In dit werkproces worden grootboekposten met elkaar vereffend of worden eerder g
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  
+[Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
 [Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  

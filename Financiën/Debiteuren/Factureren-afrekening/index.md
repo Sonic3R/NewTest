@@ -24,9 +24,9 @@ Wanneer er facturen verstuurd dienen te worden kunt u dit doen via Postex.
 
 ## Zie ook
 
-[Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
-[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
-[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
-[Factureren overige diensten](../factureren-overige-diensten/)  
+[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)  
 [Crediteren overige diensten](../crediteren-overige-diensten/)  
-[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)
+[Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
+[Factureren overige diensten](../factureren-overige-diensten/)  
+[Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
+[Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  

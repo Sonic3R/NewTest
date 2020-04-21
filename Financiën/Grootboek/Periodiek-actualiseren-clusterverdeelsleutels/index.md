@@ -22,6 +22,7 @@ In dit werkproces worden de clusterverdeelsleutels (in bulk) geactualiseerd op b
 ## Zie ook
 
 [Beheren dimensies](../beheren-dimensies/)  
+[Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
 [Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
 [Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  

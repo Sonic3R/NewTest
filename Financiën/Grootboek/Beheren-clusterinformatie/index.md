@@ -85,14 +85,14 @@ Wanneer een cluster gebruikt wordt binnen het proces 'Service- en verbruiksafrek
 
 ## Zie ook
 
+[Afsluiten jaar](../afsluiten-jaar/)  
 [Beheren dimensies](../beheren-dimensies/)  
 [Beheren grootboekbudgetten](../beheren-grootboekbudgetten/)  
 [Boeken memoriaal](../boeken-memoriaal/)  
-[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)   
-[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
-[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
-[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  
-[Afsluiten jaar](../afsluiten-jaar/)  
-[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
+[Boeken periodiek dagboek](../boeken-periodiek-dagboek/)  
 [Dichtzetten periode](../dichtzetten-periode/)  
-[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)
+[Overboeken categoriaal naar functioneel](../overboeken-categoriaal-naar-functioneel/)  
+[Periodiek actualiseren clusterverdeelsleutels](../periodiek-actualiseren-clusterverdeelsleutels/)  
+[Verdelen posten naar eenheidsniveau](../verdelen-posten-naar-eenheidsniveau/)  
+[Vereffenen grootboekposten](../vereffenen-grootboekposten/)  
+[Verwerken DAEB/niet-DAEB-verdeling](../verwerken-daeb-niet-daeb-verdeling/)  

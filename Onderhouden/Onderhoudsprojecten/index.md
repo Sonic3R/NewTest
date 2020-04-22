@@ -4,9 +4,9 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
+[Registreren (onderhouds) jaarbegroting](registreren-(onderhouds)-jaarbegroting/) | 
 [Voorbereiden onderhoudsproject](voorbereiden-onderhoudsproject/) | 
 [Bewaken onderhoudsproject](bewaken-onderhoudsproject/) | 
-[Registreren (onderhouds) jaarbegroting](registreren-(onderhouds)-jaarbegroting/) | 
 [Actualiseren prognose](actualiseren-prognose/) | 
 
 ## Zie ook

@@ -6,7 +6,7 @@ Werkproces | Omschrijving
 :--- | :---
 [Beheren klantinformatie](beheren-klantinformatie/) | 
 [Afhandelen contactmoment](afhandelen-contactmoment/) | 
-[Afhandelen klacht](afhandelen-klacht/ | 
+[Afhandelen klacht](afhandelen-klacht/) | 
 [Meten klanttevredenheid](meten-klanttevredenheid/) | 
 
 ## Zie ook

@@ -4,4 +4,4 @@ Deze hoofdfunctie is opgedeeld in onderstaande bedrijfsfuncties, waarbij aan elk
 
 Bedrijfsfunctie | Werkproces
 :--- | :---
-[Inkoop](inkoop/) | <ul><li>[Registreren inkooporder](inkoop/registreren-inkooporder/)</li><li>[Accorderen prestatie](inkoop/accorderen-prestatie/)</li><li>[Goedkeuren documenten](inkoop/goedkeuren-documenten/)</li><li>[Beheren leveranciersinformatie](inkoop/beheren-leveranciersinformatie/)</li><li>[Beheren onderhoudscontracten](inkoop/beheren-onderhoudscontracten/)</li></ul>
+[Inkoop](inkoop/) | <ul><li>[Registreren inkooporder](inkoop/registreren-inkooporder/)</li><li>[Accorderen prestatie](inkoop/accorderen-prestatie/)</li><li>[Goedkeuren documenten](inkoop/goedkeuren-documenten/)</li><li>[Beheren leveranciersinformatie](inkoop/beheren-leveranciersinformatie/)</li><li>[Beheren onderhoudscontracten](inkoop/beheren-onderhoudscontracten/)</li><li>[Inkopen PO/VGO](inkopen-po-vgo/)</li></ul>

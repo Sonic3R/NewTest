@@ -6,36 +6,36 @@ In dit werkproces wordt het verkochte onroerend goed gefactureerd.
 
 Het verkoopproces van onroerend goed wordt afgesloten door het aanmaken en boeken van de verkoopfactuur. De verkoopfactuur wordt aangemaakt vanaf de verkoopaanbieding. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Onr. Goed-Eenhedenoverzicht**. 
-2. Selecteer de eenheid waarvoor u de verkoopfactuur aan wilt maken en klik op **Verkoopaanbiedingen**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**. 
+2. Selecteer de eenheid waarvoor u de verkoopfactuur aan wilt maken en navigeer naar **Verkoopaanbiedingen**. 
 3. Open de aanbieding waarvoor u de verkoopfactuur aan wilt maken. 
-4. Klik op **Verkoopfactuur maken** om de verkoopfactuur aan te maken. De verkoopfactuur is aangemaakt. 
+4. Kies voor de actie/functie **Verkoopfactuur maken** om de verkoopfactuur aan te maken. De verkoopfactuur is aangemaakt. 
 
 ## Aanvullen factuur 
 
-Nadat de factuur aangemaakt is kunt u de factuur controleren en aanvullen. 
+Nadat de factuur is aangemaakt kunt u de factuur controleren en aanvullen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Onr. Goed-Eenhedenoverzicht**. 
-2. Selecteer de eenheid waarvoor u de verkoopfactuur wilt aanvullen en klik op **Verkoopaanbiedingen**. 
-3. Open de aanbieding waarvoor u de verkoopfactuur wilt aanvullen 
-4. Klik op **Verkoopfactuur** De verkoopfactuur wordt geopend. 
-5. Vul de volgende gegevens op de factuur kop aan:
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**. 
+2. Selecteer de eenheid waarvoor u de verkoopfactuur wilt aanvullen en navigeer naar **Verkoopaanbiedingen**. 
+3. Open de aanbieding waarvoor u de verkoopfactuur wilt aanvullen.
+4. Kies voor **Verkoopfactuur** waarna deze wordt geopend. 
+5. Vul de volgende gegevens op de factuurkop aan:
 	- **Verkoopkosten**
 	- **Boekingomschrijving**
 	- **Reden uit exploitatie**
-	- **Boekings -/ Stukdatum**
+	- **Boekings- /Stukdatum**
 	- **Documentdatum**
 	- **Extern stuknummer** (niet verplicht)
 	- **Transportdatum**
-	- **Definitief getransportation**: Zet optie aan. 
+	- **Definitief getransporteerd**: 'Aan'. 
 6. Vul de factuurregels aan met bijvoorbeeld de verkoop- of makelaarskosten. Selecteer een nieuwe regel en vul de volgende velden. 
 	- **Soort**: Grootboekrekening
 	- **Nr.**: De rekening waarop de kosten of opbrengsten geboekt moeten worden
 	- **Omschrijving**
 	- **Btw-productboekingsgroep**
-	- **Aantal**: Wanneer het kosten betreft vul hier dan -1 in. Betreft het opbrengsten vul dan 1 in.
-	- **Eenheidsprijs Exc. btw**
-	- **Dimensie waarden velden**: Velden die eindigen met de het woord code zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Aantal**: Als het kosten betreft, vul hier dan -1 in. Betreft het opbrengsten, vul dan 1 in.
+	- **Eenheidsprijs Excl. btw**
+	- **Dimensiewaardenvelden**: Velden die eindigen met de het woord 'code' zijn velden waar dimensies zoals Afdelingsdimensie of Clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
 7. Wanneer alle gegevens gecontroleerd en aangevuld zijn kunt u de factuur ter goedkeuring aanbieden. Klik op **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden. 
 
 ## Boeken en versturen factuur 

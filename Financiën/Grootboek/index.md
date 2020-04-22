@@ -14,6 +14,7 @@ Werkproces | Omschrijving
 [Afsluiten jaar](afsluiten-jaar/) | 
 [Vereffenen grootboekposten](vereffenen-grootboekposten/) | 
 [Dichtzetten periode](dichtzetten-periode/) | 
+[Beheren grootboekbudgetten](beheren-grootboekbudgetten/) | 
 
 ## Zie ook
 
@@ -23,6 +24,5 @@ Werkproces | Omschrijving
 [Service en verbruik](../service-en-verbruik/)  
 [Vaste activa](../vaste-activa/)  
 [Btw](../btw/)  
-[Budget](../budget/)  
 [Incasso](../incasso/)  
 [Treausry](../treasury/)

@@ -35,16 +35,16 @@ Nadat de factuur is aangemaakt kunt u de factuur controleren en aanvullen.
 	- **Btw-productboekingsgroep**
 	- **Aantal**: Als het kosten betreft, vul hier dan -1 in. Betreft het opbrengsten, vul dan 1 in.
 	- **Eenheidsprijs Excl. btw**
-	- **Dimensiewaardenvelden**: Velden die eindigen met de het woord 'code' zijn velden waar dimensies zoals Afdelingsdimensie of Clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Dimensiewaardenvelden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals Afdelingsdimensie of Clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
 7. Wanneer alle gegevens gecontroleerd en aangevuld zijn kunt u de factuur ter goedkeuring aanbieden. Klik op **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden. 
 
 ## Boeken en versturen factuur 
 
 Nadat de factuur goedgekeurd is kunt u de factuur boeken. 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Verkoopfacturen**. 
-2. Selecteer de factuur die u wilt boeken en klik op **Boeken en verzenden**. 
+1. Navigeer via het zoekveld zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verkoopfacturen**. 
+2. Selecteer de factuur die u wilt boeken en kies voor **Boeken en verzenden**. 
 2. Klik op **...** en selecteer in het veld **E-mail** **Ja (standaardinstellingen gebruiken)**. Klik op **Ok**. Klik op **Ja**. 
-3. De factuur wordt geboekt en er wordt een e-mail met bijlage klaar gezet die u kunt versturen. 
+3. De factuur wordt geboekt en er wordt een e-mail met bijlage klaargezet die u kunt versturen. 
 
 ## Zie ook
 

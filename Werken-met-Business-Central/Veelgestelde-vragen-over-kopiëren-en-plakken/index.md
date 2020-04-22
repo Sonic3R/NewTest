@@ -2,7 +2,7 @@
 
 U kunt een of meer rijen (records) uit een lijst of een enkel veld op een pagina kopiëren en vervolgens wat u hebt gekopieerd, plakken op dezelfde pagina, een andere pagina of een extern document (zoals Microsoft Excel en Outlook-e-mail). Als u wilt kopiëren, drukt u op CTRL+C (cmd+C in MacOs) op het toetsenbord. Als u wilt plakken, drukt u op CTRL+V (cmd+V in MacOs).
 
-Er zijn verschillende andere toetsenbordsneltoetsen voor het kopiëren en plakken die u helpen tijd te besparen wanneer u gegevens invoert. Zie voor meer informatie hierover [Toetsenbordsneltoetsen](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/#Selecteren-kopiëren-en-plakken).
+Er zijn verschillende andere toetsenbordsneltoetsen voor het kopiëren en plakken die u helpen tijd te besparen wanneer u gegevens invoert. Zie voor meer informatie hierover [Toetsenbordsneltoetsen](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/#Selecteren-kopiëren-en-plakken).
 
 In dit artikel worden veelgestelde vragen beantwoord over kopiëren en plakken.  
 
@@ -23,7 +23,7 @@ Als u één rij wilt kopiëren, selecteert u deze en drukt u op Ctrl+C.
 
 Als u meerdere rijen wilt kopiëren, kunt u:
 
-- Op Ctrl drukken en op een andere rij klikken of op Shift drukken en klikken om de rij en alle rijen ertussenin te selecteren. Zie [Toetsenbordsneltoetsen](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/#Selecteren-kopiëren-en-plakken) voor meer muis- en toetsenbordcombinaties voor het selecteren van rijen.
+- Op Ctrl drukken en op een andere rij klikken of op Shift drukken en klikken om de rij en alle rijen ertussenin te selecteren. Zie [Toetsenbordsneltoetsen](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/#Selecteren-kopiëren-en-plakken) voor meer muis- en toetsenbordcombinaties voor het selecteren van rijen.
 - Selecteer ![meer icon](/assets/images/meer.png "meer icon") in de eerste kolom, kies **Meer selecteren**, schakel het selectievakje in naast elke rij die u wilt kopiëren, en druk op Ctrl+C.
 
 ## Hoe plak ik rijen?

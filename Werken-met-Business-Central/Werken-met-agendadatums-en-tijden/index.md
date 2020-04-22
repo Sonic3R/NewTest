@@ -25,7 +25,7 @@ Als u productiever met datums en tijden wilt werken, kunt u elke methode of nota
 
 Een veld waarbij een kalenderpictogram wordt weergegeven, kan worden ingesteld met de kalenderdatumkiezer. Als u de kalenderdatumkiezer wilt weergeven, activeert u het kalenderpictogram of drukt u op de toetsenbordsneltoets Ctrl+Home in het veld.
 
-Zie ook [Sneltoetsen in de kalenderdatumkiezer](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/#Toetsenbordsneltoetsen-in-de-kalender-datumkiezer).
+Zie ook [Sneltoetsen in de kalenderdatumkiezer](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/#Toetsenbordsneltoetsen-in-de-kalender-datumkiezer).
 
 ### Dag\-week\-jaar patroon
 

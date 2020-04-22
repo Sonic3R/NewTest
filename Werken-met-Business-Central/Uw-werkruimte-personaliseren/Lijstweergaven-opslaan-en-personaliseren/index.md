@@ -1,6 +1,6 @@
 # Lijstweergaven opslaan en personaliseren
 
-Wanneer u een filter op een lijst hebt ingesteld en u het filter voor later wilt bewaren, kunt u het opslaan als een weergave. Zie voor meer informatie over het filteren van lijsten [Filters instellen op lijsten](../Sorteren-zoeken-en-filteren/#Filters-instellen-voor-lijsten).
+Wanneer u een filter op een lijst hebt ingesteld en u het filter voor later wilt bewaren, kunt u het opslaan als een weergave. Zie voor meer informatie over het filteren van lijsten [Filters instellen op lijsten](../sorteren-zoeken-en-filteren/#Filters-instellen-voor-lijsten).
 
 Als er weergaven bestaan, wordt de groep **Weergaven** boven aan het filterdeelvenster weergegeven. Weergaven zijn variaties van de lijst die vooraf zijn ingesteld met filters. U kunt per lijst zoveel weergaven definiëren en opslaan als u wilt, en de weergaven zijn voor u beschikbaar de volgende keer dat u de lijst opent, vanaf elk apparaat en elke browser.
 
@@ -8,7 +8,7 @@ Als er weergaven bestaan, wordt de groep **Weergaven** boven aan het filterdeelv
 
 1. Open een willekeurige lijstpagina.
 2. Selecteer het ![filter icon](/assets/images/filter.png "filter icon") boven aan de lijst of druk op Shift+F3 om het filterdeelvenster te openen.
-3. Stel een of meer nieuwe filters in. Zie voor meer informatie [Filters instellen voor lijsten](../Sorteren-zoeken-en-filteren/#Filters-instellen-voor-lijsten).
+3. Stel een of meer nieuwe filters in. Zie voor meer informatie [Filters instellen voor lijsten](../sorteren-zoeken-en-filteren/#Filters-instellen-voor-lijsten).
 4. Wanneer u de filters hebt ingesteld, kiest u het pictogram ![opslaan icon](/assets/images/opslaan.png "opslaan icon").
 
     Als u een filter instelt voor een lijstweergave die al is opgeslagen als een weergave, wordt de bestaande weergave bijgewerkt wanneer u opslaat.

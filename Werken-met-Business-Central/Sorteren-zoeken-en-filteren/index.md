@@ -45,7 +45,7 @@ In de volgende tabel vindt u enkele voorbeelden om aan te geven hoe u de zoekact
 |`@*man`|Alle records met velden die eindigen met **man**, ongeacht hoofdletters. Bijvoorbeeld **Brinkman**, maar niet **Manderveen** of **mannelijk**.|
 
 > [!TIP]
-> U kunt op **F3** drukken om het zoekvak te activeren en te deactiveren. Zie voor meer informatie [Toetsenbordsneltoetsen](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/).
+> U kunt op **F3** drukken om het zoekvak te activeren en te deactiveren. Zie voor meer informatie [Toetsenbordsneltoetsen](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/).
 
 ## Filteren
 
@@ -80,7 +80,7 @@ Een filterdeelvenster is verdeeld in drie gedeelten: **Weergaven**, **Filter lij
 
 - **Weergaven**
 
-  Sommige lijsten bevatten het gedeelte **Weergaven**. Weergaven zijn variaties van de lijst die vooraf zijn ingesteld met filters. U kunt per lijst zoveel weergaven definiëren en opslaan als u wilt, en de weergaven zijn voor u beschikbaar op elk apparaat waarop u zich aanmeldt. Zie voor meer informatie [Lijstweergaven opslaan en personaliseren](../Uw-werkruimte-personaliseren/Lijstweergaven-opslaan-en-personaliseren/).
+  Sommige lijsten bevatten het gedeelte **Weergaven**. Weergaven zijn variaties van de lijst die vooraf zijn ingesteld met filters. U kunt per lijst zoveel weergaven definiëren en opslaan als u wilt, en de weergaven zijn voor u beschikbaar op elk apparaat waarop u zich aanmeldt. Zie voor meer informatie [Lijstweergaven opslaan en personaliseren](../uw-werkruimte-personaliseren/Lijstweergaven-opslaan-en-personaliseren/).
 
 - **Filter lijst op**
 
@@ -94,7 +94,7 @@ Een filterdeelvenster is verdeeld in drie gedeelten: **Weergaven**, **Filter lij
 
 ### Filters instellen in rapporten, batchtaken en XMLports
 
-Voor rapporten, batchtaken en XMLports zijn de filters direct zichtbaar op de aanvraagpagina. De aanvraagpagina toont de laatst gebruikte filters volgens uw selectie in het veld **Standaardwaarden gebruiken uit**. Zie voor meer informatie [Opgeslagen instellingen gebruiken](../Werken-met-rapporten-batchverwerkingen-en-XMLports/#opgeslagen-instellingen-gebruiken/).
+Voor rapporten, batchtaken en XMLports zijn de filters direct zichtbaar op de aanvraagpagina. De aanvraagpagina toont de laatst gebruikte filters volgens uw selectie in het veld **Standaardwaarden gebruiken uit**. Zie voor meer informatie [Opgeslagen instellingen gebruiken](../werken-met-rapporten-batchverwerkingen-en-XMLports/#opgeslagen-instellingen-gebruiken).
 
 De hoofdsectie **Filter** toont de standaardfiltervelden die u gebruikt om af te bakenen welke records in het rapport of de XMLport moeten worden opgenomen. Als u een filter wilt toevoegen, kiest u de actie **+ Filter**, typt u de naam van het veld waarop u de lijst wilt filteren of kiest u een veld in de vervolgkeuzelijst.
 
@@ -109,11 +109,11 @@ Het type filterveld bepaalt welke criteria u kunt invoeren. Als u bijvoorbeeld f
 Kolommen die al filters bevatten, worden aangegeven door het pictogram ![filter icon](/assets/images/filter.png "filter icon") in de kolomkop. Als u een filter wilt verwijderen, kiest u de vervolgkeuzepijl en kiest u vervolgens de actie **Filter wissen**.
 
 > [!TIP]
-> Versnel het zoeken en analyseren van uw gegevens met combinaties van toetsenbordsneltoetsen. Selecteer bijvoorbeeld een veld, gebruik **Shift+Alt+F3** om dat veld aan het filterdeelvenster toe te voegen, typ het filtercriterium, gebruik **Ctrl+Enter** om terug te keren naar de rijen, selecteer een ander veld en gebruik **Alt+F3** om op die waarde te filteren. Zie voor meer informatie [Toetsenbordsneltoetsen](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/).
+> Versnel het zoeken en analyseren van uw gegevens met combinaties van toetsenbordsneltoetsen. Selecteer bijvoorbeeld een veld, gebruik **Shift+Alt+F3** om dat veld aan het filterdeelvenster toe te voegen, typ het filtercriterium, gebruik **Ctrl+Enter** om terug te keren naar de rijen, selecteer een ander veld en gebruik **Alt+F3** om op die waarde te filteren. Zie voor meer informatie [Toetsenbordsneltoetsen](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/).
 
-### <a name="FilterCriteria"> </a>Filtercriteria en -symbolen
+### Filtercriteria en -symbolen
 
-U kunt bij de invoer van criteria alle cijfers en letters gebruiken die u normaal ook kunt gebruiken. Daarnaast kunt u speciale symbolen (of operatoren) gebruiken om de resultaten verder te filteren. De volgende tabellen bevatten de symbolen die in filters kunnen worden gebruikt. Voor datums en tijden kunt u ook [Werken met kalenderdatums en -tijden](../Werken-met-agendadatums-en-tijden/) raadplegen voor meer gedetailleerde informatie.
+U kunt bij de invoer van criteria alle cijfers en letters gebruiken die u normaal ook kunt gebruiken. Daarnaast kunt u speciale symbolen (of operatoren) gebruiken om de resultaten verder te filteren. De volgende tabellen bevatten de symbolen die in filters kunnen worden gebruikt. Voor datums en tijden kunt u ook [Werken met kalenderdatums en -tijden](../werken-met-agendadatums-en-tijden/) raadplegen voor meer gedetailleerde informatie.
 
 > [!IMPORTANT]  
 > Het kan voorkomen dat veldwaarden deze symbolen bevatten en u hierop wilt filteren. Hiervoor moet u de filterexpressie opnemen die het symbool tussen aanhalingstekens (“) bevat. Als u wilt filteren op records die beginnen met de tekst *S&R*, is de filterexpressie bijvoorbeeld `'S&R*'`.
@@ -211,7 +211,7 @@ In de volgende secties wordt beschreven hoe u de verschillende operatoren kunt g
 |`..1299|1400..`|Records met een nummer kleiner dan of gelijk aan 1299 of gelijk aan 1400 en hoger. Met andere woorden: alle nummers behalve 1300 tot en met 1399.|  
 |`>50&<100`|Records met een nummer groter dan 50 en kleiner dan 100, ofwel nummer 51 tot en met 99.|  
 
-### <a name="FilterTokens"> </a>Filtertokens
+### Filtertokens
 
 Wanneer u filtercriteria invoert, kunt u ook woorden typen die een speciale betekenis hebben, filtertokens genaamd. Na het invoeren van het tokenwoord wordt het woord vervangen door de waarde of waarden die het woord vertegenwoordigt. Dit maakt filtering eenvoudiger doordat u niet naar andere pagina's hoeft te navigeren om waarden op te zoeken die u aan uw filter wilt toevoegen. In de onderstaande tabellen worden enkele van de tokens beschreven die u als filtercriteria kunt gebruiken.
 

@@ -2,7 +2,7 @@
 
 U kunt uw werkruimte aanpassen aan uw werk- en persoonlijke voorkeuren door pagina's te wijzigen zodat deze alleen de gegevens weergeven die u nodig hebt en waar u die nodig hebt. De personalisatiewijzigingen die u maakt, hebben alleen effect op wat u ziet, niet wat andere gebruikers kunnen zien.
 
-U kunt alle soorten pagina's personaliseren, inclusief de rolcentrumpagina. Zie voor meer informatie over rolcentra [Rolcentrum](../Basisinstellingen-wijzigen/#Rolcentrum).
+U kunt alle soorten pagina's personaliseren, inclusief de rolcentrumpagina. Zie voor meer informatie over rolcentra [Rolcentrum](../basisinstellingen-wijzigen/#Rolcentrum).
 
 Afhankelijk van het soort pagina en wat de pagina bevat, kunt u verschillende wijzigingen aanbrengen, zoals velden, kolommen, acties en hele onderdelen verplaatsen of verbergen, en nieuwe velden toevoegen. De meeste personalisatie moet worden gedaan door eerst de banner **Personaliseren** te activeren, maar enkele zeer eenvoudige aanpassingen, zoals kolombreedte, kunnen direct in elke lijst worden uitgevoerd.
 

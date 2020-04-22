@@ -122,19 +122,19 @@ De volgende sneltoetsen zijn beschikbaar op kaartpagina's, zoals **Klant**, en d
 |Alt+F6|Het huidige sneltabblad samenvouwen/uitvouwen.|
 |Alt+N |Een pagina openen om een nieuwe record te maken; dezelfde manier als de actie **Nieuw** kiezen. |
 |Alt+Shift+N |Een pagina sluiten en een nieuwe openen om een nieuwe record te maken; dezelfde manier als de actie **OK & nieuw** selecteren. |
-|Alt+Shift+W |De huidige kaart of het huidige document openen in een nieuw venster. Zie voor meer informatie [Multitasking over meerdere pagina's](../Gegevens-invoeren/#Multitasking-over-meerdere-paginas).|
+|Alt+Shift+W |De huidige kaart of het huidige document openen in een nieuw venster. Zie voor meer informatie [Multitasking over meerdere pagina's](../gegevens-invoeren/#Multitasking-over-meerdere-paginas).|
 |Ctrl+Enter|Sla de pagina op en sluit deze.|
 |Ctrl + pijl-omlaag|De volgende record voor een entiteit openen.|
 |Ctrl + pijl-omhoog |De vorige record voor een entiteit openen.|
 |Ctrl+Insert |Een nieuwe regel in documenten invoegen.|
 |Ctrl+Delete |De regel verwijderen in documenten, dagboeken en werkbladen.|
-|Ctrl+Shift+F12 |Het gedeelte met regelitems maximaliseren op een documentpagina. Druk nogmaals op de toetsen om terug te keren naar de normale weergave. Zie voor meer informatie [Focussen op regelitems](../Gegevens-invoeren/#Focussen-op-regelartikelen).|
+|Ctrl+Shift+F12 |Het gedeelte met regelitems maximaliseren op een documentpagina. Druk nogmaals op de toetsen om terug te keren naar de normale weergave. Zie voor meer informatie [Focussen op regelitems](../gegevens-invoeren/#Focussen-op-regelartikelen).|
 |F6|Naar het volgende sneltabblad of onderdeel (subpagina) gaan.|
 |Shift+F6|Naar het vorige sneltabblad of onderdeel (subpagina) gaan.|
 
 ## Sneltoetsen voor snelle invoer voor velden
 
-De volgende sneltoetsen behoren tot de functie Snelinvoer op kaarten, documenten en lijstpagina's. In lijsten kunnen de sneltoetsen worden gebruikt wanneer de lijst in de tegelweergave is. Zie voor meer informatie over snelinvoer [Gegevensinvoer versnellen met snelinvoer](../Gegevens-invoeren/#Gegevensinvoer-versnellen-met-snelinvoer).
+De volgende sneltoetsen behoren tot de functie Snelinvoer op kaarten, documenten en lijstpagina's. In lijsten kunnen de sneltoetsen worden gebruikt wanneer de lijst in de tegelweergave is. Zie voor meer informatie over snelinvoer [Gegevensinvoer versnellen met snelinvoer](../gegevens-invoeren/#Gegevensinvoer-versnellen-met-snelinvoer).
 
 |Druk op deze toetsen<br />(in macOS)|Actie|Opmerkingen|
 |-----------------|-------|-------|
@@ -165,7 +165,7 @@ Wanneer u een datumveld instelt, kunt u de datum handmatig invoeren of een agend
 |Druk op deze toetsen<br />(in macOS)|Actie|
 |-----------------|-------|
 |h|Voer de huidige datum in. "T" betekent "today" (vandaag).|
-|w|Voer de werkdatum in. Zie [Werkdatum](../Basisinstellingen-wijzigen/#werkdatum) voor meer informatie.|
+|w|Voer de werkdatum in. Zie [Werkdatum](../basisinstellingen-wijzigen/#werkdatum) voor meer informatie.|
 
 ## Sneltoetsen in de rapportweergave
 

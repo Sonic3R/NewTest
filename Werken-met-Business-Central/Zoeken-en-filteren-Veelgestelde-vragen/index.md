@@ -7,15 +7,15 @@ In dit artikel worden veelgestelde vragen beantwoord over zoeken en filteren.
 Ja.
 
 - Zoeken is eenvoudig en breed: er worden records gezocht die de zoektekst bevatten in zichtbare velen op de pagina. Er wordt geen onderscheid gemaakt tussen hoofdletters en kleine letters.
-- Filteren is zeer flexibel en kan op specifieke velden worden toegepast, inclusief velden die niet zichtbaar zijn op de pagina: er worden records weergegeven met exacte, hoofdlettergevoelige overeenkomsten, maar filtering kan worden aangepast met krachtige zoeksymbolen, tokens en formules. Voor meer informatie over hoe u deze functies gebruikt raadpleegt u [Sorteren, zoeken en filteren](../Sorteren-zoeken-en-filteren/).
+- Filteren is zeer flexibel en kan op specifieke velden worden toegepast, inclusief velden die niet zichtbaar zijn op de pagina: er worden records weergegeven met exacte, hoofdlettergevoelige overeenkomsten, maar filtering kan worden aangepast met krachtige zoeksymbolen, tokens en formules. Voor meer informatie over hoe u deze functies gebruikt raadpleegt u [Sorteren, zoeken en filteren](../sorteren-zoeken-en-filteren/).
 
 ## Is er een toetsenbordervaring voor zoeken en filteren?
 
-Zoeken en filteren zijn zeer geoptimaliseerd voor gebruikers die muisvrije interactie prefereren om efficiënt met hun gegevens te werken. Er zijn allerlei sneltoetsen die na elkaar worden gebruikt om zeer snel te werken. Zie voor meer informatie [Toetsenbordsneltoetsen](../Toegankelijkheid-en-sneltoetsen/Toetsenbordsneltoetsen/).
+Zoeken en filteren zijn zeer geoptimaliseerd voor gebruikers die muisvrije interactie prefereren om efficiënt met hun gegevens te werken. Er zijn allerlei sneltoetsen die na elkaar worden gebruikt om zeer snel te werken. Zie voor meer informatie [Toetsenbordsneltoetsen](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/).
 
 ## Is het filterdeelvenster beschikbaar voor alle lijsten?
 
-Het filterdeelvenster is beschikbaar op pagina's waar de lijst de primaire inhoud op de pagina is, zoals werkbladen en lijstpagina's, inclusief lijsten die bereikbaar zijn vanaf de navigatiebalk. Het filterdeelvenster is nog niet beschikbaar voor lijsten die worden weergegeven als onderdelen, zoals feitenblokken of rolcentrumonderdelen. Wanneer een lijst wordt ingesloten op een pagina, zoals verkoopregels op een verkooporder, is het filterdeelvenster beschikbaar wanneer op die lijst wordt gefocust met de focusmodusknop. Zie voor meer informatie [Focussen op regelitems](../Gegevens-invoeren/#Focus).
+Het filterdeelvenster is beschikbaar op pagina's waar de lijst de primaire inhoud op de pagina is, zoals werkbladen en lijstpagina's, inclusief lijsten die bereikbaar zijn vanaf de navigatiebalk. Het filterdeelvenster is nog niet beschikbaar voor lijsten die worden weergegeven als onderdelen, zoals feitenblokken of rolcentrumonderdelen. Wanneer een lijst wordt ingesloten op een pagina, zoals verkoopregels op een verkooporder, is het filterdeelvenster beschikbaar wanneer op die lijst wordt gefocust met de focusmodusknop. Zie voor meer informatie [Focussen op regelitems](../gegevens-invoeren/#Focus).
 
 ## Hoe kan ik mijn filters opslaan?
 

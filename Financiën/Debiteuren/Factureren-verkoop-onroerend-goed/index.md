@@ -43,7 +43,7 @@ Nadat de factuur is aangemaakt kunt u de factuur controleren en aanvullen.
 Nadat de factuur goedgekeurd is kunt u de factuur boeken. 
 1. Navigeer via het zoekveld zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verkoopfacturen**. 
 2. Selecteer de factuur die u wilt boeken en kies voor **Boeken en verzenden**. 
-2. Klik op **...** en selecteer in het veld **E-mail** **Ja (standaardinstellingen gebruiken)**. Klik op **Ok**. Klik op **Ja**. 
+2. Klik op '**...**' en selecteer in het veld **E-mail** **Ja (standaardinstellingen gebruiken)**. Klik op **Ok**. Klik op **Ja**. 
 3. De factuur wordt geboekt en er wordt een e-mail met bijlage klaargezet die u kunt versturen. 
 
 ## Zie ook

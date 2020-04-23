@@ -23,15 +23,16 @@ Als u een creditnota wilt maken voor niet-verhuurgerelateerde zaken, kunt u hier
                - **Omschrijving**: De omschrijving van de gecrediteerde kosten. Deze omschrijving wordt meegegeven in het grootboek en wordt getoond op de creditnota. 
                - **Aantal**: '1'.
                - **Eenheidsprijs Excl. btw**
-               - **Dimensiewaardenvelden**: Velden die eindigen met het woord '-code' zijn velden waar dimensies (zoals afdelingsdimensie of clusterdimensie) gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden, zijn deze velden verplicht om in te vullen.  
-
+               - **Dimensiewaardenvelden**: Velden die eindigen met het woord '-code' zijn velden waar dimensies (zoals afdelingsdimensie of clusterdimensie) gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden, zijn deze velden verplicht om in te vullen.
+5. Wanneer alle gegevens gevuld zijn kan de creditnota ter goedkeuring aangeboden worden. Klik op **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden.
+               
 ## Boeken en versturen niet-verhuurgerelateerde creditnota
 
 Nadat u de factuurgegevens gevuld heeft kunt u de verkoopcreditnota boeken en versturen. 
 
-1. Kies voor **Boeken en verzenden**. 
-2. Klik op **...** (achter **Document verzenden naar**) en kies in het veld **E-mail** voor **Ja (standaardinstellingen gebruiken)**. Klik op **Ok** en klik op **Ja**. 
-3. De verkoopcreditnota wordt geboekt en er wordt een e-mail met bijlage klaargezet die u kunt versturen. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verkoopcreditnota's** en selecteer de creditnota die u wilt boeken en versturen.  
+2. Klik op **...** en selecteer in het veld **E-mail** **Ja (standaardinstellingen gebruiken)**. Klik op **Ok**. Klik op **Ja**. 
+3. De creditnota wordt geboekt en er wordt een e-mail met bijlage klaar gezet die u kunt versturen. 
 
 ## Maak creditnota voor verhuurgerelateerde diensten
 
@@ -55,13 +56,15 @@ Wanneer u een creditnota aan wilt maken voor verhuurgerelateerde zaken kunt u hi
                - **Btw- productboekingsgroep**: De btw-soort die van toepassing is.
                - **Omschrijving**: De omschrijving van de te crediteren kosten. Deze omschrijving wordt meegegeven in het grootboek en wordt getoond op de factuur. 
                - **Eenheidsprijs Excl. btw**
+5. Wanneer alle velden gevuld zijn kan de creditnota ter goedkeuring aangeboden worden. Klik hiertoe op **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden.
 
 ## Boeken en versturen verhuurgerelateerde creditnota
 
 Nadat u de factuurgegevens gevuld heeft kunt u de verhuurcreditnota boeken en versturen. 
 
-1. Klik op **Boeken en afdrukken**. Klik op **Verzenden naar**. Kies voor **PDF-document**. 
-3. Sla het PDF-document op en verstuur het document via de post of per e-mail.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurcreditnota's** en selecteer de creditnota die u wilt boeken en versturen. 
+1. Klik op **Boeken en afdrukken**. Klik op **Verzenden naar** en kies voor **PDF-document**. 
+2. Sla het PDF-document op en verstuur dit via de post of per e-mail.
 
 ## Zie ook
 

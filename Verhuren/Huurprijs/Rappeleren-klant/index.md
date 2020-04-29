@@ -7,5 +7,5 @@ Binnenkort beschikbaar
 [Afhandelen huurverhogingsbezwaren](../afhandelen-huurverhogingsbezwaren/)  
 [Bepalen huurverhogingsbeleid](../bepalen-huurverhogingsbeleid/)  
 [Uitvoeren jaarlijkse huurverhoging](../uitvoeren-jaarlijkse-huurverhoging/)  
-[Uitvoeren tussentijdse huurprijsaanpassing](../uitvoeren-tussentijdse-huurprijsaanpassing/)  
+[Uitvoeren tussentijdse huuraanpassing](../uitvoeren-tussentijdse-huuraanpassing/)  
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  

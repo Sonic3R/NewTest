@@ -40,5 +40,5 @@ In deze stap voert u een nieuw tijdvak in en legt u per beleidstype het verhogin
 [Afhandelen huurverhogingsbezwaren](../afhandelen-huurverhogingsbezwaren/)  
 [Rappeleren klant](../rappeleren-klant/)  
 [Uitvoeren jaarlijkse huurverhoging](../uitvoeren-jaarlijkse-huurverhoging/)  
-[Uitvoeren tussentijdse huurprijsaanpassing](../uitvoeren-tussentijdse-huurprijsaanpassing/)  
+[Uitvoeren tussentijdse huuraanpassing](../uitvoeren-tussentijdse-huuraanpassing/)  
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  

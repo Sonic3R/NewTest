@@ -26,9 +26,9 @@ U kunt memoriaalregels aanmaken of bewerken in het diversendagboek.
 2. Het scherm waarin u dagboekregels aan kunt maken opent. Selecteer in het veld **Batchnaam** de batch waarin u de regels wilt aanmaken/bewerken.
 3. Vul of controleer de volgende velden:
 	- **Boekingsdatum**
-	- **Documentnr.**: Dit wordt in de meeste gevallen automatisch aangemaakt.
+	- **Documentnr.**: Dit wordt in de meeste gevallen automatisch aangemaakt.  
 	 In de regels:
-	- **Rekeningsoort**: Kies uit Grootboekrekening/klant/leverancier
+	- **Rekeningsoort**: Kies uit Grootboekrekening/klant/leverancier.
 	- **Rekeningnummer**: Het grootboekrekeningnummer/klantnummer/leveranciersnummer. In het geval van een correctie voor service en verbruik kunt u dit veld leeg laten.
 	- **Kostencode**: In geval van service en verbruik vult u hier de kostencode.
 	- **Clusternr.**: Vul wanneer van toepassing. Wanneer het veld **Kostencode** gevuld is, is dit veld verplicht.

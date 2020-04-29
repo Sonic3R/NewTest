@@ -27,6 +27,7 @@ U kunt memoriaalregels aanmaken of bewerken in het diversendagboek.
 3. Vul of controleer de volgende velden:
 	- **Boekingsdatum**
 	- **Documentnr.**: Dit wordt in de meeste gevallen automatisch aangemaakt.  
+	  
 	 In de regels:
 	- **Rekeningsoort**: Kies uit Grootboekrekening/klant/leverancier.
 	- **Rekeningnummer**: Het grootboekrekeningnummer/klantnummer/leveranciersnummer. In het geval van een correctie voor service en verbruik kunt u dit veld leeg laten.

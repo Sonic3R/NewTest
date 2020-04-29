@@ -22,14 +22,15 @@ In de werkinstructie wordt wel onderscheid gemaakt tussen:
 Deze stap betreft het toevoegen of aanpassen van service elementen aan het huurcontract. Deze variant is bijvoorbeeld van toepassing wanneer een klant een serviceabonnement wil afsluiten of opzeggen of het voorschot voor service en verbruik wil verhogen.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Toekomstige huurmutaties**. Een pagina wordt geopend waarop u één of meer huurprijsaanpassingen kunt specificeren: één regel voor elke aanpassing. Vul voor elke regel de volgende kolommen in:  
-	- **Klantnr.**: nummer van de klant voor wie de huurprijsaanpassing is bestemd.
-	- Voer in kolom **Eenheidnr.** het nummer van de klant in voor wie de huurprijsaanpassing is bestemd. 
-	- Voer in kolom **Ingangsdatum** de datum in per wanneer de huurprijsaanpassing moet ingaan. 
-	- Voer in kolom **Omschrijving** een korte omschrijving van de huurprijsaanpassing in. 
-	- Selecteer in kolom **Reden huurmutatie** de juiste huurprijsmutatiereden. 
-	- Selecteer in kolom **Elementnr.** het nummer van het element waarop de huurprijsaanpassing betrekking heeft. Dit kan een bestaand element zijn dat al aanwezig is in het contract van de klant of een nieuwe element zijn dat moet worden toegevoegd aan het contract van de klant. 
-	- Voer in kolom **Mutatiebedrag** het bedrag of in kolom **Mutatiepercentage** het percentage van de huurprijsaanpassing in. In het geval van een nieuw element moet eerstgenoemde kolom worden gevuld. 
-	-	Als het service-element moet komen te vervallen binnen het contract van de klant, vink dan de indicate in kolom **Element verwijderen** aan. 
+	- **Klantnr.**: Nummer van de klant voor wie de huurprijsaanpassing is bestemd.
+	- **Eenheidnr.**: Nummer van de eenheid waar de huurprijsaanpassing betrekking op heeft. 
+	- **Ingangsdatum**: Datum per wanneer de huurprijsaanpassing moet ingaan. 
+	- **Omschrijving**: Korte omschrijving van de huurprijsaanpassing. 
+	- **Reden huurmutatie** Selecteer de juiste huurprijsmutatiereden. 
+	- **Elementnr.** Nummer van het element waarop de huurprijsaanpassing betrekking heeft. Dit kan een bestaand element zijn dat al aanwezig is in het contract van de klant, of een nieuwe element dat moet worden toegevoegd aan het contract van de klant. 
+	- **Mutatiebedrag**: Het bedrag van de huurprijsaanpassing, of:  
+	- **Mutatiepercentage**: Het percentage van de huurprijsaanpassing. In het geval van een nieuw element moet **Mutatiebedrag** worden gevuld. 
+	- **Element verwijderen**: Vink dit veld aan als het service-element moet komen te vervallen binnen het contract van de klant. 
 2. Selecteer alle regels en klik op de knop **Controle**. Het systeem controleert nu of de geselecteerde regels voldoen een de voorwaarden om te kunnen worden verwerkt. 
 	- Als een regel voldoet aan de voorwaarde, dan wordt de **Status** van de regel aangepast in *Compleet*. 
 	- Als een regel niet voldoen aan de voorwaarden, dan wordt de **Status** van de regel aangepast in *Niet verwerkbaar* en toont het systeem een **Foutmelding**. 

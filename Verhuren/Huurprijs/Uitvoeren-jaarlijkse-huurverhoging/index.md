@@ -151,5 +151,5 @@ In deze stap genereert u huurverhogingsbrieven voor alle klanten die eenheden hu
 [Afhandelen huurverhogingsbezwaren](../afhandelen-huurverhogingsbezwaren/)  
 [Bepalen huurverhogingsbeleid](../bepalen-huurverhogingsbeleid/)  
 [Rappeleren klant](../rappeleren-klant/)  
-[Uitvoeren tussentijdse huurprijsaanpassing](../uitvoeren-tussentijdse-huurprijsaanpassing/)  
+[Uitvoeren tussentijdse huuraanpassing](../uitvoeren-tussentijdse-huuraanpassing/)  
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  

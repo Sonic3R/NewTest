@@ -21,8 +21,8 @@ In de werkinstructie wordt wel onderscheid gemaakt tussen:
 ## Aanmaken en doorvoeren standaard individuele huurprijsaanpassing 
 Deze stap betreft het toevoegen of aanpassen van service elementen aan het huurcontract. Deze variant is bijvoorbeeld van toepassing wanneer een klant een serviceabonnement wil afsluiten of opzeggen of het voorschot voor service en verbruik wil verhogen.
 
-1. Zoek en start de taak **Toekomstige huurmutaties**. Een pagina wordt geopend waarop u één of meer huurprijsaanpassingen kunt specificeren: één regel voor elke aanpassing. Vul voor elke regel de volgende kolommen in:  
-	- Voer in de kolom **Klantnr.** het nummer van de klant in voor wie de huurprijsaanpassing is bestemd. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Toekomstige huurmutaties**. Een pagina wordt geopend waarop u één of meer huurprijsaanpassingen kunt specificeren: één regel voor elke aanpassing. Vul voor elke regel de volgende kolommen in:  
+	- **Klantnr.**: nummer van de klant voor wie de huurprijsaanpassing is bestemd.
 	- Voer in kolom **Eenheidnr.** het nummer van de klant in voor wie de huurprijsaanpassing is bestemd. 
 	- Voer in kolom **Ingangsdatum** de datum in per wanneer de huurprijsaanpassing moet ingaan. 
 	- Voer in kolom **Omschrijving** een korte omschrijving van de huurprijsaanpassing in. 

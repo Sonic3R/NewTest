@@ -19,6 +19,7 @@ In de werkinstructie wordt wel onderscheid gemaakt tussen:
 	 b. doorvoeren overige collectieve huurprijsaanpassingen 
 
 ## Aanmaken en doorvoeren standaard individuele huurprijsaanpassing 
+
 Deze stap betreft het toevoegen of aanpassen van service elementen aan het huurcontract. Deze variant is bijvoorbeeld van toepassing wanneer een klant een serviceabonnement wil afsluiten of opzeggen of het voorschot voor service en verbruik wil verhogen.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Toekomstige huurmutaties**. Een pagina wordt geopend waarop u één of meer huurprijsaanpassingen kunt specificeren: één regel voor elke aanpassing. Vul voor elke regel de volgende kolommen in:  
@@ -31,32 +32,34 @@ Deze stap betreft het toevoegen of aanpassen van service elementen aan het huurc
 	- **Mutatiebedrag**: Het bedrag van de huurprijsaanpassing, of:  
 	- **Mutatiepercentage**: Het percentage van de huurprijsaanpassing. In het geval van een nieuw element moet **Mutatiebedrag** worden gevuld. 
 	- **Element verwijderen**: Vink dit veld aan als het service-element moet komen te vervallen binnen het contract van de klant. 
-2. Selecteer alle regels en klik op de knop **Controle**. Het systeem controleert nu of de geselecteerde regels voldoen een de voorwaarden om te kunnen worden verwerkt. 
-	- Als een regel voldoet aan de voorwaarde, dan wordt de **Status** van de regel aangepast in *Compleet*. 
-	- Als een regel niet voldoen aan de voorwaarden, dan wordt de **Status** van de regel aangepast in *Niet verwerkbaar* en toont het systeem een **Foutmelding**. 
+2. Selecteer alle regels en klik op de optie **Controle**. Het systeem controleert nu of de geselecteerde regels voldoen een de voorwaarden om te kunnen worden verwerkt. 
+	- Als een regel voldoet aan de voorwaarde, dan wordt de **Status** van de regel aangepast in 'Compleet'. 
+	- Als een regel niet voldoet aan de voorwaarden, dan wordt de **Status** van de regel aangepast in 'Niet verwerkbaar' en toont het systeem een **foutmelding**. 
 3. Los eventuele fouten op en herhaal de voorgaande stap. 
-4. Selecteer alle regels en klik op de knop **Verwerken**. Het systeem verwerkt alle huurprijsaanpassingen die zijn gespecificeerd op de geselecteerde regels. Daarbij maakt het systeem een nieuwe contractregel aan met als ingangsdatum de ingangsdatum van de huurprijsaanpassing. 
+4. Selecteer alle regels en kies voor **Verwerken**. Het systeem verwerkt alle huurprijsaanpassingen die zijn gespecificeerd op de geselecteerde regels. Daarbij maakt het systeem een nieuwe contractregel aan met als ingangsdatum de ingangsdatum van de huurprijsaanpassing. 
 
 ## Aanmaken en doorvoeren uitzonderlijke individuele huurprijsaanpassing 
+
 Deze stap betreft het aanpassen van elk element van het huurcontract. Hieronder valt ook het verhogen of verlagen van de nettohuur. 
 
-1. Zoek de OG Eenheid waarvoor de huurprijsaanpassing moet worden doorgevoerd. 
-2. Klik op de knop **Navigeren** en kies voor **Verhuurcontracten**. Een pagina genaamd **Contractoverzicht** wordt geopend, waarop alle bestaande contractregels van de geselecteerde OG Eenheid worden getoond. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht** en selecteer de OG Eenheid waarvoor de huurprijsaanpassing moet worden doorgevoerd door op het eenheidnummer te klikken.
+2. Navigeer naar de **Verhuurcontracten**. Een pagina genaamd **Contractoverzicht** wordt geopend, waarop alle bestaande contractregels van de geselecteerde OG Eenheid worden getoond. 
 3. Klik op de knop **+Nieuw**. Een nieuwe regel wordt getoond bovenaan het overzicht. 
-4. Voer in kolom **Ingangsdatum** de datum in per wanneer de huurprijsaanpassing moet ingaan.  Het systeem maakt een nieuwe contractregel aan d.m.v. het kopiëren van de de voorgaande contractregel en bijbehorende elementen.  
-5. Klik op de knop **Navigeren** en kies voor **Elementen**. Het systeem toont een overzichtspagina met de elementen van de nieuwe contractregel (gekopieerd van de voorgaande contractregel). 
-6. Als u het bedrag van een bestaande element wil aanpassen, selecteer dan het element en pas de waarde van kolom **Eenheidsprijs** aan. 
-7. Als u een nieuw element wil toevoegen aan het contract van de OG Eenheid, klik dan op de lege regel onderaan het overzicht, klik op de drie puntjes in kolom **Nr.**, selecteer het juiste element in het overzicht met alle standaard elementen en voer een waarde in kolom **Eenheidsprijs** in. 
-8. Als u een bestaand element wil verwijderen uit het contract van de OG Eenheid, selecteer dan de betreffende regel, klik op de drie puntjes in de tweede kolom en klik op de optie **Regel verwijderen**. 
+4. Voer in kolom **Ingangsdatum** de datum in per wanneer de huurprijsaanpassing moet ingaan. Het systeem maakt een nieuwe contractregel aan d.m.v. het kopiëren van de voorgaande contractregel en bijbehorende elementen.  
+5. Navigeer naar de **Elementen**. Het systeem toont een overzichtspagina met de elementen van de nieuwe contractregel (gekopieerd van de voorgaande contractregel). 
+6. Als u het bedrag van een bestaande element wilt aanpassen, selecteer dan het element en pas de waarde van kolom **Eenheidsprijs** aan. 
+7. Als u een nieuw element wilt toevoegen aan het contract van de OG Eenheid, klik dan op de lege regel onderaan het overzicht, klik op de drie puntjes in kolom **Nr.**, selecteer het juiste element in het overzicht met alle standaard elementen en voer een waarde in kolom **Eenheidsprijs** in. 
+8. Als u een bestaand element wilt verwijderen uit het contract van de OG Eenheid, selecteer dan de betreffende regel, klik op de drie puntjes in de tweede kolom en klik op de optie **Regel verwijderen**. 
 9. Sluit de overzichtspagina met de elementen van de nieuwe contractregel. 
 10. Sluit de overzichtspagina genaamd **Contractoverzicht**. 
 
 ## Informeren klant 
+
 In deze stap informeert u de klant over de doorgevoerde tussentijdse huurprijsaanpassing, 
 
+## Doorvoeren aanpassing voorschotten
 
-## Doorvoeren aanpassing voorschotten 
-In deze stap voert u de aanpassingen door van de voorschotten voor service en verbruikskosten. In het proces van Service en Verbruik zijn deze aanpassing zijn al exact bepaald en vastgelegd in de vorm van een importbestand. Dit importbestand bevat één regel voor elk element van elke contractregel waarvan het bedrag moet worden aangepast, waarbij elke regel de volgende gegevens bevat (gescheiden door punt-komma's): 
+In deze stap voert u de aanpassingen door van de voorschotten voor service en verbruikskosten. In het proces van Service en Verbruik zijn deze aanpassingen al exact bepaald en vastgelegd in de vorm van een importbestand. Dit importbestand bevat één regel voor elk element van elke contractregel waarvan het bedrag moet worden aangepast, waarbij elke regel de volgende gegevens bevat (gescheiden door punt-komma's): 
 - Eenheidsnr. 
 - Klantnr. 
 - Contractvolgnr. 
@@ -66,27 +69,26 @@ In deze stap voert u de aanpassingen door van de voorschotten voor service en ve
 - Elementbedrag was (moet waarde '0' bevatten als Verhogingsoort <> 5) 
 - Elementbedrag wordt (moet waarde '0' bevatten als Verhogingsoort <> 5) 
 
-Nu moeten deze aanpassingen nog worden doorgevoerd in de desbetreffende contractregels. Dit doet u door het importeren en verwerken van het importbestand. Verwerking van het importbestand gaat op basis van een huurverhogingsbatch. Na verwerking van het importbestand zijn de aanpassingen vastgelegd in de bestaande contractregels, en wel in de vorm van een verhoging en verhogingsoort. Hierbij wordt ervan uit gegaan dat de huurprijsaanpassing m.b.t. aanpassing van voorschotten tegelijkertijd met de jaarlijkse huurverhoging worden doorgevoerd. De stappen voor het aanmaken van de nieuwe contractregels d.m.v. het verwerken van de huurverhoging en het informeren van de klant, vinden om die reden plaats binnen het proces van de jaarlijkse huurverhoging. 
+Nu moeten deze aanpassingen nog worden doorgevoerd in de desbetreffende contractregels. Dit doet u door het importeren en verwerken van het importbestand. Verwerking van het importbestand gaat op basis van een huurverhogingsbatch. Na verwerking van het importbestand zijn de aanpassingen vastgelegd in de bestaande contractregels, en wel in de vorm van een verhoging en verhogingssoort. Hierbij wordt ervan uitgegaan dat de huurprijsaanpassing m.b.t. aanpassing van voorschotten tegelijkertijd met de jaarlijkse huurverhoging worden doorgevoerd. De stappen voor het aanmaken van de nieuwe contractregels d.m.v. het verwerken van de huurverhoging en het informeren van de klant vinden om die reden plaats binnen het proces van de jaarlijkse huurverhoging. 
 
 1. Zoek en start de taak **Huurverhoging-import** (deze taak kan in R20 niet gevonden worden, doordat het een XML-port is). 
 2. Selecteer het importbestand dat is aangemaakt binnen het proces van Service en Verbruik. 
 3. Klik op **OK**. Het importbestand wordt geïmporteerd en de gegevens worden weggeschreven in een tussentabel. 
-4. Zoek en selecteer de lijst **Huurverhoging-import**. Een pagina wordt geopend met een overzicht van alle geïmporteerde regels. De kolom **Verwerkt** geeft aan welke regels al wel zijn verwerkt en welke nog niet. Controleer of alle regels uit het importbestand zijn geïmporteerd. 
-5. Zoek en start de taak **Verwerken huurverhoging-import**. Een pagina met opties wordt geopend. 
+4. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhoging-import**. Een pagina wordt geopend met een overzicht van alle geïmporteerde regels. De kolom **Verwerkt** geeft aan welke regels al wel zijn verwerkt en welke nog niet. Controleer of alle regels uit het importbestand zijn geïmporteerd. 
+5. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Verwerken huurverhoging-import**. Een pagina met opties wordt geopend. 
 6. Klik op de drie puntjes binnen de optie **Batchnaam**. De pagina genaamd **Huurverhogingsbatch** wordt geopend. 
 7. Open het veld **Batch** en klik op **+Nieuw**. 
 8. Voer de **Code** en **Omschrijving** van de nieuwe batch in en klik op **OK**. U keert terug in pagina **Huurverhoginsgbatch**.
 9. Laat de lijst met elementen leeg en klik op **OK**. U keert terug naar de pagina met opties van taak **Verwerken huurverhoging-import**. 
 10. Voer de **Huurverhogingsdatum** in. 
-11. Klik op **OK**. De geïmporteerde regels worden verwerkt, waarbij de aanpassing van elke regel wordt vastgelegd in de kolommen **Verhogingsoort** en **Verhoging** van het desbetreffende element van de desbetreffende bestaande contractregel. 
-12. Controleer of alle aanpassingen die waren gespecificeerd op de regels van het importbestand, correct zijn verwerkt. Zoek en selecteer de lijst **Huurverhoging-import** en filter op de kolom **Verwerkt** = *Nee*. Bij de niet-verwerkte regels staat de reden vermeld waardoor de regel niet is verwerkt.   
+11. Klik op **OK**. De geïmporteerde regels worden verwerkt, waarbij de aanpassing van elke regel wordt vastgelegd in de kolommen **Verhogingssoort** en **Verhoging** van het desbetreffende element van de desbetreffende bestaande contractregel. 
+12. Controleer of alle aanpassingen die waren gespecificeerd op de regels van het importbestand, correct zijn verwerkt. Zoek en selecteer de lijst **Huurverhoging-import** en filter op de kolom **Verwerkt** = 'Nee'. Bij de niet-verwerkte regels staat de reden vermeld waardoor de regel niet is verwerkt.
 
+## Specificeren collectieve huuraanpassing 
 
+In deze stap specificeert u de inhoud van de collectieve huuraanpassing in termen van wijzigingen van elementen. In de volgende stap voert u deze aanpassing door op een selectie van OG Eenheden. 
 
-## Specificeren collectieve huurprijsaanpassing 
-In deze stap specificeert u de inhoud van de collectieve huurprijsaanpassing in termen van wijzigingen van elementen. In de volgende stap voert u deze huurprijsaanpassing door op een selectie van OG Eenheden. 
-
-1. Zoek en start taak **Tussentijdse huurprijsaanpassing**. Een pagina met opties en filtermogelijkheden wordt geopend. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Tussentijdse huuraanpassingen**. Een pagina met opties en filtermogelijkheden wordt geopend. 
 2. Klik op de drie puntjes in veld **Batchnaam**. Een pagina genaamd **Huurverhogingsbatch** wordt geopend. 
 3. Open het veld **Batch** en klik op **+Nieuw**. 
 4. Voer de **Code** en **Omschrijving** van de nieuwe batch in en klik op **OK**. U keert terug in pagina **Huurverhoginsgbatch**. 

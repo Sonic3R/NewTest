@@ -138,7 +138,7 @@ Leveranciers mogen van een professionele opdrachtgever verwachten dat hij goed e
 ## Zie ook
 
 [Accorderen prestatie](../accorderen-prestatie/)  
-[Beheren leveranciersinformatie](../beheren-leveranciersinformatie/)  
-[Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)
+[Beheren leveranciersinformatie](../beheren-leveranciersinformatie/)    
+[Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)  
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Registreren inkooporder](../registreren-inkooporder/)  

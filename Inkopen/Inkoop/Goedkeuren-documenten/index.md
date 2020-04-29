@@ -54,6 +54,6 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 
 [Accorderen prestatie](../accorderen-prestatie/)  
 [Beheren leveranciersinformatie](../beheren-leveranciersinformatie/)  
-[Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)
+[Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)  
 [Inkopen PO/VGO](../inkopen-po-vgo/)  
 [Registreren inkooporder](../registreren-inkooporder/)  

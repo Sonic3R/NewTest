@@ -8,10 +8,10 @@ In dit artikel worden veelgestelde vragen beantwoord over kopiëren en plakken.
 
 ## Wat kan ik kopiëren en plakken?
 
-- Een of meer rijen in Business Central kopiëren naar dezelfde lijst of naar een lijst met identieke kolommen.
-- Een of meer rijen in Business Central kopiëren en plakken in Excel of andere toepassingen.
-- Een of meer rijen in Excel kopiëren en plakken in een Business Central-lijst.
-- De waarde van een afzonderlijk veld in Business Central kopiëren en deze ergens anders plakken.
+- Een of meer rijen in Dynamics Empire kopiëren naar dezelfde lijst of naar een lijst met identieke kolommen.
+- Een of meer rijen in Dynamics Empire kopiëren en plakken in Excel of andere toepassingen.
+- Een of meer rijen in Excel kopiëren en plakken in een Dynamics Empire-lijst.
+- De waarde van een afzonderlijk veld in Dynamics Empire kopiëren en deze ergens anders plakken.
 
 ## Werkt kopiëren en plakken met tegels?
 
@@ -37,17 +37,17 @@ Als u bestaande rijen wilt vervangen, selecteert u de rijen en drukt u op Ctrl+V
 
 ## Kan ik rijen plakken in een Outlook-e-mailbericht?
 
-Ja. Dit wordt geplakt als een keurig geformatteerde tabel die de inspringing, numerieke uitlijning en kleur behoudt, zoals u zou zien in Business Central.
+Ja. Dit wordt geplakt als een keurig geformatteerde tabel die de inspringing, numerieke uitlijning en kleur behoudt, zoals u zou zien in Dynamics Empire.
 
 ## In welke lijsten kan ik rijen kopiëren en plakken?
 
 U kunt rijen in een willekeurige lijst plakken, inclusief werkbladen, feitenblokken of lijsten die zijn ingesloten in een pagina (zoals regels van een verkooporder). Als u rijen wilt plakken, moet de lijst echter bewerkbaar zijn.
 
-Op sommige pagina's kan het toepassingsontwerp voorkomen dat u rijen plakt. Neem contact op met de beheerder of toepassingsontwikkelaar om de eigenschap Bewerkbaar op de pagina te wijzigen of de eigenschap PasteIsValid te wijzigen in de brontabel.
+Op sommige pagina's kan het toepassingsontwerp voorkomen dat u rijen plakt. Neem contact op met de beheerder om de eigenschap Bewerkbaar op de pagina te wijzigen of de eigenschap PasteIsValid te wijzigen in de brontabel.
 
 ## In welke clients is kopiëren en plakken beschikbaar?
 
-Kopiëren en plakken is beschikbaar in de browser of de Business Central-app voor Windows 10.
+Kopiëren en plakken is beschikbaar in de browser of de Dynamics Empire-app voor Windows 10.
 
 ## Wat is het maximale aantal rijen dat kan worden gekopieerd?
 
@@ -55,8 +55,8 @@ U kunt zoveel rijen kopiëren als u in beeld hebt geschoven. Als u bijvoorbeeld 
 
 ## Moet ik exact hetzelfde aantal kolommen hebben wanneer ik rijen plak?
 
-Ja. Ongeacht of u rijen kopieert uit Business Central, uit Excel of uit een andere tabelbron, de rijen die u plakt in Business Central, moeten exact overeenkomende kolommen hebben; niet meer en niet minder.
+Ja. Ongeacht of u rijen kopieert uit Dynamics Empire, uit Excel of uit een andere tabelbron, de rijen die u plakt in Dynamics Empire moeten exact overeenkomende kolommen hebben; niet meer en niet minder.
 
 ## Waarom krijg ik fouten wanneer ik rijen plak?
 
-Wanneer u plakt in Business Central, wordt elke rij gecontroleerd om ervoor te zorgen dat waarden in elke kolom geldig zijn. Als een kolom een waarde bevat die niet geldig is, wordt het plakken gestopt en wordt een foutbericht weergegeven. Als u dit wilt vermijden, zorgt u dat de kolommen geldige waarden bevatten voordat u deze plakt.
+Wanneer u plakt in Dynamics Empire wordt elke rij gecontroleerd om ervoor te zorgen dat waarden in elke kolom geldig zijn. Als een kolom een waarde bevat die niet geldig is, wordt het plakken gestopt en wordt een foutbericht weergegeven. Als u dit wilt vermijden, zorgt u dat de kolommen geldige waarden bevatten voordat u deze plakt.

@@ -29,7 +29,7 @@ Wat betreft andere personalisatie, worden de wijzigingen die u aanbrengt in de k
     > [!NOTE]
     > Gebruik Ctrl+klik op een actie om te navigeren tijdens personalisatie als de actie wordt gemarkeerd door de pijlpunt.
 
-    Als u een ![slot icon](/assets/images/slot.png "slot icon") of ![block icon](/assets/images/block.png "block icon") ziet in de banner, kunt u de pagina niet personaliseren. Zie voor meer informatie [Waarom is een pagina vergrendeld voor personaliseren?](Waarom-een-pagina-is-vergrendeld-voor-personaliseren/).
+    Als u een ![slot icon](/assets/images/slot.png "slot icon") of ![block icon](/assets/images/block.png "block icon") ziet in de banner, kunt u de pagina niet personaliseren. Zie voor meer informatie [Waarom is een pagina vergrendeld voor personaliseren?](Waarom-een-pagina-is-vergrendeld-voor-personaliseren/)
 
 3. Als u een veld wilt toevoegen, kiest u de actie **+ Veld**.
 4. Sleep vanuit het deelvenster **Veld toevoegen aan pagina** een veld naar de gewenste positie op de pagina.
@@ -41,7 +41,7 @@ Wat betreft andere personalisatie, worden de wijzigingen die u aanbrengt in de k
 
 |Wat u wilt doen?|Hoe kunt u het doen?|Opmerkingen|
 |----|------------|-------|
-|Iets verplaatsen, zoals een veld, een kolom in een lijst, een tegel, een actie of een onderdeel|Wijs naar alles wat u wilt verplaatsen en sleep dit naar de nieuwe positie. De positie wordt aangegeven door een dikke horizontale of verticale lijn.<br /><br />![no-move icon](/assets/images/no-move.png "no-move icon") geeft aan dat u het element niet naar de geselecteerde positie kunt verplaatsen.|De onderdelen zijn onderverdelingen of gebieden op een pagina met objecten als meerdere velden, een andere pagina, een grafiek of tegels.<br /><br />Zie voor meer informatie over actiepersonalisering [Acties personaliseren](#Acties-personaliseren). |
+|Iets verplaatsen, zoals een veld, een kolom in een lijst, een tegel, een actie of een onderdeel.|Wijs naar alles wat u wilt verplaatsen en sleep dit naar de nieuwe positie. De positie wordt aangegeven door een dikke horizontale of verticale lijn.<br /><br />![no-move icon](/assets/images/no-move.png "no-move icon") geeft aan dat u het element niet naar de geselecteerde positie kunt verplaatsen.|De onderdelen zijn onderverdelingen of gebieden op een pagina met objecten als meerdere velden, een andere pagina, een grafiek of tegels.<br /><br />Zie voor meer informatie over actiepersonalisering [Acties personaliseren](#Acties-personaliseren). |
 |Iets verbergen, zoals een veld, een kolom in een lijst, een tegel, een actie of een onderdeel.|Kies de pijlpunt en kies <b>Verbergen</b>.|Het element wordt grijs weergegeven wanneer u zich in de personalisatiemodus bevindt. Als het veld dat u verbergt ook in de sneltabbladkop wordt weergegeven wanneer het sneltabblad is samengevouwen, wordt het veld daar niet meer weergegeven.|
 |Verborgen acties en onderdelen weergeven.|Kies voor een grijs (verborgen) element de pijlpunt en kies vervolgens <b>Weergeven</b>.|Het verborgen element is weer zichtbaar.|
 |Een kolom of veld toevoegen.|Kies in de banner <b>Personaliseren</b> de actie <b>+ Veld</b>.<br /></br>Het deelvenster <b>Veld toevoegen aan pagina</b> wordt aan de rechterkant weergegeven. Hier staan de velden die u aan de pagina kunt toevoegen.<br /><br />Als u een veld wilt toevoegen, moet u het uit het deelvenster slepen naar de positie waar u het hebben wilt. De positie wordt aangegeven door een dikke horizontale of verticale lijn.|Elke pagina bevat een vooraf bepaalde set velden die u kunt weergeven. Gebruik deze procedure om velden of kolommen toe te voegen die niet eerder zijn weergegeven of om velden weer te geven die u hebt verborgen.|
@@ -65,7 +65,7 @@ Een *gepromoveerde categorie* is een actiegroep die vóór de verticale lijn `|`
 > [!NOTE]
 > U kunt de actiebalk die in onderdelen op de pagina verschijnt, niet personaliseren (bijvoorbeeld het gedeelte met verkoopregels op de pagina **Verkooporder**).
 
-### <Acties en actiegroepen verwijderen, verbergen en weergeven
+### Acties en actiegroepen verwijderen, verbergen en weergeven
 
 Als u een actie wilt weergeven of verbergen, definiëren de opties onder de pijlpunt wat u kunt doen, afhankelijk van de status van de actie.
 

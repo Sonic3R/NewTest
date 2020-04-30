@@ -39,7 +39,7 @@
 > [!TIP]
 > Kies de volgende afbeelding voor een grafische, afdrukbare weergave en download het PDF-bestand.
 >
-> [ ![](/assets/images/cheat_sheet.png) ](/assets/documents/sneltoetsen-bc.pdf)
+> [ ![](/assets/images/cheat_sheet.png) ](/assets/documents/sneltoetsen-bc.png)
 
 
 

@@ -112,16 +112,6 @@ Per OG Eenheid bepaalt u met het veld **Clusterstreefhuurbepaling** of de streef
 5. Als u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Streefhuurcode**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is.
 6. Als u de streefhuur van de OG Eenheid statisch wilt bepalen, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**. Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is.
 
-## Aanpassen exploitatievorm
-
-In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier, de OG Eenheid kan worden verhuurd of verkocht.  U kunt een exploitatievorm toevoegen of juist verwijderen bij de OG Eenheid. Elke exploitatievorm is van een bepaald soort (*Verhuur*, *Verkoop* of *Uit beheer*) en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**.
-
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
-2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
-3. Navigeer naar de **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid.
-4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**.
-5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**.
-
 ## Aanpassen administratief eigenaar
 
 In deze stap past u de administratief eigenaar van de OG Eenheid aan. Met de administratief eigenaar van de OG Eenheid bepaalt u of de OG Eenheid tot het DAEB-bezit of het niet-DAEB-bezit behoort.

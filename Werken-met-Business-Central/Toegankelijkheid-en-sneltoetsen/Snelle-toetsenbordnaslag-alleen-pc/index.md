@@ -39,4 +39,7 @@
 > [!TIP]
 > Kies de volgende afbeelding voor een grafische, afdrukbare weergave en download het PDF-bestand.
 >
-> [ ![](media/keyboard_shortcut_inline.png) ](media/keyboard_shortcuts.pdf)
+> [ ![](/assets/images/cheat_sheet.png) ](/assets/documents/sneltoetsen-bc.pdf)
+
+
+

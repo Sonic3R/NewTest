@@ -16,13 +16,13 @@ Dit onderwerp bevat informatie over de functies die Dynamics Empire toegankelijk
 
 ## Navigatie
 
-Met het toetsenbord kunt u navigeren tussen de tabbladen en acties in het lint, elementen op de navigatiebalk en andere besturingselementen in Business Central-pagina's en -rapporten. Als u de focus wilt verplaatsen naar het volgende tabblad, de volgende actie of het volgende besturingselement, drukt u op Tab. Druk op Shift+Tab om naar het vorige tabblad, de vorige actie of het vorige besturingselement te gaan.  
+Met het toetsenbord kunt u navigeren tussen de tabbladen, acties/functies in het menu bovenaan de tabbladen of pagina's, elementen op de navigatiebalk in het rolcentrum en andere besturingselementen in Dynamics Empire-pagina's en -rapporten. Als u de focus wilt verplaatsen naar het volgende (veld op een) tabblad, of het volgende besturingselement, drukt u op Tab. Druk op Shift+Tab om naar het vorige (veld op een) tabblad of het vorige besturingselement te gaan. Verschillende acties of functies binnen een menu kunt u benaderen met behulp van de pijltjestoetsen.  
 
 Met Tab kunt u ook schakelen tussen de hoofdbrowserpagina en dialoogvensters waarin bijvoorbeeld om bevestiging wordt gevraagd of de aanmeldingspagina.  
 
 ## Koppen
 
-In de HTML-bron voor Business Central-inhoud worden tags gebruikt om gebruikers van ondersteunende technologie te helpen de structuur en inhoud van de pagina te begrijpen. Op pagina's met lijsten worden de kolommen bijvoorbeeld gedefinieerd in TH-tags en de kolomkoppen worden ingesteld met het kenmerk TITLE in de tag. Bijschriften voor elementen, zoals sneltabbladen, feitenblokken en velden, zijn opgenomen in koptags (H1, H2, H3 en H4).  
+In de HTML-bron voor Dynamics Empire-inhoud worden tags gebruikt om gebruikers van ondersteunende technologie te helpen de structuur en inhoud van de pagina te begrijpen. Op pagina's met lijsten worden de kolommen bijvoorbeeld gedefinieerd in TH-tags en de kolomkoppen worden ingesteld met het kenmerk TITLE in de tag. Bijschriften voor elementen, zoals sneltabbladen, feitenblokken en velden, zijn opgenomen in koptags (H1, H2, H3 en H4).  
 
 ## Afbeelding en koppelingen
 
@@ -30,7 +30,7 @@ Een omschrijvende tekst voor afbeeldingen wordt ingesteld met het kenmerk ALT in
 
 ## Ondersteunende technologieën
 
-Business Central ondersteunt meerdere ondersteunende technologieën, zoals hoog contrast, schermlezers en spraakherkenningssoftware. Sommige ondersteunende technologieën werken mogelijk niet goed met bepaalde elementen op Business Central-pagina's.  
+Dynamics Empire ondersteunt meerdere ondersteunende technologieën, zoals hoog contrast, schermlezers en spraakherkenningssoftware. Sommige ondersteunende technologieën werken mogelijk niet goed met bepaalde elementen op Dynamics Empire-pagina's.  
 
 ## Meer informatie over toegankelijkheid
 

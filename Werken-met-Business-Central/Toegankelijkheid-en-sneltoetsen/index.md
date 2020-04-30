@@ -1,6 +1,6 @@
 # Toegankelijkheid en sneltoetsen
 
-Dit onderwerp bevat informatie over de functies die Business Central toegankelijk maken voor mensen met een handicap. Business Central ondersteunt de volgende toegankelijkheidsfuncties:  
+Dit onderwerp bevat informatie over de functies die Dynamics Empire toegankelijk maken voor mensen met een handicap. Dynamics Empire ondersteunt de volgende toegankelijkheidsfuncties:  
 
 - Sneltoetsen
 

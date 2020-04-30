@@ -1,10 +1,9 @@
-
 # Beheren verhuurbare eenheidsinformatie
 
 Binnen dit proces wordt informatie over verhuurbare eenheden beheerd.  Dit betreft de volgende soorten informatie:
 
 - [Basisinformatie](#registreren-basisinformatie-verhuurbare-eenheid)
-- [Woningwaardering](#aanpassen-woningwaardering)
+- [Woningwaardering](#aanpassen-woningwaardering-voor-individuele-eenheid)
 - [Streefhuur](#aanpassen-streefhuur)
 - [Exploitatievormen](#aanpassen-exploitatievorm)
 - [Administratief eigenaren](#aanpassen-administratief-eigenaar)
@@ -38,12 +37,12 @@ Toelichting op de overige velden op tabblad **Adressen**:
 
 De belangrijkste velden op tabblad **Exploitatie (Fin)** zijn:
 - **WOZ-objectnummer**: Geeft aan tot welk WOZ-objectnummer de OG Eenheid behoort. De corporatie ontvangt jaarlijks van de gemeente per WOZ-objectnummer de nieuwe WOZ-waarde van het WOZ-object.
-- **Clusterstreefhuurbepaling**, **Streefhuurmethode** en **Code streefhuur t.o.v. max huurprijs**: zie **[Aanpassen streefhuur](#aanpassen-streefhuur)**.
+- **Streefhuurmethode** en **Streefhuurcode**: zie **[Aanpassen streefhuur](#aanpassen-streefhuur)**.
 - **Huurbeleid**: Dit is het beleid via welke de nieuwe nettohuur berekend wordt als onderdeel van de aanbiedhuur, d.w.z. de huurprijs die een nieuwe huurder initieel gaat betalen.
 - **Huurverhogingsbeleidstype**: Het beleidstype via welke de huidige nettohuur wordt aangepast tijdens de jaarlijkse huurverhoging. Dit bepaalt o.a. per huurverhogingstijdvak met welk percentage de nettohuur wordt verhoogd.
 - **Nettohuuraftopping**: De aftopping via welke de nieuwe nettohuur wordt afgetopt tijdens de jaarlijkse huurverhoging.
 
-## Aanpassen woningwaardering
+## Aanpassen woningwaardering voor individuele eenheid
 
 In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken, zodat de historie behouden blijft. Binnen Dynamics Empire worden de volgende twee wettelijke soorten woningwaarderingen ondersteund:
 - woningwaardering voor *zelfstandige woonruimten*, wordt ingevuld en berekend conform het beleidsboek waarderingsstelsel zelfstandige woonruimte;
@@ -84,9 +83,23 @@ Binnen de woningwaardering van een ***onzelfstandige woonruimte*** kunt u de vol
 - **Beschermd monument**: Selecteer deze indicatie inden van toepassing.
 - **Aftrekpunten**: Selecteer daar waar van toepassing de aspecten van de onzelfstandige woonruimte waarvoor aftrekpunten worden gerekend.
 
+## Aanpassen woningwaardering voor meerdere eenheden in bulk 
+In deze stap past u de woningwaardering van meerdere eenheden tegelijk in bulk aan. Dit is m.n. nodig als voorbereiding van de jaarlijkse huurverhoging. In feiten maakt u nieuwe woningwaarderingen aan met een bepaalde ingangsdatum (bijvoorbeeld 1-7-2021) voor de eenheden die voldoen aan een bepaalde filtering. 
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Woningwaardering maken**. Een pagina met opties en filtermogelijkheden wordt geopend. 
+2. Selecteer in optie **Ingangsdatum** de ingangsdatum van de nieuwe woningwaarderingen die u wilt aanmaken. 
+3. Selecteer in filter-optie **Woonruimte** het soort woningwaardering dat u wilt aanmaken ('Zelfstandig' of 'Onzelfstandig'). 
+4. Selecteer in filter-optie **Nr.** de nummers van de eenheden waarvoor u nieuwe woningwaarderingen wilt aanmaken. 
+5. Klik op de knop **OK**. 
+
+Het systeem maakt nieuwe woningwaarderingen aan voor de eenheden die voldoen aan het filter. Per eenheid wordt de nieuwe woningwaardering aangemaakt d.m.v. het kopiëren van de bestaande woningwaardering van de eenheid die tot dan toe geldig was op de opgegeven ingangsdatum. Daarbij houdt het systeem rekening met: 
+- de **WOZ-waarde** uit de WOZ-gegevens van de eenheid die geldig is op de opgegeven ingangsdatum; 
+- de **woningwaarderingparameterset** die geldig is op de opgegeven ingangsdatum; 
+- de **maximale huurprijs** die geldig is op de opgegeven ingangsdatum.
+
 ## Aanpassen streefhuur
 
-In deze stap past u de streefhuurmethode van de OG Eenheid aan van *Statisch* naar *Dynamisch* of andersom. Als de streefhuurmethode is ingesteld op *Dynamisch* kunt u het streefhuurpercentage aanpassen. Als de streefhuurmethode is ingesteld op *Statisch* kunt u het streefhuurbedrag aanpassen.
+In deze stap past u de streefhuurmethode van de OG Eenheid aan van 'Statisch' naar 'Dynamisch' of andersom. Als de streefhuurmethode is ingesteld op 'Dynamisch' kunt u het streefhuurpercentage aanpassen d.m.v. het selecteren van een streefhuurcode. Als de streefhuurmethode is ingesteld op 'Statisch' kunt u het streefhuurbedrag aanpassen.
 
 De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individuele OG Eenheid of op het niveau van het PMC-cluster waartoe de OG Eenheid behoort. In dat laatste geval stelt u de streefhuurmethode, het streefhuurpercentage en/of het streefhuurbedrag in bij een PMC-cluster, waarna het systeem deze instellingen automatisch toepast bij alle OG Eenheden die tot dat cluster behoren.
 
@@ -96,8 +109,8 @@ Per OG Eenheid bepaalt u met het veld **Clusterstreefhuurbepaling** of de streef
 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
 3. Open tabblad **Exploitatie (Fin.)**.  
 4. Als de indicatie **Clusterstreefhuurbepaling** is aangevinkt, dan wordt de streefhuur van de OG Eenheid bepaald door de instellingen bij het PMC-cluster waartoe de OG Eenheid behoort. Als deze indicatie is uitgevinkt, kunt u de instellingen bij de OG Eenheid zelf aanpassen.
-5. Als u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Code streefhuur t.o.v. max. huurprijs (%)**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is.
-6. Als u de streefhuur van de OG Eenheid statisch wilt bepalen, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**.  Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is.
+5. Als u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Streefhuurcode**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is.
+6. Als u de streefhuur van de OG Eenheid statisch wilt bepalen, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode**. Selecteer dan ook de waarde **Bedrag** in het veld **Streefhuurberekening** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is.
 
 ## Aanpassen exploitatievorm
 

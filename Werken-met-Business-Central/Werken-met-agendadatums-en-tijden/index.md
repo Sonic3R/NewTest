@@ -1,6 +1,6 @@
 # Werken met agendadatums en -tijden
 
-Business Central biedt meerdere manieren om datums en tijden in te voeren, inclusief krachtige functies die gegevensinvoer versnellen of u helpen complexe agenda-expressies te schrijven. Er zijn verschillende plaatsen in de toepassing waar u datums en tijden in velden kunt invoeren. Bijvoorbeeld in een verkooporder kunt u de verzenddatum instellen. Wanneer u lijsten of rapportgegevens filtert, kunt u datums en tijden invoeren om alleen de gegevens te krijgen waarin u geïnteresseerd bent.
+Dynamics Empire biedt meerdere manieren om datums en tijden in te voeren, inclusief krachtige functies die gegevensinvoer versnellen of u helpen complexe agenda-expressies te schrijven. Er zijn verschillende plaatsen in de toepassing waar u datums en tijden in velden kunt invoeren. Bijvoorbeeld in een verkooporder kunt u de verzenddatum instellen. Wanneer u lijsten of rapportgegevens filtert, kunt u datums en tijden invoeren om alleen de gegevens te krijgen waarin u geïnteresseerd bent.
 
 ## Uw regio- en taalinstellingen controleren
 
@@ -11,7 +11,7 @@ De pagina **Mijn instellingen** geeft de **Regio** en **Taal** op die u in de to
 - Voor datumpatronen met woorden moet de taal van de woorden overeenkomen met de instelling **Taal**.
 
 > [!NOTE]
-> Business Central gebruikt het Gregoriaanse kalendersysteem.
+> Dynamics Empire gebruikt het Gregoriaanse kalendersysteem.
 
 ## Datums invoeren
 
@@ -52,8 +52,6 @@ Voer voor vandaag in de taal die is ingesteld door **Taal**, het woord in waarme
 ### Periode
 
 Als u wilt filteren op een specifieke boekingsperiode, voert u in een datumveld de letter p of het woord periode in, gevolgd door een nummer dat de boekingsperiode aangeeft, zoals p2 of periode4. De boekhoudperiode is relatief aan het boekjaar van de huidige werkdatum die u instelt in uw rolcentrum. Als de werkdatum bijvoorbeeld **21.3.20** is, wordt met p1 of alleen p gefilterd op de eerste boekingsperiode van het boekjaar 2020 (bijvoorbeeld 1.1.20..31.1.20). Met p15 wordt gefilterd op de vijftiende boekingsperiode vanaf het begin van het boekjaar 2020 (bijvoorbeeld 1.3.21..31.3.21).
-
-De boekhoudperioden worden gedefinieerd op de pagina **Boekingsperioden**. Als u de boekingsperioden wilt weergeven of wijzigen, opent u de pagina [hier](https://businesscentral.dynamics.com/?page=100).
 
 ### Huidige werkdatum
 

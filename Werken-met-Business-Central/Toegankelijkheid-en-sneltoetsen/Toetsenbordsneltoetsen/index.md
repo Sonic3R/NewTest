@@ -1,13 +1,13 @@
 # Toetsenbordsneltoetsen
 
-Dit artikel geeft een overzicht van de sneltoetscombinaties die u kunt gebruiken wanneer u werkt met Business Central.
+Dit artikel geeft een overzicht van de sneltoetscombinaties die u kunt gebruiken wanneer u werkt met Dynamics Empire.
 
 Zie [Sneltoetsen (alleen pc)](../Snelle-toetsenbordnaslag-alleen-pc/) voor een overzicht van de meestgebruikte sneltoetsen.
 
 > [!TIP]
 > Kies de volgende afbeelding voor een grafische weergave van de meestgebruikte sneltoetsen en download het PDF-bestand.
 >
-> [ ![](assets/images/bc-sneltoetsen-thumb.png) ](assets/documents/bc-sneltoetsen.pdf)
+> [ ![](/assets/images/cheat_sheet.png) ](/assets/documents/sneltoetsen-bc.pdf)
 
 ## Overzicht
 

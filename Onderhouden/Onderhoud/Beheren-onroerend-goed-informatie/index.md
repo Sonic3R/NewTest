@@ -49,6 +49,25 @@ Om BAG-verblijfsobjecten in bulk toe te wijzen aan alle eenheden gaat u als volg
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **BAG Import**.
 2. Klik op **Eenheid bij BAG zoeken**. Het systeem gaat nu proberen BAG-verblijfsobjecten te koppelen aan *alle* OG Eenheden in *alle* bedrijven.
 
+## Aanpassen exploitatievorm
+
+In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier de OG Eenheid kan worden verhuurd of verkocht. U kunt een exploitatievorm toevoegen of juist verwijderen bij de OG Eenheid. Elke exploitatievorm is van een bepaald soort ('Verhuur', 'Verkoop' of 'Uit beheer') en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**.
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
+3. Navigeer naar de **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid.
+4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**.
+5. Om een bestaande exploitatievorm te verwijderen van de OG Eenheid, selecteer een regel en klik op **Verwijderen**.
+
+## Aanpassen bestemming 
+
+In deze stap past u de bestemming van de OG Eenheid aan. 
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken. 
+3. Selecteer een nieuwe waarde in veld **Bestemming** op tabblad **VERA-eigenschappen**. 
+4. Selecteer een nieuwe waarde in veld **Huidig labelconditie** op tabblad **Exploitatie (Alg)**.
+
 ## Toewijzen dimensiewaarden
 
 In deze stap wijst u dimensiewaarden toe aan een OG Eenheid. 

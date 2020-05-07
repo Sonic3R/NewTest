@@ -70,11 +70,11 @@ Nadat u het bankafschrift van de bank geïmporteerd heeft kunt u de niet automat
 ### Vereffenen
 
 - **Vereffenen met één openstaande klant- of leverancierspost:**
-	- Wanneer u de transactie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld **Vereffeningsnr.** op de drie puntjes. De pagina **Klantposten / leverancierposten vereffenen** opent.
+	- Wanneer u de transactie wilt vereffenen met één klant- of leverancierspost klikt u in de regel in veld **Vereffeningsnr.** op de drie puntjes. De pagina **Klantenposten / Leveranciersposten vereffenen** opent.
 	- Selecteer de post waarmee u de transactie wilt vereffenen.
 	- Klik op **OK**. U keert terug naar de pagina **Bank-/Giroboek**.
-- **Vereffenen met meerdere openstaande klant- of leveranciersposten:**
-	- Selecteer de bankboekregel en kies boven in het regeldeel, naast kopje **Regels**, voor de menu-actie **Posten vereffenen**. De pagina **Klantposten / leverancierposten vereffenen** opent.
+- **Vereffenen met meerdere openstaande Klanten- of Leveranciersposten:**
+	- Selecteer de bankboekregel en kies boven in het regeldeel, naast kopje **Regels**, voor de menu-actie **Posten vereffenen**. De pagina **Klantenposten / Leveranciersposten vereffenen** opent.
 	- Selecteer de posten waarmee u de transactie wilt vereffenen en selecteer **Vereffenings-id instellen**. Het beschikbare bedrag van de transactie wordt toegekend aan de geselecteerde posten, waarbij altijd geprobeerd wordt de oudste post geheel te vereffenen. Is daarna nog een bedrag beschikbaar, dan wordt geprobeerd de op één na oudste post te vereffenen. Wilt u het toegekende bedrag per post aanpassen, dan kan dit in het veld **Te vereffenen bedrag**.
 	- Klik op **OK** om de vereffening te bevestigen en terug te keren naar de pagina **Bank-/Giroboek**.
 

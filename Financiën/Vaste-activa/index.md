@@ -4,8 +4,9 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren vaste activa](beheren-vaste-activa/) | 
-[Buiten gebruik stellen activum](buiten-gebruik-stellen-activum/) | 
+[Beheren vaste activa in exploitatie](beheren-vaste-activa-in-exploitatie/) | 
+[Beheren vaste activa ten dienste van exploitatie](beheren-vaste-activa-ten-dienste-van-exploitatie/) | 
+[Verwerken periodieke mutaties vaste activa](verwerken-periodieke-mutaties-vaste-activa/) | 
 
 ## Zie ook
 
@@ -17,4 +18,4 @@ Werkproces | Omschrijving
 [Grootboek](../grootboek/)  
 [Budget](../budget/)  
 [Incasso](../incasso/)  
-[Treausry](../treasury/)
+[Treasury](../treasury/)

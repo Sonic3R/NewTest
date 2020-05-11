@@ -20,7 +20,7 @@ U bent mogelijk al vertrouwd met het gebruik van de Tab-toets om van het ene vel
 
 Elk veld kan worden gemarkeerd als zijnde *opgenomen in snelinvoer* of *uitgesloten van snelinvoer*. Velden die in snelinvoer zijn opgenomen, worden opgenomen in het pad wanneer u op Enter drukt; velden die zijn uitgesloten van snelinvoer, worden dat niet.
 
-Wanneer u klaar bent met het invoeren van gegevens in een veld, drukt u gewoon op Enter om de wijzigingen te bevestigen en naar het volgende veld te gaan. Als u de volgorde wilt omkeren en naar het vorige veld wilt gaan, drukt u op Shift+Enter. Zie voor meer informatie over sneltoetsen [Sneltoetsen voor snelinvoer voor velden](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/#Sneltoetsen-voor-snelle-invoer-voor-velden).
+Wanneer u klaar bent met het invoeren van gegevens in een veld, drukt u gewoon op Enter om de wijzigingen te bevestigen en naar het volgende veld te gaan. Als u de volgorde wilt omkeren en naar het vorige veld wilt gaan, drukt u op Shift+Enter. Zie voor meer informatie over sneltoetsen [Sneltoetsen voor snelle invoer voor velden](../toegankelijkheid-en-sneltoetsen/toetsenbordsneltoetsen/#Sneltoetsen-voor-snelle-invoer-voor-velden).
 
 #### Tips en trucs
 

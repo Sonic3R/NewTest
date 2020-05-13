@@ -16,7 +16,7 @@ In deze stap wordt een voorstel gemaakt voor het wijzigen van segment voor speci
 
 In deze stap wordt de voorgestelde segmentatie toegepast.
 
-1. Selecteer op de pagina **Segmentatieoorstellen** de voorstellen die u wilt toepassen.
+1. Selecteer op de pagina **Segmentatievoorstellen** de voorstellen die u wilt toepassen.
 2. Klik op **Segmentatievoorstellen toepassen**, waarna de gelijknamige pagina wordt geopend.
 3. Klik op **OK**. De voorstellen worden toegepast. Dit betekent dat de aanmaningsconditie op de klanten aangepast wordt naar het voorgestelde segment. U keert terug naar de pagina **Segmentatievoorstellen**.
 

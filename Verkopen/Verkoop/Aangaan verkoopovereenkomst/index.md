@@ -5,5 +5,5 @@ Binnenkort beschikbaar
 ## Zie ook
 
 [Herijken bestemming verkoop](../Herijken-bestemming-verkoop/)  
-[Notarieel afhandelen verkoop](../Notarieel-afhandelen-verkoop/)  
+[Effectueren verkoop](../Effectueren-verkoop/)  
 [Terugkopen eenheid](../Terugkopen-eenheid/)

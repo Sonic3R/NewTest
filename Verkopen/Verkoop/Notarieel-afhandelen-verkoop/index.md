@@ -1,4 +1,4 @@
-# Notarieel afhandelen verkoop
+# Effectueren verkoop
 
 Binnenkort beschikbaar
 

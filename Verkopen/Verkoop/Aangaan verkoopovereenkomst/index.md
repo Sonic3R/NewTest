@@ -4,11 +4,11 @@ Dit werkproces betreft het aangaan van de verkoopovereenkomst voor de verkoop va
 
 ## Taxeren eenheid
 
-In deze stap registreert u de resultaten van de taxatie van de OG Eenheid. Deze registratie doet u bij de exploitatievorm van het soort *Verkoop* die aan de OG Eenheid is gekoppeld.  
+In deze stap registreert u de resultaten van de taxatie van de OG Eenheid. Deze registratie doet u bij de exploitatievorm van het soort 'Verkoop' die aan de OG Eenheid is gekoppeld.  
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Selecteer de OG Eenheid waarvoor u de taxatie wilt registeren en open de detailpagina van de geselecteerde OG Eenheid. 
-3. Klik op **Meer opties**, **Navigeren** en kies voor **Taxatie**. Een overzicht verschijnt met de taxatiehistorie van de OG Eenheid. 
+3. Navigeer naar de menu-optie **Taxatie**. Een overzicht verschijnt met de taxatiehistorie van de OG Eenheid. 
 4. Klik op **+Nieuw** en vul tenminste de volgende velden: **Taxatiesoort**, **Taxatiegrondslag** (*Verkooptaxatie*) en **Taxatiewaarde (LV)**. 
 5. Sluit de pagina.  U keert terug in de detailpagina van de OG Eenheid. 
 6. Klik op **Meer opties**, **Navigeren** en kies voor **Exploitatievormen**. Een overzicht wordt geopend met exploitatievormen die aan de OG Eenheid zijn gekoppeld. 

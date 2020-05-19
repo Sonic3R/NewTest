@@ -121,7 +121,7 @@ Voordat u de afrekening definitief boekt kunt u de kostenverdeling (laten) beoor
 	- Toe te rekenen derving
 8. Onderaan het rapport wordt een samenvatting van deze gegevens weergegeven, gegroepeerd per cluster.
 
-## Beoordelen kostenverdeling
+## Verwijderen afrekening
 
 Wanneer u in één van de voorgaande stappen erachter bent gekomen dat er ergens iets verkeerd is gegaan, kunt u nog niet geboekte afrekeningen eenvoudig verwijderen en opnieuw opbouwen. 
 

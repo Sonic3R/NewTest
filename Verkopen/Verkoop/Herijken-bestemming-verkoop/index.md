@@ -5,5 +5,5 @@ Binnenkort beschikbaar
 ## Zie ook
 
 [Aangaan verkoopovereenkomst](../Aangaan-verkoopovereenkomst/)  
-[Notarieel afhandelen verkoop](../Notarieel-afhandelen-verkoop/)  
+[Effectueren verkoop](../Effectueren-verkoop/)  
 [Terugkopen eenheid](../Terugkopen-eenheid/)

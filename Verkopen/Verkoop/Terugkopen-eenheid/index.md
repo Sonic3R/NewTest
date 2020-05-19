@@ -6,4 +6,4 @@ Binnenkort beschikbaar
 
 [Aangaan verkoopovereenkomst](../Aangaan-verkoopovereenkomst/)  
 [Herijken bestemming verkoop](../Herijken-bestemming-verkoop/)  
-[Notarieel afhandelen verkoop](../Notarieel-afhandelen-verkoop/)  
+[Effectueren verkoop](../Effectueren-verkoop/)  

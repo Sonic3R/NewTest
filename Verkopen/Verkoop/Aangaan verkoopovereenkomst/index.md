@@ -7,15 +7,14 @@ Dit werkproces betreft het aangaan van de verkoopovereenkomst voor de verkoop va
 In deze stap registreert u de resultaten van de taxatie van de OG Eenheid. Deze registratie doet u bij de exploitatievorm van het soort 'Verkoop' die aan de OG Eenheid is gekoppeld.  
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
-2. Selecteer de OG Eenheid waarvoor u de taxatie wilt registeren en open de detailpagina van de geselecteerde OG Eenheid. 
+2. Selecteer de OG Eenheid waarvoor u de taxatie wilt registreren en open de detailpagina. 
 3. Navigeer naar de menu-optie **Taxatie**. Een overzicht verschijnt met de taxatiehistorie van de OG Eenheid. 
-4. Klik op **+Nieuw** en vul tenminste de volgende velden: **Taxatiesoort**, **Taxatiegrondslag** (*Verkooptaxatie*) en **Taxatiewaarde (LV)**. 
+4. Klik op **+Nieuw** en vul ten minste de volgende velden: **Taxatiesoort**, **Taxatiegrondslag** ('Verkooptaxatie') en **Taxatiewaarde (LV)**. 
 5. Sluit de pagina. U keert terug op de detailpagina van de OG Eenheid. 
 6. Kies voor **Exploitatievormen**. Een overzicht wordt geopend met exploitatievormen die aan de OG Eenheid zijn gekoppeld. 
 7. Selecteer de exploitatievorm van het soort 'Verkoop' en klik op de link 'Nog niet bepaald' in de kolom **Taxatiesoort**.  
 8. Selecteer de zojuist aangemaakte taxatie. 
-9. Sluit de pagina. 
-
+9. Sluit de pagina.
 
 ## Plannen inspectie
 
@@ -47,7 +46,7 @@ In deze stap registreert u een bouwtechnische keuring.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Selecteer de OG Eenheid waarvoor u een bouwtechnische keuring wilt registreren en open de detailpagina van de geselecteerde OG Eenheid. 
-3. Klik op **Navigeren** en kies voor **Bouwtechnische keuringen**. 
+3. Navigeer naar de **Bouwtechnische keuringen**. 
 4. Vul de eigenschappen van de bouwtechnische keuring. 
 5. Sluit de pagina. 
 
@@ -57,7 +56,7 @@ In deze stap registreert u de overeengekomen verkoopvoorwaarden.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
 2. Selecteer de OG Eenheid waarvoor u een overeengekomen verkoopvoorwaarde wilt registreren en open de detailpagina van de geselecteerde OG Eenheid. 
-3. Klik op **Navigeren** en kies voor **Verkoopaanbieding**.
+3. Navigeer naar de **Verkoopaanbieding**.
 4. Geef aan dat de aanbieding is geaccepteerd d.m.v. het aanvinken van de indicatie **Acceptatie** op tabblad **Aanbiedingsvormen**.   
 5. Als de OG Eenheid niet aan de zittende huurder wordt verkocht, selecteer dan op tabblad **Gegadigde** het contact aan wie de OG Eenheid wordt verkocht. (Maak het contact aan, mocht deze nog niet bestaan). 
 6. Vul eventueel extra gegevens van de verkoopaanbieding in. 

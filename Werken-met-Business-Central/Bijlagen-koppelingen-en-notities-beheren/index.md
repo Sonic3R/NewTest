@@ -41,7 +41,7 @@ De volgende procedure is gebaseerd op een artikelkaart. De stappen lijken op all
     De koppeling moet een geldige internet- of intranet-URL zijn.
 
 5. Voer in het veld **Beschrijving** informatie over de koppeling in.  
-6. Kies de knop **Ok**.
+6. Kies de knop **OK**.
 
 De koppeling is nu gekoppeld aan de artikelkaart.  
 

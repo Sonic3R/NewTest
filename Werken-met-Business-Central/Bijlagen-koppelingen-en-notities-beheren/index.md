@@ -58,6 +58,6 @@ De volgende procedure is gebaseerd op een verkooporder. De stappen lijken op all
 2. Selecteer de verkooporder waarin u een notitie wilt schrijven en kies vervolgens het tabblad **Bijlagen** in het feitenblok.
 3. Kies in de sectie **Notities** het pictogram **+**.
 4. Schrijf in het veld **Notitie** tekst, zoals "Dit is een dringende bestelling."
-5. Kies de knop **Ok**.
+5. Kies de knop **OK**.
 
 De notitie is nu aan de verkooporder toegevoegd.

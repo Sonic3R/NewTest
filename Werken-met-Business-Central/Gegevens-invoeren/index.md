@@ -1,8 +1,6 @@
 # Gegevens invoeren
 
-Er zijn allerlei algemene functies die u helpen gegevens sneller, gemakkelijker en accurater in te voeren. De algemene functies voor het invoeren van gegevens worden in dit artikel beschreven.  
-
-In de voorbeelden in dit artikel worden de demonstratiegegevens gebruikt.
+Er zijn allerlei algemene functies die u helpen gegevens sneller, gemakkelijker en accurater in te voeren. De algemene functies voor het invoeren van gegevens worden in dit artikel beschreven aan de hand van voorbeelden.
 
 ## Toetsenbordsneltoetsen
 
@@ -12,7 +10,7 @@ Zie voor meer informatie over sneltoetsen [Toetsenbordsneltoetsen](../toegankeli
 
 ## Gegevensinvoer versnellen met snelinvoer
 
-Snelinvoer is een functie die bedoeld is voor gegevensinvoer met het toetsenbord. Snelinvoer werkt met velden (bijvoorbeeld op kaartpagina's) en in lijsten (rijen en kolommen). Het kan handig zijn bij herhalend typewerk, waarbij meerdere records achter elkaar moeten worden gemaakt, zoals een batch verkooporders of registratie van nieuwe artikelen.
+Snelinvoer is een functie die bedoeld is voor gegevensinvoer met het toetsenbord. Snelinvoer werkt met velden (bijvoorbeeld op kaartpagina's) en met rijen en kolommen (in lijsten). Dit kan handig zijn bij herhalend typwerk, waarbij meerdere records achter elkaar moeten worden gemaakt, zoals een batch van verkooporders of registratie van nieuwe artikelen.
 
 U bent mogelijk al vertrouwd met het gebruik van de Tab-toets om van het ene veld op een pagina naar het volgende bewerkbare veld te navigeren. Het nadeel van het gebruik van de Tab-toets is dat deze altijd naar het volgende veld gaat. Met snelinvoer kunt u dit pad wijzigen. Met snelinvoer gebruikt u de Enter-toets om alleen te navigeren naar de velden waarin u geïnteresseerd bent. U slaat niet-bewerkbare velden en velden die u meestal niet invult, over. U hebt dit gedrag mogelijk al op bepaalde pagina's opgemerkt. Dit komt omdat de toepassing al aangeeft welke velden moeten worden opgenomen wanneer op Enter wordt gedrukt en welke worden overgeslagen. U kunt snelinvoer wijzigen door de werkruimte aan te passen en te optimaliseren hoe u gegevens op elke pagina invoert.
 
@@ -50,7 +48,7 @@ Zelfs als het veld een rode asterisk bevat, wordt u niet gedwongen het veld te v
 
 ## Gegevens zoeken terwijl u typt
 
-Als u begint met het typen van tekens in een veld, wordt een vervolgkeuzelijst weergeven met de mogelijke veldwaarden. De lijst verandert naarmate u meer tekens typt en u kunt de juiste waarde selecteren wanneer deze wordt weergegeven.  
+Als u begint met het typen van tekens in een veld, wordt een vervolgkeuzelijst weergegeven met de mogelijke veldwaarden. De lijst verandert naarmate u meer tekens typt en u kunt de juiste waarde selecteren wanneer deze wordt weergegeven.  
 
 Veel velden hebben een knop met een pijl-omlaag die u kunt kiezen. U kunt op de pijl klikken om een lijst met gegevens te krijgen die u in het veld kunt instellen. De knop heeft twee functies, afhankelijk van het type veld:  
 
@@ -60,7 +58,7 @@ Veel velden hebben een knop met een pijl-omlaag die u kunt kiezen. U kunt op de 
 
 ## Velden en regels kopiëren en plakken
 
-U kunt een of meer rijen uit een lijst of een enkel veld op een pagina kopiëren en vervolgens wat u hebt gekopieerd, plakken op dezelfde pagina, een andere pagina of een extern document (zoals Microsoft Excel en Outlook-e-mail). Als u wilt kopiëren, drukt u op CTRL+C (cmd+C in MacOs) op het toetsenbord. Als u wilt plakken, drukt u op CTRL+V (cmd+V in MacOs).
+U kunt een of meer rijen uit een lijst of een enkel veld op een pagina kopiëren en vervolgens wat u hebt gekopieerd, plakken op dezelfde pagina, een andere pagina of in een extern document (zoals Microsoft Excel en Outlook-e-mail). Als u wilt kopiëren, drukt u op CTRL+C (cmd+C in MacOs) op het toetsenbord. Als u wilt plakken, drukt u op CTRL+V (cmd+V in MacOs).
 
 Als u in een lijst het veld in dezelfde kolom van de bovenliggende rij wilt selecteren en het in de huidige rij wilt plakken, drukt u op F8.
 
@@ -70,17 +68,17 @@ Zie voor meer informatie [Veelgestelde vragen over kopiëren en plakken](../veel
 
 Als u wilt beginnen met filteren, selecteert u het ![filter icon](/assets/images/filter.png "filter icon") boven aan de lijst of drukt u op Shift+F3 om het filterdeelvenster te openen. U werkt met het filterdeelvenster zoals met elke andere lijst. Zie [Filteren](../sorteren-zoeken-en-filteren/#Filteren) voor meer informatie.
 
-Filteren is met name handig bij het weergeven en analyseren van langere documenten. Stel dat u een geboekte verkoopfactuur opent en de regelartikelen filtert om alle regelartikelen weer te geven die een individuele korting van meer dan 5% hebben, of dat u filtert om alleen fietsaccessoires met 'pro' in de naam weer te geven.
+Filteren is met name handig bij het weergeven en analyseren van langere documenten. Stel dat u een geboekte onderhoudsfactuur opent en de regelartikelen filtert om alle regelartikelen weer te geven die een individuele korting van meer dan 5% hebben, of dat u filtert om alleen reparatieartikelen met 'pvc' in de naam weer te geven.
 
 ## Focussen op regelartikelen
 
-Wanneer u werkt aan documenten die een regelitemgedeelte bevatten, zoals een verkooporder of factuurpagina, kunt u uw weergave zo instellen dat deze zich alleen op de regelitems concentreert. Het gedeelte met regelitems wordt vervolgens uitgevouwen zodat het vrijwel de hele werkruimte in beslag neemt en andere delen van de pagina verbergt behalve het actiegebied bovenaan. Dit geeft u een beter overzicht van de regelartikelen en biedt meer ruimte om ermee te werken.
+Wanneer u werkt aan documenten die een regelitemgedeelte bevatten, zoals een verkooporder of factuurpagina, kunt u uw weergave zo instellen dat deze zich alleen op de regelitems concentreert. Het gedeelte met regelitems wordt vervolgens uitgevouwen zodat het vrijwel de hele werkruimte in beslag neemt en andere delen van de pagina verbergt, behalve het actiegebied bovenaan. Dit geeft u een beter overzicht van de regelartikelen en biedt meer ruimte om ermee te werken.
 
 Dit is met name voordelig bij het werken met grote regelartikellijsten en wanneer snelle gegevensinvoer gewenst is. Een ander voordeel is dat het ook geavanceerde filtermogelijkheden biedt, zoals in andere lijsten, waardoor bladeren en zoeken door regelartikelen nog gemakkelijker wordt.
 
 ### De focus aan- en uitzetten
 
-Als u op regelartikelen wilt focussen, selecteert u iets in het onderdeel met regelitems en kiest u vervolgens het ![focus icon](/assets/images/focus.png "focus icon") in de rechterbovenhoek of drukt u op Ctrl+Shift+F12.
+Als u op regelartikelen wilt focussen, selecteert u iets in het onderdeel met regelitems en kiest u vervolgens het teken ![focus icon](/assets/images/focus.png "focus icon") in de rechterbovenhoek of drukt u op Ctrl+Shift+F12.
 
 Als u terug wilt naar de gewone weergave, kiest u opnieuw het ![focus icon](/assets/images/focus.png "focus icon") of drukt opnieuw op Ctrl+Shift+F12.
 
@@ -91,7 +89,7 @@ Wanneer u aan meerdere taken tegelijk werkt of wanneer u onderbrekingen in de hu
 Kies om de huidige kaart of het huidige document in een nieuw venster te openen ![extend icon](/assets/images/extend.png "extend icon") in de rechterbovenhoek of druk op Alt + Shift+W.
 
 > [!NOTE]
-> Wanneer u andere pagina's opent vanaf een kaart of document dat in een nieuw venster is geopend, worden die pagina's in een nieuw venster geopend, ook al kiest u niet ![extend icon](/assets/images/extend.png "extend icon").
+> Wanneer u andere pagina's opent vanaf een kaart of document dat in een nieuw venster is geopend, worden die pagina's in een nieuw venster geopend, ook al kiest u niet voor ![extend icon](/assets/images/extend.png "extend icon").
 
 > [!NOTE]
 > Als u in de Safari-browser werkt, kan een pop-upblokkering ervoor zorgen dat het nieuwe venster niet wordt geopend. Als dit het geval is, geeft u de product-URL op als een toegestane website. Zie voor informatie [Voorkeuren wijzigen in Safari](https://go.microsoft.com/fwlink/?LinkId=2102965).<br /><br />

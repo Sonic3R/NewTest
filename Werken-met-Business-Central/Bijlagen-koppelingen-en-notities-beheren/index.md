@@ -11,10 +11,10 @@ Bijlagen, koppelingen en notities blijven gekoppeld terwijl de kaart of het docu
 
 ## Een bestand bijvoegen bij een inkoopfactuur
 
-U kunt elk type bestand met tekst, afbeelding of video aan een kaart of document toevoegen. Dit is bijvoorbeeld handig als u de factuur van een leverancier wilt opslaan als PDF-bestand op de bijbehorende inkoopfactuur in Business Central.
+U kunt elk type bestand met tekst, afbeelding of video aan een kaart of document toevoegen. Dit is bijvoorbeeld handig als u de factuur van een leverancier wilt opslaan als PDF-bestand op de bijbehorende inkoopfactuur in Dynamics Empire.
 
 > [!NOTE]
-> Bestanden die zijn gekoppeld met de functie Inkomende documenten, worden niet opgenomen op het tabblad **Bijlagen**. Zie voor meer informatie [Inkomende documenten](../Algemene-bedrijfsfunctionaliteit/Inkomende-documenten/).
+> Bestanden die zijn gekoppeld met de functie 'Inkomende documenten' worden niet opgenomen op het tabblad **Bijlagen**. Zie voor meer informatie [Inkomende documenten](../Algemene-bedrijfsfunctionaliteit/Inkomende-documenten/).
 
 De volgende procedure is gebaseerd op een verkooporder. De stappen lijken op alle andere ondersteunde documenten en kaarten.
 

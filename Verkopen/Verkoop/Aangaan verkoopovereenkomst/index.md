@@ -61,9 +61,9 @@ In deze stap registreert u de overeengekomen verkoopvoorwaarden.
 5. Als de OG Eenheid niet aan de zittende huurder wordt verkocht, selecteer dan op tabblad **Gegadigde** het contact aan wie de OG Eenheid wordt verkocht. (Maak het contact aan, mocht deze nog niet bestaan). 
 6. Vul eventueel extra gegevens van de verkoopaanbieding in. 
 
-Opmerkingen: 
-- De **Transportdatum** kan niet worden ingevuld bij de **Verkoopaanbieding**. In plaats daarvan wordt deze datum gevuld bij de **Verkoopfactuur**, die in een volgende stap in het verkoopproces wordt aangemaakt. 
-- De eenheid wordt met ingang van de transportdatum uit exploitatie genomen, zodra de verkoopfactuur in een volgende stap in het verkoopproces wordt geboekt. 
+>Opmerkingen: 
+>- De **Transportdatum** kan niet worden ingevuld bij de **Verkoopaanbieding**. In plaats daarvan wordt deze datum gevuld bij de **Verkoopfactuur**, die in een volgende stap in het verkoopproces wordt aangemaakt. 
+>- De eenheid wordt met ingang van de transportdatum uit exploitatie genomen, zodra de verkoopfactuur in een volgende stap in het verkoopproces wordt geboekt. 
 
 ## Zie ook
 

@@ -4,8 +4,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Voorbereiden verkoop](Voorbereiden-verkoop/) | 
-[Aanbieden eenheid zittende huurder](Aanbieden-eenheid-zittende-huurder/) | 
-[Aanbieden eenheid vrije verkoop](Aanbieden-eenheid-vrije-verkoop/) | 
-[Afsluiten verkoopovereenkomst](Afsluiten-verkoopovereenkomst/) | 
-[Terugkopen eenheid](Terugkopen-eenheid/) | 
+[Herijken bestemming verkoop](herijken-bestemming-verkoop/) | 
+[Aangaan verkoopovereenkomst](aangaan-verkoopovereenkomst/) | 
+[Effectueren verkoop](effectueren-verkoop/) | 
+[Terugkopen eenheid](terugkopen-eenheid/) | 

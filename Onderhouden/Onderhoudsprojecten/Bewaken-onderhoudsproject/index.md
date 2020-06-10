@@ -24,7 +24,7 @@ Het meer-/minderwerk wordt geregistreerd en in de projectadministratie vastgeleg
 
 ## Versturen aangepaste inkooporder
 
-HDe aangepaste inkooporder moet nu naar de leverancier worden verstuurd. De opdracht wordt schriftelijk verstrekt. Als de leverancier met het Leveranciersportaal werkt, is de opdracht ook daar beschikbaar.
+De aangepaste inkooporder moet nu naar de leverancier worden verstuurd. De opdracht wordt schriftelijk verstrekt. Als de leverancier met het Leveranciersportaal werkt, is de opdracht ook daar beschikbaar.
 
 ## Gereedmelden inkooporder
 

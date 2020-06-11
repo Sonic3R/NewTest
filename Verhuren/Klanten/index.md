@@ -4,9 +4,11 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren klantinformatie](beheren-klantinformatie/) | 
 [Afhandelen contactmoment](afhandelen-contactmoment/) | 
 [Afhandelen klacht](afhandelen-klacht/) | 
+[Behandelen zaak](behandelen-zaak/) | 
+[Beheren klantinformatie](beheren-klantinformatie/) | 
+[Beoordelen verzoek geriefsverbeteringWMO](beoordelen-verzoek-geriefsverbeteringWMO/) | 
 [Meten klanttevredenheid](meten-klanttevredenheid/) | 
 
 ## Zie ook

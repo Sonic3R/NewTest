@@ -64,5 +64,7 @@ In deze stap handelt u een taak af die is toegewezen aan een team waarvan u deel
 ## Zie ook
 
 [Afhandelen klacht](../afhandelen-klacht/)  
+[Behandelen zaak](../behandelen-zaak/)  
 [Beheren klantinformatie](../beheren-klantinformatie/)  
+[Beoordelen verzoek geriefsverbeteringWMO](../beoordelen-verzoek-geriefsverbeteringWMO/)  
 [Meten klanttevredenheid](../meten-klanttevredenheid/)

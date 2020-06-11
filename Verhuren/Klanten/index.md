@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 [Afhandelen klacht](afhandelen-klacht/) | 
 [Behandelen zaak](behandelen-zaak/) | 
 [Beheren klantinformatie](beheren-klantinformatie/) | 
-[Beoordelen verzoek geriefsverbeteringWMO](beoordelen-verzoek-geriefsverbeteringWMO/) | 
+[Beoordelen verzoek geriefsverbetering/WMO](beoordelen-verzoek-geriefsverbetering-WMO/) | 
 [Meten klanttevredenheid](meten-klanttevredenheid/) | 
 
 ## Zie ook

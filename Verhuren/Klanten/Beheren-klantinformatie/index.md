@@ -84,4 +84,6 @@ Elke regel bevat een indicatie van de transactiewijze en daar waar de transactie
 
 [Afhandelen contactmoment](../afhandelen-contactmoment/)  
 [Afhandelen klacht](../afhandelen-klacht/)  
+[Behandelen zaak](../behandelen-zaak/)  
+[Beoordelen verzoek geriefsverbeteringWMO](../beoordelen-verzoek-geriefsverbeteringWMO/)  
 [Meten klanttevredenheid](../meten-klanttevredenheid/)

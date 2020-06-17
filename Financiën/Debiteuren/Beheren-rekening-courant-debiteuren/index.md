@@ -21,7 +21,7 @@ Wanneer u klantposten met elkaar wilt vereffenen kunt u dit doen vanaf de pagina
 2. Zoek de klant op waarvoor u de posten wilt vereffenen.
 3. e de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantposten** opent.
 4. Selecteer één van de posten die u wilt vereffenen.
->Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit is van belang voor het verwerken van de gerealiseerde kasstromen.
+>Wilt u een betaling vereffenen met een openstaande factuur, selecteer dan altijd de betaling. Wanneer u een factuur met een >creditfactuur wilt vereffenen maakt het niet uit welke post u selecteert. Wilt u een betaling vereffenen met zowel een credit- als een >debetfactuur, vereffen dan éérst de creditfactuur met de debetfactuur en daarna pas de betaling met de resterende openstaande post. Dit >is van belang voor het verwerken van de gerealiseerde kasstromen.
 5. Kies de **Posten vereffenen**. De pagina **Klantenposten vereffenen** opent.
 6. Selecteer de pon(en) waarmee u de in stap 4 geselecteerde post wilt vereffenen.
 7. Klik op actie **Vereffening-id instellen**. De kolom **Vereffenings-id** wordt gevuld met uw gebruikersnaam.

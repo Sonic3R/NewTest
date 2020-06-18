@@ -25,7 +25,7 @@ In deze stap wordt de geaccepteerde kandidaat of worden de kandidaten met de hoo
 
 In deze stap nodigt u meerdere kandidaten uit voor de groepsbezichtiging.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Zoek de verhuurmutatie op waarvoor kandidaten moeten worden uitgenodigd voor de groepsbezichtiging.
 3. Open de detailpagina door op het nummer te klikken.
 4. Kies voor **Verhuuraanbieding**.

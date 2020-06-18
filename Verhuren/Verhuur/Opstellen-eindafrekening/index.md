@@ -10,7 +10,7 @@ In dit proces wordt de eindafrekening opgesteld voor een klant van wie een huurc
 
 In deze stap genereert u de eindafrekening voor de vertrekkende huurder. Om de eindafrekening te kunnen genereren, moeten alle contractregels van de OG Eenheid zijn geprolongeerd tot en met de einddatum van het opgezegde huurcontract en moeten alle overige (credit)facturen van de vertrekkende huurder zijn geboekt. (Zie ook de opmerking hieronder.)
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Zoek de verhuurmutatie op waarvan de eindafrekening moet worden opgesteld.
 3. Open de detailpagina van de verhuurmutatie.
 4. Navigeer naar de **Huuropzegging**. De pagina met de details van de huuropzegging van de OG Eenheid wordt geopend.

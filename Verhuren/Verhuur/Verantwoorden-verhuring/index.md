@@ -14,7 +14,7 @@ Hierbij wordt ervan uitgegaan dat in de **Empire-instellingen** (tabblad **Veran
 
 De verantwoording verhuring moet zijn gemarkeerd als zijnde *Definitief*, voordat de **Verhuuraanbieding** geaccepteerd kan worden.  
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Selecteer verhuurmutatie waarvoor de huishoudgegevens moeten worden geregistreerd in de verantwoording verhuring.
 3. Navigeer naar **Verhuringverantwoording**. Een pagina verschijnt met de details van de verantwoording verhuring. Mocht u in plaats daarvan een foutmelding krijgen, klik dan achtereenvolgens op **Navigeren**, **Verhuuraanbieding**, **Navigeren** en  **Verantwoording verhuring**. Dan verschijnt de genoemde pagina alsnog.
 4. In tabblad **OGE-gegevens** worden gegevens over de eenheid en de aanbiedhuur getoond die bepalen of de passendheidstoets en staatssteunregeling van toepassing zijn. Is dat het geval, dan hebben deze gegevens invloed op het resultaat van beide toetsen. Als de passendheidstoets en/of de staatssteunregeling niet van toepassing zijn, dan wordt dat in dit tabblad weergegeven.

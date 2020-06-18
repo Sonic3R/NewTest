@@ -6,7 +6,7 @@ De aanbiedhuur van de beschikbare verhuurbare eenheid wordt automatisch bepaald 
 
 In deze stap zorgt u ervoor dat het systeem automatisch de nieuwe nettohuur voor de beschikbare verhuurbare eenheid berekent op basis van het bij die eenheid ingestelde huurbeleid en de bij de doelgroep van de eenheid ingestelde doelgroeplimiet.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Zoek de verhuurmutatie op waarvoor de aanbiedhuur moet worden bepaald.
 3. Open de detailpagina van de verhuurmutatie.
 4. Klik op **Nieuw** en kies voor **Verhuuraanbieding**. Het contractoverzicht van de OG Eenheid verschijnt met het leegstandscontract en het meest recente verhuurcontract van de vorige huurder. Selecteer de contractregel op basis waarvan  u de nieuwe verhuuraanbieding wilt aanmaken en klik op **OK**.
@@ -54,7 +54,7 @@ In deze stap vult u de huurprijsmutatie in. Hiermee specificeert u wat de reden 
 
 In deze stap fiatteert u de nieuwe nettohuur. Hierbij wordt ervan uitgegaan dat de verhuuraanbieding al is gemaakt en de huurprijsmutatie al is ingevuld. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Zoek de verhuurmutatie op waarvoor de nieuwe nettohuur moet worden gefiatteerd.
 3. Open de detailpagina van de verhuurmutatie.
 4. Stel vast dat de mijlpaal **Aanbiedhuur is gefiatteerd** nog niet is bereikt, d.w.z. de waarde *Nee* heeft. De waarde van deze mijlpaal heeft de vorm van een link. 

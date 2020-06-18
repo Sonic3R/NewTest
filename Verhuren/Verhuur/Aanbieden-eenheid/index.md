@@ -1,6 +1,6 @@
 # Aanbieden eenheid
 
-*[Bekijk het schematisch overzicht van het werkproces, inclusief verschillende stappen en overige elementen.](https://bestpractice.cegeka-dsa.nl//Portal/code?id=2d6&view=Chart&maximize=true)*
+*[Klik hier voor het processchema.](https://bestpractice.cegeka-dsa.nl//Portal/code?id=2d6&view=Chart&maximize=true)*
 
 In dit werkproces bezichtigt de kandidaat of een groep kandidaten de beschikbare eenheid. Daarnaast controleert  de huishoudgegevens van de kandidaat en bepaalt u op basis daarvan of de toewijzing van de eenheid aan die kandidaat al dan niet passend is.
 Dit proces is beëindigd zodra beide partijen hebben geaccepteerd: een kandidaat heeft de eenheid en de aanbieding geaccepteerd, en  heeft de kandidaat geaccepteerd.

@@ -32,10 +32,10 @@ Ook wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aa
 
 In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepassing als bij de OG Eenheid is ingesteld dat er één of meer voor- en/of eindinspecties worden uitgevoerd (zie **Onroerend Goed Eenheidkaart**, tab **Inspectie**, veld **Aantal vooropnames** en veld **Aantal eindopnames**).
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Zoek de verhuurmutatie op waarvoor inspecties moeten worden gepland.
 3. Open de detailpagina van de verhuurmutatie door op het nummer te klikken.
-4. Navigeer naar deOpen pagina **Inspectieafspraken** van de betreffende huuropzegging. Dit kan rechtstreeks vanaf de pagina **Verhuurmutatieoverzicht** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Inspectieafspraken**). Het kan ook via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en kies voor **Inspectieafspraken**). Een derde mogelijkheid is via de OG Eenheid (open overzicht met OG Eenheden via ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), selecteer de OG Eenheid en kies voor **Huuropzeggingen** en vervolgen. 
+4. Navigeer naar deOpen pagina **Inspectieafspraken** van de betreffende huuropzegging. Dit kan rechtstreeks vanaf de pagina **Verhuurmutaties** (selecteer de Verhuurmutatie die is aangemaakt tijdens de vorige stap en kies voor **Inspectieafspraken**). Het kan ook via overzichtspagina **Huuropzeggingen** (selecteer de Huuropzegging die is aangemaakt tijdens de vorige stap, open pagina Huurcontractopzeggingkaart en kies voor **Inspectieafspraken**). Een derde mogelijkheid is via de OG Eenheid (open overzicht met OG Eenheden via ![zoeken icon](/assets/images/zoeken.png "zoeken icon"), selecteer de OG Eenheid en kies voor **Huuropzeggingen** en vervolgen. 
 5. Klik op **Navigeren** en kies voor **Inspectieafspraken**).
 6. Selecteer de eerste inspectie met **Status** 'Nieuw' die u wilt plannen.
 7. Klik op **Inspectieafspraak plannen**, waarna de pagina **Inspecteur Beschikbaarheid** wordt geopend. Op deze pagina worden de ingestelde **Duur** van de geselecteerde inspectie vermeld alsmede de datum waarop de eerste vooropname uiterlijk gepland moet worden. Op deze pagina worden ook alle inspecteurs vermeld.
@@ -46,7 +46,7 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 
 ## Bevestigingen huuropzegging
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Zoek de verhuurmutatie op waarvoor de bevestiging van de huuropzegging moet worden verstuurd.
 3. Open de detailpagina van de verhuurmutatie.
 4. Klik op **Navigeren** en kies voor **Huuropzeggingen**.

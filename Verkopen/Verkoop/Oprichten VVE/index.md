@@ -1,4 +1,4 @@
-# Herijken bestemming verkoop
+# Oprichten VVE
 
 Binnenkort beschikbaar
 
@@ -6,4 +6,5 @@ Binnenkort beschikbaar
 
 [Aangaan verkoopovereenkomst](../Aangaan-verkoopovereenkomst/)  
 [Effectueren verkoop](../Effectueren-verkoop/)  
-[Terugkopen eenheid](../Terugkopen-eenheid/)
+[Terugkopen eenheid](../Terugkopen-eenheid/)  
+[Herijken bestemming verkoop](../Herijken bestemming verkoop/)

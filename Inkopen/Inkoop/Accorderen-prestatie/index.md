@@ -10,7 +10,7 @@ Wanneer de leverancier de prestatie voor de inkooporder geleverd heeft, dient di
 ## Zie ook
 
 [Beheren leveranciersinformatie](../beheren-leveranciersinformatie/)  
-[Beheren onderhoudscontracten](../beheren-onderhoudscontracten/)  
+[Vastleggen onderhoudscontracten](../beheren-onderhoudscontracten/)  
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Inkopen PO/VGO](../inkopen-po-vgo/)  
 [Registreren inkooporder](../registreren-inkooporder/)  

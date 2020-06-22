@@ -48,9 +48,11 @@ Nadat de factuur goedgekeurd is kunt u de factuur boeken.
 
 ## Zie ook
 
-[Beheren rekening courant debiteuren](../beheren-rekening-courant-debiteuren/)  
+[Beheren rekening-courant debiteuren](../beheren-rekening-courant-debiteuren/)  
 [Crediteren overige diensten](../crediteren-overige-diensten/)  
 [Factureren afrekening](../factureren-afrekening/)  
 [Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
 [Factureren overige diensten](../factureren-overige-diensten/)  
 [Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
+[Factureren nieuwbouw](../factureren-nieuwbouw/)  
+[Crediteren onroerend goed](../crediteren-onroerend-goed/)  

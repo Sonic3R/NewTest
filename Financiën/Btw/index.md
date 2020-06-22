@@ -4,7 +4,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Aangeven BTW](aangeven-btw/) | 
+[Aangeven BTW](aangeven-btw/) | Genereren en boeken van de BTW-aangifte, zodat deze kan worden aangegeven bij de belastingdienst en worden betaald.
 
 ## Zie ook
 

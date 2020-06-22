@@ -7,6 +7,7 @@ Werkproces | Omschrijving
 [Beheren vaste activa in exploitatie](beheren-vaste-activa-in-exploitatie/) | 
 [Beheren vaste activa ten dienste van exploitatie](beheren-vaste-activa-ten-dienste-van-exploitatie/) | 
 [Verwerken periodieke mutaties vaste activa](verwerken-periodieke-mutaties-vaste-activa/) | 
+[Beheren fiscale waardering vaste activa](beheren-fiscale-waardering-vaste-activa/) | 
 
 ## Zie ook
 

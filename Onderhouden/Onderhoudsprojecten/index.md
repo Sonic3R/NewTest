@@ -6,10 +6,13 @@ Werkproces | Omschrijving
 :--- | :---
 [Registreren (onderhouds) jaarbegroting](registreren-(onderhouds)-jaarbegroting/) | 
 [Voorbereiden onderhoudsproject](voorbereiden-onderhoudsproject/) | 
-[Bewaken onderhoudsproject](bewaken-onderhoudsproject/) | 
+[Bewaken project](bewaken-project/) | 
 [Actualiseren prognose](actualiseren-prognose/) | 
+[Aanmaken contractonderhoudsproject](aanmaken-contractonderhoudsproject/) | 
+[Uitvoeren contractonderhoud](uitvoeren-contractonderhoud/) | 
+[Muteren onderhoudscontract](muteren-onderhoudscontract/) | 
 
 ## Zie ook
 
-[Logistiek](../logistiek/)
-[Onderhoud](../onderhoud/)
+[Logistiek](../logistiek/)  
+[Onderhoud](../onderhoud/)  

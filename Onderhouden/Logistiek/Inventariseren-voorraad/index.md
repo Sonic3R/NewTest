@@ -7,4 +7,4 @@ Binnenkort beschikbaar
 [Bestellen materialen](../bestellen-materialen/)  
 [Distribueren materialen](../distribueren-materialen/)  
 [Ontvangen materialen](../ontvangen-materialen/)  
-[Retourneren materialen](../retourneren-materialen/)  
+[Beheren artikelinformatie](../beheren-artikelinformatie/)  

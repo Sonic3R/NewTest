@@ -6,4 +6,5 @@ Binnenkort beschikbaar
 
 [Aangaan verkoopovereenkomst](../Aangaan-verkoopovereenkomst/)  
 [Effectueren verkoop](../Effectueren-verkoop/)  
-[Terugkopen eenheid](../Terugkopen-eenheid/)
+[Terugkopen eenheid](../Terugkopen-eenheid/)  
+[Oprichten VVE](../Oprichten VVE/)  

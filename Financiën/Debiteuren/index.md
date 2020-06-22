@@ -24,4 +24,4 @@ Werkproces | Omschrijving
 [Grootboek](../grootboek/)  
 [Budget](../budget/)  
 [Incasso](../incasso/)  
-[Treausry](../treasury/)
+[Treasury](../treasury/)

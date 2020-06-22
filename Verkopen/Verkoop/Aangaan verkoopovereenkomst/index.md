@@ -69,4 +69,6 @@ In deze stap registreert u de overeengekomen verkoopvoorwaarden.
 
 [Herijken bestemming verkoop](../Herijken-bestemming-verkoop/)  
 [Effectueren verkoop](../Effectueren-verkoop/)  
-[Terugkopen eenheid](../Terugkopen-eenheid/)
+[Terugkopen eenheid](../Terugkopen-eenheid/)  
+[Oprichten VVE](../Oprichten VVE/)  
+

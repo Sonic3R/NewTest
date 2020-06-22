@@ -1,4 +1,4 @@
-# Betalen en ontvangen
+# Betaling en ontvangst
 
 Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op de link op het proces met de bijbehorende stappen in te zien.
 

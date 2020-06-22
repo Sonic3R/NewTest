@@ -1,4 +1,4 @@
-# Bewaken onderhoudsproject
+# Bewaken project
 
 In dit werkproces wordt de voortgang van het onderhoudsproject bewaakt en waar nodig bijgestuurd.
 
@@ -77,3 +77,6 @@ Tot slot dient de leverancier te worden beoordeeld op zijn prestaties, waarna he
 [Actualiseren prognose](../actualiseren-prognose/)  
 [Registreren (onderhouds) jaarbegroting](../registreren-(onderhouds)-jaarbegroting/)  
 [Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
+[Aanmaken contractonderhoudsproject](../aanmaken-contractonderhoudsproject/)  
+[Muteren onderhoudscontract](../muteren-onderhoudscontract/)  
+[Uitvoeren contractonderhoud](../uitvoeren-contractonderhoud/)  

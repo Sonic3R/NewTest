@@ -7,4 +7,4 @@ Binnenkort beschikbaar
 [Distribueren materialen](../distribueren-materialen/)  
 [Inventariseren voorraad](../inventariseren-voorraad/)  
 [Ontvangen materialen](../ontvangen-materialen/)  
-[Retourneren materialen](../retourneren-materialen/)  
+[Beheren artikelinformatie](../beheren-artikelinformatie/)  

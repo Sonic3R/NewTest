@@ -1,4 +1,4 @@
-# Initiëren ontwikkelproject
+# Initiëren project
 
 Binnenkort beschikbaar
 

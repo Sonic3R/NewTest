@@ -4,5 +4,7 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[In exploitatie nemen eenheden](../in-exploitatie-nemen-eenheden/)  
-[Uitvoeren ontwikkelproject](../uitvoeren-ontwikkelproject/)  
+[Voorbereiden ontwikkelproject](../voorbereiden-ontwikkelproject/)  
+[Registreren budget](../registreren-budget/)  
+[Registreren uren](../registreren-uren/)  
+[Afronden projectfase](../afronden-projectfase/)  

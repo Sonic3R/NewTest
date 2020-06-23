@@ -4,10 +4,10 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Aanleveren betaalbestand](aanleveren-betaalbestand/) | Een betaalbestand genereren op basis van uit te betalen klant- en leveranciersposten.
-[Aanleveren incassobestand](aanleveren-incassobestand/) | Een incasso bestand genereren op basis van de te incasseren posten.
-[Verwerken bankmutaties](verwerken-bankmutaties/) | De bankmutaties verwerken.
-[Verwerken pintransacties](verwerken-pintransacties/) | De pintransacties verwerken.
+[Aanleveren betaalbestand](aanleveren-betaalbestand/) | Genereren van een betaalbestand op basis van uit te betalen klant- en leveranciersposten.
+[Aanleveren incassobestand](aanleveren-incassobestand/) | Genereren van een incassobestand op basis van de te incasseren posten.
+[Verwerken bankmutaties](verwerken-bankmutaties/) | Verwerken van de bankmutaties.
+[Verwerken pintransacties](verwerken-pintransacties/) | Verwerken van de pintransacties.
 [Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/) | 
 
 ## Zie ook

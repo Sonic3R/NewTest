@@ -9,4 +9,4 @@ Werkproces | Omschrijving
 [Goedkeuren documenten](goedkeuren-documenten/) | Verzoeken ter goedkeuring beoordelen en de beslissing vastleggen.
 [Beheren leveranciersinformatie](beheren-leveranciersinformatie/) | Aanmaken van nieuwe leveranciers en aanpassen van gewijzigde informatie met betrekking tot bestaande leveranciers.
 [Beheren onderhoudscontracten](beheren-onderhoudscontracten/) | 
-[Inkopen PO/VGO](inkopen-po-vgo) | 
+[Inkopen PO/VGO](inkopen-po-vgo) | Inkopen van diensten voor planmatig onderhoud en vastgoedontwikkeling.

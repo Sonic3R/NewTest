@@ -4,7 +4,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren financiering](beheren-financiering/) | 
+[Beheren financiering](beheren-financiering/) | Aantrekken van nieuwe leningen en muteren van bestaande leningen.
 [Genereren overzicht gerealiseerde kasstromen](generen-overzicht-gerealiseerde-kasstromen/) | 
 [Prognosticeren kasstromen](prognosticeren-kasstromen/) | 
 [Prolongeren financiering](prolongeren-financiering/) | 

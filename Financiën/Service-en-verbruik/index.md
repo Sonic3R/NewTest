@@ -6,7 +6,7 @@ Werkproces | Omschrijving
 :--- | :---
 [Vaststellen kosten en opbrengsten](vaststellen-kosten-en-opbrengsten/) | 
 [Bepalen nieuwe voorschotten](bepalen-nieuwe-voorschotten/) | 
-[Genereren afrekenresultaat](genereren-afrekenresultaat/) | 
+[Genereren afrekenresultaat](genereren-afrekenresultaat/) | Overboeken van de afgerekende service- en verbruikskosten en opbrengsten van de balans naar het resultaat.
 
 ## Zie ook
 

@@ -5,7 +5,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Beheren vaste activa in exploitatie](beheren-vaste-activa-in-exploitatie/) | Verwerken van de niet-periodieke mutaties binnen de vaste activa in exploitatie.
-[Beheren vaste activa ten dienste van exploitatie](beheren-vaste-activa-ten-dienste-van-exploitatie/) | 
+[Beheren vaste activa ten dienste van exploitatie](beheren-vaste-activa-ten-dienste-van-exploitatie/) | Aanmaken, muteren en buiten gebruik stellen van vaste activa ten dienste van de exploitatie.
 [Verwerken periodieke mutaties vaste activa](verwerken-periodieke-mutaties-vaste-activa/) | 
 [Beheren fiscale waardering vaste activa](beheren-fiscale-waardering-vaste-activa/) | 
 

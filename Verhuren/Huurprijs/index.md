@@ -9,7 +9,7 @@ Werkproces | Omschrijving
 [Uitvoeren jaarlijkse huurverhoging](uitvoeren-jaarlijkse-huurverhoging/) | De effecten van het huurverhogingsbeleid doorrekenen.
 [Rappeleren klant](rappeleren-klant/) | 
 [Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/) | 
-[Uitvoeren tussentijdse huurprijsaanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/) | 
+[Uitvoeren tussentijdse huurprijsaanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/) | Doorvoeren van tussentijdse huuraanpassingen. Tussentijdse huuraanpassingen zijn alle aanpassingen van de huurprijs van verhuurde en leegstaande OG Eenheden die gedurende het jaar worden doorgevoerd naast de jaarlijkse huurverhoging.
 
 ## Zie ook
 

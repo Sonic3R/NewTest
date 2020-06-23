@@ -6,7 +6,7 @@ Werkproces | Omschrijving
 :--- | :---
 [Beheren dimensies](beheren-dimensies/) |  Beheren van de dimensiewaarden: nieuwe dimensiewaarden kunnen worden aangemaakt, of bestaande kunnen worden geblokkeerd voor verder gebruik.
 [Boeken memoriaal](boeken-memoriaal/) |  Opvoeren en boeken van memoriaalposten.
-[Boeken periodiek dagboek](boeken-periodiek-dagboek/) | 
+[Boeken periodiek dagboek](boeken-periodiek-dagboek/) | Verwerken van de periodieke dagboeken.
 [Verdelen posten naar eenheidsniveau](verdelen-kosten-naar-eenheidsniveau/) | 
 [Overboeken categoriaal naar functioneel](overboeken-categoriaal-naar-functioneel/) | 
 [Verwerken DAEB/niet-DAEB-verdeling](verwerken-daeb-niet-daeb-verdeling/) | Overboeken van de niet-DAEB-gerelateerde posten naar het niet-DAEB-bedrijf.

@@ -6,7 +6,7 @@ Werkproces | Omschrijving
 :--- | :---
 [Beheren financiering](beheren-financiering/) | Aantrekken van nieuwe leningen en muteren van bestaande leningen.
 [Genereren overzicht gerealiseerde kasstromen](generen-overzicht-gerealiseerde-kasstromen/) | Toewijzen van de gerealiseerde cashflow aan de dVi-categorieën.
-[Prognosticeren kasstromen](prognosticeren-kasstromen/) | 
+[Prognosticeren kasstromen](prognosticeren-kasstromen/) | Genereren en analyseren van het overzicht van de te verwachte kasstromen.
 [Prolongeren financiering](prolongeren-financiering/) | 
 
 ## Zie ook

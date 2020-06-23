@@ -5,7 +5,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Registreren (onderhouds) jaarbegroting](registreren-(onderhouds)-jaarbegroting/) | Inlezen in Dynamics Empire van alle uitvoeringsactiviteiten van de jaarbegroting.
-[Voorbereiden onderhoudsproject](voorbereiden-onderhoudsproject/) | 
+[Voorbereiden onderhoudsproject](voorbereiden-onderhoudsproject/) | Samenvoegen van alle uitvoeringsactiviteiten van de jaarbegroting die zijn ingelezen in Dynamics Empire tot een gecombineerde uitvoering. De projecten worden in Dynamics Empire aangemaakt.
 [Bewaken project](bewaken-project/) | 
 [Actualiseren prognose](actualiseren-prognose/) | 
 [Aanmaken contractonderhoudsproject](aanmaken-contractonderhoudsproject/) | 

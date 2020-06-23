@@ -13,7 +13,7 @@ Werkproces | Omschrijving
 [Beheren clusterinformatie](beheren-clusterinformatie/) | Aanmaken van nieuwe clusters en beheren van bestaande clusters.
 [Afsluiten jaar](afsluiten-jaar/) | Verwerken van alle balansmutaties en afsluiten van de winst- en verliesrekening.
 [Vereffenen grootboekposten](vereffenen-grootboekposten/) | Vereffenen van grootboekposten met elkaar, of corrigeren van eerder gemaakte vereffeningen.
-[Dichtzetten periode](dichtzetten-periode/) | 
+[Dichtzetten periode](dichtzetten-periode/) | Dichtzetten van perioden, zodat er niet meer in geboekt kan worden. In eerste instantie zullen nog wel een aantal gebruikers toegang moeten hebben om de activiteiten met betrekking tot het afsluiten van deze periode uit te voeren, maar uiteindelijk zal de periode voor alle gebruikers worden dichtgezet.
 [Beheren grootboekbudgetten](beheren-grootboekbudgetten/) | 
 
 ## Zie ook

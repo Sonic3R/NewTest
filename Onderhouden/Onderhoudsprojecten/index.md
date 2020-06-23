@@ -6,7 +6,7 @@ Werkproces | Omschrijving
 :--- | :---
 [Registreren (onderhouds) jaarbegroting](registreren-(onderhouds)-jaarbegroting/) | Inlezen in Dynamics Empire van alle uitvoeringsactiviteiten van de jaarbegroting.
 [Voorbereiden onderhoudsproject](voorbereiden-onderhoudsproject/) | Samenvoegen van alle uitvoeringsactiviteiten van de jaarbegroting die zijn ingelezen in Dynamics Empire tot een gecombineerde uitvoering. De projecten worden in Dynamics Empire aangemaakt.
-[Bewaken project](bewaken-project/) | 
+[Bewaken project](bewaken-project/) | Bewaken van de voortgang van het onderhoudsproject en waar nodig bijsturen.
 [Actualiseren prognose](actualiseren-prognose/) | 
 [Aanmaken contractonderhoudsproject](aanmaken-contractonderhoudsproject/) | 
 [Uitvoeren contractonderhoud](uitvoeren-contractonderhoud/) | 

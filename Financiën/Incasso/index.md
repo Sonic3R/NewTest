@@ -10,7 +10,7 @@ Werkproces | Omschrijving
 [Beëindigen betalingsregeling](beendigen-betalingsregeling/) | Beëindigen van betalingsregeling(en).
 [Uit handen geven vorderingen](uit-handen-geven-vorderingen/) | Uit handen geven van vorderingen op klanten aan een deurwaarder en bijhouden van de voortgang van het dossier.
 [Verwerken WSNP/minnelijk traject](verwerken-wsnp-minnelijk-traject/) | Registreren van schuldbeheer bij instanties, bewaken van afspraken, en indien van toepassing afboeken van de bijbehorende vordering.
-[Afboeken vorderingen](afboeken-vorderingen/) | 
+[Afboeken vorderingen](afboeken-vorderingen/) | Afboeken van vorderingen van klanten, waarbij de financiën van de betreffende klant niet worden beheerd door derden.
 [Terugboeken vorderingen](terugboeken-vorderingen/) | 
 
 ## Zie ook

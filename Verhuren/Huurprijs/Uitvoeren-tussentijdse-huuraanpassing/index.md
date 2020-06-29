@@ -116,6 +116,6 @@ In de volgende stap voert u deze huuraanpassing door met ingang van een opgegeve
 
 [Afhandelen huurverhogingsbezwaren](../afhandelen-huurverhogingsbezwaren/)  
 [Bepalen huurverhogingsbeleid](../bepalen-huurverhogingsbeleid/)  
-[Rappeleren klant](../rappeleren-klant/)  
+[Rappelleren klant](../rappelleren-klant/)  
 [Uitvoeren jaarlijkse huurverhoging](../uitvoeren-jaarlijkse-huurverhoging/)  
 [Voorbereiden jaarlijkse huurverhoging](../voorbereiden-jaarlijkse-huurverhoging/)  

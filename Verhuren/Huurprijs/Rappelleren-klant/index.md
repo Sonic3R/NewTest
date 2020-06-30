@@ -2,13 +2,13 @@
 
 Deze werkinstructie betreft het werkproces voor het rappelleren van klanten in het kader van de jaarlijkse huurverhoging. De verhuurder is conform de wet verplicht een klant met een huurcontract waarvan de nettohuur m.i.v. de huurverhogingsdatum is verhoogd maar die na de huurverhogingsdatum niet de nieuwe nettohuur betaalt, een aangetekende rappelbrief te sturen met als bijlage de originele huurverhogingsbrief. Een klant heeft niet de nieuwe nettohuur betaald, als tenminste één prolongatiefactuur die betrekking heeft een prolongatieperiode na de huurverhogingsdatum, na de vervaldatum niet of niet volledig zijn betaald.
 
-Als de klant zelf al bezwaar had gemaakt tegen de jaarlijkse huurverhoging, hoeft de verhuurder de klant niet te rappeleren. Ook als de nettohuur van het huurcontract van de klant niet is verhoogd op de huurverhogingsdatum, dan hoeft de verhuurder de klant niet te rappeleren.
+Als de klant zelf al bezwaar had gemaakt tegen de jaarlijkse huurverhoging, hoeft de verhuurder de klant niet te rappelleren. Ook als de nettohuur van het huurcontract van de klant niet is verhoogd op de huurverhogingsdatum, dan hoeft de verhuurder de klant niet te rappelleren.
 
 ## Genereren rappelbrief
 
-In deze stap selecteert u de klanten die voor rappelering in aanmerking komen en genereert u per klant een rappelbrief met bijbehorende huurverhogingsbrief. 
-1. Open de lijst **Huurverhoging - Bezwaarprocedure**. 
-2. Klik op **Acties** en kies voor **Functies** en **Selectie huurverhogingsbezwaarprocedure**. Een pagina genaamd **HVH-bezwaarprocedure** met verschillende opties en filtermogelijkheden wordt geopend. 
+In deze stap selecteert u de klanten die voor rappellering in aanmerking komen en genereert u per klant een rappelbrief met bijbehorende huurverhogingsbrief.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhoging - Bezwaarprocedure**.
+2. Klik op **Acties** en kies voor **Functies** en **Selectie huurverhogingsbezwaarprocedure**. Een pagina genaamd **HVH-bezwaarprocedure** met verschillende opties en filtermogelijkheden wordt geopend.
 3. Vul optie **Indexeringsdatumfilter** met de huurverhogingsdatum (bijvoorbeeld * 1-7-2020*). 
 4. Pas eventueel de waarde van optie **Vervaldatum vóór** aan. 
 5. Vul eventueel één of meer uitsluitingen in. 

@@ -115,12 +115,11 @@ In deze stap past u de cartotheekitems van een OG Eenheid aan.
 
 ## Zie ook
 
-[Bewaken uitvoering onderhoudsorder](../bewaken-uitvoering-onderhoudsorder/)  
-[Registreren onderhoudsverzoek](../registreren-onderhoudsverzoek/)  
-[Samenstellen onderhoudsorders](../samenstellen-onderhoudsorders/)  
-[Uitvoeren contractueel onderhoud](../uitvoeren-contractueel-onderhoud/)  
-[Uitvoeren inspectie-opdracht](../uitvoeren-inspectie-opdracht/)  
-[Uitvoeren onderhoudsorder](../Uitvoeren-onderhoudsorder/)  
-[Beoordelen ZAV-aanvraag](../beoordelen-zav-aanvraag/)  
 [Beheren collectief-object-informatie](../beheren-collectief-object-informatie/)  
 [Uitvoeren inspectie naar staat eenheid](../uitvoeren-inspectie-naar-staat-eenheid/)  
+[Uitvoeren inspectie-opdracht](../uitvoeren-inspectie-opdracht/)  
+[Registreren onderhoudsverzoek](../registreren-onderhoudsverzoek/)  
+[Samenstellen onderhoudsorder](../samenstellen-onderhoudsorder/)  
+[Uitvoeren onderhoudsorder](../Uitvoeren-onderhoudsorder/)  
+[Bewaken uitvoering onderhoudsorder](../bewaken-uitvoering-onderhoudsorder/)  
+[Beoordelen ZAV-aanvraag](../beoordelen-zav-aanvraag/)  

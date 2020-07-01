@@ -7,4 +7,3 @@
 [Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
 [Bewaken project](../bewaken-project/)  
 [Aanmaken contractonderhoudsproject](../aanmaken-contractonderhoudsproject/)  
-[Muteren onderhoudscontract](../muteren-onderhoudscontract/)  

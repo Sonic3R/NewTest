@@ -1,4 +1,4 @@
-# Distribueren materialen
+# Beheren artikelinformatie
 
 Binnenkort beschikbaar
 

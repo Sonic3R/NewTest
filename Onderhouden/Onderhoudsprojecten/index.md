@@ -10,7 +10,6 @@ Werkproces | Omschrijving
 [Actualiseren prognose](actualiseren-prognose/) | 
 [Aanmaken contractonderhoudsproject](aanmaken-contractonderhoudsproject/) | 
 [Uitvoeren contractonderhoud](uitvoeren-contractonderhoud/) | 
-[Muteren onderhoudscontract](muteren-onderhoudscontract/) | 
 
 ## Zie ook
 

@@ -44,3 +44,4 @@ Wanneer u bepaalde leveranciersposten uit wilt sluiten van automatische betaling
 [Ontvangen inkoopfacturen](../ontvangen-inkoopfacturen/)  
 [Verwerken inkoopcreditnotas](../verwerken-inkoopcreditnotas/)  
 [Verwerken inkoopfacturen](../verwerken-inkoopfacturen/)  
+[Verwerken terugkoopfactuur onroerend goed](../verwerken-terugkoopfactuur-onroerend-goed/)

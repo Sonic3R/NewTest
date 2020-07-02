@@ -69,7 +69,7 @@ In deze stap fiatteert u de nieuwe nettohuur. Hierbij wordt ervan uitgegaan dat 
 [Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
 [Innemen eenheid](../innemen-eenheid/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
-[Opleveren eenheid](../opleveren-eenheid/)
+[Opleveren eenheid](../opleveren-eenheid/)  
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  

@@ -71,7 +71,6 @@ In deze stap legt u de weigering van de kandidaat door de corporatie vast in het
 
 ## Zie ook
 
-
 [Beheren verhuurbare eenheidsinformatie](../beheren-verhuurbare-eenheidsinformatie/)  
 [Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
 [Innemen eenheid](../innemen-eenheid/)  
@@ -80,3 +79,4 @@ In deze stap legt u de weigering van de kandidaat door de corporatie vast in het
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)

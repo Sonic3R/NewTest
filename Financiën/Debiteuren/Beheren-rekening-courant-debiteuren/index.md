@@ -66,4 +66,4 @@ Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit do
 [Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
 [Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
 [Factureren nieuwbouw](../factureren-nieuwbouw/)  
-[Crediteren onroerend goed](../crediteren-onroerend-goed/)  
+

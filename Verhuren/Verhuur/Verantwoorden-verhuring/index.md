@@ -77,6 +77,7 @@ In deze stap schoont u de privacygevoelige gegevens uit de verantwoordingen verh
 [Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
 [Innemen eenheid](../innemen-eenheid/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
-[Opleveren eenheid](../opleveren-eenheid/)
+[Opleveren eenheid](../opleveren-eenheid/)  
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
+[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)

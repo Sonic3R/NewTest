@@ -4,6 +4,7 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Beheren rekening courant crediteuren](../beheren-rekening-courant-crediteuren/)  
 [Verwerken inkoopcreditnotas](../verwerken-inkoopcreditnotas/)  
 [Verwerken inkoopfacturen](../verwerken-inkoopfacturen/)  
+[Beheren rekening-courant-crediteuren](../beheren-rekening-courant-crediteuren/)  
+[Verwerken terugkoopfactuur onroerend goed](../verwerken-terugkoopfactuur-onroerend-goed/)

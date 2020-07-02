@@ -75,4 +75,4 @@ Nadat u de factuurgegevens gevuld heeft kunt u de verhuurcreditnota boeken en ve
 [Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
 [Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
 [Factureren nieuwbouw](../factureren-nieuwbouw/)  
-[Crediteren onroerend goed](../crediteren-onroerend-goed/)  
+

@@ -7,7 +7,6 @@ Werkproces | Omschrijving
 [Factureren onderhoudsdiensten](factureren-onderhoudsdiensten/) | Factureren van de kosten voor correctief onderhoud aan klanten.
 [Periodiek factureren huurovereenkomst](periodiek-factureren-huurovereenkomst/) | Factureren van de maandelijkse huur aan de huurders. Dit proces wordt ook wel prolongeren genoemd.
 [Factureren verkoop onroerend goed](factureren-verkoop-onroerend-goed/) | Factureren van het verkochte onroerend goed.
-[Crediteren onroerend goed](crediteren-onroerend-goed/) | Crediteren van de diensten die geen betrekking hebben op onderhoud, periodieke huur of het verkopen van onroerend goed.
 [Factureren overige diensten](factureren-overige-diensten/) | Factureren van diensten die geen betrekking hebben op onderhoud, periodieke huur of het verkopen van onroerend goed.
 [Factureren afrekening](factureren-afrekening/) | Factureren van geboekte service- en verbruikafrekeningen aan de klanten.
 [Crediteren overige diensten](crediteren-overige-diensten/) | Crediteren van diensten die geen betrekking hebben op onderhoud, periodieke huur of het verkopen van onroerend goed.

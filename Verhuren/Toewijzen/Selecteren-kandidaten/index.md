@@ -7,4 +7,3 @@ Binnenkort beschikbaar
 [Beheren woningzoekende-informatie](../beheren-woningzoekende-informatie/)  
 [Publiceren eenheid](../publiceren-eenheid)  
 [Toewijzen eenheid](../toewijzen-eenheid)
-[Verlengen inschrijving woningzoekende](../verlengen-inschrijving-woningzoekende/)  

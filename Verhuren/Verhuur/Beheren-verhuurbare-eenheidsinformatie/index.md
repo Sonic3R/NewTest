@@ -159,3 +159,4 @@ In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoo
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)

@@ -52,3 +52,4 @@ In deze stap wordt de ondertekende huurovereenkomst gearchiveerd en verzonden na
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)

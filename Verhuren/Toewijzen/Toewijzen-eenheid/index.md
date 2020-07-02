@@ -26,4 +26,3 @@ In deze stap drukt u de uitnodiging af voor ondertekening van de huurovereenkoms
 [Beheren woningzoekende-informatie](../beheren-woningzoekende-informatie/)  
 [Publiceren eenheid](../publiceren-eenheid)  
 [Selecteren kandidaten](../selecteren-kandidaten)  
-[Verlengen inschrijving woningzoekende](../verlengen-inschrijving-woningzoekende/)  

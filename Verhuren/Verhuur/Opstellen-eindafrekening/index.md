@@ -33,7 +33,7 @@ In deze stap verstuurt u de gegenereerde eindafrekening naar de vertrekkende huu
 [Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
 [Innemen eenheid](../innemen-eenheid/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
-[Opleveren eenheid](../opleveren-eenheid/)
+[Opleveren eenheid](../opleveren-eenheid/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
 [Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)

@@ -60,6 +60,7 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 [Bepalen aanbiedhuur](../bepalen-aanbiedhuur/)  
 [Innemen eenheid](../innemen-eenheid/)  
 [Ondertekenen huurovereenkomst](../ondertekenen-huurovereenkomst/)  
-[Opleveren eenheid](../opleveren-eenheid/)
+[Opleveren eenheid](../opleveren-eenheid/)  
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
+[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)

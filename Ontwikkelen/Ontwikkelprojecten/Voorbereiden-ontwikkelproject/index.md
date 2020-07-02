@@ -4,7 +4,6 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Initiëren project](../initieren-project/)  
-[Registreren budget](../registreren-budget/)  
+[Voorbereiden projectfase](../voorbereiden-projectfase/)  
 [Registreren uren](../registreren-uren/)  
 [Afronden projectfase](../afronden-projectfase/)  

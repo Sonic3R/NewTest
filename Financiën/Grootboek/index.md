@@ -9,6 +9,7 @@ Werkproces | Omschrijving
 [Boeken periodiek dagboek](boeken-periodiek-dagboek/) | Verwerken van de periodieke dagboeken.
 [Verdelen posten naar eenheidsniveau](verdelen-kosten-naar-eenheidsniveau/) | Verdelen naar OG Eenheden van kosten en opbrengsten die op clusterniveau geboekt zijn.
 [Overboeken categoriaal naar functioneel](overboeken-categoriaal-naar-functioneel/) | Overboeken van de categoriaal geboekte kosten in de 4-rubriek naar de functionele indeling in de 8-rubriek.
+[Periodiek actualiseren clusterverdeelsleutels](periodiek-actualiseren-clusterverdeelsleutels/) | 
 [Verwerken DAEB/niet-DAEB-verdeling](verwerken-daeb-niet-daeb-verdeling/) | Overboeken van de niet-DAEB-gerelateerde posten naar het niet-DAEB-bedrijf.
 [Beheren clusterinformatie](beheren-clusterinformatie/) | Aanmaken van nieuwe clusters en beheren van bestaande clusters.
 [Afsluiten jaar](afsluiten-jaar/) | Verwerken van alle balansmutaties en afsluiten van de winst- en verliesrekening.

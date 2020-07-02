@@ -119,4 +119,3 @@ Wanneer u de facturen voor de komende periode geboekt heeft kunt u wanneer van t
 [Factureren overige diensten](../factureren-overige-diensten/)  
 [Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
 [Factureren nieuwbouw](../factureren-nieuwbouw/)  
-[Crediteren onroerend goed](../crediteren-onroerend-goed/)  

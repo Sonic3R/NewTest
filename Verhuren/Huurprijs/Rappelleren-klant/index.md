@@ -15,7 +15,7 @@ In deze stap selecteert u de klanten die voor rappellering in aanmerking komen e
 6. Vul eventueel één of meer filters in. 
 7. Klik op **OK**. 
 
-Op de lijst **Huurverhoging - Bezwaarprocedure** worden alle klanten getoond die zijn geselecteerd voor de rappelprocedure en/of die zelf bezwaar hebben gemaakt tegen de jaarlijkse huurverhoging. In de kolom '**Rappelbrief** wordt aangegeven of de klant is geselecteerd voor de rappelprocedure.
+Op de lijst **Huurverhoging - Bezwaarprocedure** worden alle klanten getoond die zijn geselecteerd voor de rappelprocedure en/of die zelf bezwaar hebben gemaakt tegen de jaarlijkse huurverhoging. In de kolom **Rappelbrief** wordt aangegeven of de klant is geselecteerd voor de rappelprocedure.
 
 8. Selecteer een klant die is geselecteerd voor de rappelprocedure en kies voor de actie **Afdrukken**, **Rappelbrief**. Een pagina met opties voor de rappelbrief wordt geopend. 
 9. Klik de optie **Huurverhogingsdocument** aan en kies voor **Verzenden naar** - **PDF-document**. 

@@ -14,7 +14,7 @@ b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waari
 
 _**Ad a:**_
 
-1. Ga via de het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Onr. Goed Eenhedenoverzicht**.
+1. Ga via de het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **OG Eenheden**.
 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
 3. Open tabblad **Exploitatie (Fin.)**.
 4. Selecteer in veld **Huurverhogingsbeleidstype** het juiste beleidstype.
@@ -39,7 +39,7 @@ b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waari
 
 _**Ad a:**_
 
-1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Onr. Goed Eenhedenoverzicht**.
+1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **OG Eenheden**.
 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
 3. Open tabblad **Exploitatie (Fin.)**.
 4. Selecteer in veld **Nettohuuraftopping** de juiste aftopping.
@@ -96,7 +96,7 @@ In deze stap simuleert u de berekening van de nieuwe nettohuur van één of meer
 
 In deze stap controleert u de uitkomst van de simulatie van de berekening van de nieuwe nettohuur.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhogingsoverzicht**. Het huurverhogingsoverzicht wordt geopend.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Jaarlijkse huurverhogingen**. Het huurverhogingsoverzicht wordt geopend.
 2. U kunt de uitkomst van de berekening controleren in de desbetreffende kolommen (o.a. **Nieuwe nettohuur** en **Effectief verhogingspercentage**) van het overzicht.
 3. Als u de details van de uitkomst van de berekening wilt bekijken van een OG Eenheid, klik dan op de **Tijdvakcode** in de desbetreffende regel van het overzicht. De detailpagina van de geselecteerde huurverhoging wordt geopend. De uitkomst van de berekening staat vermeld in de tabbladen **Berekening en effectuering** en **Nettohuur elementen**. Sluit de detailpagina.
 4. U kunt de uitkomsten van de berekening ook vanaf het overzicht exporteren naar Excel (klik op **Pagina** en kies voor **Openen in Excel**). In Excel kunt u o.a. de gemiddelde huursomstijging als gevolg van de jaarlijkse huurverhoging berekenen.
@@ -113,7 +113,7 @@ Mocht de uitkomst van de simulatieberekening niet acceptabel zijn, pas dan het h
 
 In deze stap maakt u een definitieve berekening van de nieuwe nettohuur van geselecteerde OG Eenheden waarvan de uitkomst van de simulatie acceptabel was. Doordat de definitieve berekening wordt gedaan op basis van dezelfde huurverhogingsparameters als de simulatieberekening, is de uitkomst van de definitieve berekening gelijk aan die van de simulatieberekening. Het verschil is dat de uitkomst van de definitieve berekening per eenheid wordt opgeslagen in de contractregel die fungeert als basiscontract voor de jaarlijkse huurverhoging (d.w.z. de contractregel die geldig is op de dag vóór de huurverhogingsdatum).
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhogingsoverzicht**. Het huurverhogingsoverzicht wordt geopend.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Jaarlijkse huurverhogingen**. Het huurverhogingsoverzicht wordt geopend.
 2. Pas indien nodig het filter op kolom **Tijdvakcode** aan, zodat de huurverhogingen van het juiste tijdvak worden getoond.
 3. Selecteer de huurverhogingen van de OG Eenheden waarvan u de nieuwe nettohuur definitief wilt berekenen.  
 4. Klik op **Proces** en kies voor **Berekenen (definitief)**. De nieuwe nettohuur van de geselecteerde OG Eenheden wordt definitief berekend en de **Verwerkingsstatus** van de geselecteerde huurverhogingen wordt aangepast naar *Definitief*.

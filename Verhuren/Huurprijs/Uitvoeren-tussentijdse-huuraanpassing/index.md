@@ -42,7 +42,7 @@ Deze stap betreft het toevoegen of aanpassen van service elementen aan het huurc
 
 Deze stap betreft het aanpassen van elk element van het huurcontract. Hieronder valt ook het verhogen of verlagen van de nettohuur. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht** en selecteer de OG Eenheid waarvoor de huuraanpassing moet worden doorgevoerd door op het eenheidnummer te klikken.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden** en selecteer de OG Eenheid waarvoor de huuraanpassing moet worden doorgevoerd door op het eenheidnummer te klikken.
 2. Navigeer naar de **Verhuurcontracten**. Een pagina genaamd **Contractoverzicht** wordt geopend, waarop alle bestaande contractregels van de geselecteerde OG Eenheid worden getoond. 
 3. Klik op de knop **+Nieuw**. Een nieuwe regel wordt getoond bovenaan het overzicht. 
 4. Voer in kolom **Ingangsdatum** de datum in per wanneer de huuraanpassing moet ingaan. Het systeem maakt een nieuwe contractregel aan d.m.v. het kopiëren van de voorgaande contractregel en bijbehorende elementen.  

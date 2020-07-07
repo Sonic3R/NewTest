@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 [Afhandelen klacht](afhandelen-klacht/) | 
 [Behandelen zaak](behandelen-zaak/) | 
 [Beheren klantinformatie](beheren-klantinformatie/) | Informatie beheren over bestaande klanten, zoals het aanpassen van contactpersonen, contactgegevens, correspondentieadres en betalingsgegevens.
-[Beoordelen verzoek geriefsverbetering/WMO](beoordelen-verzoek-geriefsverbetering-WMO/) | 
+[Beoordelen verzoek geriefsverbetering/WMO](beoordelen-verzoek-geriefsverbetering-WMO/) | Beoordelen van verzoeken tot het realiseren van geriefsverbeteringen en het beoordelen van verzoeken tot het realiseren van WMO-aanpassingen.
 [Meten klanttevredenheid](meten-klanttevredenheid/) | 
 
 ## Zie ook

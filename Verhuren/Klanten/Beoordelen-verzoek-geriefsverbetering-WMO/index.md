@@ -1,21 +1,21 @@
 # Beoordelen verzoek geriefsverbetering/WMO
 
-Dit werkproces betreft het beoordelen van verzoeken tot het realiseren van geriefsverbeteringen en het beoordelen van verzoeken tot het realiseren van WMO-aanpassingen.
-Geriefsverbeteringen zijn aanpassingen van de woning met als doel het verhogen van het woongenot van de bewoners. Verzoeken tot geriefsverbetering worden ingediend door de huurders. 
-WMO-aanpassingen zijn aanpassingen van de woning met als doel om een bewoner met beperkingen in staat te stellen goed in de woning te kunnen wonen, zoals bijvoorbeeld een traplift of aanpassingen om een woning rolstoeltoegankelijk te maken. Verzoeken tot WMO-aanpassingen kunnen bij de verhuurder worden ingediend door de gemeente of door de huurder. 
+Dit werkproces betreft het beoordelen van verzoeken tot het realiseren van geriefsverbeteringen en het beoordelen van verzoeken tot het realiseren van WMO-aanpassingen.  
+*Geriefsverbeteringen* zijn aanpassingen van de woning met als doel het verhogen van het woongenot van de bewoners. Verzoeken tot geriefsverbetering worden ingediend door de huurders.   
+*WMO-aanpassingen* zijn aanpassingen van de woning met als doel om een bewoner met beperkingen in staat te stellen goed in de woning te kunnen wonen, zoals bijvoorbeeld een traplift of aanpassingen om een woning rolstoeltoegankelijk te maken. Verzoeken tot WMO-aanpassingen kunnen bij de verhuurder worden ingediend door de gemeente of door de huurder. 
 
 ## Plannen inspectie
 
 In deze stap plant u een inspectie om te inventariseren welke onderhoudstaken uitgevoerd moeten worden om de gevraagde aanpassingen te realiseren. Daartoe maakt u eerst een onderhoudsverzoek aan voor de betreffende OG Eenheid en plant vervolgens een inspectie binnen dat onderhoudsverzoek. 
-1. Open de overzichtspagina **OG Eenheden**  
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Zoek en selecteer de OG Eenheid waarop het verzoek tot geriefsverbetering of WMO-aanpassingen betrekking heeft. 
 3. Klik op **Nieuw** en kies voor **Onderhoudsverzoek**. De pagina **Onderhoudsverzoekkaart** wordt geopend. 
-4. Selecteer de waarde *WMO-aanvraag* of *Woningverbetering* in het veld **Onderhoudstype**. 
-5. Vul een korte omschrijving van de aangevraagde woningaanpassing in het veld **Omschrijving**. 
-6. Maak eventueel aanvullende omschrijvingen aan op de pagina die is te bereiken via de knop **Aanvullende omschrijvingen** in het menu of via de link in het gelijknamige veld in feitenblok **Onderhoudsverzoekgegevens**. 
-7. In het geval van een WMO-aanvraag die is ingediend door een vertegenwoordiger van de gemeente, selecteer dan de betreffende contact in veld **Nr. melder** in het tabblad **Melder**.  
-8. Navigeer naar de pagina met inspectieafspraken. Deze pagina is te bereiken via de knop **Inspectieafspraken** in het menu of via de link in het gelijknamige veld in feitenblok **Onderhoudsverzoekgegevens**.  
-9. Klik op **Nieuw**. 
+4. Selecteer de waarde 'WMO aanpassing' of 'Woningverbetering' in het veld **Onderhoudstype**.
+5. Vul een korte omschrijving van de aangevraagde woningaanpassing in het veld **Omschrijving** in. 
+6. Navigeer via het menu naar **Aanvullende omschrijvingen** om eventueel aanvullende omschrijvingen aan te maken, of ga daarheen via de link achter het gelijknamige veld in feitenblok **Onderhoudsverzoekgegevens** onder **Algemeen**. 
+7. Betreft het een WMO-aanvraag die is ingediend door een vertegenwoordiger van de gemeente, selecteer dan het betreffende contact in veld **Nr. melder** op tabblad **Melder**. 
+8. Navigeer naar de pagina met **Inspectieafspraken**: via het menu of via de link in het gelijknamige veld in feitenblok **Onderhoudsverzoekgegevens** onder **Algemeen**.  
+9. Klik op **Nieuw** (tweemaal).
 10. Klik op **Verwerken** en kies voor **Inspectieafspraak plannen**. 
 11. Selecteer de **Datum** waarop de inspectie wordt uitgevoerd. 
 12. Selecteer een tijdsblok op de regel van de inspecteur die de inspectie gaat uitvoeren. 
@@ -25,7 +25,7 @@ In deze stap plant u een inspectie om te inventariseren welke onderhoudstaken ui
 
 In deze stap vraagt u een offerte aan bij een leverancier voor de realisatie van de benodigde aanpassingen in de woning. Deze stap is alleen nodig als voor de benodigde onderhoudstaken geen vaste taakprijzen bekend zijn. Als er wel vaste taakprijzen bekend zijn, dan worden zowel de kosten als het door te belasten bedrag automatisch bepaald door de onderhoudstaken die tijdens de inspectie zijn aangemaakt. 
 
-N.t.b. binnen Vastgoed-domein. 
+Zie voor deze stap het werkproces Inkopen PO/VGO. 
 
 ## Voorstellen eenmalige aanpassingskosten
 

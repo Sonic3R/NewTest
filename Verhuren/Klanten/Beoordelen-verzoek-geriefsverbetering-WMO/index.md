@@ -1,9 +1,7 @@
 # Beoordelen verzoek geriefsverbetering/WMO
 
 Dit werkproces betreft het beoordelen van verzoeken tot het realiseren van geriefsverbeteringen en het beoordelen van verzoeken tot het realiseren van WMO-aanpassingen.
-
 Geriefsverbeteringen zijn aanpassingen van de woning met als doel het verhogen van het woongenot van de bewoners. Verzoeken tot geriefsverbetering worden ingediend door de huurders. 
-
 WMO-aanpassingen zijn aanpassingen van de woning met als doel om een bewoner met beperkingen in staat te stellen goed in de woning te kunnen wonen, zoals bijvoorbeeld een traplift of aanpassingen om een woning rolstoeltoegankelijk te maken. Verzoeken tot WMO-aanpassingen kunnen bij de verhuurder worden ingediend door de gemeente of door de huurder. 
 
 ## Plannen inspectie

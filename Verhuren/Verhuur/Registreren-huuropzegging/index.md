@@ -6,7 +6,7 @@ In dit werkproces wordt het huurcontract van een huurder op een eenheid beëindi
 
 In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres van de vertrekkende huurder en een leegstandscontract voor de OG Eenheid.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Zoek de OG Eenheid op waarvoor de huuropzegging moet worden vastgelegd en selecteer deze.
 3. Klik op de link achter **Klantnr.** in het feitenblok **Klantinformatie**. De **Klantkaart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft.
 4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegd is namens die klant het huurcontract te beëindigen.

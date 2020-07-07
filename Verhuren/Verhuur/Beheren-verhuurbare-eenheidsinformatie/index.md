@@ -13,7 +13,7 @@ Binnen dit proces wordt informatie over verhuurbare eenheden beheerd.  Dit betre
 
 In deze stap registreert of wijzigt u de basisinformatie van de verhuurbare eenheid.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de OG Eenheid waarvan basisinformatie moet worden beheerd.
 3. Klik op het **Nr.** van de OG Eenheid. De pagina **Onroerend goed eenheidkaart** wordt geopend.
 4. Open een tabblad en wijzig de velden waarin de te wijzigen basisinformatie is vastgelegd.
@@ -50,7 +50,7 @@ In deze stap past u de woningwaardering van de OG Eenheid aan. Dit doet u door e
 
 Welke soort woningwaardering van toepassing is voor de OG Eenheid, wordt bepaald door het veld **Woonruimte**.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de juiste OG Eenheid.
 3. Kies voor **Woningwaardering**.  Een pagina wordt geopend met details van de bestaande versie van de woningwaardering die momenteel actief is (op basis van de ingangsdatum van deze en andere versies).
 4. Klik op **Nieuw**, selecteer een datum in het veld **Ingangsdatum** en verlaat het veld. Een nieuwe versie van de woningwaardering wordt aangemaakt met exact dezelfde details als de versie die tot nog toe actief was op de geselecteerde ingangsdatum. Als gevolg van het aanmaken van de nieuwe versie is de vorige versie actief *tot* de ingangsdatum van de nieuwe versie. Als de ingangsdatum van de nieuwe versie gelijk is aan de ingangsdatum van de vorige versie, dan krijgt de nieuwe versie een volgnummer dat 1 hoger is dan het volgnummer van de vorige versie en is de vorige versie op geen enkele datum meer actief.
@@ -103,7 +103,7 @@ In deze stap past u de streefhuurmethode van de OG Eenheid aan van 'Statisch' na
 
 De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individuele OG Eenheid.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
 3. Open tabblad **Exploitatie (Fin.)**.  
 4. Als u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Streefhuurcode**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is.
@@ -121,17 +121,17 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
 
 #### Aanvraag voor wijziging van administratief eigenaar invullen ####
 
-1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via    het zoekveld naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Klik in het rolcentrum op de knop **OG Eenheden** of navigeer via het zoekveld naar de lijst **OG Eenheden**.
 2. Selecteer de OG Eenheid en open de kaart door op het nummer te klikken.
-3. Navigeer naar **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend.
-4. Klik op **Administratief eigenaar wijzigen** .  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een lege regel met het eenheidsnummer en het adres van de geselecteerde OG Eenheid wordt getoond.
+3. Navigeer naar **Administratief eigenaar**. Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend.
+4. Klik op **Administratief eigenaar wijzigen**. Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een lege regel met het eenheidsnummer en het adres van de geselecteerde OG Eenheid wordt getoond.
 5. Vul de **Ingangsdatum wijziging** in. Let op: deze datum moet ná vandaag liggen en op of ná de datum t/m wanneer de OG Eenheid is geprolongeerd.
 6. In kolom **Nieuwe dimensiewaarde** selecteert u de nieuwe administratief eigenaar.
-7. De regel krijgt automatisch de **Status** *Voorlopig*.
+7. De regel krijgt automatisch de **Status** 'Voorlopig'.
 
 #### Aanvraag voor wijziging van administratief eigenaar goedkeuren ####
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
 3. Klik op **Administratief eigenaar**.  Een pagina genaamd **Administratief eigenaren per OG Eenheid** wordt geopend.
 4. Klik op **Administratief eigenaar wijzigen**.  Een pagina genaamd **Wijzigen administratief eigenaren** wordt geopend waarop een gevulde regel met de **Status** 'Voorlopig' wordt getoond.
@@ -143,9 +143,9 @@ Het wijzigen van de administratief eigenaar van een OG Eenheid gaat in twee stap
 
 In deze stap past u de contactpersonen van de OG Eenheid aan. Elke contactpersoon behoort tot een functiegroep, zoals huismeester.  Eén OG Eenheid kan per functiegroep maximaal één contactpersoon hebben.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de OG Eenheid en open de kaart door op het nummer te klikken.
-3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie**  en een **Contactnr.**
+3. Op het tabblad **Contactbeheer** worden de huidige contactpersonen van de OG Eenheid getoond. Om een nieuwe contactpersoon toe te voegen selecteert u een lege regel en selecteert u op deze regel een **Functie** en een **Contactnr.**
 4. Om de functie van een bestaande contactpersoon te wijzigen, selecteert u de desbetreffende regel en wijzigt u de **Functie**.
 5. Om een bestaande contactpersoon te verwijderen van de OG Eenheid selecteert u de desbetreffende regel en klikt u op **Regel verwijderen** (via het menu-item bovenin het tabblad).
 

@@ -25,30 +25,28 @@ In deze stap plant u een inspectie om te inventariseren welke onderhoudstaken ui
 
 In deze stap vraagt u een offerte aan bij een leverancier voor de realisatie van de benodigde aanpassingen in de woning. Deze stap is alleen nodig als voor de benodigde onderhoudstaken geen vaste taakprijzen bekend zijn. Als er wel vaste taakprijzen bekend zijn, dan worden zowel de kosten als het door te belasten bedrag automatisch bepaald door de onderhoudstaken die tijdens de inspectie zijn aangemaakt. 
 
-Zie voor deze stap het werkproces Inkopen PO/VGO. 
+Zie voor deze stap het werkproces **[Inkopen PO/VGO](../inkopen-PO-VGO/)**.
 
 ## Voorstellen eenmalige aanpassingskosten
 
 In deze stap communiceert u een voorstel aan de aanvrager waarin het bedrag wordt vermeld dat eenmalig aan de aanvrager zal worden doorbelast zodra de aangevraagde aanpassingen daadwerkelijk worden gerealiseerd. 
-1. Open de overzichtspagina **OG Eenheden**  
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Zoek en selecteer de OG Eenheid waarop het verzoek tot geriefsverbetering of WMO-aanpassingen betrekking heeft. De detailpagina van de OG Eenheid wordt geopend. 
 3. Klik op de link **Onderhoudsverzoek** in het feitenblok **Status**. 
 4. Selecteer het onderhoudsverzoek met de omschrijving die was ingevoerd in stap *Plannen inspectie*. 
-5. In het tabblad **Onderhoudstaken** worden de onderhoudstaken vermeld die zijn aangemaakt tijdens de inspectie. 
-6. In de kolom **Bedrag doorbelasting incl. BTW** staat per onderhoudstaak vermeld wat het bedrag is dat eenmalig aan de aanvrager wordt doorbelast. 
-7. Klik op **Acties** en kies voor **Word-document** en kies de juiste brief met een voorstel voor eenmalige doorbelasting aan de melder.
+5. Op het tabblad **Onderhoudstaken** worden de onderhoudstaken vermeld die zijn aangemaakt tijdens de inspectie. In de kolom **Bedrag doorbelasting incl. BTW** staat per onderhoudstaak vermeld wat het bedrag is dat eenmalig aan de aanvrager wordt doorbelast. 
+6. Klik op **Acties** en kies voor **Word-document**. Selecteer de juiste brief met een voorstel voor eenmalige doorbelasting aan de melder.
 
 ## Voorstellen huurprijsaanpassing
 
 In deze stap communiceert u een voorstel aan de aanvrager waarin het bedrag wordt vermeld waarmee de nettohuur van het huurcontract tussentijds zal worden verhoogd, zodra de aangevraagde aanpassingen daadwerkelijk worden gerealiseerd. Dit bedrag moet handmatig worden bepaald op basis van de kosten van de onderhoudstaken die tijdens de inspectie zijn aangemaakt. 
-1. Open de overzichtspagina **OG Eenheden**  
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.  
 2. Zoek en selecteer de OG Eenheid waarop het verzoek tot geriefsverbetering of WMO-aanpassingen betrekking heeft. De detailpagina van de OG Eenheid wordt geopend. 
 3. Klik op de link **Onderhoudsverzoek** in het feitenblok **Status**. 
 4. Selecteer het onderhoudsverzoek met de omschrijving die was ingevoerd in stap *Plannen inspectie*. 
-5. In het tabblad **Onderhoudstaken** worden de onderhoudstaken vermeld die zijn aangemaakt tijdens de inspectie. 
-6. In de kolom **Bedrag (LV)** staat per onderhoudstaak vermeld wat het bedrag is dat de verhuurder eenmalig moet betalen aan degene die de betreffende taak uitvoert. Bereken de som van deze bedragen. 
-7. Bepaal op basis van de uitkomst het bedrag waarmee de nettohuur van het huurcontract wordt verhoogd.  
-8. Klik op **Acties** en kies voor **Word-document** en kies de juiste brief met een voorstel voor tussentijdse huurprijsaanpassing aan de huurder.
+5. Op het tabblad **Onderhoudstaken** worden de onderhoudstaken vermeld die zijn aangemaakt tijdens de inspectie. In de kolom **Bedrag (LV)** staat per onderhoudstaak vermeld wat het bedrag is dat de verhuurder eenmalig moet betalen aan degene die de betreffende taak uitvoert. Bereken de som van deze bedragen. 
+6. Bepaal op basis van de uitkomst het bedrag waarmee de nettohuur van het huurcontract wordt verhoogd.  
+7. Klik op **Acties** en kies voor **Word-document**. Selecteer de juiste brief met een voorstel voor tussentijdse huurprijsaanpassing aan de huurder.
 
 ## Zie ook
 

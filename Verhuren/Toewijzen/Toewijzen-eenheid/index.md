@@ -14,7 +14,7 @@ Een conceptversie van de eerste verhuurfactuur wordt afgedrukt als bijlage bij d
 
 In deze stap drukt u de uitnodiging af voor ondertekening van de huurovereenkomst. In de bijlagen bij deze uitnodiging zijn de concept huurovereenkomst en de concept eerste verhuurfactuur opgenomen. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutatieoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
 2. Zoek de verhuurmutatie op waarvan de aanbiedhuur moet worden bepaald.
 3. Open de detailpagina van de verhuurmutatie door op het nummer te klikken.
 4. Navigeer naar de **Verhuuraanbieding**.  Een pagina wordt geopend met de details van de verhuuraanbieding.

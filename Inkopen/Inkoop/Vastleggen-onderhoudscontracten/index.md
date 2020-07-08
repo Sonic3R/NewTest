@@ -1,6 +1,6 @@
 # Vastleggen onderhoudscontracten
 
-De uitgangspunten van een contract dienen in Dynamics Empire vastgelegd te worden en door een contractbeheerder gefiatteerd te worden. De contractbeheerder zodoende het totaal budget beschikbaar voor de duur van de looptijd van het contract. Vervolgens kunnen dan ook  contractonderhoudsprojecten op contract worden aangemaakt waarin de verplichtingenadministratie kan worden gevoerd.
+In dit werkproces worden de uitgangspunten van een contract in Dynamics Empire vastgelegd en door een contractbeheerder gefiatteerd. De contractbeheerder heeft zodoende het totaalbudget beschikbaar voor de duur van de looptijd van het contract. Vervolgens kunnen ook onderhoudsprojecten op contract worden aangemaakt waarin de verplichtingenadministratie kan worden gevoerd.
 
 ## Opvoeren onderhoudscontract
  1. Ga voor het opvoeren van een onderhoudscontract naar **Contractoverzicht**.

@@ -1,6 +1,6 @@
 # Aanleveren betaalbestand
 
-In dit detailproces wordt een betaalbestand gegenereerd op basis van uit te betalen klant- en leveranciersposten.
+In dit werkproces wordt een betaalbestand gegenereerd op basis van uit te betalen klant- en leveranciersposten.
 
 ## Ophalen voorstel leveranciersposten
 

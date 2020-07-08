@@ -14,7 +14,7 @@ b. In bulk aan meerdere OG Eenheden, via een import uit een Excel-werkblad waari
 
 _**Ad a:**_
 
-1. Ga via de het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **OG Eenheden**.
+1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **OG Eenheden**.
 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
 3. Open tabblad **Exploitatie (Fin.)**.
 4. Selecteer in veld **Huurverhogingsbeleidstype** het juiste beleidstype.

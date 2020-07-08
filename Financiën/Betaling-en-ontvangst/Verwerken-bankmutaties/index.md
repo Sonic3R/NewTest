@@ -1,6 +1,6 @@
 # Verwerken bankmutaties
 
-In dit detailproces wordt een bankafschrift geïmporteerd en verwerkt.
+In dit werkproces wordt een bankafschrift geïmporteerd en verwerkt.
 
 ## Aanmaken bankboek
 

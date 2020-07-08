@@ -1,6 +1,6 @@
 # Aanleveren incassobestand
 
-In dit detailproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
+In dit werkproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
 ## Ophalen voorstel klantposten
 

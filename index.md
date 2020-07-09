@@ -1,5 +1,5 @@
-# Welkom bij Dynamics Empire
+# Processen
 
-Dynamics Empire is het enterprise resource planning (ERP)-systeem van cegeka-dsa: een integraal en compleet product voor vastgoedbeheer. Onze oplossing bestaat uit een achttal modules, waarvan de kern is gebaseerd op Microsoft Dynamics 365 Business Central en de marktstandaarden VERA en KOVRA. De software bevat gestandaardiseerde functionaliteiten voor alle aspecten van volkshuisvesting; van woningbeheer en klantrelaties tot personeelsmanagement en financiële administratie.
+Welkom bij de werkinstructies behorende bij Dynamics Empire. Hier vindt u de werkinstructies die u stap voor stap meenemen in de uitvoering van de processtappen uit het cegeka-dsa Best Practice-procesmodel (BP-procesmodel). In het BP-procesmodel zijn alle door Dynamics Empire ondersteunde processen binnen een woningcorporatie uitgewerkt. ___Klik hier___  voor meer informatie over het BP-procesmodel.
 
-De integrale oplossing bestaat uit een ERP-kern en de aanvullende integrale modules voor onder andere klantenservice, ketensamenwerking, mobiliteit, documentmanagement en BI. De integraliteit van onze oplossing houdt in dat alle relaties, gegevens en kernactiviteiten voor deelgebieden Wonen, Vastgoed en Financiën in één kern geïntegreerd zijn op basis van één database. Alle relaties, gegevens en acties hoeven dus maar één keer en op één plaats te worden vastgelegd.
+De werkinstructies zijn per werkproces beschreven. Deze werkprocessen zijn gegroepeerd per bedrijfsfunctie. Met de navigatie aan de linkerkant van het scherm vindt u de bedrijfsfuncties en de daarbij behorende werkprocessen. Ook kunt u natuurlijk met behulp van de zoekfunctie de juiste werkinstructie vinden.

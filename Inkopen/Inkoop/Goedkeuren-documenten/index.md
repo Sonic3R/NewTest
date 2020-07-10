@@ -57,3 +57,4 @@ Wanneer u akkoord bent met de goedkeuringsaanvraag kunt u de aanvraag goedkeuren
 [Vastleggen onderhoudscontracten](../beheren-onderhoudscontracten/)  
 [Inkopen PO/VGO](../inkopen-po-vgo/)  
 [Registreren inkooporder](../registreren-inkooporder/)  
+[Muteren onderhoudscontract](../muteren-onderhoudscontract/)

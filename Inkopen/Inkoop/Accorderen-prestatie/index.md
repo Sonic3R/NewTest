@@ -14,3 +14,4 @@ Wanneer de leverancier de prestatie voor de inkooporder geleverd heeft, dient di
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Inkopen PO/VGO](../inkopen-po-vgo/)  
 [Registreren inkooporder](../registreren-inkooporder/)  
+[Muteren onderhoudscontract](../muteren-onderhoudscontract/)

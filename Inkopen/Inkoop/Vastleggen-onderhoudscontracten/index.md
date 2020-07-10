@@ -27,16 +27,10 @@ In dit werkproces worden de uitgangspunten van een contract in Dynamics Empire v
 
 ## Fiatteren onderhoudscontract
 
-1. Ga voor het fiatteren van een onderhoudscontract naar **Contractoverzicht** en open het contract vanuit de contractenlijst.
-2. Klik in het lint op **Proces - Budgethouders**.
-3. Vul de contractbeheerder in. Indien u zelf de contractbeheerder bent, plaats dan een vinkje in kolom **Fiat**
-4. Indien iemand anders de contractbeheerder is, klik dan in het lint op **Acties - Functies - E-mail verzenden** om deze persoon te informeren dat het contract kan worden gefiatteerd.
-
-naar het **Projectoverzicht** en selecteer uit de lijst met projecten een project van het projecttype CO.
-
-2. Zoek en selecteer het project *(projectype CO)* en klik op **Bewerken** in het lint om de projectkaart te openen.
-
-3. Selecteer het gefiatteerde contract in veld **Boekingsinfo: Contractnr.** op de projectkaart.
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contracten** en open het juiste contract.
+2. Kies via menu-item **Proces** voor **Budgethouders**.
+3. Vul de contractbeheerder in. Als u dit zelf bent, plaats dan een vinkje in kolom **Fiat**.
+4. Als iemand anders de contractbeheerder is, kies dan voor de actie/functie **E-mail verzenden** om deze persoon te informeren dat het contract kan worden gefiatteerd.
 
 ## Zie ook
 

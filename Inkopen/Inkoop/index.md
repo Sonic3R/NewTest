@@ -10,4 +10,4 @@ Werkproces | Omschrijving
 [Beheren leveranciersinformatie](beheren-leveranciersinformatie/) | Aanmaken van nieuwe leveranciers en aanpassen van gewijzigde informatie met betrekking tot bestaande leveranciers.
 [Vastleggen onderhoudscontracten](vastleggen-onderhoudscontracten/) | Vastleggen van de uitgangspunten van een contract in Dynamics Empire vastgelegd, met fiattering door een contractbeheerder. De contractbeheerder heeft zodoende het totaalbudget beschikbaar voor de duur van de looptijd van het contract, waarna ook onderhoudsprojecten op contract kunnen worden aangemaakt waarin de verplichtingenadministratie wordt gevoerd.
 [Inkopen PO/VGO](inkopen-po-vgo) | Inkopen van diensten voor planmatig onderhoud en vastgoedontwikkeling.
-[Muteren onderhoudscontract](muteren-onderhoudscontract) | 
+[Muteren onderhoudscontract](muteren-onderhoudscontract) | Aanmaken van nieuwe leveranciers en aanpassen van gewijzigde informatie met betrekking tot bestaande leveranciers.

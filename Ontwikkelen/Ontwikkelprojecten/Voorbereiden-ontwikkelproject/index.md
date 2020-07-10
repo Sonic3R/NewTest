@@ -1,12 +1,12 @@
 # Voorbereiden ontwikkelproject
 
-Er is besloten om met het project te starten en er is een goedgekeurde investeringsbegroting.
+In dit werkproces wordt de projectadministratie van goedgekeurde (her)ontwikkelingsprojecten opgezet. Dit houdt onder andere in dat het exploitatiemodel wordt vastgelegd en de begrote stichtingskosten worden geregistreerd. Dit werkproces wordt ook doorlopen bij het aanpassen van de begrote stichtingskosten in een latere fase van het project.
 
-# Aanmaken projectmodel
+## Aanmaken projectmodel
 
 Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en per fase zijn vastgelegd kunnen deze gegevens worden opgevoerd in het projectmodel in Dynamics Empire. Om in de toekomst voorbereid te zijn op mogelijke wijzigingen is het advies om altijd een gemengd projectmodel aan te maken. 
 
-## Vastleggen projectmodel (enkel)
+### Vastleggen projectmodel (enkel)
  1. Ga voor het aanmaken van een projectmodel naar **Projectmodel aanmaken** dit kan via de ZOEKKNOP rechts bovenin. 
  2. Kies uit het overzicht voor welk projecttype het model aangemaakt moet worden. 
  3. Vervolgens opent de projectmodelkaart.

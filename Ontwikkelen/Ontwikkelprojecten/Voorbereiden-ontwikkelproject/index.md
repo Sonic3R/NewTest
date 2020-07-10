@@ -7,35 +7,50 @@ In dit werkproces wordt de projectadministratie van goedgekeurde (her)ontwikkeli
 Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en per fase zijn vastgelegd kunnen deze gegevens worden opgevoerd in het projectmodel in Dynamics Empire. Om in de toekomst voorbereid te zijn op mogelijke wijzigingen is het advies om altijd een gemengd projectmodel aan te maken. 
 
 ### Vastleggen projectmodel (enkel)
- 1. Ga voor het aanmaken van een projectmodel naar **Projectmodel aanmaken** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit het overzicht voor welk projecttype het model aangemaakt moet worden. 
- 3. Vervolgens opent de projectmodelkaart.
- 4. Invullen projectgegevens in het tabblad **Algemeen**:
-  * **Projectmodelnr.** dit kan automatisch gevuld worden d.m.v. TAB maar advies is om hier een "eigen" nummer te kiezen. 
-  * **Naam** van het project. 
-  * **Omschrijving** van het project.
-  * **Besluit**, maak een keuze uit de tabel welke fase geldt.
-  * **Startdatum**, wanneer is het project gestart?
-  * **Opleverdatum**, wanneer wordt verwacht het project opgeleverd te zijn?
-  * **Clusternr.**, kies hier het aangemaakte projectcluster.
-  * **Startjaar**, jaar wanneer het project start.
-  * **Jaar van oplevering**, wanneer het project is afgesloten.
- 5. Na het vullen van het tabblad **Algemeen** ga je naar het lint en kies **Acties** vervolgens **Functies** en dan **Exploitatiemodel ophalen**.
- 6. Kies het exploitatiemodel die voor dit project geldt.
+
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**.
+ 2. Selecteer in het **Overzicht projecttypen** het projecttype waarvoor het model aangemaakt moet worden en klik op **OK**.
+ 3. Op het venster **Projectmodellen** klikt u op **Nieuw** - **+Nieuw**, waarna de projectmodelkaart opent.
+ 4. Vul de volgende projectgegevens in op het tabblad **Algemeen**:
+  * **Projectmodelnr.**: Dit kan automatisch gevuld worden door op TAB te drukken, maar het advies is om hier een 'eigen' nummer te kiezen. 
+  * **Naam** 
+  * **Omschrijving**
+  * **Besluit**: Maak een keuze uit de tabel welke fase het betreft.
+  * **Startdatum**
+  * **Opleverdatum**
+  * **Clusternr.**: Kies hier het aangemaakte projectcluster.
+  * **Startjaar**
+  * **Jaar van oplevering**
+ 5. Kies nu voor de actie/functie **Exploitatiemodel ophalen**.
+ 6. Kies het exploitatiemodel dat voor dit project geldt. Sluit het scherm.
  
 
-## Vastleggen projectmodel (gemengd)
+### Vastleggen projectmodel (gemengd)
 
-Bij een GEMENGD project herhaal de stappen 1 t/m 5 die beschreven staan bij vastleggen projectmodel (enkel). Het Exploitatiemodel is de eerste keer altijd "GEMENGD"! Bij terugkeren op het overzicht **Projectmodeloverzicht** selecteer de regel die zojuist is aangemaakt en vervolgens in het lint **Nieuw** en dan **+Nieuw**. 
+Bij een gemengd project herhaalt u de hierboven beschreven stappen die gelden voor het vastleggen van een enkel projectmodel. Voor het **Exploitatiemodel** geldt dat dit de eerste keer altijd 'GEMENGD' is! Bij terugkeer op het overzicht met projectmodellen selecteert u de regel die zojuist is aangemaakt en kiest u voor **Nieuw** - **+Nieuw**. 
     
- 1. Vul het tabblad **Algemeen** met dezelfde informatie als het eerste projectmodel (acties vermeld onder punt 4) met als uitzondering het veld **Projectmodelnr.**, hier voer je het eerste nummer in welke je al hebt aangemaakt met als toevoeging het exploitatiemodelnummer voor het onderdeel wat je gaat opvoeren. Voorbeeld: VGO-562-1002 (1002 staat voor NDAEB NTV)
- 2. Na het vullen van het tabblad **Algemeen** ga je naar het lint en kies **Acties** vervolgens **Functies** en dan **Exploitatiemodel ophalen**.
- 3. Kies het exploitatiemodel die voor dit project geldt.
- 4. Indien nodig herhaal de stappen 1 tot en met 3.
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**.
+ 2. Selecteer in het **Overzicht projecttypen** het projecttype waarvoor het model aangemaakt moet worden en klik op **OK**.
+ 3. Op het venster **Projectmodellen** klikt u op **Nieuw** - **+Nieuw**, waarna de projectmodelkaart opent.
+ 4. Vul de volgende projectgegevens in op het tabblad **Algemeen**:
+  * **Projectmodelnr.**: Dit kan automatisch gevuld worden door op TAB te drukken, maar het advies is om hier een 'eigen' nummer te kiezen. 
+  * **Naam** 
+  * **Omschrijving**
+  * **Besluit**: Maak een keuze uit de tabel welke fase het betreft.
+  * **Startdatum**
+  * **Opleverdatum**
+  * **Clusternr.**: Kies hier het aangemaakte projectcluster.
+  * **Startjaar**
+  * **Jaar van oplevering**
+ 5. Kies nu voor de actie/functie **Exploitatiemodel ophalen**. Let op: zorg ervoor dat deze van het type GEMENGD is.
+ 6. Sluit het scherm en herhaal stappen 1 en verder voor het aanmaken van nog een projectmodel. Hierbij vult u tabblad **Algemeen** met dezelfde informatie als het eerste projectmodel, met als uitzondering het veld **Projectmodelnr.**: hier voert u het eerste nummer in dat u al had aangemaakt en geeft dit als toevoeging het exploitatiemodelnummer voor het onderdeel dat u gaat opvoeren. *Voorbeeld: VGO-562-1002 (1002 staat voor NDAEB NTV).*
+ 2. Na het vullen van het tabblad **Algemeen** kiest u weer voor de actie/functie **Exploitatiemodel ophalen**.
+ 3. Kies het exploitatiemodel dat voor dit project geldt.
+ 4. Indien nodig herhaalt u bovenstaande stappen voor aanvullende projectmodellen.
 
-Als de modellen zijn aangemaakt moeten deze gekoppeld worden onder het "GEMENGD" model.
+Als de modellen zijn aangemaakt moeten deze gekoppeld worden onder het model van het type 'GEMENGD'.
 
-1. Ga voor het koppelen van de projectmodellen naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. TOTHIER 
 2. Kies het projecttype waarvoor het gemengde project hebt aangemaakt.
 3. Kies uit de lijst het projectmodel met de exploitatiemodelomschrijving "GEMENGD".
 4. Ga naar het lint bovenin en kies **Navigeren** en vervolgens **Projectmodel** en tot slot **Onderdeel van cumulatief model**.

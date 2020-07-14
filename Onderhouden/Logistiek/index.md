@@ -4,12 +4,11 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
+[Beheren artikelinformatie](beheren-artikelinformatie/) | 
 [Bestellen materialen](bestellen-materialen/) | 
 [Ontvangen materialen](ontvangen-materialen/) | 
-[Retourneren materialen](retourneren-materialen/) | 
 [Distribueren materialen](distribueren-materialen/) | 
 [Inventariseren voorraad](inventariseren-voorraad/) | 
-[Beheren artikelinformatie](beheren-artikelinformatie/) | 
 
 ## Zie ook
 

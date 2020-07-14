@@ -5,7 +5,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Herijken bestemming verkoop](herijken-bestemming-verkoop/) | 
-[Aangaan verkoopovereenkomst](aangaan-verkoopovereenkomst/) | Aangaan van de verkoopovereenkomst voor de verkoop van een OG Eenheid. De eenheid kan worden verkocht aan de zittende huurder of aan een derde partij.
+[Aangaan koopovereenkomst](aangaan-verkoopovereenkomst/) | Aangaan van de koopovereenkomst voor de verkoop van een OG Eenheid. De eenheid kan worden verkocht aan de zittende huurder of aan een derde partij.
 [Effectueren verkoop](effectueren-verkoop/) | 
 [Terugkopen eenheid](terugkopen-eenheid/) | 
 [Oprichten VVE](oprichten-vve/) | 

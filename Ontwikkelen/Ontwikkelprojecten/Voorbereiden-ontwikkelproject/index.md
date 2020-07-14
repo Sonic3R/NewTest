@@ -18,16 +18,15 @@ Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en p
   * **Besluit**: Maak een keuze uit de tabel welke fase het betreft.
   * **Startdatum**
   * **Opleverdatum**
-  * **Clusternr.**: Kies hier het aangemaakte projectcluster.
+  * **Clusternr.**: Kies hier het aangemaakte projectcluster (zie eventueel stap **[Aanmaken cluster](#aanmaken-cluster)**).
   * **Startjaar**
   * **Jaar van oplevering**
  5. Kies nu voor de actie/functie **Exploitatiemodel ophalen**.
- 6. Kies het exploitatiemodel dat voor dit project geldt. Sluit het scherm.
- 
+ 6. Kies het exploitatiemodel dat voor dit project geldt. Sluit het scherm. 
 
 ### Vastleggen projectmodel (gemengd)
 
-Bij een gemengd project herhaalt u de hierboven beschreven stappen die gelden voor het vastleggen van een enkel projectmodel. Voor het **Exploitatiemodel** geldt dat dit de eerste keer altijd 'GEMENGD' is! Bij terugkeer op het overzicht met projectmodellen selecteert u de regel die zojuist is aangemaakt en kiest u voor **Nieuw** - **+Nieuw**. 
+Bij een gemengd project herhaalt u de hierboven beschreven stappen die gelden voor het vastleggen van een enkel projectmodel. Voor het **Exploitatiemodel** geldt dat dit de eerste keer altijd 'Gemengd' is! Bij terugkeer op het overzicht met projectmodellen selecteert u de regel die zojuist is aangemaakt en kiest u voor **Nieuw** - **+Nieuw**. 
     
  1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**.
  2. Selecteer in het **Overzicht projecttypen** het projecttype waarvoor het model aangemaakt moet worden en klik op **OK**.
@@ -42,38 +41,34 @@ Bij een gemengd project herhaalt u de hierboven beschreven stappen die gelden vo
   * **Clusternr.**: Kies hier het aangemaakte projectcluster.
   * **Startjaar**
   * **Jaar van oplevering**
- 5. Kies nu voor de actie/functie **Exploitatiemodel ophalen**. Let op: zorg ervoor dat deze van het type GEMENGD is.
+ 5. Kies nu voor de actie/functie **Exploitatiemodel ophalen**. Let op: zorg ervoor dat deze van het type 'Gemengd' is.
  6. Sluit het scherm en herhaal stappen 1 en verder voor het aanmaken van nog een projectmodel. Hierbij vult u tabblad **Algemeen** met dezelfde informatie als het eerste projectmodel, met als uitzondering het veld **Projectmodelnr.**: hier voert u het eerste nummer in dat u al had aangemaakt en geeft dit als toevoeging het exploitatiemodelnummer voor het onderdeel dat u gaat opvoeren. *Voorbeeld: VGO-562-1002 (1002 staat voor NDAEB NTV).*
- 2. Na het vullen van het tabblad **Algemeen** kiest u weer voor de actie/functie **Exploitatiemodel ophalen**.
- 3. Kies het exploitatiemodel dat voor dit project geldt.
- 4. Indien nodig herhaalt u bovenstaande stappen voor aanvullende projectmodellen.
+ 7. Na het vullen van het tabblad **Algemeen** kiest u weer voor de actie/functie **Exploitatiemodel ophalen**.
+ 8. Kies het exploitatiemodel dat voor dit project geldt.
+ 9. Indien nodig herhaalt u bovenstaande stappen voor aanvullende projectmodellen.
 
-Als de modellen zijn aangemaakt moeten deze gekoppeld worden onder het model van het type 'GEMENGD'.
+Als de modellen zijn aangemaakt moeten deze gekoppeld worden onder het model van het type 'Gemengd'.
 
-1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. TOTHIER 
-2. Kies het projecttype waarvoor het gemengde project hebt aangemaakt.
-3. Kies uit de lijst het projectmodel met de exploitatiemodelomschrijving "GEMENGD".
-4. Ga naar het lint bovenin en kies **Navigeren** en vervolgens **Projectmodel** en tot slot **Onderdeel van cumulatief model**.
-5. In dit overzicht zoek je bij kolom **Modelnr.** in het veld met behulp van de opzoekwaarde (...) het onderdeel wat gekoppeld moet worden.
-6. Vul op de regel bij het veld **Verdeelsleutel%** het percentage in wat geldt voor dat model.
-7. Herhaal 5 en 6 indien er meerdere onderdelen gekoppeld moeten worden.
-8. Met het pijltje links bovenin ga je terug naar het GEMENGD project.
-9. De volgende stap is in het lint **Acties** en dan **Functies** en als laatste **Cumuleren budgetonderdelen** 
-10. Systeem vraagt: Wilt u de budgetten van de onderdelen cumuleren? actie **JA**
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+2. Kies het projecttype waarvoor u het gemengde project hebt aangemaakt.
+3. Kies uit de lijst het projectmodel met **Exploitatiemodelomschrijving** = 'Gemengd'.
+4. Navigeer nu via het menu naar het item **Onderdelen van cumulatief model**.
+5. In dit overzicht zoekt u in kolom **Modelnr.** met behulp van de assistedit ('...') het onderdeel dat gekoppeld moet worden.
+6. Vul op de regel bij het veld **Verdeelsleutel%** het percentage in dat geldt voor het betreffende model.
+7. Herhaal stappen 5 en 6 als er meerdere onderdelen gekoppeld moeten worden.
+8. Sluit dit scherm. Kies op de projectmodelkaart van het model met type 'Gemengd' voor de actie/functie **Cumuleren budgetonderdelen**.
+10. Het systeem vraagt of u de budgetten van de onderdelen wilt cumuleren. Kies voor **Ja**.
 
-In de lijst Projectmodeloverzicht staat het projectmodel herkenbaar aan de regel in het vet gedrukt.
+Terug op de lijst met projectmodellen is het projectmodel herkenbaar aan het feit dat deze vetgedrukt wordt weergegeven.
 
-#Aanmaken cluster
+## Aanmaken cluster
 
-##Omschrijving
-Voor het aanmaken van een projectmodel is het raadzaam om van te voren het cluster aan te maken. 
+Voor het aanmaken van een projectmodel is het raadzaam om van tevoren het cluster aan te maken. De beschrijving van het aanmaken van een cluster is opgenomen in de werkinstructie **[Beheren clusterinformatie](../financiën/grootboek/beheren-clusterinformatie/)**.
+>TOTHIERMet als toevoeging dat bij Vastgoedontwikkeling er géén OGE's worden toegevoegd in het cluster en de clusterverdeelsleutel "liniair" is. Uitzondering hierop kan een herstructurering-project zijn, dan dient het toevoegen van de OGE mogelijk voor uitkering van vergoedingen.
 
-De beschrijving van het aanmaken van een cluster is opgenomen in het werkproces: "Beheren clusterinformatie".
-Met als toevoeging dat bij Vastgoedontwikkeling er géén OGE's worden toegevoegd in het cluster en de clusterverdeelsleutel "liniair" is. Uitzondering hierop kan een herstructurering-project zijn, dan dient het toevoegen van de OGE mogelijk voor uitkering van vergoedingen.
+## Registreren investeringsbegroting
 
-#Registreren investeringsbegroting
 
-##Omschrijving
 Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en per fase zijn vastgelegd kunnen deze gegevens worden opgevoerd in het projectmodel in Dynamics Empire.  
 
 ## Opvoeren, handmatig, van de investeringsbegroting (enkel)

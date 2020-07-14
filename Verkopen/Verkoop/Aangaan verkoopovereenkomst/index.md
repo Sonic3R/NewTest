@@ -1,6 +1,6 @@
-# Aangaan verkoopovereenkomst
+# Aangaan koopovereenkomst
 
-Dit werkproces betreft het aangaan van de verkoopovereenkomst voor de verkoop van een OG Eenheid. De eenheid kan worden verkocht aan de zittende huurder of aan een derde partij. 
+Dit werkproces betreft het aangaan van de koopovereenkomst voor de verkoop van een OG Eenheid. De eenheid kan worden verkocht aan de zittende huurder of aan een derde partij. 
 
 ## Taxeren eenheid
 

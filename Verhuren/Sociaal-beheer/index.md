@@ -5,6 +5,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Afhandelen overlast](afhandelen-overlast/) | 
+[Verbeteren leefomgeving](verbeteren-leefomgeving/) | 
 
 ## Zie ook
 

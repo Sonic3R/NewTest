@@ -7,8 +7,8 @@ Werkproces | Omschrijving
 [Beheren verhuurbare eenheidsinformatie](beheren-verhuurbare-eenheidsinformatie/) | Het invoeren of wijzigen van informatie over de verhuurbare eenheid.
 [Registreren huuropzegging](registreren-huuropzegging/) | Het registreren van de huuropzegging inclusief het plannen van eventuele inspectie-afspraken.
 [Annuleren/verschuiven huuropzegging](annuleren-verschuiven-huuropzegging/) | Het annuleren van de huuropzegging, of het verplaatsen van de opzegdatum.
-[Opstellen eindafrekening](opstellen-eindafrekening/) | Het opstellen van de eindafrekening voor de vertrekkende huurder.
 [Innemen eenheid](innemen-eenheid/) | Het innemen van de eenheid door de corporatie van de vertrekkende huurder.
+[Opstellen eindafrekening](opstellen-eindafrekening/) | Het opstellen van de eindafrekening voor de vertrekkende huurder.
 [Bepalen aanbiedhuur](bepalen-aanbiedhuur/) | Het bepalen van de nieuwe huur van een eendheid.
 [Aanbieden eenheid](aanbieden-eenheid/) | Een kandidaat of meerdere kandidaten uitnodigen om de verhuurbare eenheid te bezichtigen en vastleggen of zij de aanbieding accepteren of weigeren.
 [Verantwoorden verhuring](verantwoorden-verhuring/) | De huishoudgegevens registreren op basis waarvan toewijzing wordt getoetst aan de passendheidstoets en staatssteunregeling.

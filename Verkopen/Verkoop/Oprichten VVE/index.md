@@ -4,7 +4,7 @@ Binnenkort beschikbaar
 
 ## Zie ook
 
-[Aangaan verkoopovereenkomst](../Aangaan-verkoopovereenkomst/)  
+[Aangaan koopovereenkomst](../Aangaan-koopovereenkomst/)  
 [Effectueren verkoop](../Effectueren-verkoop/)  
 [Terugkopen eenheid](../Terugkopen-eenheid/)  
-[Herijken bestemming verkoop](../Herijken bestemming verkoop/)
+[Herijken bestemming verkoop](../Herijken-bestemming-verkoop/)

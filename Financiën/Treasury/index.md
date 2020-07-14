@@ -5,9 +5,9 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Beheren financiering](beheren-financiering/) | Aantrekken van nieuwe leningen en muteren van bestaande leningen.
+[Prolongeren financiering](prolongeren-financiering/) | Boeken van de maandelijkse rentelasten, de te betalen rente en aflossing en de te ontvangen stortingen.
 [Genereren overzicht gerealiseerde kasstromen](generen-overzicht-gerealiseerde-kasstromen/) | Toewijzen van de gerealiseerde cashflow aan de dVi-categorieën.
 [Prognosticeren kasstromen](prognosticeren-kasstromen/) | Genereren en analyseren van het overzicht van de te verwachte kasstromen.
-[Prolongeren financiering](prolongeren-financiering/) | Boeken van de maandelijkse rentelasten, de te betalen rente en aflossing en de te ontvangen stortingen.
 
 ## Zie ook
 

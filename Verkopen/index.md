@@ -4,4 +4,4 @@ Deze hoofdfunctie is opgedeeld in onderstaande bedrijfsfuncties, waarbij aan elk
 
 Bedrijfsfunctie | Werkproces
 :--- | :---
-[Verkoop](verkoop/) | <ul><li>[Herijken bestemming verkoop](herijken-bestemming-verkoop/)</li><li>[Aangaan verkoopovereenkomst](aangaan-verkoopovereenkomst/)</li><li>[Effectueren verkoop](effectueren-verkoop/)</li><li>[Terugkopen eenheid](terugkopen-eenheid/)</li><li>[Oprichten VVE](oprichten-vve/)</li></ul>
+[Verkoop](verkoop/) | <ul><li>[Herijken bestemming verkoop](herijken-bestemming-verkoop/)</li><li>[Aangaan koopovereenkomst](aangaan-koopovereenkomst/)</li><li>[Effectueren verkoop](effectueren-verkoop/)</li><li>[Terugkopen eenheid](terugkopen-eenheid/)</li><li>[Oprichten VVE](oprichten-vve/)</li></ul>

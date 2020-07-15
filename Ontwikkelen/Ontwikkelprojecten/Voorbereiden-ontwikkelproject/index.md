@@ -57,7 +57,7 @@ Als de modellen zijn aangemaakt moeten deze gekoppeld worden onder het model van
 6. Vul op de regel bij het veld **Verdeelsleutel%** het percentage in dat geldt voor het betreffende model.
 7. Herhaal stappen 5 en 6 als er meerdere onderdelen gekoppeld moeten worden.
 8. Sluit dit scherm. Kies op de projectmodelkaart van het model met type 'Gemengd' voor de actie/functie **Cumuleren budgetonderdelen**.
-10. Het systeem vraagt of u de budgetten van de onderdelen wilt cumuleren. Kies voor **Ja**.
+9. Het systeem vraagt of u de budgetten van de onderdelen wilt cumuleren. Kies voor **Ja**.
 
 Terug op de lijst met projectmodellen is het projectmodel herkenbaar aan het feit dat deze vetgedrukt wordt weergegeven.
 
@@ -134,13 +134,13 @@ Als er een aanpassing van het budget en/of de begroting moet plaatsvinden, dan p
  2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
  3. Kies vervolgens het projectmodel waarvoor de investeringsbegroting is bedoeld.
  4. Selecteer nu in het menu de actie/functie **Nieuwe versie**. Het systeem opent direct een nieuwe versie, herkenbaar op het tabblad **Algemeen** aan veld **Versienummer** dat een hoger nummer aangeeft.
- 6. Kies nu voor de actie/functie **Projectmodel kopiëren**, waarna een venster met enkele opties verschijnt.
+ 5. Kies nu voor de actie/functie **Projectmodel kopiëren**, waarna een venster met enkele opties verschijnt.
 * In het veld **Bron modelnr.** zoekt u via de assistedit ('...') de juiste regel op waarvan u wilt kopiëren (deze is altijd één versienummer lager dan welke wordt aangemaakt).
 * In het veld **Inclusief kop** zet u de schakelaar naar RECHTS (op AAN).
- 9. Klik op **OK**. Op de verschenen projectmodelkaart past u op tabblad **Regels** de regels aan die van toepassing zijn (zie eventueel de eerder beschreven werkwijze hiervoor). 
- 10. Op tabblad **Algemeen** kiest u in veld **Besluit** de juiste fase en zet u het veld **Bevroren versie** op AAN (naar rechts). 
- 11. Kies in het menu voor de actie/functie **Versie doorzetten**, waarna het systeem om een bevestiging vraagt; klik op **Ja**.
- 12. Ga nu terug naar de kaart van de versie waarvan een kopie is gemaakt. Op tabblad **Algemeen** zet u het veld **Niet actief** op AAN (naar rechts). Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen.
+ 6. Klik op **OK**. Op de verschenen projectmodelkaart past u op tabblad **Regels** de regels aan die van toepassing zijn (zie eventueel de eerder beschreven werkwijze hiervoor). 
+ 7. Op tabblad **Algemeen** kiest u in veld **Besluit** de juiste fase en zet u het veld **Bevroren versie** op AAN (naar rechts). 
+ 8. Kies in het menu voor de actie/functie **Versie doorzetten**, waarna het systeem om een bevestiging vraagt; klik op **Ja**.
+ 9. Ga nu terug naar de kaart van de versie waarvan een kopie is gemaakt. Op tabblad **Algemeen** zet u het veld **Niet actief** op AAN (naar rechts). Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen.
  
 Het project met een verhoogd versienummer is nu aangemaakt en zichtbaar in de lijst met projecten.
 
@@ -191,7 +191,7 @@ Wanneer de Stichtingskosten (STIKO) zijn gedefinieerd en per fase zijn vastgeleg
  2. Kies uit de lijst het projecttype waarvoor u een project wilt aanmaken.
  3. Kies vervolgens uit de lijst het projectmodel waarvoor u een project wilt aanmaken.
  4. Zet op de verschenen kaart op tabblad **Algemeen** in het veld **Bevroren versie** de knop naar rechts (op AAN).
- 6. Kies in het menu voor de actie/functie **Versie doorzetten**. Het systeem vraagt om een bevestiging; klik op **Ja**.
+ 5. Kies in het menu voor de actie/functie **Versie doorzetten**. Het systeem vraagt om een bevestiging; klik op **Ja**.
 
 Het project is aangemaakt en is zichtbaar in de lijst met projecten.
 

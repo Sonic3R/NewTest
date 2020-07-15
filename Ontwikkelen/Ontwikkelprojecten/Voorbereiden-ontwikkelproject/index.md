@@ -64,145 +64,136 @@ Terug op de lijst met projectmodellen is het projectmodel herkenbaar aan het fei
 ## Aanmaken cluster
 
 Voor het aanmaken van een projectmodel is het raadzaam om van tevoren het cluster aan te maken. De beschrijving van het aanmaken van een cluster is opgenomen in de werkinstructie **[Beheren clusterinformatie](../financiën/grootboek/beheren-clusterinformatie/)**.
->TOTHIERMet als toevoeging dat bij Vastgoedontwikkeling er géén OGE's worden toegevoegd in het cluster en de clusterverdeelsleutel "liniair" is. Uitzondering hierop kan een herstructurering-project zijn, dan dient het toevoegen van de OGE mogelijk voor uitkering van vergoedingen.
+>Let wel: bij Vastgoedontwikkeling worden er géén OG Eenheden toegevoegd aan het cluster. Daarbij is de clusterverdeelsleutel 'lineair'. Uitzondering hierop kan een herstructurering-project zijn, dan dient het toevoegen van de OG Eenheid mogelijk te zijn voor uitkering van vergoedingen.
 
 ## Registreren investeringsbegroting
 
+Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en per fase zijn vastgelegd, kunnen deze gegevens worden opgevoerd in het projectmodel in Dynamics Empire.  
 
-Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en per fase zijn vastgelegd kunnen deze gegevens worden opgevoerd in het projectmodel in Dynamics Empire.  
+### Opvoeren van de investeringsbegroting (enkel) - handmatig
 
-## Opvoeren, handmatig, van de investeringsbegroting (enkel)
- 1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het projectmodel waarvoor de investeringsbegroting is bedoeld.
- 4. Vervolgens naar het tabblad **Regels**.
- 5. Vervolgens per werksoortcode de investeringsbegroting opvoeren d.m.v. het vullen van de volgende velden:    
-	 a. Indien er geen aantallen zijn maar alleen een "totaal" bedrag dan het veld **Kostprijs** vullen, dit bedrag is dan ook zichtbaar in de kolom "Begroot" en "Budget".
-	 b. Indien er wel aantallen zijn dan kolom **Aantal** vullen en vervolgens een bedrag bij kolom **Kostprijs**, bij kolom "Begroot" en "Budget" is de uitkomst de waarde van Aantal x Kostprijs.
- 6.  De volgende stap in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Herberekenen (formules)**. 
- 7. Vervolgens in het tabblad **Algemeen** de knop **Bevroren** versie" naar rechts zetten.
- 8. In het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het projectmodel waarvoor de investeringsbegroting is bedoeld.
+ 4. Ga op de projectmodelkaart naar het tabblad **Regels**. Voer hier per werksoortcode de investeringsbegroting op met behulp van de volgende velden:    
+	 a. Als er geen sprake is van aantallen maar alleen van een totaalbedrag, vul dan het veld **Kostprijs**. Dit bedrag is vervolgens ook zichtbaar in de kolommen **Begroot** en **Budget**.  
+	 b. Als er wel sprake is van aantallen, vul dan de kolommen **Aantal** en **Kostprijs**; bij kolommen **Begroot** en **Budget** is de uitkomst de waarde van Aantal x Kostprijs.
+ 5. Kies nu in het menu voor de actie/functie **Herberekenen (formules)**.
+ 6. Zet op tabblad **Algemeen** het veld **Bevroren versie** op AAN (schuifje naar rechts).
+ 7. Nu kiest u voor de actie/functie **Versie doorzetten**, waarna het systeem vraagt of u deze versie wilt doorzetten. Kies voor **Ja**.
 
-Het project is aangemaakt en is zichtbaar in de lijst "Projecten".
-##Opvoeren, middels synchroniseren, van de investeringsbegroting of besluitfase (enkel)
-##Omschrijving
-Het opvoeren van de begroting en budgetten wordt middels synchroniseren met expertsysteem zoals REAFORCE uitgevoerd.
+Het project is nu aangemaakt en zichtbaar in de lijst met projecten.
 
- 1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het projectmodel waarvoor de investeringsbegroting is bedoeld.
- 4. Vervolgens boven in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Synchroniseren vanuit projectcalculatiesysteem**.
+### Opvoeren van de investeringsbegroting of besluitfase (enkel) via synchroniseren
 
-Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen, het model bevriezen. Vervolgens moet nog de stap in het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
+Het opvoeren van de begroting en budgetten wordt via synchronisatie met een expertsysteem zoals REAFORCE uitgevoerd.
 
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het projectmodel waarvoor de investeringsbegroting is bedoeld.
+ 4. Selecteer nu in het menu de actie/functie **Synchroniseren vanuit projectcalculatiesysteem**.
 
-## Opvoeren, handmatig, van de investeringsbegroting (gemengd)
-1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het onderliggende projectmodel van het gemengde project waarvoor de investeringsbegroting is bedoeld. Herkenbaar aan het soort "Onderdeel".
- 4. Vervolgens naar het tabblad **Regels**.
- 5. Vervolgens per werksoortcode de investeringsbegroting opvoeren d.m.v. het vullen van de volgende velden:    
-	 a. Indien er geen aantallen zijn maar alleen een "totaal" bedrag dan het veld **Kostprijs** vullen, dit bedrag is dan ook zichtbaar in de kolom "Begroot" en "Budget".
-	 b. Indien er wel aantallen zijn dan kolom **Aantal** vullen en vervolgens een bedrag bij kolom **Kostprijs**, bij kolom "Begroot" en "Budget" is de uitkomst de waarde van Aantal x Kostprijs.
- 6.  De volgende stap in het lint bovenin **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Herberekenen (formules)**. 
- 7. Herhaal eventueel bij meer dan 1 onderliggend projectmodel de stappen 3 t/m 6!
- 8. Vervolgens terug naar het projectmodeloverzicht, daar kies je de "vet" gedrukte regel van het gemengd project. Herkenbaar aan het soort "Cumulatief". 
- 9. Vervolgens in het lint bovenin **Meer opties** en/of vervolgens**Acties** vervolgens **Functies** vervolgens **Cumuleren budgetonderdelen** en tot slot **Herberekenen (formules)**.
- 10. Vervolgens in het tabblad **Algemeen** de knop **Bevroren** versie" naar rechts zetten.
- 11. In het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
+Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen en het model bevriezen. Vervolgens moet nog de actie/functie **Versie doorzetten** worden gekozen. De vraag van het systeem of u deze versie wilt doorzetten beantwoordt u met **Ja**.
 
-Het project is aangemaakt en is zichtbaar in de lijst "Projecten".
-##Opvoeren, middels synchroniseren, van de investeringsbegroting of besluitfase (gemengd)
-##Omschrijving
-Het opvoeren van de begroting en budgetten wordt middels synchroniseren met expertsysteem zoals REAFORCE uitgevoerd.
+### Opvoeren van de investeringsbegroting (gemengd) - handmatig
 
- 1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het gemengde projectmodel waarvoor de investeringsbegroting is bedoeld.
- 4. Vervolgens boven in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Synchroniseren vanuit projectcalculatiesysteem**.
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het onderliggende projectmodel van het gemengde project waarvoor de investeringsbegroting is bedoeld, herkenbaar aan het soort 'Onderdeel'.
+ 4. Ga op de projectmodelkaart naar het tabblad **Regels**. Voer hier per werksoortcode de investeringsbegroting op met behulp van de volgende velden:    
+	 a. Als er geen sprake is van aantallen maar alleen van een totaalbedrag, vul dan het veld **Kostprijs**. Dit bedrag is vervolgens ook  
+	 zichtbaar in de kolommen **Begroot** en **Budget**.  
+	 b. Als er wel sprake is van aantallen, vul dan de kolommen **Aantal** en **Kostprijs**; bij kolommen **Begroot** en **Budget** is de uitkomst  
+	 de waarde van Aantal x Kostprijs.
+ 5. Kies nu in het menu voor de actie/functie **Herberekenen (formules)**. 
+ 6. Herhaal eventueel bij meer dan één onderliggend projectmodel de stappen 3 t/m 5!
+ 7. Ga terug naar het projectmodeloverzicht en kies de vetgedrukte regel van het gemengd project, herkenbaar aan het soort 'Cumulatief'. 
+ 8. Kies in het menu voor de actie/functie **Cumuleren budgetonderdelen** en tot slot **Herberekenen (formules)**.
+ 9. Zet op tabblad **Algemeen** het veld **Bevroren versie** op AAN (schuifje naar rechts).
+ 10. Nu kiest u voor de actie/functie **Versie doorzetten**, waarna het systeem vraagt of u deze versie wilt doorzetten. Kies voor **Ja**.
 
-Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen, het model bevriezen. Vervolgens moet nog de stap in het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
+Het project is aangemaakt en is zichtbaar in de lijst met projecten.
 
+### Opvoeren van de investeringsbegroting of besluitfase (gemengd) via synchroniseren
 
-# Aanpassen van de investeringsbegroting handmatig (enkel)
+Het opvoeren van de begroting en budgetten wordt via synchronisatie met een expertsysteem zoals REAFORCE uitgevoerd.
 
-##Omschrijving
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het projectmodel waarvoor de investeringsbegroting is bedoeld.
+ 4. Selecteer nu in het menu de actie/functie **Synchroniseren vanuit projectcalculatiesysteem**. Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen en het model bevriezen.
+ 5. Vervolgens moet nog de actie/functie **Versie doorzetten** worden gekozen. De vraag van het systeem of u deze versie wilt doorzetten beantwoordt u met **Ja**.
 
-Indien er een aanpassing van het budget en of begrotingswijzing moet plaats vinden dan pas je de versie van het projectmodel aan. Deze stap is ook van toepassing indien er een nieuwe besluitfase is genomen. 
+## Aanpassen van de investeringsbegroting (enkel) - handmatig
 
-##Aanpassen, handmatig, van de investeringsbegroting of besluitfase (enkel)
- 1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het projectmodel waarvoor de investeringsbegroting is bedoeld.
- 4. Vervolgens boven in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Nieuwe versie**.
- 5. Systeem opent direct een nieuwe versie. Herkenbaar in het tabblad **Algemeen** bij veld versienummer een hogere versie staat dan ervoor.
- 6. Vervolgens in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Projectmodel kopiëren** 
- 7. In het veld **Bron modelnr.** zoek met de ... (opzoekwaarde) de juiste regel waarvan je wilt kopiëren (is altijd één versienummer lager dan wordt aangemaakt).
- 8. Bij het veld **Inclusief kop** zet je de schakelaar naar RECHTS dan OK.
- 9. In het tabblad **Regels** pas je de regels aan die van toepassing zijn. Werkwijze beschreven en uitvoeren zoals bij "Opvoeren van de begrotingsregels" , het betreft de punten 5 en 6. 
- 10. In het tabblad **Algemeen** kies bij veld **Besluit** de juiste fase en vervolgens de knop **Bevroren versie** naar rechts zetten. 
- 11. In het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
- 12. Vervolgens met de pijl links bovenin het scherm ga je terug naar de versie waarvan de kopie is, deze openen. 
- 13. In het tabblad **Algemeen** bij het veld **Niet actief** de knop naar rechts zetten. Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen. 
+Als er een aanpassing van het budget en/of de begroting moet plaatsvinden, dan past u de versie van het projectmodel aan. Deze stap is ook van toepassing als er een nieuwe besluitfase is genomen. 
+
+### Aanpassen van de investeringsbegroting of besluitfase (enkel) - handmatig
+
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het projectmodel waarvoor de investeringsbegroting is bedoeld.
+ 4. Selecteer nu in het menu de actie/functie **Nieuwe versie**. Het systeem opent direct een nieuwe versie, herkenbaar op het tabblad **Algemeen** aan veld **Versienummer** dat een hoger nummer aangeeft.
+ 6. Kies nu voor de actie/functie **Projectmodel kopiëren**, waarna een venster met enkele opties verschijnt.
+* In het veld **Bron modelnr.** zoekt u via de assistedit ('...') de juiste regel op waarvan u wilt kopiëren (deze is altijd één versienummer lager dan welke wordt aangemaakt).
+* In het veld **Inclusief kop** zet u de schakelaar naar RECHTS (op AAN).
+ 9. Klik op **OK**. Op de verschenen projectmodelkaart past u op tabblad **Regels** de regels aan die van toepassing zijn (zie eventueel de eerder beschreven werkwijze hiervoor). 
+ 10. Op tabblad **Algemeen** kiest u in veld **Besluit** de juiste fase en zet u het veld **Bevroren versie** op AAN (naar rechts). 
+ 11. Kies in het menu voor de actie/functie **Versie doorzetten**, waarna het systeem om een bevestiging vraagt; klik op **Ja**.
+ 12. Ga nu terug naar de kaart van de versie waarvan een kopie is gemaakt. Op tabblad **Algemeen** zet u het veld **Niet actief** op AAN (naar rechts). Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen.
  
-Het project met een verhoogd versienummer is aangemaakt en is zichtbaar in de lijst "Projecten".
-##Aanpassen, middels synchroniseren, van de investeringsbegroting of besluitfase (enkel)
-##Omschrijving
-Gewijzigde begroting en budgetten synchroniseren met expertsysteem zoals REAFORCE.
+Het project met een verhoogd versienummer is nu aangemaakt en zichtbaar in de lijst met projecten.
 
- 1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het projectmodel waarvoor de investeringsbegroting is bedoeld.
- 4. Vervolgens boven in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Synchroniseren vanuit projectcalculatiesysteem**.
+### Aanpassen van de investeringsbegroting of besluitfase (enkel) via synchroniseren
 
-Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen, het model bevriezen. Vervolgens moet nog de stap in het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
-Vervolgens met de pijl links bovenin het scherm ga je terug naar de versie die is gekopieerd, deze openen. 
-In het tabblad **Algemeen** bij het veld **Niet actief** de knop naar rechts zetten. Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen. 
+Het wijzigen van de begroting en budgetten wordt via synchronisatie met een expertsysteem zoals REAFORCE uitgevoerd.
 
-##Aanpassen, handmatig, van de investeringsbegroting of besluitfase (gemengd)
- 1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het projectmodel waarvoor de investeringsbegroting is bedoeld.
- 4. Vervolgens boven in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Nieuwe versie**.
- 5. Systeem opent direct een nieuwe versie. Herkenbaar in het tabblad **Algemeen** bij veld versienummer een hogere versie staat dan ervoor.
- 6. Vervolgens in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Projectmodel kopiëren** 
- 7. In het veld **Bron modelnr.** zoek met de ... (opzoekwaarde) de juiste regel waarvan je wilt kopiëren (is altijd één versienummer lager dan wordt aangemaakt).
- 8. Bij het veld **Inclusief kop** zet je de schakelaar naar RECHTS dan OK.
- 9. In het tabblad **Regels** pas je de regels aan die van toepassing zijn. Werkwijze beschreven en uitvoeren zoals bij "Opvoeren van de begrotingsregels" staat beschreven, het betreft de punten 5 en 6. 
- 10. In het tabblad **Algemeen** kies bij veld **Besluit** de juiste fase en vervolgens de knop **Bevroren versie** naar rechts zetten. 
- 11. In het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
- 12. Vervolgens met de pijl links bovenin het scherm ga je terug naar de versie die is gekopieerd, dezen openen. 
- 13. In het tabblad **Algemeen** bij het veld **Niet actief** de knop naar rechts zetten. Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen. 
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het projectmodel waarvoor de investeringsbegroting is bedoeld.
+ 4. Selecteer vervolgens in het menu de actie/functie **Synchroniseren vanuit projectcalculatiesysteem**. Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen en het model bevriezen.
+ 5. Vervolgens kiest u voor de actie/functie **Versie doorzetten**. Beantwoord de vraag om bevestiging door het systeem met **Ja**.
+ 6. Open nu de kaart van de versie die is gekopieerd. Op tabblad **Algemeen** zet u het veld **Niet actief** op AAN (naar rechts). Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen. 
+
+### Aanpassen van de investeringsbegroting of besluitfase (gemengd) - handmatig
+
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het projectmodel waarvoor de investeringsbegroting is bedoeld.
+ 4. Vervolgens kiest u in het menu voor de actie/functie **Nieuwe versie**.
+ 5. Het systeem opent direct een nieuwe versie, herkenbaar op het tabblad **Algemeen** aan veld **Versienummer** dat een hoger nummer bevat.
+ 6. Kies voor **Projectmodel kopiëren**.
+ 7. In het veld **Bron modelnr.** zoekt u met de assistedit ('...') de juiste regel waarvan u wilt kopiëren (deze is altijd één versienummer lager dan wordt aangemaakt).
+ 8. Bij het veld **Inclusief kop** zet u de schakelaar naar RECHTS; klik op **OK**.
+ 9. Op tabblad **Regels** past u de regels aan die van toepassing zijn (zoals eerder beschreven). 
+ 10. Op tabblad **Algemeen** kiest u in veld **Besluit** de juiste fase en vervolgens zet u de knop **Bevroren versie** naar rechts (op AAN). 
+ 11. Kies de actie/functie **Versie doorzetten** en geef het systeem de bevestiging (**Ja**) waar het om vraagt.
+ 12. Ga nu terug naar de kaart van de versie die is gekopieerd. Op tabblad **Algemeen** zet u in het veld **Niet actief** de knop naar rechts (op AAN). Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen. 
  
 Het project met een verhoogd versienummer is aangemaakt en is zichtbaar in de lijst "Projecten".
 
-##Aanpassen, middels synchroniseren, van de investeringsbegroting of besluitfase (gemengd)
-##Omschrijving
-Gewijzigde begroting en budgetten synchroniseren met expertsysteem zoals REAFORCE.
+### Aanpassen van de investeringsbegroting of besluitfase (gemengd) via synchroniseren
 
- 1.Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor de investeringsbegroting is bedoeld.
- 3. Kies uit de lijst het projectmodel waarvoor de investeringsbegroting is bedoeld, het gemende model.
- 4. Vervolgens boven in het lint **Meer opties** en/of vervolgens **Acties** vervolgens **Functies** en tot slot **Synchroniseren vanuit projectcalculatiesysteem**.
+Het wijzigen van de begroting en budgetten wordt via synchronisatie met een expertsysteem zoals REAFORCE uitgevoerd.
 
-Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen, het model bevriezen. Vervolgens moet nog de stap in het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
-Vervolgens met de pijl links bovenin het scherm ga je terug naar de versie die is gekopieerd. 
-In het tabblad **Algemeen** bij het veld **Niet actief** de knop naar rechts zetten. Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen.  
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies het projecttype waarvoor de investeringsbegroting is bedoeld.
+ 3. Kies vervolgens het gemengde projectmodel waarvoor de investeringsbegroting is bedoeld.
+ 4. Selecteer in het menu de actie/functie **Synchroniseren vanuit projectcalculatiesysteem**. Dynamics Empire zal de goedgekeurde begroting en budgetten overhalen en het model bevriezen.
+ 5. Kies voor menu-item **Versie doorzetten** en geeft het systeem de bevestiging waar het om vraagt.
+ 6. Ga terug naar de kaart van de versie die is gekopieerd en zet op tabblad **Algemeen** het veld **Niet actief** op AAN (knop naar rechts). Hiermee zal deze versie van het projectmodel uit de lijst verdwijnen.  
 
-# Aanmaken Project
+## Aanmaken Project
 
-## Omschrijving
 Wanneer de Stichtingskosten (STIKO) zijn gedefinieerd en per fase zijn vastgelegd en opgevoerd in het projectmodel in Dynamics Empire kan er een project aangemaakt worden.  
 
-## Aanmaken project 
- 1. Ga naar **Projectmodeloverzicht** dit kan via de ZOEKKNOP rechts bovenin. 
- 2. Kies uit de lijst het projecttype waarvoor je een project wilt aanmaken.
- 3. Kies uit de lijst het projectmodel waarvoor je een project wilt aanmaken.
- 4. Vervolgens bij het tabblad **Algemeen**.
- 5. De knop **Bevroren versie** naar rechts zetten.
- 6. In het lint **meer Opties** dan/of **Acties** vervolgens **Functies** en tot slot **Versie doorzetten**, het systeem vraagt "Wilt u deze versie doorzetten" actie **Ja**.
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**. 
+ 2. Kies uit de lijst het projecttype waarvoor u een project wilt aanmaken.
+ 3. Kies vervolgens uit de lijst het projectmodel waarvoor u een project wilt aanmaken.
+ 4. Zet op de verschenen kaart op tabblad **Algemeen** in het veld **Bevroren versie** de knop naar rechts (op AAN).
+ 6. Kies in het menu voor de actie/functie **Versie doorzetten**. Het systeem vraagt om een bevestiging; klik op **Ja**.
 
-Het project is aangemaakt en is zichtbaar in de lijst "Projecten".
+Het project is aangemaakt en is zichtbaar in de lijst met projecten.
 
 ## Zie ook
 

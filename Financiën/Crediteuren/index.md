@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 [Verwerken inkoopfacturen](verwerken-inkoopfacturen/) | Controleren, coderen en boeken van de ontvangen inkoopfacturen.
 [Verwerken inkoopcreditnota's](verwerken-inkoopcreditnotas/) | Controleren, coderen en boeken van de ontvangen inkoopcreditnota's.
 [Beheren rekening-courant crediteuren](beheren-rekening-courant-crediteuren/) | Uitvoeren van de handmatige acties met crediteurennposten  om de rekening-courant van de crediteuren te beheren.
-[Verwerken terugkoopfactuur onroerend goed](verwerken-terugkoopfactuur-onroerend-goed/) | 
+[Verwerken terugkoopfactuur onroerend goed](verwerken-terugkoopfactuur-onroerend-goed/) | Verwerken van de factuur van teruggekochte eenheden en registreren van de waarde.
 
 ## Zie ook
 

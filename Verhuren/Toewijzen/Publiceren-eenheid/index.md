@@ -47,6 +47,4 @@ In deze stap bepaalt u de rangorde van de kandidaten die hebben gereageerd op de
 
 ## Zie ook
 
-[Beheren woningzoekende-informatie](../beheren-woningzoekende-informatie/)  
-[Selecteren kandidaten](../selecteren-kandidaten)  
 [Toewijzen eenheid](../toewijzen-eenheid)

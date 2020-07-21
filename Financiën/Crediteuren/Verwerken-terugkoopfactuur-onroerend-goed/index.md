@@ -15,7 +15,7 @@ Voordat de terugkoopfactuur aangemaakt kan worden dient er eerst een vast activu
 3. Klik op tabblad **Afschrijvingsboeken** op **Meer afschrijvingboeken toevoegen**. Maak een regel aan en vul de volgende velden per regel:
 	- **Afschrijvingsboek**: Kies het afschrijvingsboek voor marktwaarde.
 	- **VA-boekingsgroep**: Kies de boekingsgroep die gebruikt wordt voor verkoop onder voorwaarden.
-	- **Afschrijvingsmethode**: Kies voor **Geen afschrijving**.
+	- **Afschr.-methode**: Kies als afschrijvingsmethode voor **Geen afschrijving**.
 	- **Begindatum afschr.**: Dit veld kunt u leeg laten.
 	- **Aantal afschr.-jaren**: Dit veld kunt u leeg laten.
 
@@ -23,7 +23,7 @@ Voordat de terugkoopfactuur aangemaakt kan worden dient er eerst een vast activu
 
 Nadat het vaste activum aangemaakt is kan de terugkoopfactuur gegenereerd worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Onr. Goed-Eenhedenoverzicht**. 
+1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Onr. Goed-Eenhedenoverzicht**. 
 2. Selecteer de eenheid waarvoor u de terugkoopfactuur aan wilt maken en klik op **Terugkoopaanbiedingen**. 
 3. Open de aanbieding waarvoor u de terugkoopfactuur aan wilt maken. 
 4. Klik op **Terugkoopfactuur maken** om de verkoopfactuur aan te maken. De Terugkoopfactuur is aangemaakt. 

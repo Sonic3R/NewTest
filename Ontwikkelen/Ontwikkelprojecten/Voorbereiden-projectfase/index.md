@@ -1,31 +1,28 @@
 # Voorbereiden projectfase
 
-Op de voorbereiding van het vastleggen van, eventueel, inkoopoffertes en inkooporders dient het project geactualiseerd te worden met een aantal gegevens. 
+Als voorbereiding op het vastleggen van, eventueel, inkoopoffertes en inkooporders dient het project geactualiseerd te worden met een aantal gegevens. 
 
 ## Aanmaken projectfase
 
-Indien het projectmodel is doorgezet naar een project dan zal het project moeten worden voorzien van een aantal (verplichte) items. Dit is nodig om het inkoopproces te starten. 
+Als het projectmodel is doorgezet naar een project zal het project moeten worden voorzien van een aantal (verplichte) items. Dit is nodig om het inkoopproces te starten. 
 
-### Aanmaken projectfase 
- 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**. 
- 2. Kies uit het overzicht voor welk project je de gegevens wilt actualiseren. 
- 3. Vervolgens open de projectkaart.
- 4. Vervolgens op het tabblad **Algemeen** selecteer je bij het veld **Projectfase** de gewenste fase. 
- 5. Vervolgens bij het tabblad **Contactpersonen**;
-	 6. Bij het veld **Contactnr.** het nummer van de persoon die een relatie heeft met het project. Dit kan zijn de; projectleider, projectmanager etc. 
- > Je kunt pas een contactpersoon opvoeren op het project als deze aanwezig is in de lijst **Contactoverzicht**.
- 
-	 7. Vervolgens bij het veld **Functiecode** de rol die de persoon uitvoert op het project.
-	 8. Het is mogelijk de volgorde van tonen in de projectkaart van de personen in te stellen door bij het veld **Prioriteit** de prioriteit aan te passen.
- 8. Vervolgens bij het tabblad **Boekingsinfo** de volgende velden:
-	 7. Bij het veld **Orderbudgethouder** de personen die order verantwoordelijk zijn door op de ...(opzoekwaarde) te klikken en vervolgens in de lijst bij het veld **Budgethouder** de juiste persoon kiezen. 
-	 8. Bij het veld **Factuurbudgethouder** de personen die factuur verantwoordelijk zijn op de ...(opzoekwaarde) te klikken en vervolgens in de lijst bij het veld **Budgethouder** de juiste persoon kiezen.
-	 9. Bij het veld **Verkoopbudgethouder** de personen die verantwoordelijk zijn voor het verkoopproces op de ...(opzoekwaarde) te klikken en vervolgens in de lijst bij het veld **Budgethouder** de juiste persoon kiezen.
->De gekozen budgethouders zijn nu ook terug te vinden op de budgetregel! Het is mogelijk om vooraf al een aantal personen als budgethouders op te voeren. Dit doe je bij het betreffende projecttype
-##Aanpassen projectteam
-
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projecten** (**Projectoverzicht**). 
+ 2. Selecteer het project waarvoor u de gegevens wilt actualiseren en open de projectkaart.
+ 3. Op tabblad **Algemeen** selecteert u bij het veld **Projectfase** de gewenste fase. 
+ 5. Op tabblad **Contactpersonen** vult u de volgende velden:
+ 	* **Contactnr.**: Het nummer van de persoon die een relatie heeft met het project. Dit kan bijvoorbeeld de projectleider of projectmanager zijn.  
+ >**Let op:** U kunt pas een contactpersoon opvoeren op het project als deze aanwezig is in de lijst **Contacten**.  
+ 	*  **Functiecode**: De rol die de persoon uitvoert op het project. 
+ 	* **Prioriteit**: De volgorde van tonen van de personen op de projectkaart.
+ 6. Op tabblad **Boekingsinfo** vult u de volgende velden:
+ 	* **Orderbudgethouder**: De personen die orderverantwoordelijk zijn. Klik op de assistedit ('...') en kies in de lijst met projectbudgethouders de juiste persoon. 
+ 	* **Factuurbudgethouder**: De personen die factuurverantwoordelijk zijn. Klik op de assistedit ('...') en kies in de lijst met projectbudgethouders de juiste persoon.
+	* **Verkoopbudgethouder**: De personen die verantwoordelijk zijn voor het verkoopproces. Klik op de assistedit ('...') en kies in de lijst met projectbudgethouders de juiste persoon.
+>De gekozen budgethouders zijn nu ook terug te vinden op de budgetregel! Het is mogelijk om vooraf al een aantal personen als budgethouders op te voeren. Dit doet u bij het betreffende projecttype.
 Het is goed mogelijk dat bij een lopend project het projectteam wijzigt, dan kan deze worden aangepast.
-###Aanpassen projectteam
+
+## Aanpassen projectteam
+
  1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**. 
  2. Kies uit het overzicht voor welk project je de gegevens wilt actualiseren. 
  3. Vervolgens open de projectkaart.

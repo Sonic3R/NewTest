@@ -12,7 +12,7 @@ Voordat de terugkoopfactuur aangemaakt kan worden dient er eerst een vast activu
 	- **Omschrijving**
 	- **VA-klassecode**: Selecteer de klassecode voor vaste activa in exploitatie.
 	- **Eenheidsnummer**: Selecteer het eenheidsnummer dat van toepassing is. 
-3. Klik op tabblad **Afschrijvingsboeken** op **Meer afschrijvingboeken toevoegen**. Maak een regel aan en vul de volgende velden per regel:
+3. Klik op tabblad **Afschrijvingsboeken** via **Beheren** op **Nieuwe regel** en vul de volgende velden per regel:
 	- **Afschrijvingsboek**: Kies het afschrijvingsboek voor marktwaarde.
 	- **VA-boekingsgroep**: Kies de boekingsgroep die gebruikt wordt voor verkoop onder voorwaarden.
 	- **Afschr.-methode**: Kies als afschrijvingsmethode voor **Geen afschrijving**.

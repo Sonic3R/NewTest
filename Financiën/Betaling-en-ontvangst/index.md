@@ -8,7 +8,6 @@ Werkproces | Omschrijving
 [Aanleveren betaalbestand](aanleveren-betaalbestand/) | Genereren van een betaalbestand op basis van uit te betalen klant- en leveranciersposten.
 [Verwerken bankmutaties](verwerken-bankmutaties/) | Verwerken van de bankmutaties.
 [Verwerken pintransacties](verwerken-pintransacties/) | Verwerken van de pintransacties.
-[Verwerken overige betaalverzoeken](verwerken-overige-betaalverzoeken/) | 
 
 ## Zie ook
 

@@ -1,10 +1,10 @@
 # Verwerken terugkoopfactuur onroerend goed
 
-In dit werkproces wordt de factuur van teruggekochte eenheden verwerkt en de waarde geregistreerd.
+In dit werkproces wordt de factuur van teruggekochte eenheden verwerkt en wordt de waarde geregistreerd.
 
 ## Opvoeren vast activum
 
-Voordat de terugkoopfactuur aangemaakt kan worden dient er eerst een vast activum aangemaakt te worden waarop de waarder van de teruggekochte woning geactiveerd kan worden. 
+Voordat de terugkoopfactuur aangemaakt kan worden dient er eerst een vast activum aangemaakt te worden waarop de waarde van de teruggekochte woning geactiveerd kan worden. 
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Vaste activa** en klik op **+Nieuw**. 
 2. Vul in het scherm dat opent de volgende velden:

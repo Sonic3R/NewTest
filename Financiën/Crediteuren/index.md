@@ -4,7 +4,6 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Ontvangen inkoopfacturen](ontvangen-inkoopfacturen/) | 
 [Verwerken inkoopfacturen](verwerken-inkoopfacturen/) | Controleren, coderen en boeken van de ontvangen inkoopfacturen.
 [Verwerken inkoopcreditnota's](verwerken-inkoopcreditnotas/) | Controleren, coderen en boeken van de ontvangen inkoopcreditnota's.
 [Beheren rekening-courant crediteuren](beheren-rekening-courant-crediteuren/) | Uitvoeren van de handmatige acties met crediteurennposten  om de rekening-courant van de crediteuren te beheren.

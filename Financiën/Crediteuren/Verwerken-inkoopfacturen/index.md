@@ -160,7 +160,6 @@ Wanneer het document door alle personen die het document goed moeten keuren goed
 
 ## Zie ook
 
-[Ontvangen inkoopfacturen](../ontvangen-inkoopfacturen/)  
 [Verwerken inkoopcreditnotas](../verwerken-inkoopcreditnotas/)  
 [Beheren rekening-courant-crediteuren](../beheren-rekening-courant-crediteuren/)  
 [Verwerken terugkoopfactuur onroerend goed](../verwerken-terugkoopfactuur-onroerend-goed/)

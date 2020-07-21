@@ -11,8 +11,8 @@ Als het projectmodel is doorgezet naar een project zal het project moeten worden
  3. Op tabblad **Algemeen** selecteert u bij het veld **Projectfase** de gewenste fase. 
  5. Op tabblad **Contactpersonen** vult u de volgende velden:
  	* **Contactnr.**: Het nummer van de persoon die een relatie heeft met het project. Dit kan bijvoorbeeld de projectleider of projectmanager zijn.  
- >**Let op:** U kunt pas een contactpersoon opvoeren op het project als deze aanwezig is in de lijst **Contacten**.  
- 	*  **Functiecode**: De rol die de persoon uitvoert op het project. 
+	>**Let op:** U kunt pas een contactpersoon opvoeren op het project als deze aanwezig is in de lijst **Contacten**.  
+  	*  **Functiecode**: De rol die de persoon uitvoert op het project. 
  	* **Prioriteit**: De volgorde van tonen van de personen op de projectkaart.
  6. Op tabblad **Boekingsinfo** vult u de volgende velden:
  	* **Orderbudgethouder**: De personen die orderverantwoordelijk zijn. Klik op de assistedit ('...') en kies in de lijst met projectbudgethouders de juiste persoon. 

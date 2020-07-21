@@ -23,33 +23,33 @@ Voordat de terugkoopfactuur aangemaakt kan worden dient er eerst een vast activu
 
 Nadat het vaste activum aangemaakt is kan de terugkoopfactuur gegenereerd worden. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") naar **Onr. Goed-Eenhedenoverzicht**. 
-2. Selecteer de eenheid waarvoor u de terugkoopfactuur aan wilt maken en klik op **Terugkoopaanbiedingen**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
+2. Selecteer de eenheid waarvoor u de terugkoopfactuur aan wilt maken en navigeer via het menu ('...') naar het item **Terugkoopaanbieding**. 
 3. Open de aanbieding waarvoor u de terugkoopfactuur aan wilt maken. 
-4. Klik op **Terugkoopfactuur maken** om de verkoopfactuur aan te maken. De Terugkoopfactuur is aangemaakt. 
+4. Klik op **Terugkoopfactuur maken** om de verkoopfactuur aan te maken. 
 
 ## Aanvullen factuur 
 
 Nadat de factuur aangemaakt is kunt u de factuur controleren en aanvullen. 
 
-1. Navigeer via het zoekveld ![Lampje dat de functie Vertel me opent](https://docs.microsoft.com/nl-NL/dynamics365/business-central/media/ui-search/search_small.png "Vertel me wat u wilt doen") Naar **Onr. Goed-Eenhedenoverzicht**. 
-2. Selecteer de eenheid waarvoor u de verkoopfactuur wilt aanvullen en klik op **Terugkoopaanbiedingen**. 
-3. Open de aanbieding waarvoor u de factuur wilt aanvullen 
-4. Klik op **Terugkoopfactuur** De terugfactuur wordt geopend. 
-5. Vul de volgende gegevens op de factuur kop aan:
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **OG Eenheden**. 
+2. Selecteer de eenheid waarvoor u de terugkoopfactuur wilt aanvullen en navigeer via het menu ('...') naar het item **Terugkoopaanbieding**. 
+3. Open de aanbieding waarvoor u de factuur wilt aanvullen.
+4. Klik op **Terugkoopfactuur** De terugkoopfactuur wordt geopend. 
+5. Vul de volgende gegevens op de factuurkop aan:
 	- **Omschrijving**
 	- **Boekingsdatum**
 	- **Documentdatum**
 	- **Factuurnummer leverancier**
 	- **Factuurberdag**
 6. Vul de factuurregels aan met bijvoorbeeld de verkoop- of makelaarskosten. Selecteer een nieuwe regel en vul de volgende velden. 
-	- **Soort**: Grootboekrekening
-	- **Nr.**: De rekening waarop de kosten of opbrengsten geboekt moeten worden
+	- **Soort**: Grootboekrekening.
+	- **Nr.**: De rekening waarop de kosten of opbrengsten geboekt moeten worden.
 	- **Omschrijving**
 	- **Btw-productboekingsgroep**
-	- **Aantal**: Wanneer het kosten betreft vul hier dan -1 in. Betreft het opbrengsten vul dan 1 in.
+	- **Aantal**: Wanneer het kosten betreft vul hier dan -1 in. Betreft het opbrengsten, vul dan 1 in.
 	- **Eenheidsprijs Exc. btw**
-	- **Dimensie waarden velden**: Velden die eindigen met de het woord code zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden zijn deze velden verplicht om in te vullen.  
+	- **Dimensie waarden velden**: Velden die eindigen met het woord 'code' zijn velden waar dimensies zoals afdelingsdimensie of clusterdimensie gevuld kunnen worden. Afhankelijk van op welke grootboekrekening de kosten geboekt worden, zijn deze velden verplicht om in te vullen.  
 7. Wanneer alle gegevens gecontroleerd en aangevuld zijn kunt u de factuur ter goedkeuring aanbieden. Klik op **Boeken verplichting** en vervolgens op **Goedkeuringsaanvraag verzenden**. De goedkeuringsaanvraag wordt verzonden. 
 
 ## Boeken en versturen factuur 

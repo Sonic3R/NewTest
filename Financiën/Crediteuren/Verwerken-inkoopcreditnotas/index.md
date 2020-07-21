@@ -114,7 +114,6 @@ Nadat de inkoopcreditnota verwerkt is kan ook de oorspronkelijke debitfactuur go
 
 ## Zie ook
 
-[Ontvangen inkoopfacturen](../ontvangen-inkoopfacturen/)  
 [Verwerken inkoopfacturen](../verwerken-inkoopfacturen/)  
 [Beheren rekening-courant-crediteuren](../beheren-rekening-courant-crediteuren/)  
 [Verwerken terugkoopfactuur onroerend goed](../verwerken-terugkoopfactuur-onroerend-goed/)

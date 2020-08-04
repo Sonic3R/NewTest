@@ -3,9 +3,9 @@
 In dit werkproces worden één of meerdere contractonderhoudsprojecten per onderhoudscontract aangemaakt en aan het onderhoudscontract gekoppeld. Door middel van contractonderhoudsprojecten worden de verplichtingen en de voortgang van het onderhoud voor het lopend boekjaar bewaakt.
 
 ## Aanmaken contractclusters (optioneel)
-Budgetten van contractonderhoudsprojecten worden in Dynamics vastgelegd op basis van clusters en binnen deze clusters de aanwezige eenheden. Omdat contractonderhoud regelmatig betrekking heeft op meerdere technische clusters, neemt het aantal budgetregels binnen contractonderhoudsprojecten al snel toe op het moment dat ook het aantal clusters binnen het specifieke contractonderhoud toeneemt. Contractclusters beperken deze administratieve workload doordat voor een contractonderhoudsproject binnen één contractcluster alle eenheden gekoppeld die administratief verbonden met het specifieke contractonderhoud.
+Budgetten van contractonderhoudsprojecten worden in Dynamics Empire vastgelegd op basis van clusters en de binnen deze clusters aanwezige eenheden. Omdat contractonderhoud regelmatig betrekking heeft op meerdere technische clusters, neemt het aantal budgetregels binnen contractonderhoudsprojecten al snel toe op het moment dat ook het aantal clusters binnen het specifieke contractonderhoud toeneemt. Contractclusters beperken deze administratieve workload doordat voor een contractonderhoudsproject binnen één contractcluster alle eenheden gekoppeld worden die administratief verbonden zijn met het specifieke contractonderhoud.
 
- 1. Ga naar **Clusteroverzicht** dit kan via de ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon") ZOEKKNOP rechts
+ 1. Ga naar de lijst **Clusters** dit kan via de ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon") ZOEKKNOP rechts
     bovenin.
  2. Klik op **+ Nieuw** in het lint. Dynamics Empire opent een lege **Clusterkaart**
  3. Activeer het invoerveld **Naam** binnen het tabblad **Algemeen** en Dynamics Empire opent het venster genaamd **Clustersoorten**.

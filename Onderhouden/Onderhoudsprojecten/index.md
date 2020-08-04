@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 [Voorbereiden onderhoudsproject](voorbereiden-onderhoudsproject/) | Samenvoegen van alle uitvoeringsactiviteiten van de jaarbegroting die zijn ingelezen in Dynamics Empire tot een gecombineerde uitvoering. De projecten worden in Dynamics Empire aangemaakt.
 [Bewaken project](bewaken-project/) | Bewaken van de voortgang van het onderhoudsproject en waar nodig bijsturen.
 [Actualiseren prognose](actualiseren-prognose/) | 
-[Aanmaken contractonderhoudsproject](aanmaken-contractonderhoudsproject/) | Aanmaken van één of meerdere contractonderhoudsprojecten per onderhoudscontract en aan het onderhoudscontract gekoppeld. Door middel van contractonderhoudsprojecten worden verplichtingen en voortgang van het onderhoud voor het lopend boekjaar bewaakt.
+[Aanmaken contractonderhoudsproject](aanmaken-contractonderhoudsproject/) | Aanmaken van één of meerdere contractonderhoudsprojecten per onderhoudscontract, en koppelen hiervan aan het onderhoudscontract. Door middel van contractonderhoudsprojecten worden verplichtingen en voortgang van het onderhoud voor het lopend boekjaar bewaakt.
 [Uitvoeren contractonderhoud](uitvoeren-contractonderhoud/) | 
 
 ## Zie ook

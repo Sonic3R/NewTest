@@ -57,13 +57,12 @@ Het niet tijdig schrijven, accorderen en boeken van uren kan het afsluiten van b
 
 Alle uren die geschreven behoren te zijn in een bepaalde periode, meestal een week, moeten worden geaccordeerd om uiteindelijk geboekt te kunnen worden. U kunt niet uw eigen uren accorderen, maar alleen die van collega's.
 
-### Invoeren te accorderen urenTOTHIERRRRRRRRRRRRRR
+### Invoeren te accorderen uren
 
-Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Accorderen uren**. 
-Je komt in een overzicht met de lijst van de uren die klaar staan om geaccordeerd te worden. Je ziet eerst alleen je eigen uren maar die kan je "niet" accorderen. Het overzicht toont de week die op dat moment geldt!
-Ga naar het tabblad **Beheren** en kies in het lint **Toon alle** en vervolgens zoek je de week die je wilt gaan accorderen door in het lint de knop **Volgende week** of **Vorige week** te kiezen. 
-Indien je in de juiste week bent beland kan je de uren accorderen van je collega's door in het veld **Akkoord** te gaan staan en de keuze op "JA" te zetten. Indien niet akkoord dan de keuze "NEE".
-De uren staan nu gereed om door de controleur/manager goed gekeurd te worden. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Accorderen uren**. U komt in een overzicht met de lijst van de uren die klaar staan om geaccordeerd te worden. U ziet eerst alleen uw eigen uren, maar die kunt u niet accorderen. Het overzicht toont de week die op dat moment geldt!
+2. Ga naar tabblad **Beheren** en kies voor **Toon alle**. Vervolgens zoekt u de week die u wilt gaan accorderen door op de knop **Volgende week** of **Vorige week** te klikken. 
+3. Als u in de juiste week bent beland kunt u de uren accorderen van uw collega's door in het veld **Akkoord** te gaan staan en de keuze op 'JA' te zetten. Indien niet akkoord, dan is de keuze 'NEE'.  
+De uren staan nu gereed om door de controleur/manager goedgekeurd te worden. 
 
 ### Goedkeuren uren
 

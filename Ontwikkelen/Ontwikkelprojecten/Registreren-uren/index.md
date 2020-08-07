@@ -1,37 +1,31 @@
 # Registreren uren
 
-Uren besteed aan Investeringsprojecten, Planmatig Onderhoud en Contractonderhoud worden rechtstreeks op het project geboekt. Voordat uren geschreven kunnen worden op een project moet er een Resourcekaart aangemaakt worden en moeten er resources gekoppeld worden aan een project.
+Uren die zijn besteed aan Investeringsprojecten, Planmatig Onderhoud en Contractonderhoud worden rechtstreeks op het project geboekt. Voordat uren geschreven kunnen worden op een project moet er een Resourcekaart aangemaakt worden en moeten er resources gekoppeld worden aan een project.
  
- ## Aanmaken resourcekaart
+## Aanmaken resourcekaart
 
-Een resourcekaart is nodig om medewerkers op een project te kunnen laten schrijven. 
+Een resourcekaart is nodig om medewerkers hun uren op een project te kunnen laten schrijven. 
 
-### Aanmaken resourcekaart
-
- 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon")  naar de lijst **Resources**. 
- 2. Vervolgens in het lint **Nieuw +Nieuw**. 
- 3. De volgende velden in het tabblad **Algemeen** moeten worden gevuld;
-	 A. Het veld **Nr.** vul je de initialen van de resource (medewerker). 
-	 B. Het veld **Naam** de naam van de resource (medewerker).
-	 C. Het veld **Soort** waarde Persoon.
-	 D. Het veld **Basiseenheid** waarde "Uur" 
-	 E. Het veld **Resourcegroep** laat je leeg 
- 5. Vervolgens bij het tabblad **Facturering**;
-	 1. Bij het veld **Directe kostprijs** het uurtarief. Over het algemeen is het een marktconforme uurprijs voor doorbelasting aan projecten. De overige velden kun je overslaan. 
- 6. Vervolgens kan het tabblad **Persoonlijke gegevens** worden overgeslagen en bij het tabblad **Projecten** vul je de volgende velden:
-	 A. Bij het veld **Gebruikers-ID** selecteer je de resource (medewerkersnaam) uit de lijst.  
-	 B. Bij het veld **E-mail** het e-mailadres van de resource (medewerker). Deze is nodig indien je werkt met een ander weekurensjabloon dan "NUL" uur zodat er een herinneringsmail gestuurd kan worden.
-	 C. Bij het veld **Huidig weeknr.** Dit is de startweek vanaf welke de resource (medewerker) uren dient te schrijven in Dynamics Empire. Het systeem hoogt het weeknummer op nadat de uren van de betreffende week volledig zijn geboekt. De resource (medewerker) wordt hierdoor automatisch geleid naar de eerste niet-geboekte week bij het benaderen van de zogenaamde "weekbon" en kan uiteraard bladeren naar komende weken.
-	 4. Bij het veld **Huidig jaar** vul je het jaar in van wanneer de resource (medewerker) uren moet kunnen schrijven op projecten.
-	 5. Bij het veld **Weekurensjabloon** selecteer je het sjabloon waarin is vastgelegd hoeveel uren een resource (medewerker) moet verantwoorden (contracturen). "Nul" uren betekent ongelimiteerd er is géén controle op de hoeveelheid geschreven uren per dag/week. 
-	 6. Bij het veld **Gebruik weekbon** zet je het vinkje "aan".	 
-	 
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Resources**. 
+ 2. Klik op **Nieuw | +Nieuw**. 
+ 3. De volgende velden op het tabblad **Algemeen** moeten worden gevuld:
+	* **Nr.:** Initialen van de resource (medewerker). 
+	* **Naam:** Naam van de resource (medewerker).
+	* **Soort:** 'Persoon'.
+	* **Basiseenheid:** 'Uur'.
+	* **Resourcegroep:** (laat dit veld leeg) 
+ 4. Op tabblad **Facturering** vult u in het veld **Directe kostprijs** het uurtarief. Over het algemeen is het een marktconforme uurprijs voor doorbelasting aan projecten. De overige velden kunt u overslaan.
+ 5. Op tabblad **Projecten** vult u de volgende velden:
+	* **Gebruikers-ID:** Selecteer de resource (medewerkersnaam) uit de lijst.
+	* **E-mail:** E-mailadres van de resource (medewerker). Dit is nodig als u werkt met een ander weekurensjabloon dan 'NUL' uur, zodat er een herinneringsmail gestuurd kan worden.
+	* **Huidig weeknr.:** Dit is de startweek vanaf welke de resource (medewerker) uren dient te schrijven in Dynamics Empire. Het systeem hoogt het weeknummer op nadat de uren van de betreffende week volledig zijn geboekt. De resource wordt hierdoor automatisch geleid naar de eerste niet-geboekte week bij het benaderen van de zogenaamde 'weekbon' en kan uiteraard bladeren naar komende weken.
+	* **Huidig jaar:** Vul het jaar in van wanneer de resource uren moet kunnen schrijven op projecten.
+	* **Weekurensjabloon:** Selecteer het sjabloon waarin is vastgelegd hoeveel uren een resource (medewerker) moet verantwoorden (contracturen). 'Nul uren' betekent ongelimiteerd: er is géén controle op de hoeveelheid geschreven uren per dag/week. 
+	* **Gebruik weekbon:** Zet dit veld op 'AAN'.	 
 	
 ## Registreren uren
 
 Een resource (medewerker) kan alleen uren vastleggen op een project als hij/zij daaraan gekoppeld is.
-
-### Registreren uren
 
  1. Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**. 
  2. Kies uit het overzicht voor welk project je de gegevens wilt opvoeren. 
@@ -50,8 +44,6 @@ De budgetkaart wordt geopend en ga vervolgens naar het tabblad **Uren** hier vul
 
 In deze processtap worden de uren per dag verantwoord in Dynamics Empire door de betreffende resource (medewerker).
 
-### Vastleggen uren in de urenstaat
-
  1. Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Urenstaat**. 
 Je komt in de zogenaamde Weekbon. Dit is het scherm waarin je uren kunt verantwoorden, in een eerstvolgende niet-geboekte week. Je kunt met de knoppen in het lint tussen de weken bladeren. In de regels van dit scherm zie je de projecten waarop je uren mag verantwoorden. Mis je een regel, vraag dan aan de projectleider om de koppeling met het project te controleren (zie vorige stappen).
 
@@ -60,39 +52,41 @@ Je komt in de zogenaamde Weekbon. Dit is het scherm waarin je uren kunt verantwo
  1. Je kunt nu uren schrijven door het aantal uren in te vullen op de regel van het project waarvoor de uren gelden. Selecteer die regel en ga naar het veld, **Maandag dd-mm-jj** of een van de andere dagen waarvoor je uren wilt vastleggen.
  3. Vul het aantal uren in vervolgens klik je op de **... Opzoekwaarde** er opent een scherm waarin je de mogelijkheid hebt om een eigen beschrijving te geven, dit kan gespecificeerd worden door de uren op die dag op te delen. Je geeft dan per regel het aantal uren en omschrijving. Het aantal uren zal dan "vetgedrukt" worden weergegeven.  Wil je geen omschrijving dan laat je deze regel leeg. Als laatste actie klik je op **Sluiten**. 
 > Als voor jou een urensjabloon is ingesteld met contracturen , dan zie je onderin de Weekbon hoeveel uren je voor de betreffende dag nog dient te verantwoorden. De specificatie zie je ongeacht welk urensjabloon is gebruikt. 
-#Controleren uren
+
+## Controleren uren
+
 Het niet tijdig schrijven, accorderen en boeken van uren kan het afsluiten van boekhoudperiodes vertragen. Collega’s dienen daarom eraan herinnerd te worden dat ze nog uren moeten schrijven. Een dergelijke controle door het systeem kan alleen als niet met een zogenaamd NUL-urensjabloon wordt gewerkt.
 #Accorderen uren 
 Indien alle uren die geschreven behoren te zijn in een bepaalde periode, meestal een week, moeten worden geaccordeerd om uiteindelijk geboekt te kunnen worden. Je kunt niet je "eigen" uren accorderen maar alleen die van collega's. 
 
 ## Invoeren te accorderen uren
+
  Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon")  naar de lijst **Accorderen uren**. 
 Je komt in een overzicht met de lijst van de uren die klaar staan om geaccordeerd te worden. Je ziet eerst alleen je eigen uren maar die kan je "niet" accorderen. Het overzicht toont de week die op dat moment geldt!
 Ga naar het tabblad **Beheren** en kies in het lint **Toon alle** en vervolgens zoek je de week die je wilt gaan accorderen door in het lint de knop **Volgende week** of **Vorige week** te kiezen. 
 Indien je in de juiste week bent beland kan je de uren accorderen van je collega's door in het veld **Akkoord** te gaan staan en de keuze op "JA" te zetten. Indien niet akkoord dan de keuze "NEE".
 De uren staan nu gereed om door de controleur/manager goed gekeurd te worden. 
 
-## Accorderen totaal uren
+## Goedkeuren uren
 
 De controleur/manager kan nu de ingevoerde uren in het overzicht "accorderen uren" gaan accorderen.
 Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon")  naar de lijst **Accorderen uurtotalen**. 
 Je komt in het overzicht van te uren die gereed staan om geaccordeerd te worden. In het tabblad **Algemeen** kan je bij het veld **Toon uren** kiezen voor "Alle", dit zij alle te boeken uren na akkoord. Indien je kiest voor "Alleen niet geaccordeerd" zijn de uren zichtbaar die nog niet geboekt kunnen worden na akkoord! 
 In het lint klik je op de knop **Accorderen** en vervolgens verschijnt er een pop-up met de tekst: "Wilt u de alle uren (binnen de selectie) accorderen? **JA** kiezen.  De uren zijn geaccordeerd en gereed om geboekt te gaan worden.
 
-
 ## Versturen herinnering
 
 Het niet tijdig schrijven, accorderen en boeken van uren kan het afsluiten van boekhoudperiodes vertragen. Collega’s dienen daarom eraan herinnerd te worden dat ze nog uren moeten schrijven. Een dergelijke controle door het systeem kan alleen als niet met een zogenaamd NUL-urensjabloon wordt gewerkt. Als niet alle uren geschreven zijn moet er een herinnering verstuurd worden naar de medewerkers.
-
-### Versturen herinnering aan medewerker
 
 De betreffende controleur/manager van de medewerkers die uren moeten schrijven op projecten een herinnering te versturen. 
 Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Accorderen uren**. 
 In het tabblad **Beheren** kies je in het lint voor **Alleen niet acc.** vervolgens blader via de knop **Volgende week** of **Vorige week** naar de juiste week en kies vervolgens in het lint **Herinnering**. 
 De betreffende medewerker krijgt een mail met daarin het verzoek de uren te controleren en te accorderen.
-#Uren boeken
+
+## Uren boeken
+
 Indien alle uren geaccordeerd zijn kunnen deze worden geboekt.
-##Uren boek van medewerkers
+
 Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon")  naar de lijst **Boeken uren (weekbon)**. 
 In het overzicht staan alle te boeken uren. De controleur/manager kan hier eventueel nog een extra controle uitvoeren door de betreffende medewerker te selecteren en in het lint de knop **Weekbon** aan te klikken als hij ziet dat de uren in de kolom "Uren te boeken" niet overeenkomen met het aantal te werken urensjabloon(niet bij NUL urensjabloon). De controleur/manager kan via de knop **Herinnering** in het lint de medewerker een bericht sturen dat het niet klopt.
 Indien alle uren geboekt kunnen worden dan selecteer je alle medewerkers. Dit doe je door middel van de eerste regel van de medewerker te selecteren en vervolgens bij **Resourcenr.** de **"drie" puntjes** te klikken en dan **Meer selecteren** te klikken. Je hebt nu de mogelijkheid om de medewerkers te selecteren waarvan de uren geboekt mogen worden. 

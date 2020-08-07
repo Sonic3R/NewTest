@@ -66,28 +66,31 @@ De uren staan nu gereed om door de controleur/manager goedgekeurd te worden.
 
 ### Goedkeuren uren
 
-De controleur/manager kan nu de ingevoerde uren in het overzicht "accorderen uren" gaan accorderen.
-Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon")  naar de lijst **Accorderen uurtotalen**. 
-Je komt in het overzicht van te uren die gereed staan om geaccordeerd te worden. In het tabblad **Algemeen** kan je bij het veld **Toon uren** kiezen voor "Alle", dit zij alle te boeken uren na akkoord. Indien je kiest voor "Alleen niet geaccordeerd" zijn de uren zichtbaar die nog niet geboekt kunnen worden na akkoord! 
-In het lint klik je op de knop **Accorderen** en vervolgens verschijnt er een pop-up met de tekst: "Wilt u de alle uren (binnen de selectie) accorderen? **JA** kiezen.  De uren zijn geaccordeerd en gereed om geboekt te gaan worden.
+De controleur/manager kan nu de ingevoerde uren in het overzicht **Accorderen uren** gaan accorderen.
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst  **Accorderen uurtotalen**. U komt in het overzicht van de uren die gereed staan om geaccordeerd te worden.
+2. Op tabblad **Algemeen** kunt u bij het veld **Toon uren** kiezen voor 'Alle'; dit zijn alle te boeken uren na akkoord. Als u kiest voor 'Alleen niet-geaccordeerd' zijn de uren zichtbaar die nog niet geboekt kunnen worden na akkoord! 
+3. Klik op de knop **Accorderen**, waarna een pop-up verschijnt met de tekst: "Wilt u alle uren (binnen de selectie) accorderen?" Kies voor **JA**.  
+De uren zijn nu geaccordeerd en gereed om geboekt te worden.
 
 ## Versturen herinnering
 
 Het niet tijdig schrijven, accorderen en boeken van uren kan het afsluiten van boekhoudperiodes vertragen. Collega’s dienen daarom eraan herinnerd te worden dat ze nog uren moeten schrijven. Een dergelijke controle door het systeem kan alleen als niet met een zogenaamd NUL-urensjabloon wordt gewerkt. Als niet alle uren geschreven zijn moet er een herinnering verstuurd worden naar de medewerkers.
 
-De betreffende controleur/manager van de medewerkers die uren moeten schrijven op projecten een herinnering te versturen. 
-Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Accorderen uren**. 
-In het tabblad **Beheren** kies je in het lint voor **Alleen niet acc.** vervolgens blader via de knop **Volgende week** of **Vorige week** naar de juiste week en kies vervolgens in het lint **Herinnering**. 
-De betreffende medewerker krijgt een mail met daarin het verzoek de uren te controleren en te accorderen.
+De betreffende controleur/manager van de medewerkers die uren moeten schrijven op projecten dient deze herinnering te versturen.
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Accorderen uren**. 
+2. Op tabblad **Beheren** kiest u voor **Alleen niet acc.**. Blader nu via de knoppen **Volgende week**/**Vorige week** naar de juiste week en kies vervolgens de optie **Herinnering**. De betreffende medewerker krijgt een mail met daarin het verzoek de uren te controleren en te accorderen.
 
 ## Uren boeken
 
-Indien alle uren geaccordeerd zijn kunnen deze worden geboekt.
+Als alle uren geaccordeerd zijn kunnen deze worden geboekt.
 
-Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon")  naar de lijst **Boeken uren (weekbon)**. 
-In het overzicht staan alle te boeken uren. De controleur/manager kan hier eventueel nog een extra controle uitvoeren door de betreffende medewerker te selecteren en in het lint de knop **Weekbon** aan te klikken als hij ziet dat de uren in de kolom "Uren te boeken" niet overeenkomen met het aantal te werken urensjabloon(niet bij NUL urensjabloon). De controleur/manager kan via de knop **Herinnering** in het lint de medewerker een bericht sturen dat het niet klopt.
-Indien alle uren geboekt kunnen worden dan selecteer je alle medewerkers. Dit doe je door middel van de eerste regel van de medewerker te selecteren en vervolgens bij **Resourcenr.** de **"drie" puntjes** te klikken en dan **Meer selecteren** te klikken. Je hebt nu de mogelijkheid om de medewerkers te selecteren waarvan de uren geboekt mogen worden. 
-Vervolgens ga je naar het lint en klik je op **Boeken** en de uren zijn geboekt. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Boeken uren (weekbon)**. 
+2. In het overzicht staan alle te boeken uren. De controleur/manager kan hier eventueel nog een extra controle uitvoeren door de betreffende medewerker te selecteren en voor optie **Weekbon** te kiezen als hij ziet dat de uren in de kolom **Uren te boeken** niet overeenkomen met het aantal te werken urensjabloon(niet bij NUL-urensjabloon).
+3. De controleur/manager kan via actie **Herinnering** de medewerker een bericht sturen dat het niet klopt.
+4. Als alle uren geboekt kunnen worden selecteert u alle medewerkers. (Dit doet u door op de drie puntjes ('...') in één van de regels te klikken en dan **Meer selecteren** te kiezen; u kunt dan alle regels aanvinken waarvan de uren geboekt mogen worden.) 
+5. Klik tot slot op **Boeken**, waarna de uren zijn geboekt.
 
 ## Zie ook
 

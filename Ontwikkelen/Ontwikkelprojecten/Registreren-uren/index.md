@@ -27,18 +27,15 @@ Een resourcekaart is nodig om medewerkers hun uren op een project te kunnen late
 
 Een resource (medewerker) kan alleen uren vastleggen op een project als hij/zij daaraan gekoppeld is.
 
- 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](https://docs.cegeka-dsa.nl/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**. 
- 2. Kies uit het overzicht voor welk project je de gegevens wilt opvoeren. 
- 3. Vervolgens open de projectkaart.
- 4. Vervolgens bij het tabblad **Budgetregels**;
-Kies een regel waarop de resource (medewerker) zijn uren moet gaan schrijven. Vervolgens in het lint van de Budgetregels kies **Beheren** vervolgens **Budget**. 
-De budgetkaart wordt geopend en ga vervolgens naar het tabblad **Uren** hier vul je de volgende velden:
-  A. Bij het veld **Nr.** selecteer je de resource (medewerkersnaam) uit de lijst.
-  B. Pas bij het veld **Boeken toegest. vanaf** en **Boeken toegest. tot** eventueel de datum aan om de periode aan te geven waarbinnen de resource (medewerker) uren mag schrijven. Standaard staat hier de start en opleverdatum van het project. 
-  C. Bij het veld **Aantal** geef je het budget aan in het aantal uren waarvoor de resource (medewerker) werkzaam is op dit project voor dit onderdeel (werksoort)   
+ 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**. 
+ 2. Selecteer het project waarvoor u de gegevens wilt opvoeren en open de kaart.
+ 3. Selecteer op tabblad **Budgetregels** een regel waarop de resource (medewerker) zijn uren moet gaan schrijven. Kies in het menu van het tabblad voor **Budget** (onder **Beheren**), waarna de budgetkaart wordt geopend. Ga vervolgens naar tabblad **Uren** en vul de volgende velden:
+	* **Nr.:** Selecteer de resource (medewerkersnaam) uit de lijst.
+	* **Boeken toegest. vanaf** en **Boeken toegest. tot:** Geef eventueel de datum op om de periode aan te geven waarbinnen de resource (medewerker) uren mag schrijven. Standaard staan hier de start- en opleverdatum van het project. 
+	* **Aantal:** Geef het budget op in het aantal uren waarvoor de resource (medewerker) werkzaam is op dit project voor dit onderdeel (werksoort).
  
->Indien er meerdere resources (medewerkers) zijn op hetzelfde budget herhaal dan de stappen A t/m C. Doe dit ook indien dezelfde resource (medewerker) op een andere budgetregel werkzaamheden gaat verrichten alleen sluit eerst deze "budgetkaart" en kies dan de juiste regel. 
->Het resultaat van het aanmaken van de uren is nu zichtbaar in het feitenblok op de "Projectkaart" bij het item **Uren** 
+>Als er meerdere resources (medewerkers) zijn op hetzelfde budget, herhaal dan bovenstaande stappen. Doe dit ook als dezelfde resource op een andere budgetregel werkzaamheden gaat verrichten. Sluit dan eerst deze budgetkaart en kies vervolgens de juiste regel.  
+>Het resultaat van het aanmaken van de uren is nu zichtbaar in het feitenblok op de Projectkaart, bij het item **Uren**.
 
 ## Vastleggen uren
 

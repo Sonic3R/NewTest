@@ -6,13 +6,13 @@ Voor het registreren van een onderhoudsverzoek kunt u al dan niet gebruik maken 
 
 
 ## Registreren onderhoudsverzoek met behulp van de vraagboom
-1. Navigeer via het zoekveld   naar de lijst OG Eenheden. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst OG Eenheden.
 2. Zoek de juiste eenheid op. 
 3. Ga naar Nieuw en klik op Vraagboom onderhoudsverzoek. 
 4. De pagina Eenheidsselectie wordt geopend. Hierin wordt aangeven welke, naast de eenheid zelf, collectieve objecten zijn gekoppeld aan deze eenheid. 
 5. Selecteer de betreffende eenheid 
 6. De pagina Vraagboom onderhoudsverzoek wordt geopend. Vul de volgende velden in: 
-- Communicatiewijze 
+	- **Communicatiewijze**
 - Ruimtesoort 
 - Bouwelement 
 - Onderdeel, alleen indien er meerdere onderdelen van toepassing zijn op het bouwelement 

@@ -22,8 +22,7 @@ Voor het registreren van een onderhoudsverzoek kunt u al dan niet gebruik maken 
 	- **Oorzaak**: Alleen als deze afwijkt van de defaultwaarde 'Normaal gebruik'.
 7. Vul in het veld **Opmerkingen** eventuele aanvullende gegevens met betrekking tot het verzoek.
 8. Als u bij **Oorzaak** aangeeft dat het gebrek is veroorzaakt door de gebruiker, dan is het verplicht om aan te geven of de huurder akkoord is met de kosten/doorbelasting. Ga hiervoor naar tabblad **Kosten voor rekening huurder** en zet het veld **Huurder is akkoord met de kosten** op 'Aan'.
-9. Druk op OK om het onderhoudsverzoek te registreren en eventueel te plannen.
-Indien et onderhoudsverzoek direct gepland kan worden dan verschijnt de melding Wilt u het onderhoudsverzoek in Connect-it plannen? Indien dit niet mogelijk is dan kunt u de voorkeurs-dagdelen aangeven.
+9. Klik op **OK** om het onderhoudsverzoek te registreren en eventueel te plannen. Als het onderhoudsverzoek direct gepland kan worden verschijnt de melding "Wilt u het onderhoudsverzoek in Connect-It plannen?" Indien dit niet mogelijk is kunt u de voorkeurs-dagdelen aangeven.
 
 
 ## Zie ook

@@ -66,7 +66,7 @@ Wanneer er geen minderwerkorder beschikbaar is voor de creditnota en er ligt gee
 	- **Nr.**: Selecteer het grootboekrekeningnummer of de kostencode (in geval van service- en verbruiksfacturen). 
 	- **Omschrijving**: Dit is de omschrijving die meegegeven wordt aan de grootboekposten. 
 	- **Btw-productboekingsgroep** 
-	- **Clusternummer**: Vullen wanneer van toepassing; als **Kostencode** geselecteerd is in het veld **Soort ** is dit veld verplicht. 
+	- **Clusternummer**: Vullen wanneer van toepassing; als 'Kostencode' geselecteerd is in het veld **Soort** is dit veld verplicht. 
 	- **Eenheidsnummer**: Vullen wanneer van toepassing.
 	- **S&V afrekenbatch**: Selecteer de afrekenbatch waar de service- en verbruikskosten op van toepassing zijn (alleen invullen bij service- en verbruiksfacturen).
 	- **Directe kostprijs Excl. btw**: Regelprijs zonder BTW.
@@ -104,7 +104,7 @@ Wanneer het document door alle personen die het document goed moeten keuren, goe
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Inkoopcreditnota's**. Stel een filter in op het veld **Status** = 'Vrijgegeven'. De pagina toont nu een overzicht van de facturen die vrijgegeven zijn en geboekt kunnen worden. 
 2. Klik op **Batchboeken (verplichting)**. 
-3. Zet het veld **Boekstatus** op **Verplichting geboekt** en zet het veld **Status** op **Vrijgegeven**.
+3. Zet het veld **Boekstatus** op 'Verplichting geboekt' en zet het veld **Status** op 'Vrijgegeven'.
 4. Klik op **OK**. Alle creditnota's waarvoor dit mogelijk is worden definitief geboekt. 
 5. Creditnota's waarbij de boekingsdatum in afgesloten periode valt worden niet geboekt. Om deze facturen toch in batch te kunnen boeken kan bij stap 3  in het veld **Boekingsdatum** de aangepaste boekingsdatum ingevuld worden. Alle facturen binnen het filter worden dan met deze nieuwe boekingsdatum geboekt. 
 

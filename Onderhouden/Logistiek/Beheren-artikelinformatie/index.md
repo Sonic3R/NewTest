@@ -7,21 +7,14 @@ In dit werkproces worden nieuwe artikelen aangemaakt en wordt de informatie van 
 Zodra er een nieuw artikel beschikbaar is (of reeds in gebruik is) is het belangrijk dat dit ook in Dynamics Empire wordt vastgelegd, zodat de vakmannen het artikel kunnen verbruiken, en het ook als kosten op het onderhoudsverzoek kan worden vastgelegd.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Artikelen**.
-
-2. Klik op Nieuw. 
-
-3. Ga in het veld Artikelnummer staan en klik op de Tabtoets. Een artikelnummer wordt nu automatisch aangemaakt. Vul vervolgens de volgende velden: 
-
-    - Omschrijving:Geef de omschrijving van het artikel in.  
-
-    - Basiseenheid: Geef de eenheid op die voor het artikel van toepassing is.  
-
-    - Artikelcatagoriecode: Selecteer de betreffende artikelcatagorie.  
-
-4.  Ga nu naar de sneltab Facturering. Vul de volgende velden: 
-
+2. Klik op **Nieuw**. 
+3. Ga in het veld **Nr.** staan en druk op de tabtoets; het systeem maakt nu automatisch een artikelnummer aan.
+4. Vul de volgende velden: 
+    - **Omschrijving**  
+    - **Basiseenheid**: Geef de eenheid op die voor het artikel van toepassing is. 
+    - **Artikelcatagoriecode**  
+4.  Ga naar tabblad **Facturering** en vul het volgende veld:
      Vaste verrekenprijs: Geef hier de prijs inclusief BTW voor het artikel op.  
-
 5.  Ga nu naar sneltab Prijs en boeking. Vul de volgende velden: 
 
     - Artikel toeslag verbruik%: Geef hier de toeslag op die wordt berekend over de kostprijs van het  

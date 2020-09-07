@@ -2,12 +2,12 @@
 
 In deze instructie wordt beschreven hoe de prognose op een projectkaart bijgewerkt kan worden. 
 
-1. Navigeer via Onderhoudsprojecten, naar Projecten boven in het scherm.  
-2. Zoek via het zoekveld  het betreffende project.  
-3. Ga naar sneltab Budgetregels, klik op Beheren en selecteer vervolgens Budget 
-4. Ga naar het veld Prognose en pas het bedrag aan en sluit de pagina 
-5. Het Prognosebedrag op de budgetregel is nu zichtbaar 
-6. Klik bovenin op Proces en kies dan Cashflow om ten behoeve van de liquiditeitsprognose nieuwe cashflowposten aan te maken.  
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**.
+2. Zoek het betreffende project op en open de projectkaart.
+3. Ga naar tabblad **Budgetregels** en selecteer de juiste regel.
+4. Klik in het tabbladmenu op **Beheren** en kies voor **Budget**.
+5. Ga naar het veld **Prognose**, pas het bedrag aan en sluit de pagina. Het prognosebedrag op de budgetregel is nu gewijzigd. 
+6. Kies in het hoofdmenu via **Proces** voor **Cashflow** om ten behoeve van de liquiditeitsprognose nieuwe cashflowposten aan te maken.
 
 ## Zie ook
 

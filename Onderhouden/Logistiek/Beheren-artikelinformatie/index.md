@@ -11,8 +11,8 @@ Zodra er een nieuw artikel beschikbaar is (of reeds in gebruik is) is het belang
 3. Ga in het veld **Nr.** staan en druk op de tabtoets; het systeem maakt nu automatisch een artikelnummer aan.
 4. Vul de volgende velden: 
 	- **Omschrijving**  
-	- **Basiseenheid**: Geef de eenheid op die voor het artikel van toepassing is. 
-	- **Artikelcatagoriecode**  
+	- **Basiseenheid** 
+	- **Artikelcatagoriecode**
 4.  Ga naar tabblad **Kosten en boeking** en vul het volgende veld:
 	- **Vaste verrekenprijs**: Geef hier de prijs inclusief BTW voor het artikel op.
 5.  Ga naar tabblad Prijs en boeking. Vul de volgende velden: 

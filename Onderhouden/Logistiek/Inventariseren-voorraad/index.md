@@ -4,15 +4,11 @@ Het is gebruikelijk om periodiek (bijvoorbeeld één keer per jaar) de aanwezige
 
 Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er geïnventariseerd wordt. Als er nog regels bestaan moeten deze eerst verwijderd worden.
 
-
-
-1. Navigeer via het zoekveld  naar de lijst Inventarisatiedagboek. 
-2. Klik op Voorraad berekenen. 
-3. Het filteroverzicht Voorstelposten ophalen opent. Vul hier de volgende velden: 
-
-Boekingsdatum: Deze datum wordt automatisch gevuld met de huidige datum en kan indien  nodig worden aangepast. 
-
-Documentnummer: Geef hier een kenmerk op zoals bijv. “Inventarisatie bus 1”     
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Inventarisatiedagboeken**. 
+2. Kies onder menu-item **Voorbereiden** voor de actie **Voorraad berekenen**. 
+3. De gelijknamige pagina verschijnt. Vul hier de volgende velden: 
+   - **Boekingsdatum**: Deze datum wordt automatisch gevuld met de huidige datum en kan indien nodig worden aangepast. 
+   - **Documentnr.**: Geef hier een kenmerk op zoals bijv. “Inventarisatie bus 1”     
 
 Voeg via het filter eventueel specifieke filters voor één of meerdere specifieke artikelen, of voor een specifiek magazijn. 
 

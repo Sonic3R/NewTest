@@ -10,14 +10,13 @@ Zodra er een nieuw artikel beschikbaar is (of reeds in gebruik is) is het belang
 2. Klik op **Nieuw**. 
 3. Ga in het veld **Nr.** staan en druk op de tabtoets; het systeem maakt nu automatisch een artikelnummer aan.
 4. Vul de volgende velden: 
-    - **Omschrijving**  
-    - **Basiseenheid**: Geef de eenheid op die voor het artikel van toepassing is. 
-    - **Artikelcatagoriecode**  
-4.  Ga naar tabblad **Facturering** en vul het volgende veld:
-     Vaste verrekenprijs: Geef hier de prijs inclusief BTW voor het artikel op.  
-5.  Ga nu naar sneltab Prijs en boeking. Vul de volgende velden: 
-
-    - Artikel toeslag verbruik%: Geef hier de toeslag op die wordt berekend over de kostprijs van het  
+	- **Omschrijving**  
+	- **Basiseenheid**: Geef de eenheid op die voor het artikel van toepassing is. 
+	- **Artikelcatagoriecode**  
+4.  Ga naar tabblad **Kosten en boeking** en vul het volgende veld:
+	- **Vaste verrekenprijs**: Geef hier de prijs inclusief BTW voor het artikel op.
+5.  Ga naar tabblad Prijs en boeking. Vul de volgende velden: 
+	- **Artikel toeslag verbruik%: Geef hier de toeslag op die wordt berekend over de kostprijs van het  
         artikel.  
 
     - Prijs/winst berekenen: Geef de waarde Verkoopprijs = Kostprijs + Winst in.  

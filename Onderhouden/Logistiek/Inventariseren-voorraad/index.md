@@ -8,35 +8,25 @@ Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er 
 2. Kies onder menu-item **Voorbereiden** voor de actie **Voorraad berekenen**. 
 3. De gelijknamige pagina verschijnt. Vul hier de volgende velden: 
    - **Boekingsdatum**: Deze datum wordt automatisch gevuld met de huidige datum en kan indien nodig worden aangepast. 
-   - **Documentnr.**: Geef hier een kenmerk op zoals bijv. “Inventarisatie bus 1”     
+   - **Documentnr.**: Geef hier een kenmerk op zoals bijv. 'Inventarisatie bus 1'.     
+4. Voeg via het filter eventueel specifieke waarden op voor één of meerdere specifieke artikelen, of voor een specifiek magazijn. Als u dit niet doet worden alle aanwezige regels meegenomen in de berekening.
+5. Klik op **OK**. De in Dynamics Empire bekende artikelaantallen worden berekend.  
 
-Voeg via het filter eventueel specifieke filters voor één of meerdere specifieke artikelen, of voor een specifiek magazijn. 
+## Verwerken inventarisatie
 
-4. Klik op Ok. De in Dynamics Empire bekende artikel aantallen worden berekend.  
-
-  
-
-Verwerken inventarisatie  
-
-Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagboek. In de kolom Aantal (berekend) staat het bekende aantal artikelen.  
-
-Indien er negatieve correcties worden uitgevoerd, zullen de bedragen positief getoond worde! 
-
- 1. Geef in de kolom Aantal (inventarisatie) de werkelijk getelde aantallen op.  
-
+Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagboek. In de kolom **Aantal (Berekend)** staat het bekende aantal artikelen vermeld.
+>**Let op:** Als er negatieve correcties worden uitgevoerd, zullen de bedragen positief getoond worden! 
+1. Geef in de kolom **Aantal (Inventarisatie)** de werkelijk getelde aantallen op.  
  
+## Controleren inventarisatie
 
-Boeken voorraad verschillen. 
-
-1. Klik op Boeken in het Lint.  
-
-2. De melding Wilt u dagboekregels boeken? Verschijnt. Klik op Ja.  
-
-3. Wanneer de boeking succesvol is verlopen krijgt u hiervan een bevestigingsmelding, klik vervolgens op Ok.  
-
-  
-
+1. Klik in het menu op de drie puntjes (...) en kies onder **Acties | Boeken** voor **Testrapport**.
+2. Klik op de knop **Voorbeeld** om eerst het rapport op scherm te bekijken. Kies voor een van de andere knoppen als u het rapport wil afdrukken, of het wil verzenden als bijvoorbeeld PDF.
  
+## Boeken voorraadverschillen
+1. Klik in het menu onder **Boeken/afdrukken** op **Boeken**.  
+2. Op de melding 'Wilt u de dagboekregels boeken?' reageert u met een klik op **Ja**.  
+3. Wanneer de boeking succesvol is verlopen krijgt u hiervan een bevestigingsmelding; klik op **OK**.  
 
 ## Zie ook
 

@@ -4,6 +4,6 @@ Deze stap wordt in een extern woonruimteverdeelsysteem uitgevoerd.
 
 ## Zie ook
 
-[Beheren woningzoekende-informatie](../beheren-woningzoekende-informatie)
+[Beheren woningzoekende-informatie](../beheren-woningzoekende-informatie)  
 [Publiceren eenheid](../publiceren-eenheid)  
 [Toewijzen eenheid](../toewijzen-eenheid)  

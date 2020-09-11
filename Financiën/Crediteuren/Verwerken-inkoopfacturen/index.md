@@ -141,7 +141,7 @@ Wanneer het document goedgekeurd dient te worden verloopt dit via het werkproces
 
 ## Behandelen geweigerde documenten
 
-Wanneer een document geweigerd is dient u de weigeringsreden te beoordelelden.
+Wanneer een document geweigerd is dient u de weigeringsreden te beoordelen.
 
 1. Vanaf de **Inkoopfacturen** kiest u voor **Goedkeuringen** om de geweigerde goedkeuringsposten te tonen.
 2. Klik op **Opmerkingen**. De pagina **Opmerkingen bij goedkeuring** opent. U ziet hier de reden van weigeren en wie de aanvraag geweigerd heeft.

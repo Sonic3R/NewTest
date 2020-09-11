@@ -13,16 +13,16 @@ In dit proces wordt beschreven hoe een transferorder kan worden aangemaakt via e
     - **Planningsparameters voor uitzonderingswaarschuwingen respecteren**: Dit dient aangevinkt te worden.  
 4. Klik op **OK**. Het planvoorstel wordt berekend.
    
-## Planningsboodschap uitvoeren
+## Inkooporders aanmaken
 
-Het rapport kan zowel geaccepteerde als niet-geaccepteerde regels geven. Geaccepteerde regels kunnen 'verplaatst' worden en niet-geaccepteerde regels moeten na controle worden verwijderd, of alsnog worden geaccepteerd. U gaat nu inkoop- en tranfserorders aanmaken.
-   
-1. Kies op pagina **Planningsvoorstellen** voor de actie/functie **Planningsboodschap uitvoeren**.  
-2. Vul de volgende velden op pagina **Planningsboodschap uitvoeren - Plan.**:  
-    - **Inkooporder**: Kies voor 'Inkooporders maken' als u voor de leverancier een inkooporder wilt aanmaken.  
-    - **Transferorder**: Kies voor 'Transferorders maken' als u artikelen wilt verplaatsen van het hoofdmagazijn naar de submagazijnen.  
-    - **Transferorders combineren**: Dit is een keuzeveld. 
-3. Klik op **OK**. Er zullen nu nieuwe orders worden aangemaakt.
+Het aanmaken van inkoop- of transferorder doet u door de planningsboodschap uit te voeren. Dit rapport kan zowel geaccepteerde als niet-geaccepteerde regels geven. Niet-geaccepteerde regels moeten na controle verwijderd worden, of alsnog geaccepteerd worden. U gaat nu inkoop- en transferorders aanmaken.  
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Planningsvoorstellen**.
+2. Kies voor de actie/functie **Planningsboodschap uitvoeren**.  
+3. Vul de volgende velden op het scherm dat verschijnt:  
+    - **Inkooporder**: Kies voor 'Inkooporders maken' als u voor de leverancier een inkooporder wilt aanmaken om materiaal te bestellen.  
+    - **Transferorder**: Kies voor 'Transferorders maken' als u de artikelen wilt verplaatsen van het hoofdmagazijn naar de submagazijnen.  
+    - **Transferorders combineren** 
+4. Klik op **OK**. Er zullen nu nieuwe orders worden aangemaakt.   
 
 ## Zie ook
 

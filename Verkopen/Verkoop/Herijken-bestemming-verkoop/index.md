@@ -1,6 +1,6 @@
 # Herijken bestemming verkoop
 
-Binnenkort beschikbaar
+Deze stap vindt buiten Dynamics Empire plaats.
 
 ## Zie ook
 

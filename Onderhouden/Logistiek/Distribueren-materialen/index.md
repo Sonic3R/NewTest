@@ -1,6 +1,6 @@
 # Distribueren materialen
 
-In dit detailproces wordt beschreven hoe je artikelen voor het magazijn besteld en/of verplaatst (van hoofdmagazijn naar submagazijn(en)). Zie hiervoor de instructie Bestellen materialen.
+Dit detailproces betreft het bestellen van artikelen voor het magazijn en/of het verplaatsen van artikelen (van hoofdmagazijn naar submagazijn(en)). Zie hiervoor de instructie Bestellen materialen.**[Bestellen materialen](../onderhouden/logistiek/bestellen-materialen/)**.
 
 ## Zie ook
 

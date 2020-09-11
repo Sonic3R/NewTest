@@ -6,5 +6,6 @@ Werkproces | Omschrijving
 :--- | :---
 [Aangaan koopovereenkomst](aangaan-verkoopovereenkomst/) | Aangaan van de koopovereenkomst voor de verkoop van een OG Eenheid. De eenheid kan worden verkocht aan de zittende huurder of aan een derde partij.
 [Effectueren verkoop](effectueren-verkoop/) | 
-[Terugkopen eenheid](terugkopen-eenheid/) | 
+[Herijken bestemming verkoop](herijken-bestemming-verkoop/) | 
 [Oprichten VVE](oprichten-vve/) | 
+[Terugkopen eenheid](terugkopen-eenheid/) | 

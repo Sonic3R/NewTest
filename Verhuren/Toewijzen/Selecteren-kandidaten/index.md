@@ -1,26 +1,9 @@
-# Toewijzen eenheid
+# Selecteren kandidaten
 
-De corporatie stuurt de kandidaat een uitnodiging voor het ondertekenen van de huurovereenkomst. Deze uitnodiging bevat tevens de bevestiging van de toewijzing van de eenheid aan de kandidaat. Een concept huurovereenkomst en een concept eerste verhuurfactuur worden als bijlage bij die uitnodiging toegevoegd.  
-
-## Afdrukken concept huurovereenkomst
-
-Een conceptversie van de huurovereenkomst wordt afgedrukt als bijlage bij de uitnodiging voor ondertekening van de huurovereenkomst. Zie **[Afdrukken uitnodiging ondertekening huurovereenkomst](#afdrukken-uitnodiging-ondertekening-huurovereenkomst)**.
-
-## Afdrukken concept eerste verhuurfactuur
-
-Een conceptversie van de eerste verhuurfactuur wordt afgedrukt als bijlage bij de uitnodiging voor ondertekening van de huurovereenkomst. Zie **[Afdrukken uitnodiging ondertekening huurovereenkomst](#afdrukken-uitnodiging-ondertekening-huurovereenkomst)**.
-
-## Afdrukken uitnodiging ondertekening huurovereenkomst
-
-In deze stap drukt u de uitnodiging af voor ondertekening van de huurovereenkomst. In de bijlagen bij deze uitnodiging zijn de concept huurovereenkomst en de concept eerste verhuurfactuur opgenomen. 
-
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Verhuurmutaties**.
-2. Zoek de verhuurmutatie op waarvan de aanbiedhuur moet worden bepaald.
-3. Open de detailpagina van de verhuurmutatie door op het nummer te klikken.
-4. Navigeer naar de **Verhuuraanbieding**.  Een pagina wordt geopend met de details van de verhuuraanbieding.
-5. Klik op **Worddocument**. Een pagina wordt geopend waarop een lijst met beschikbare Word-sjablonen wordt getoond.
-6. Selecteer het Word-sjabloon voor het afdrukken van de uitnodiging voor ondertekening van de huurovereenkomst en klik op **OK**.
+Deze stap wordt in een extern woonruimteverdeelsysteem uitgevoerd.
 
 ## Zie ook
 
+[Beheren woningzoekende-informatie](../beheren-woningzoekende-informatie)
 [Publiceren eenheid](../publiceren-eenheid)  
+[Toewijzen eenheid](../toewijzen-eenheid)  

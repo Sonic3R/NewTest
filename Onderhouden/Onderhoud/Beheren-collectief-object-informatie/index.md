@@ -21,30 +21,25 @@ In deze stap maakt u een nieuw collectief object aan, inclusief het unieke numme
 11.	Gegevens op tabbladen **Contactbeheer**, **Reparatieverzoeken** en **VvE** worden elders ingevuld. **Contactbeheer** wordt gevuld met contactpersonen, zoals een wijkagent, woonconsulent en huismeester, die ten dienste staan van de bewoners die gebruik maken van het object. Deze gegevens worden op het financieel cluster vastgelegd, om het beheer ervan makkelijker te maken. De gegevens kunnen, indien ze OGE-specifiek zijn, worden aangevuld/aangepast. 
 13.	Tabblad **VvE** wordt automatisch gevuld nadat het collectieve object gekoppeld wordt aan een zogenaamd VvE-cluster. 
  
-Aanpassen Cartotheek
-1.	Open het betreffende Collectief Object. 
-2.	Ga naar feitenblok Cartotheek. 
-3.	Klik op het cijfer op de regel van Cartotheekitems. 
-4.	Vervolg de stappen in de werkinstructie Aanmaken cartotheekitems. 
+## Aanpassen Cartotheek
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Collectieve objecten** en open de kaart van het betreffende object.
+2.	Ga naar feitenblok **Cartotheek**. 
+3.	Klik op het cijfer op de regel van **Cartotheekitems**. 
+4.	Vervolg de stappen in de werkinstructiestap **[Aanpassen cartotheekitems](../Onderhouden/onderhoud/beheren-onroerend-goed-informatie/#aanpassen-cartotheekitems)**.
  
-Aanpassen Beheerder 
-1.	Ga naar Navigeren. 
-2.	Kies vervolgens Exploitatie. 
-3.	Klik op Beheerder.. 
-4.	Zie voor het vervolg de werkinstructie Aanmaken beheerder. 
+## Aanpassen Beheerder 
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Collectieve objecten** en open de kaart van het betreffende object.
+2.	Navigeer vervolgens naar **Beheerder** onder **Exploitatie**.
+4.	Zie voor het vervolg de werkinstructiestap **[Aanmaken beheerder](../Onderhouden/onderhoud/beheren-onroerend-goed-informatie/#aanmaken-beheerder)**.
  
-Aanpassen Juridisch Eigenaar 
-5.	Ga naar Navigeren. 
-6.	Kies vervolgens Exploitatie. 
-7.	Klik op Juridisch Eigenaar. 
-8.	Zie voor het vervolg de werkinstructie Aanmaken Juridisch Eigenaar. 
+## Aanpassen Juridisch eigenaar 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Collectieve objecten** en open de kaart van het betreffende object.
+2.	Navigeer vervolgens naar **Juridisch eigenaar** onder **Exploitatie**. 
+3. Zie voor het vervolg de werkinstructie **[Aanmaken juridisch eigenaar](../Onderhouden/onderhoud/beheren-onroerend-goed-informatie/#aanmaken-juridisch-eigenaar)**. 
  
-Aanpassen gegevens t.b.v. onderhoud 
-9.	Zie hiervoor de werkinstructie Aanpassen gegevens t.b.v. onderhoud om de Onderhoudsvormen vast te leggen indien van toepassing. 
+## Aanpassen gegevens t.b.v. onderhoud 
+Zie hiervoor de werkinstructie Aanpassen gegevens t.b.v. onderhoud om de Onderhoudsvormen vast te leggen indien van toepassing. 
  
-
-
-
 ## Zie ook
 
 [Beheren onroerend-goed-informatie](../beheren-onroerend-goed-informatie/)  

@@ -101,7 +101,7 @@ In deze stap importeert u nieuwe WOZ-waarden van OG Eenheden, zodat deze per OG 
 
 Ook kunt u handmatig een nieuwe regel toevoegen of een bestaande regel aanpassen in of verwijderen uit de WOZ-gegevens van een individuele OG Eenheid.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de OG Eenheid waarvan u de WOZ-gegevens wilt wijzigen. 
 3. Klik op **Navigeren** en kies voor **WOZ-gegevens**. Een pagina wordt geopend met een overzicht met WOZ-waarden van de OG Eenheid.
 4. Om een bestaande regel te verwijderen selecteert u de regel en klikt u op **Verwijderen**.
@@ -111,7 +111,17 @@ Ook kunt u handmatig een nieuwe regel toevoegen of een bestaande regel aanpassen
 
 ## Aanpassen cartotheekitems
 
-In deze stap past u de cartotheekitems van een OG Eenheid aan.
+Voor elke eenheid is het mogelijk om specifieke gegevens vast te leggen met betrekking tot voorzieningen (in bijvoorbeeld keuken en badkamer), de verwarming, het warme water en dergelijke. Deze gegevens worden ingesteld in de zogenoemde cartotheek.
+Wanneer nu een onderhoudsverzoek wordt opgevoerd voor een eenheid waarvoor een item is opgenomen in de cartotheek, gaat het systeem een controle uitvoeren op plaatsingsdatum, invoerdatum onderhoudsverzoek, garantietermijn en klachtsoort, bouwelement en ZAV. 
+
+U past als volgt een item aan in de cartotheek: 
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
+2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken. 
+3. Navigeer naar de **Cartotheek** (te vinden onder **Onderhoud** in het menu). 
+4. Als u een nieuw item wilt toevoegen klikt u op **Nieuw Cartotheek Item**. Klik op de asststedit (…) in het veld **Cartotheekitem**, kies het gewenste cartotheekitem en klik op **OK**.
+5. Als u een bestaand item wilt aanpassen selecteert u de juiste regel en kiest u voor **Kaart**. 
+6. Loop de tabbladen na en vul de gewenste velden in.
 
 ## Zie ook
 

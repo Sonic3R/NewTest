@@ -134,6 +134,17 @@ In deze stap past u een bestaande administratief eigenaar aan (of maakt u een ni
 5. Vul in het veld **Nieuwe dimensiewaarde** de nieuwe administratief eigenaar in.
 6. Voordat de wijziging doorgevoerd kan worden dient de wijziging goedgekeurd te worden. Dit doet u door op **Goedkeuren** te klikken. Bent u niet gemachtigd om dit te doen, dan dient u dit door een gemachtigd persoon binnen uw organisatie te laten doen. 
 
+## Aanpassen beheerder
+
+In deze stap voert u een nieuwe beheerder op of past u een bestaande aan. 
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
+2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
+3. Navigeer naar de **Beheerder** (in het menu te vinden onder **Exploitatie**).
+4. Vul in het scherm dat verschijnt het veld **Startdatum** in.
+5. Kies in het veld **Beheerder** een contact dat gekenmerkt is als 'Beheerder'.  
+6. Vul eventueel een einddatum in wanneer u een niet langer actieve beheerder wilt deactiveren. 
+
 ## Zie ook
 
 [Beheren collectief-object-informatie](../beheren-collectief-object-informatie/)  

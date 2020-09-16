@@ -123,6 +123,17 @@ U past als volgt een item aan in de cartotheek:
 5. Als u een bestaand item wilt aanpassen selecteert u de juiste regel en kiest u voor **Kaart**. 
 6. Loop de tabbladen na en vul de gewenste velden in.
 
+## Aanpassen administratief eigenaar
+
+In deze stap past u een bestaande administratief eigenaar aan (of maakt u een nieuwe aan).
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
+2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
+3. Navigeer naar de **Administratief eigenaar** (in het menu te vinden onder **Exploitatie**) en kies dan de actie **Administratief eigenaar wijzigen**.
+4. Vul in het scherm het veld **Ingangsdatum wijziging**. Wanneer u voor het eerst een OG eenheid opvoert is het advies om hier de eerste van de huidige maand te kiezen. Wanneer u een huidige adminstatief eigenaar wijzigt dient de datum in te toekomst te liggen en na de 'geprolongeerd tot'-datum op het contract.
+5. Vul in het veld **Nieuwe dimensiewaarde** de nieuwe administratief eigenaar in.
+6. Voordat de wijziging doorgevoerd kan worden dient de wijziging goedgekeurd te worden. Dit doet u door op **Goedkeuren** te klikken. Bent u niet gemachtigd om dit te doen, dan dient u dit door een gemachtigd persoon binnen uw organisatie te laten doen. 
+
 ## Zie ook
 
 [Beheren collectief-object-informatie](../beheren-collectief-object-informatie/)  

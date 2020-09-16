@@ -13,7 +13,7 @@ Dit werkproces betreft het aanmaken van nieuwe onroerendgoed-eenheden en het beh
 
 In deze stap maakt u een nieuwe OG Eenheid aan, inclusief het unieke eenheidsnummer en de koppeling aan een eenheidstype en eenheidsdetailsoort.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Klik op **Nieuw** | **+ Nieuw**. Een pagina verschijnt waarop u de nieuwe eenheid kunt aanmaken met bijbehorende basisgegevens.
 3. Het systeem genereert automatisch een uniek nummer en toont deze waarde in veld **Nr.**
 4. Ga met de cursor in het veld **Straatnaam** staan en type in dit veld achter elkaar (zonder spaties) de postcode, het huisnummer en eventueel het toevoegsel van de nieuwe eenheid (bijvoorbeeld: '3904NJ4').
@@ -28,7 +28,7 @@ In deze stap maakt u een nieuwe OG Eenheid aan, inclusief het unieke eenheidsnum
 
 In deze stap past u het adres van een bestaande eenheid aan.
  
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de OG Eenheid waarvan u het adres wilt aanpassen.
 3. Ga met de cursor in het veld **Straatnaam** staan en vervang de huidige waarde door de combinatie van (achter elkaar, zonder spaties) de postcode, het huisnummer en eventueel het toevoegsel van de bestaande eenheid in (bijvoorbeeld: '3904NJ4').
 4. Verlaat het veld **Straatnaam**. Het systeem vult automatisch alle velden van het adres met de juiste waarden.
@@ -38,7 +38,7 @@ In deze stap past u het adres van een bestaande eenheid aan.
 
 In deze stap koppelt u een BAG-verblijfsobject aan een OG Eenheid. Dit kunt u doen voor een individuele OG Eenheid of in bulk voor alle OG Eenheden. Voor een individuele eenheid gaat u als volgt te werk.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de OG Eenheid waaraan u een BAG-verblijfsobject wilt koppelen.
 3. Klik op **Acties** en kies voor **BAG-verblijfsobject koppelen**.
 4. Aan de eenheid wordt automatisch het **BAG-verblijfsobject** gekoppeld waartoe een **Nummeraanduiding** behoort met dezelfde combinatie van **Postcode**, **Huisnummer**, **Huisletter** en **Huisnummertoevoeging** als de OG Eenheid. Als er meerdere nummeraanduidingen zijn die matchen met deze combinatie, dan wordt het BAG-verblijfsobject gekoppeld waarvan de nummeraanduiding de meest recente ingangsdatum heeft.
@@ -53,7 +53,7 @@ Om BAG-verblijfsobjecten in bulk toe te wijzen aan alle eenheden gaat u als volg
 
 In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatievorm van de OG Eenheid bepaalt u of, en zo ja, op welke manier de OG Eenheid kan worden verhuurd of verkocht. U kunt een exploitatievorm toevoegen of juist verwijderen bij de OG Eenheid. Elke exploitatievorm is van een bepaald soort ('Verhuur', 'Verkoop' of 'Uit beheer') en bestaat uit een combinatie van **Aanbiedingssoort** en **Aanbiedingsvorm**.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
 3. Navigeer naar de **Exploitatievormen**.  Een pagina wordt geopend met de exploitatievormen die momenteel zijn gekoppeld aan de OG Eenheid.
 4. Om een extra exploitatievorm toe te voegen aan de OG Eenheid, klik op **Nieuw**, selecteer een **Soort**,  klik op de drie puntjes in de kolom **Aanbiedingssoort**, selecteer een regel en klik op **OK**.
@@ -63,7 +63,7 @@ In deze stap past u de exploitatievorm van de OG Eenheid aan. Via de exploitatie
 
 In deze stap past u de bestemming van de OG Eenheid aan. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken. 
 3. Selecteer een nieuwe waarde in veld **Bestemming** op tabblad **VERA-eigenschappen**. 
 4. Selecteer een nieuwe waarde in veld **Huidig labelconditie** op tabblad **Exploitatie (Alg)**.
@@ -72,7 +72,7 @@ In deze stap past u de bestemming van de OG Eenheid aan.
 
 In deze stap wijst u dimensiewaarden toe aan een OG Eenheid. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onr. Goed-Eenhedenoverzicht**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Selecteer de OG Eenheid waaraan u een dimensiewaarde toe wilt voegen. Navigeer naar **Dimensies**. 
 3. Geef in de kolom **Dimensiecode** aan welk type dimensiewaarde u toe wilt voegen. 
 4. Geef in de kolom **Dimensiewaardecode** de dimensiewaarde op.

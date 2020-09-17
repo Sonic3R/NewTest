@@ -38,9 +38,9 @@ Wanneer u een betaalrun wilt verwerken die betrekking heeft op een incasso, is h
 4. Klik op **Boeken**, waarna het bankboek met de incassorun wordt geboekt.
 5. U dient nu een nieuw bankboek aan te maken om de resterende mutaties te verwerken. U begint weer bij de stap **[Aanmaken bankboek](#aanmaken-bankboek)**.
 
-## Importeren betaalrunuitbetalingen
+## Importeren betaalrun uitbetalingen
 
-Wanneer u een betaalrun wilt verwerken die betrekking heeft op een betaling  dient u deze te importeren in het bankboek.
+Wanneer u een betaalrun wilt verwerken die betrekking heeft op een betaling dient u deze te importeren in het bankboek.
 
 1. Selecteer op de **Betaalrunlijst** de betaalrun die u wilt importeren.
 2. Klik op **OK**. U komt terug op de pagina **Bank-/Giroboek**. De betaalrunregels zijn geïmporteerd in de bankboekregels.

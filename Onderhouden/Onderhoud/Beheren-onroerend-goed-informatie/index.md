@@ -79,7 +79,67 @@ In deze stap wijst u dimensiewaarden toe aan een OG Eenheid.
 
 ## Aanpassen gegevens t.b.v. onderhoud
 
-In deze stap wijst u een vraagboomsoort en één of meerdere onderhoudsvormen toe aan een OG Eenheid.
+In deze stap passen we de gegevens aan t.b.v. het onderhoudsproces op de Onr. Goed-Eenhedenpagina. Het betreft de volgende gegevens: 
+- Onderhoudsvorm  
+- Vraagboomsoort  
+- Voorkeursleverancier(s)  
+- Mutatietype  
+- Inspectiegegevens  
+
+### Onderhoudsvorm
+
+Per woning kunnen verschillende afspraken gelden ten aanzien van het uit te voeren onderhoud. Denk hierbij bijvoorbeeld aan woningen die zijn verkocht, maar waar het casco-onderhoud nog wel door de corporatie wordt uitgevoerd. Ook veranderingen in beleid, zoals bijvoorbeeld sloop op termijn, kunnen een verandering in onderhoudsniveau met zich meebrengen. Om deze diversiteit aan mogelijkheden vast te leggen, beschikt Dynamics Empire over een *onderhoudsvorm*. Deze wordt gekoppeld aan de reparatiesjabloon en kan door middel van deze koppeling de eindgebruiker ondersteunen in het nemen van de juiste beslissing ten aanzien van uit te voeren werkzaamheden. 
+
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
+2.	Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken. 
+3.	Navigeer naar de onderhoudsvormen via menu-item **Onderhoudsvorm**. Een pagina wordt geopend met de onderhoudsvormen die momenteel zijn gekoppeld aan de OG Eenheid. 
+4.	Klik op **+Nieuw** om een extra onderhoudsvorm toe te voegen aan de OG Eenheid.
+5.	Geef in de kolom **Ingangsdatum** aan per wanneer de onderhoudsvorm actief moet zijn.
+6.	Selecteer vervolgens een **Onderhoudsvorm**. 
+7.	Om een bestaande onderhoudsvorm te verwijderen van de OG Eenheid, selecteert u een regel en klikt u op **Verwijderen**.
+
+### Vraagboomsoort
+
+De vraagboom voor onderhoudsverzoeken kan worden gebruikt om op eenvoudige wijze onderhoudsverzoeken vast te leggen. Door een specifieke reeks vragen te doorlopen komt de gebruiker (of op het Klantportaal: de klant/huurder) tot een volledig ingevuld onderhoudsverzoek. Een vraagboom kan worden ingericht per vraagboomsoort. Het geeft aan welke ruimte, welk bouwelement en mogelijk gebrek een relatie heeft met een reparatiesjabloon. U koppelt als volgt een vraagboomsoort aan de OG Eenheid.
+
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
+2.	Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken. 
+3.	Open tabblad **Type**. Het veld **Vraagboomsoort** is al gevuld met een defaultwaarde die meegegeven wordt vanuit het eenheidstype. 
+4.	Als u de defaultwaarde wilt wijzigen, dan kan dat door hier via de lookup rechts in het veld een andere waarde te selecteren.
+
+### Voorkeursleveranciers
+
+Veelal zal voor werkzaamheden in bepaalde delen van het bezit dezelfde leverancier worden gekozen. Deze voorkeursleverancier kunt u door het systeem laten invullen in het onderhoudsverzoek. U dient hiervoor de leveranciers aan werkgebieden te koppelen.
+
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Werkgebieden**. 
+2.	Selecteer het werkgebied waaraan u leveranciers wilt koppelen en klik op **Bewerken**. 
+3.	Kies in het menu voor de actie **Leveranciers**. De pagina met daarop de leveranciers per werkgebied wordt geopend. 
+4.	Klik op **+Nieuw** om een nieuwe leverancier aan het werkgebied te koppelen.
+5.	Zet een vinkje bij **Reparatie-onderhoud** en/of **Overig onderhoud** om aan te geven in welk proces de voorkeursleverancier toegepast moet worden. 
+
+### Mutatietype
+
+Als onderhoud voortkomt uit een huuropzegging, dan is er sprake van *mutatieonderhoud*. In dat geval krijgen we te maken met het **Mutatietype**. Op basis van dit mutatietype wordt een uiterste gereeddatum voor de mutatiewerkzaamheden op het onderhoudsverzoek gezet. Vooraf kan het mutatietype op de eenheidskaart worden vastgelegd. Indien leeg kan deze handmatig worden gevuld op het onderhoudsverzoek, of via de InspectieApp.  
+Bij gebruik van mutatietypen wordt de standaard ingestelde urgentiecode overruled door de ingestelde urgentiecode behorend bij het mutatietype. Daarnaast wordt de ‘Verhuurbaar per’-datum op de Huurcontractopzeggingskaart ook aangepast naar aanleiding van de uiterste gereeddatum, die gebaseerd is op de einddatum plus urgentiecode. 
+ 
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
+2.	Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken. 
+3.	Ga naar tabblad **Inspectie**.
+4.	Selecteer in het veld **Mutatietype** het gewenste mutatietype uit de lijst.
+
+### Inspectiegegevens
+
+Inspectiegegevens, zoals aantal in voor- en eindopname en duur in voor- en eindopname t.b.v. mutatieinspecties, worden default vastgelegd bij de eenheidtypen. Het is mogelijk om per eenheid hier van af te wijken. Dit verwerkt u als volgt:
+
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
+2.	Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken. 
+3.	Ga naar tabblad **Inspectie**. 
+4.	Pas eventueel de volgende velden aan: 
+      - Aantal vooropnames 
+      - Aantal eindopnames 
+      - Duur vooropname 
+      - Duur eindopname 
+      - Termijn eerste vooropname
 
 ## Importeren nieuwe WOZ-waarden
 

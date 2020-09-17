@@ -29,9 +29,7 @@ Voordat u de huurovereenkomst gaat factureren kunt u de huurprijsmutaties die va
 
 ## Uitvoeren huurprijsaanpassingen
 
-Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden, dan vindt u in het onderstaand vermelde detailproces hoe u deze aanpassingen doorvoert.
-
-**[Uitvoeren tussentijdse huurprijsaanpassing](../verhuren/huurprijs/uitvoeren-tussentijdse-huurprijsaanpassing/)**
+Heeft u in de voorgaande stap mutaties gevonden die gecorrigeerd dienen te worden, dan vindt u in detailproces **[Uitvoeren tussentijdse huurprijsaanpassing](../verhuren/huurprijs/uitvoeren-tussentijdse-huurprijsaanpassing/)** hoe u deze aanpassingen doorvoert.
 
 ## Instellen te factureren contracten voorgaande periode
 

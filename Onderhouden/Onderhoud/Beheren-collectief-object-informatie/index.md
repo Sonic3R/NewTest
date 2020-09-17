@@ -38,7 +38,7 @@ In deze stap maakt u een nieuw collectief object aan, inclusief het unieke numme
 3. Zie voor het vervolg de werkinstructie **[Aanmaken juridisch eigenaar](../Onderhouden/onderhoud/beheren-onroerend-goed-informatie/#aanmaken-juridisch-eigenaar)**. 
  
 ## Aanpassen gegevens t.b.v. onderhoud 
-Zie hiervoor de werkinstructie **[Aanpassen gegevens t.b.v. onderhoud](../Onderhouden/Onderhoud/Beheren-onroerend-goed-informatie/#aanpassen-gegevens-tbv-onderhoud)** om de onderhoudsvormen vast te leggen, indien van toepassing.
+Zie hiervoor de werkinstructiestap **[Aanpassen gegevens t.b.v. onderhoud](../Onderhouden/Onderhoud/Beheren-onroerend-goed-informatie/#aanpassen-gegevens-tbv-onderhoud)** om de onderhoudsvormen vast te leggen, indien van toepassing.
  
 ## Zie ook
 

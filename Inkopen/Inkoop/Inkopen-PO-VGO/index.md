@@ -142,4 +142,4 @@ Leveranciers mogen van een professionele opdrachtgever verwachten dat hij goed e
 [Vastleggen onderhoudscontracten](../beheren-onderhoudscontracten/)  
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Registreren inkooporder](../registreren-inkooporder/)  
-[Muteren onderhoudscontract](../muteren-onderhoudscontract/)
+[Muteren/prolongeren onderhoudscontract](../muteren-prolongeren-onderhoudscontract/)

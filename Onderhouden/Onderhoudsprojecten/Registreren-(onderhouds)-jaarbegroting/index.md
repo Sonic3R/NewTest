@@ -6,10 +6,14 @@ In dit proces worden alle uitvoeringsactiviteiten van de jaarbegroting ingelezen
 
 ### Importeren begrotingsregels
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het **Kladblokimportoverzicht**. Hierin zijn alle in het verleden geïmporteerde begrotingen te zien
-> Begrotingsregels uit Vastware worden automatisch overgezet naar Dynamics Empire. Hiervoor hoeft u niets te doen, anders dan in Vastware budgetten vrij te geven. Deze regels zijn te herkennen aan omschrijving DE MJO Jaarbegroting + jaartal, een RUN-nummer en een zogenaamde servicegebruiker.
-2. Klik op **+ Nieuw** in het lint. Dynamics Empire maakt een zogenaamde **Kladblokbudgetimportkaart** aan met een volgnummer.
-> **Let op!** De kaart die zojuist is aangemaakt dient een volgnummer te hebben, niet zijnde 0. Mocht de kaart die u zojuist heeft aangemaakt volgnummer 0 hebben, druk dan op Enter. Dynamics Empire zal dan een volgnummer toekennen.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het **Kladblokimportoverzicht**. Hierin zijn alle in het verleden geïmporteerde begrotingen te zien.  
+
+> Begrotingsregels uit Vastware worden automatisch overgezet naar Dynamics Empire. Hiervoor hoeft u niets te doen, anders dan in Vastware budgetten vrij te geven. Deze regels zijn te herkennen aan omschrijving DE MJO Jaarbegroting + jaartal, een RUN-nummer en een zogenaamde servicegebruiker.  
+
+2. Klik op **+ Nieuw** in het lint. Dynamics Empire maakt een zogenaamde **Kladblokbudgetimportkaart** aan met een volgnummer.  
+
+> **Let op!** De kaart die zojuist is aangemaakt dient een volgnummer te hebben, niet zijnde 0. Mocht de kaart die u zojuist heeft aangemaakt volgnummer 0 hebben, druk dan op Enter. Dynamics Empire zal dan een volgnummer toekennen.  
+
 3. Een Kladblokbudgetimportkaart is een scherm waarin begrotingsregels kunnen worden geïmporteerd en verwerkt tot projecten. Deze kaart bestaat uit vier onderdelen:
 	* **Algemeen**: Op dit tabblad vindt u algemene gegevens terug, zoals een volgnummer, een omschrijving voor de geïmporteerde begrotingsregels, en pad naar het geïmporteerde bestand, een begrotingsjaar en uiteraard het totaal bedrag excl. En incl. BTW van alle geïmporteerde regels ter controle.
 	* **Kladblokimportregels**: Op dit tabblad staan de geïmporteerde begrotingsregels.

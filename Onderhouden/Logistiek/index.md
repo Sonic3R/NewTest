@@ -4,7 +4,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Beheren artikelinformatie](beheren-artikelinformatie/) | 
+[Beheren artikelinformatie](beheren-artikelinformatie/) | Aanmaken van nieuwe artikelen en beheren van de informatie van bestaande artikelen.
 [Bestellen materialen](bestellen-materialen/) | 
 [Ontvangen materialen](ontvangen-materialen/) | 
 [Distribueren materialen](distribueren-materialen/) | 

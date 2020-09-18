@@ -25,20 +25,20 @@ In deze stap maakt u een nieuw collectief object aan, inclusief het unieke numme
 1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Collectieve objecten** en open de kaart van het betreffende object.
 2.	Ga naar feitenblok **Cartotheek**. 
 3.	Klik op het cijfer op de regel van **Cartotheekitems**. 
-4.	Vervolg de stappen in de werkinstructiestap **[Aanpassen cartotheekitems](../Onderhouden/onderhoud/beheren-onroerend-goed-informatie/#aanpassen-cartotheekitems)**.
+4.	Vervolg de stappen in de werkinstructiestap **[Aanpassen cartotheekitems](../beheren-onroerend-goed-informatie/#aanpassen-cartotheekitems)**.
  
 ## Aanpassen Beheerder 
 1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Collectieve objecten** en open de kaart van het betreffende object.
 2.	Navigeer vervolgens naar **Beheerder** onder **Exploitatie**.
-4.	Zie voor het vervolg de werkinstructiestap **[Aanmaken beheerder](../Onderhouden/onderhoud/beheren-onroerend-goed-informatie/#aanmaken-beheerder)**.
+4.	Zie voor het vervolg de werkinstructiestap **[Aanmaken beheerder](../beheren-onroerend-goed-informatie/#aanmaken-beheerder)**.
  
 ## Aanpassen Juridisch eigenaar 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Collectieve objecten** en open de kaart van het betreffende object.
 2.	Navigeer vervolgens naar **Juridisch eigenaar** onder **Exploitatie**. 
-3. Zie voor het vervolg de werkinstructie **[Aanmaken juridisch eigenaar](../Onderhouden/onderhoud/beheren-onroerend-goed-informatie/#aanmaken-juridisch-eigenaar)**. 
+3. Zie voor het vervolg de werkinstructie **[Aanmaken juridisch eigenaar](../beheren-onroerend-goed-informatie/#aanmaken-juridisch-eigenaar)**. 
  
 ## Aanpassen gegevens t.b.v. onderhoud 
-Zie hiervoor de werkinstructiestap **[Aanpassen gegevens t.b.v. onderhoud](../Onderhouden/Onderhoud/Beheren-onroerend-goed-informatie/#aanpassen-gegevens-tbv-onderhoud)** om de onderhoudsvormen vast te leggen, indien van toepassing.
+Zie hiervoor de werkinstructiestap **[Aanpassen gegevens t.b.v. onderhoud](../Beheren-onroerend-goed-informatie/#aanpassen-gegevens-tbv-onderhoud)** om de onderhoudsvormen vast te leggen, indien van toepassing.
  
 ## Zie ook
 

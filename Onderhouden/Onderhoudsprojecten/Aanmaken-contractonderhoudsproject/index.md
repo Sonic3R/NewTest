@@ -89,7 +89,7 @@ Budgetten van contractonderhoudsprojecten worden in Dynamics Empire vastgelegd o
 
 ## Zie ook
 
-[Actualiseren prognose](../actualiseren-prognose/)  
+[Aanpassen onderhoudsbudget](../aanpassen-onderhoudsbudget/)  
 [Registreren (onderhouds) jaarbegroting](../registreren-(onderhouds)-jaarbegroting/)  
 [Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
 [Bewaken project](../bewaken-project/)  

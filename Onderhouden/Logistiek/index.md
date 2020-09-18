@@ -5,7 +5,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Beheren artikelinformatie](beheren-artikelinformatie/) | Aanmaken van nieuwe artikelen en beheren van de informatie van bestaande artikelen.
-[Bestellen materialen](bestellen-materialen/) | 
+[Bestellen materialen](bestellen-materialen/) | Aanmaken van een transferorder via een planningsvoorstel, om artikelen te kunnen verplaatsen van het hoofdmagazijn naar een submagazijn.
 [Ontvangen materialen](ontvangen-materialen/) | 
 [Distribueren materialen](distribueren-materialen/) | 
 [Inventariseren voorraad](inventariseren-voorraad/) | 

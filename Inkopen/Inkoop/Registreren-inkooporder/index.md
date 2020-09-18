@@ -43,4 +43,4 @@ Wanneer de goedkeuringsaanvraag voor de order geweigerd is kunt u de order verwi
 [Vastleggen onderhoudscontracten](../beheren-onderhoudscontracten/)  
 [Goedkeuren documenten](../goedkeuren-documenten/)  
 [Inkopen PO/VGO](../inkopen-po-vgo/)  
-[Muteren onderhoudscontract](../muteren-onderhoudscontract/)
+[Muteren/prolongeren onderhoudscontract](../muteren-prolongeren-onderhoudscontract/)

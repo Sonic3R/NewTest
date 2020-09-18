@@ -32,7 +32,7 @@ Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de **Proj
 2. Los het conflict op door de veroorzakende waarde in het betreffende veld aan te passen.
 3. Doorloop op deze wijze alle samenvoegingsconflicten en los ze één voor één op.
 
->**Tip!** Plaats een filter op alle regels met een samenvoegingsconflict voordat u gaat werken aan het oplossen van conflicten.
+>**Tip!** Plaats een filter op alle regels met een samenvoegingsconflict voordat u gaat werken aan het oplossen van conflicten.  
 
 ### Functie instellen voor contactpersonen
 
@@ -40,9 +40,11 @@ Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de **Proj
 
 ### Aanmaken van onderhoudsprojecten
 
-1. Controleer voor het aanmaken van onderhoudsprojecten of alle regels op tabblad **Kladblokimportregels** zijn verwerkt. Dit is het geval als het clusternummer groen kleurt. Met de optie **Gekopieerde regels verbergen** (bovenin het tabblad, onder **Beheren**) kunt u snel controleren of alle regels zijn verwerkt. Met de optie **Gekopieerde regels tonen** brengt u ze weer in beeld.
+1. Controleer voor het aanmaken van onderhoudsprojecten of alle regels op tabblad **Kladblokimportregels** zijn verwerkt. Dit is het geval als het clusternummer groen kleurt. Met de optie **Gekopieerde regels verbergen** (bovenin het tabblad, onder **Beheren**) kunt u snel controleren of alle regels zijn verwerkt. Met de optie **Gekopieerde regels tonen** brengt u ze weer in beeld.  
+
 >**Tip!** Als regels niet zijn verwerkt, dient u deze handmatig te kopiëren of samen te voegen. Selecteer hiervoor de niet-verwerkte regels en kies voor **Kopiëren** of **Samenvoegen**. Is hierbij een foutje gemaakt, verwijder dan de gekopieerde/samengevoegde regel van
-tabblad **Voorlopige projectregels**.
+tabblad **Voorlopige projectregels**.  
+
 2. Plaats nu een vinkje in veld **Definitieve versie** op tabblad **Algemeen**.
 3. Maak nu *een nieuwe taak* aan voor de persoon die een en ander dient goed te keuren.
       1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Gebruikerstaken**.
@@ -74,8 +76,10 @@ Wanneer voor het plannen van activiteiten gebruik gemaakt wordt van **MS-Project
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Projectoverzicht** en open het juiste project door de regel te selecteren en op **Bewerken** te klikken.
 2. Vul op tabblad **Algemeen** de **Startdatum** en **Opleverdatum** in.
-3. Kies voor de actie **Openen in MS Project**. Hiermee wordt het betreffende project in MS Project geopend. Als er nog geen project in MS Project bestond, moet dit eerst worden aangemaakt (geëxporteerd). Als er al eerder een export vanuit Dynamics Empire naar MS Project heeft plaatsgevonden, dan wordt het bestaande projectplan geopend en getoond.
->Afhankelijk van de instelling worden óf de werksoorten en resources óf de projectfases vanuit Dynamics Empire naar MS-Project geëxporteerd. 
+3. Kies voor de actie **Openen in MS Project**. Hiermee wordt het betreffende project in MS Project geopend. Als er nog geen project in MS Project bestond, moet dit eerst worden aangemaakt (geëxporteerd). Als er al eerder een export vanuit Dynamics Empire naar MS Project heeft plaatsgevonden, dan wordt het bestaande projectplan geopend en getoond.  
+
+>Afhankelijk van de instelling worden óf de werksoorten en resources óf de projectfases vanuit Dynamics Empire naar MS-Project geëxporteerd.  
+
 4. Kies voor de actie **Vanuit MS Project importeren**. Hiermee worden de data van het betreffende project van MS Project in Dynamics Empire geïmporteerd. Bij de import worden alleen de datumvelden van in Dynamics Empire bestaande regels (fasen of werksoorten) geactualiseerd. Er worden geen nieuwe regels (in MS Project: taken) aangemaakt of verwijderd in Dynamics Empire. Bij het importeren wordt ook de in MS Project ingestelde voorgaande planningsactiviteit (predecessor) geïmporteerd, zodat deze bij een nieuwe export weer wordt aangemaakt. Deze voorganger is onder Microsoft Dynamics NAV niet muteerbaar en er wordt geen rekening mee gehouden met de start- en einddatumcontrole.
 5. Kies voor de actie **Naar MS Project exporteren**. Hiermee worden de data van het betreffende project vanuit Dynamics Empire naar MS Project geëxporteerd. Het project wordt direct in MS Project geopend.
 

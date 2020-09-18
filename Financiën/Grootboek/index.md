@@ -5,7 +5,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 Werkproces | Omschrijving
 :--- | :---
 [Beheren clusterinformatie](beheren-clusterinformatie/) | Aanmaken van nieuwe clusters en beheren van bestaande clusters.
-[Periodiek actualiseren clusterverdeelsleutels](periodiek-actualiseren-clusterverdeelsleutels/) | 
+[Periodiek actualiseren clusterverdeelsleutels](periodiek-actualiseren-clusterverdeelsleutels/) | Actualiseren van de clusterverdeelsleutels (in bulk) op basis van de status van de eenheden in het cluster.
 [Beheren dimensies](beheren-dimensies/) |  Beheren van de dimensiewaarden: nieuwe dimensiewaarden kunnen worden aangemaakt, of bestaande kunnen worden geblokkeerd voor verder gebruik.
 [Beheren grootboekbudgetten](beheren-grootboekbudgetten/) | Aanmaken en actualiseren van budgetten.
 [Boeken memoriaal](boeken-memoriaal/) |  Opvoeren en boeken van memoriaalposten.

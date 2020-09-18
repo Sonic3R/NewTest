@@ -9,7 +9,7 @@ Werkproces | Omschrijving
 [Bewaken project](bewaken-project/) | Bewaken van de voortgang van het onderhoudsproject en waar nodig bijsturen.
 [Aanpassen onderhoudsbudget](aanpassen-onderhoudsbudget/) | Bijstellen van prognose en/of aanpassen van het onderhoudsbudget tijdens het project.
 [Aanmaken contractonderhoudsproject](aanmaken-contractonderhoudsproject/) | Aanmaken van één of meerdere contractonderhoudsprojecten per onderhoudscontract, en koppelen hiervan aan het onderhoudscontract. Door middel van contractonderhoudsprojecten worden verplichtingen en voortgang van het onderhoud voor het lopend boekjaar bewaakt.
-[Uitvoeren contractonderhoud](uitvoeren-contractonderhoud/) | 
+[Uitvoeren contractonderhoud](uitvoeren-contractonderhoud/) | Handmatig inkooporders aanmaken vanuit het betreffende contract-onderhoudsproject om een opdracht te kunnen verstrekken aan de leverancier voor het uitvoeren van het contractonderhoud. Als men gebruik maakt van het prolongeren van contracten, dan worden deze inkooporders automatisch aangemaakt.
 
 ## Zie ook
 

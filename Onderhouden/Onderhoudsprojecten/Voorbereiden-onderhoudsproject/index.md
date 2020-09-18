@@ -102,7 +102,7 @@ De projectleider planmatig onderhoud stelt een werkomschrijving en bestek op ten
 
 ## Zie ook
 
-[Actualiseren prognose](../actualiseren-prognose/)  
+[Aanpassen onderhoudsbudget](../aanpassen-onderhoudsbudget/)  
 [Registreren (onderhouds) jaarbegroting](../registreren-(onderhouds)-jaarbegroting/)  
 [Bewaken project](../bewaken-project/)  
 [Aanmaken contractonderhoudsproject](../aanmaken-contractonderhoudsproject/)  

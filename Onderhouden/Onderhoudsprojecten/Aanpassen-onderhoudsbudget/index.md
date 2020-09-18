@@ -19,8 +19,9 @@ In deze instructie wordt beschreven hoe de prognose op een projectkaart bijgewer
 2. Zoek het betreffende project op en open de projectkaart.
 3. Ga naar tabblad **Budgetregels** en selecteer de juiste regel.
 4. Klik in het tabbladmenu op **Beheren** en kies voor **Budget**.
-5. Ga naar het veld **Budget**, pas het bedrag aan en sluit de pagina. Het budgetbedrag op de budgetregel is nu gewijzigd. 
-6. Kies in het hoofdmenu via **Proces** voor **Cashflow** om ten behoeve van de liquiditeitsprognose nieuwe cashflowposten aan te maken. 
+5. Ga naar het veld **Budget** en pas het bedrag aan.
+6. Bij verlaten van het veld verschijnt een lijst met redencodes; selecteer de juiste reden voor de budgetwijziging.
+7. Sluit de verschillende vensters.
 
 ## Zie ook
 

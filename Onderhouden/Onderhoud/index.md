@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 [Beheren collectief-object-informatie](beheren-collectief-object-informatie/) | Aanmaken van nieuwe collectieve objecten en beheren van algemene informatie over die eenheden.
 [Uitvoeren inspectie naar staat eenheid](uitvoeren-inspectie-naar-staat-eenheid/) | 
 [Uitvoeren inspectie-opdracht](uitvoeren-inspectie-opdracht/) | 
-[Registreren onderhoudsverzoek](registreren-onderhoudsverzoek/) | 
+[Registreren onderhoudsverzoek](registreren-onderhoudsverzoek/) | Registreren van een onderhoudsverzoek, al dan niet gebruik makend van de vraagboom in Dynamics Empire.
 [Samenstellen onderhoudsorder](samenstellen-onderhoudsorder/) | 
 [Bewaken uitvoering onderhoudsorder](bewaken-uitvoering-onderhoudsorder/) | 
 [Beoordelen-ZAV-aanvraag](beoordelen-zav-aanvraag/) | 

@@ -25,7 +25,7 @@ Zie voor het gereedmelden van de inkooporders de werkinstructiestap **[Gereedmel
 
 ## Zie ook
 
-[Actualiseren prognose](../actualiseren-prognose/)  
+[Aanpassen onderhoudsbudget](../aanpassen-onderhoudsbudget/)  
 [Registreren (onderhouds) jaarbegroting](../registreren-(onderhouds)-jaarbegroting/)  
 [Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
 [Bewaken project](../bewaken-project/)  

@@ -11,26 +11,33 @@ Zodra er een nieuw artikel beschikbaar is (of reeds in gebruik is) is het belang
 4. Vul de volgende velden: 
 	- **Omschrijving**  
 	- **Basiseenheid** 
-	- **Artikelcatagoriecode**
+	- **Artikelcategoriecode**
+
+## Aanpassen financiële informatie
+
 5. Ga naar tabblad **Kosten en boeking** en vul de volgende velden:
 	- **Vaste verrekenprijs**: Geef hier de prijs inclusief BTW voor het artikel op.
 	- **Artikeltoeslag verbruik %**: Geef hier de toeslag op die wordt berekend over de kostprijs van het artikel.
 6. Ga naar tabblad **Prijzen en verkoop** en kies voor *Meer tonen*.  Vul het volgende veld:
     - **Prijs/Winst berekenen**: Geef de waarde 'Verkoopprijs=Kostprijs+Winst' op.
+
+## Aanpassen leverancier
+
 7. Ga naar tabblad **Aanvulling**. Vul de volgende velden:
     - **Leveranciersnr.**: Geef hier de leverancier op waar het artikel normaal gesproken wordt ingekocht.
     - **Artikelnr. leverancier**: Geef het nummer in waaronder het artikel bekend is bij de leverancier.
     - **Ink.-eenheid**: Geef de eenheid op waaronder de leverancier het artikel levert.
+    
+## Aanpassen logistieke informatie
+
 8. Ga naar tabblad **Planning**. Vul het volgende veld:
     - **Bestelbeleid**: Kies hier voor 'Maximum aantal'.
 9. Kies in het menu voor de actie **Speciale prijzen instellen**. Geef de inkoopprijs per leverancier op.
 
-## Scanbaar maken van het artikel 
-
 Om een artikel scanbaar te maken voor de vakmannen is het nodig om een barcode aan het artikel te koppelen. Dit doet u als volgt. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Artikelen** en open de betreffende artikelkaart.
-2. Navigeer via het menu naar de **Kruisverwijzingen**. Vul op de pagina **Artikelkruisverwijzingsposten** de volgende velden: 
+10. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Artikelen** en open de betreffende artikelkaart.
+11. Navigeer via het menu naar de **Kruisverwijzingen**. Vul op de pagina **Artikelkruisverwijzingsposten** de volgende velden: 
     - **Kruisverwijzingssoort**: Kies hier voor 'Barcode'.  
     - **Kruisverwijzingsnr.**: Geef hier het nummer van de barcode in.  
 

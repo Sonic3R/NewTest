@@ -7,8 +7,8 @@ Mutaties die buiten de contractuele afspraken vallen dienen eerst afgestemd te w
 
 ### Handmatige mutaties
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contracten**. 
-2. Selecteer het gewenste contract en kies voor het menu-item **Mutatiegegevens Contract** (onder **Proces**).
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contractoverzicht**. 
+2. Selecteer en open het gewenste contract en kies voor het menu-item **Mutatiegegevens Contract** (onder **Proces**).
 3. Klik in de omschrijving van de eerstvolgende lege regel en voer een omschrijving in voor de mutaties die u wilt verwerken, gevolgd door een druk op de tab-toets.
 4. Klik op **Projectgegevens ophalen**. Dynamics Empire opent een overzicht met alle aan het contract gekoppelde actieve projecten.
 5. Selecteer alle projecten waarvoor u mutaties wilt verwerken en klik op **OK**.
@@ -20,8 +20,8 @@ Mutaties die buiten de contractuele afspraken vallen dienen eerst afgestemd te w
 
 ### Mutaties d.m.v. indexering
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contracten**. 
-2. Selecteer het gewenste contract en kies voor het menu-item **Mutatiegegevens Contract** (onder **Proces**).
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contractoverzicht**. 
+2. Selecteer en open het gewenste contract en kies voor het menu-item **Mutatiegegevens Contract** (onder **Proces**).
 3. Klik in de omschrijving van de eerstvolgende lege regel en voer een omschrijving in voor de mutaties die u wilt verwerken, gevolgd door een druk op de tab-toets.
 4. Klik op **Projectgegevens ophalen**. Dynamics Empire opent een overzicht met alle aan het contract gekoppelde actieve projecten.
 5. Selecteer alle projecten waarvoor u mutaties wilt verwerken en klik op **OK**. U komt terug op het overzicht **Mutatiegegevens contract**.
@@ -37,8 +37,8 @@ Mutaties die buiten de contractuele afspraken vallen dienen eerst afgestemd te w
 
 ## Fiatteren contractmutaties
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contracten**. 
-2. Selecteer het gewenste contract en kies voor het menu-item **Mutatiegegevens Contract** (onder **Proces**).
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contractoverzicht**. 
+2. Selecteer en open het gewenste contract en kies voor het menu-item **Mutatiegegevens Contract** (onder **Proces**).
 3. Selecteer in de lijst de juiste mutatieregel en verander de status van deze mutatieregel in 'Definitief'.
 4. Kies nu voor **Budgethouders** en vul de contractbeheerder in. Als u zelf de contractbeheerder bent, plaats dan een vinkje in kolom **Fiat**.
 5. Als iemand anders de contractbeheerder is, klik dan op **E-mail verzenden** in het lint om deze persoon te informeren dat het contract kan worden gefiatteerd.
@@ -46,14 +46,26 @@ Mutaties die buiten de contractuele afspraken vallen dienen eerst afgestemd te w
 
 ## Prolongeren onderhoudscontract
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contracten**. 
-2. Selecteer het onderhoudscontract dat u wilt prolongeren en kies voor het menu-item **Prolongatie** (onder **Proces**).
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contractoverzicht**. 
+2. Selecteer en open het onderhoudscontract dat u wilt prolongeren en kies voor het menu-item **Prolongatie** (onder **Proces**).
 3. U krijgt een melding: "Wilt u contract xxxx prolongeren?" Kies voor **Ja**. Vervolgens verschijnt de melding dat de "Prolongatie is uitgevoerd". Klik op **OK**.
 4. Open het contract en controleer het veld **Geprolongeerd t/m**.
 5. Als uit controle van de nieuw aangemaakte projecten blijkt dat de prolongatie niet goed is, dan kan de prolongatie teruggedraaid worden. Ga hiervoor via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contracten**, selecteer het betreffende contract en klik op **Terugdraaien prolongatie**.
 6. Kies nu voor menu-item **Mutatiegegevens contract** en selecteer in de lijst de juiste mutatieregel. Ga als contractbeheerder naar **Budgethouders** en de-activeer het vinkje in kolom **Fiat**. Sluit het venster **Budgethouders**.
 7. Haal vervolgens op de mutatieregels de status **Definitief** weg en laat dit veld blanco.
 8. Doorloop nu opnieuw de punten in stap **[Muteren contract](#Muteren-contract)**
+
+## Beëindigen onderhoudscontract 
+
+Het beëindigen van een onderhoudscontract kunt u doen op het moment dat er geen boekingen meer verwacht worden.  
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Contractoverzicht**.
+2. Selecteer en open het onderhoudscontract dat u wilt prolongeren en kies voor het menu-item **Projecten** (onder **Proces**).  
+3. De lijst **Projectoverzicht** is zichtbaar. Hierin ziet u alle onderhoudscontracten die gekoppeld zijn aan deze contractkaart. 
+4. Open de projectkaart van het betreffende onderhoudscontract. 
+5. Ga naar sneltabblad **Algemeen** en pas de **Status** van het onderhoudscontract aan in 'Afgehandeld'.
+6. Keer terug naar de contractkaart, vul hier de **Reden beëindiging** in en zet de **Status** op 'Afgehandeld'.
+7. Het is nu niet meer mogelijk om offertes, orders, facturen, etc. op het onderhoudscontract vast te leggen.
 
 ## Zie ook
 

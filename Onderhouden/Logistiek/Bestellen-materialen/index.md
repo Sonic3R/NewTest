@@ -1,6 +1,10 @@
 # Bestellen materialen
 
-In dit proces wordt beschreven hoe een transferorder kan worden aangemaakt via een planningsvoorstel, om artikelen te kunnen verplaatsen van het hoofdmagazijn naar een submagazijn.
+In dit proces wordt beschreven hoe u artikelen voor het magazijn bestelt en/of verplaatst (van hoofdmagazijn naar submagazijn(en)). 
+
+## Bepalen bestelbehoefte 
+
+Alvorens materialen te bestellen of te verplaatsen van het ene naar het andere magazijn dient u de materiaalbehoefte in kaart te brengen. Daarna vervolgt u het bestelproces door eerst een planningsvoorstel aan te maken.  
 
 ## Planningsvoorstel aanmaken
 
@@ -13,7 +17,7 @@ In dit proces wordt beschreven hoe een transferorder kan worden aangemaakt via e
     - **Planningsparameters voor uitzonderingswaarschuwingen respecteren**: Dit dient aangevinkt te worden.  
 4. Klik op **OK**. Het planvoorstel wordt berekend.
    
-## Inkooporders aanmaken
+## Aanmaken inkooporders
 
 Het aanmaken van inkoop- of transferorder doet u door de planningsboodschap uit te voeren. Dit rapport kan zowel geaccepteerde als niet-geaccepteerde regels geven. Niet-geaccepteerde regels moeten na controle verwijderd worden, of alsnog geaccepteerd worden. U gaat nu inkoop- en transferorders aanmaken.  
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Planningsvoorstellen**.
@@ -23,6 +27,13 @@ Het aanmaken van inkoop- of transferorder doet u door de planningsboodschap uit 
     - **Transferorder**: Kies voor 'Transferorders maken' als u de artikelen wilt verplaatsen van het hoofdmagazijn naar de submagazijnen.  
     - **Transferorders combineren** 
 4. Klik op **OK**. Er zullen nu nieuwe orders worden aangemaakt.
+
+## Verstrekken inkooporder
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onderhoudsorders**. 
+2. Zoek de betreffende onderhoudsorder op en open de kaart door op het **Nr.** te klikken. 
+4. Selecteer het menu-item **Afdrukken/verzenden**. 
+5. Kies de gewenste optie.
 
 ## Zie ook
 

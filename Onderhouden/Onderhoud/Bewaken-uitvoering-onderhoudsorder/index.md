@@ -6,15 +6,13 @@ In dit proces behandelen we hoe de status van de onderhoudsorder die door de lev
 
 Wekelijks wordt hiervoor, per leverancier, een overzicht samengesteld met opdrachten die de komende periode (twee weken) moeten worden uitgevoerd. Voor het opstellen van de overzichten wordt gebruik gemaakt van de selectie-/filterfunctionaliteit. De overzichten worden verstuurd naar de leveranciers en er wordt een terugkoppeling verwacht. 
 
-1. Navigeer via het zoekveld zoeken icon naar de lijst Onderhoudsorders. 
-2. Open het Filterdeelvenster 
-3. Zet een filter op Status  = Gegund 
-Uiterste gereeddatum = <h (kleiner dan vandaag) 
-Nu heb je een filter gezet op alle onderhoudsorders die gegund zijn aan de leverancier, waarbij de uiterste gereeddatum voor vandaag ligt. Deze opdrachten zouden dus uitgevoerd moeten zijn.
-4. Klik op Pagina, Openen in Excel. De lijst wordt nu geopend in Excel en kun je door filters in Excel te zeten, mailen naar de leveranciers. 
-De kolommen die niet relevant zijn kun je uiteraard in Excel verwijderen. 
-
- 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onderhoudsorders**. 
+2. Stel een filter in via de filterfunctie ![filter icon](/assets/images/filter.png "filter icon"):
+     - **Status** = 'Gegund'  
+     - **Uiterste gereeddatum** = <h (ligt vóór de datum van vandaag)  
+   Nu heeft u een filter gezet op alle onderhoudsorders die gegund zijn aan de leverancier, waarbij de uiterste gereeddatum voor vandaag ligt. Deze opdrachten zouden dus uitgevoerd moeten zijn.  
+3. Klik op **Pagina** en kies voor **Openen in Excel**. De lijst wordt nu geopend in Excel en kunt u (door filters in Excel te zetten) mailen naar de verschillende leveranciers. 
+De kolommen die niet relevant zijn kunt u uiteraard in Excel verwijderen. 
 
 ## Aanpassen onderhoudsorder
 

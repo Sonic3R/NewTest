@@ -1,6 +1,8 @@
 # Ontvangen materialen
 
-In dit werkproces worden leveringen van materialen ontvangen, gecontroleerd en ingeboekt in het magazijn. Afwijkende leveringen worden geretourneerd en de ontvangen materialen worden op de juiste locatie in het magazijn gezet. 
+In dit werkproces worden leveringen van materialen ontvangen, gecontroleerd en ingeboekt in het magazijn. Afwijkende leveringen worden geretourneerd en de ontvangen materialen worden op de juiste locatie in het magazijn gezet.
+
+## Boeken ontvangst
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Inkooporders**. 
 2. Zoek via het zoekveld linksboven de betreffende inkooporder en open deze door op het betreffende **Nr.** te klikken. 
@@ -19,7 +21,18 @@ Wanneer niet alle artikelen zijn ontvangen kunt u ook een deelontvangst registre
 2. Vul in het veld **Te ontvangen aantal** het aantal in. Doordat u hier een lager aantal invult, blijft het resterende aantal in backorder staan. 
 3. Kies in het menu voor de optie **Boeken**. 
 4. Er verschijnt een popup die  aangeeft dat er ontvangsten geboekt gaan worden. Klik op **OK**. 
-5. Het veld **Ontvangen aantal** is nu gevuld. 
+5. Het veld **Ontvangen aantal** is nu gevuld.  
+
+## Retourneren materialen 
+
+Als de ontvangsten eerder waren geboekt, maar het materiaal alsnog niet juist is geleverd en retour moet, kunt u de ontvangst ongedaan maken. 
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Inkooporders**. 
+2. Navigeer naar de **Ontvangsten**. 
+3. Open in de lijst met Je komt nu in de lijst met **Geboekte inkoopontvangsten**. 
+4. Open de juiste inkoopontvangst door op het **Nr.** te klikken. 
+5. Ga op tabblad **Algemeen** in de betreffende regel staan en klik op **Functies | Ongedaan maken.  
+6. Keer terug naar de inkooporder, de waarde in Ontvangen aantal en aantal Ontv./Niet gefactureerd wordt weer op 0 gezet. 
 
 ## Zie ook
 

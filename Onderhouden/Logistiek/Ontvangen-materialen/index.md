@@ -32,7 +32,7 @@ Als de ontvangsten eerder waren geboekt, maar het materiaal alsnog niet juist is
 3. Open in de lijst met Je komt nu in de lijst met **Geboekte inkoopontvangsten**. 
 4. Open de juiste inkoopontvangst door op het **Nr.** te klikken. 
 5. Ga op tabblad **Algemeen** in de betreffende regel staan en klik op **Functies | Ongedaan maken.  
-6. Keer terug naar de inkooporder, de waarde in Ontvangen aantal en aantal Ontv./Niet gefactureerd wordt weer op 0 gezet. 
+6. Keer terug naar de inkooporder, de waarde in **Te ontvangen aantal** en **Te factureren aantal** wordt weer op 0 gezet. 
 
 ## Zie ook
 

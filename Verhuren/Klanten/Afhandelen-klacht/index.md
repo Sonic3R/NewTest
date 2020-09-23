@@ -2,30 +2,29 @@
 
 Dit werkproces betreft het afhandelen van een klacht tegen de dienstverlening van de verhuurder. 
 
-De klacht is al geregistreerd in het kader van het werkproces *Afhandelen contactmoment*. Daarbij is een interactie aangemaakt en een taak toegewezen aan het team of de medewerker die de klacht moet beoordelen. 
-
-Het afhandelen bestaat uit het beoordelen van de klacht, het toewijzen en uitvoeren van vervolgacties en het controleren van de oplossing en het afsluiten van de klacht. In het geval de verhuurder al het redelijke heeft gedaan om de klacht op te lossen en de klager is nog niet tevreden, dan wordt de klager verwezen naar een externe instantie. 
+De klacht is al geregistreerd in het kader van het werkproces **[Afhandelen contactmoment](../afhandelen-contactmoment/)**. Daarbij is een interactie aangemaakt en een taak toegewezen aan het team of de medewerker die de klacht moet beoordelen.
+Het afhandelen bestaat uit het beoordelen van de klacht, het toewijzen en uitvoeren van vervolgacties, het controleren van de oplossing en het afsluiten van de klacht. Als de verhuurder al het redelijke heeft gedaan om de klacht op te lossen en de klager is nog niet tevreden, dan wordt de klager verwezen naar een externe instantie. 
 
 Om de afhandeling van de klacht te kunnen monitoren, wordt voor elke klacht die in behandeling wordt genomen een leefbaarheidsdossier van het soort 'Klacht' aangemaakt. 
 
-## Beoordelen klacht 
+## Beoordelen klacht
+
 In deze stap beoordeelt u de klacht inhoudelijk en bepaalt u wat eventuele vervolgstappen zijn. Wanneer u besluit de klacht in behandeling te nemen, dan maakt u een leefbaarheidsdossier aan.
 
-1. Navigeer naar het **Rolcentrum** . 
-2. Klik op de activiteit **Mijn taken** of **Teamtaken**. 
-3. In het geval van een teamtaak, selecteer dan de taak met de te beoordelen klacht, open de organisatortaak en selecteer uzelf in het veld **Medewerkercode**. Zodoende zien alle andere leden van u team dat u de taak in behandeling heeft genomen. 
+1. Navigeer naar het **Rolcentrum**.
+2. Klik op de activiteit **Mijn taken** of **Teamtaken**.
+3. Betreft het een teamtaak, dan selecteert u de taak met de te beoordelen klacht, opent u de organisatortaak en selecteert u uzelf in het veld **Medewerkercode**. Zodoende zien alle andere leden van het team dat u de taak in behandeling heeft genomen.
 4. Beoordeel de klacht inhoudelijk. Lees daartoe de notitie van de taak, open eventueel gerelateerde documenten en/of neem eventueel contact op de melder om meer informatie te verkrijgen.
-5. In het geval u besluit de klacht niet in behandeling te nemen, voegt u een notitie toe aan de taak met uitleg waarom u de klacht niet in behandeling neemt en sluit u de taak door de **Status** te wijzigen in *Voltooid*. Maak eventueel een nieuwe interactie aan ter registratie van het contactmoment met de klager. 
-6. In het geval u besluit de klacht wel in behandeling te nemen, maakt u vanuit de taak een leefbaarheidsdossier aan. Klik daartoe op **Verwerken** en kies voor **Leefbaarheidsdossier maken**. 
-7. Het systeem vraagt welke rol het contact heeft binnen het leefbaarheidsdossier. Kies voor *Melder* en klik op **OK**. 
+5. Als u besluit de klacht niet in behandeling te nemen, voegt u een notitie toe aan de taak met uitleg waarom u de klacht niet in behandeling neemt en sluit u de taak door de **Status** te wijzigen in 'Voltooid'. Maak eventueel een nieuwe interactie aan ter registratie van het contactmoment met de klager. 
+6. Als u besluit de klacht wel in behandeling te nemen, maakt u vanuit de taak een leefbaarheidsdossier aan. Klik daartoe op **Verwerken** en kies voor **Leefbaarheidsdossier maken**. 
+7. Het systeem vraagt welke rol het contact heeft binnen het leefbaarheidsdossier. Kies voor 'Melder' en klik op **OK**. 
 8. Het systeem toont een overzicht met leefbaarheidsdossiertypes. Selecteer type **KLACHT** en klik op **OK**.
-9. Klik nogmaals op **OK**. 
-10. Het systeem heeft een nieuwe dossier aangemaakt en gekoppeld aan de taak. Het nummer van het dossier wordt getoond in het veld **Leefbaarheidsdossiernr.** Navigeer naar het leefbaarheidsdossier via het veld **Leefbaarheidsdossiernr.** of via de menu-opties **Navigeren** en **Leefbaarheidsdossier**. 
-11. Vul in de **Dossierstatus** en **Behandelend medewerker**.
-12. Als er in het verleden contact is geweest met de melder over de inhoud van de klacht, kunt u de desbetreffende interactielogpost koppelen aan het dossier door te klikken op  het contactnummer in het veld **Melders** en daarna op **Navigeren** en **Interactielogposten**. Selecteer de juiste regel en klik op **Acties**, **Leefbaarheidsdossiernr.** en vervolgens op **Koppelen**.
-
+9. Klik nogmaals op **OK**. Het systeem heeft een nieuw dossier aangemaakt en gekoppeld aan de taak. Het nummer van het dossier wordt getoond in het veld **Leefbaarheidsdossiernr.** Navigeer naar het leefbaarheidsdossier via het veld **Leefbaarheidsdossiernr.** of via de menu-optie **Leefbaarheidsdossier**. 
+11. Vul de **Dossierstatus** en de **Behandelend medewerker** in.
+12. Als er in het verleden contact is geweest met de melder over de inhoud van de klacht, kunt u de desbetreffende interactielogpost koppelen aan het dossier door te klikken op  het contactnummer in het veld **Melders** en daarna op **Navigeren | Interactielogposten**. Selecteer de juiste regel en kies voor de actie **Leefbaarheidsdossiernr.**, en vervolgens **Koppelen**.
 
 ## Toewijzen vervolgacties 
+
 In deze stap voegt u eerst actieregels toe aan het dossier: één actieregel voor elke vervolgactie.  Dit doet u door de standaard processtappen toe te voegen die zijn gedefinieerd voor het afhandelen van klachten en/of door handmatig actieregels aan te maken. Vervolgens wijst u taken toe aan andere collega's die de vervolgacties moeten gaan uitvoeren. 
 
 1. Open het **Leefbaarheidsdossier***. 

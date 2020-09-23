@@ -1,15 +1,83 @@
 # Samenstellen onderhoudsorders
 
-In deze instructie wordt uitgelegd hoe u na het aanmaken van een onderhoudsverzoek handmatig de orders kunt samenstellen. 
+Bij het doorlopen van de vraagboom, wordt voor het onderhoudsverzoek automatisch een onderhoudsorder aangemaakt. 
 
-Als een of meerdere taken voor een onderhoudsverzoek worden aangemaakt kunt u het systeem de opdracht geven om de taken in een order om te zetten. Het systeem kijkt dan op basis van de instellingen welke taken op dezelfde order verwerkt kunnen worden. 
+Indien er meerdere verzoeken tegelijk gemeld worden, dan wordt er in Dynamics Empire 1 Onderhoudsverzoek aangemaakt met meerdere taken. Deze taken kun je samenbundelen tot 1 order indien ze bepaalde overeenkomsten hebben, zoals kostencode, leveranciersnr. E.d. Het startpunt van dit proces is het onderhoudsverzoek met meerdere taken. 
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onderhoudsverzoekoverzicht** en open de betreffende onderhoudsverzoekkaart.
-2. Ga naar het deel/tabblad **Onderhoudstaken** en selecteer de taken die u wilt omzetten in een order.
-3. Kies in de menubalk op het tabblad voor de functie **Onderhoudsorder(s) aanmaken**.
-4. U krijgt de melding: "Een onderhoudsorder met de status "Nieuw" is aangemaakt." Klik vervolgens op **OK**. 
+Er is via de vraagboom of handmatig een onderhoudsverzoek aangemaakt met meerdere taken. 
 
-De onderhoudsorder(s) is (zijn) op basis van de instellingen in Dynamics Empire aangemaakt. U kunt deze terugvinden via het feitenblok **Onderhoudsverzoekgegevens**, veld **Onderhoudsorders**.
+Ga naar de Onderhoudstaken en klik op Functies en kies Onderhoudsorders aanmaken. Indien je voor de eigen onderhoudsdienst een order aanmaakt, kun je deze ook direct plannen. Kies dan voor Onderhoudsorder aanmaken en plannen 
+
+Dynamics Empire maakt nu 1 of meerdere onderhoudsorders aan. Afhankelijk dus of onderhoudstaken samengebundeld kunnen worden tot 1 onderhoudsorder. 
+
+ 
+
+Plannen onderhoudsorder: 
+
+Uitvoering door eigen onderhoudsdienst: 
+Bij het aanmaken van de onderhoudsorder voor de eigen onderhoudsdienst kan ook direct gekozen worden voor Onderhoudsorder aanmaken en plannen. In dit geval krijg je direct de planopties te zien. 
+
+Open het betreffende onderhoudsverzoek 
+
+Ga naar de Onderhoudstaken 
+
+Klik op Functies, Onderhoudsorder aanmaken en plannen 
+
+De pagina Bewerken voorstel voorkeuren wordt geopend 
+
+Elk dagdeel wordt automatisch aangezet, indien de huurder op een bepaald dagdeel niet kan klik dan op het schuifje. Deze optie gaat dan niet mee in het planvoorstel. 
+
+Indien de huurder pas mogelijkheden heeft na de uiterste gereeddatum van de onderhoudsorder, vul dan de reden hiervan in in het veld Reden na uiterste datum. Hierdoor is het mogelijk een datum op te vragen die na de uiterste gereeddatum ligt. 
+
+Klik op OK 
+
+Dynamics Empire komt nu met de opties vanuit Field Service. 
+
+Kies een optie en klik op OK. 
+
+De onderhoudsorder is nu gepland bij een vakman. 
+
+Uitvoering door leverancier bij gebruik van Ketenstandaard planbericht. 
+
+Open het betreffende onderhoudsverzoek 
+
+Ga naar de Onderhoudstaken 
+
+Klik op Functies, Onderhoudsorder aanmaken en plannen 
+
+De pagina Bewerken voorstel voorkeuren wordt geopend 
+
+Elk dagdeel wordt automatisch aangezet, indien de huurder op een bepaald dagdeel niet kan klik dan op het schuifje. Deze optie gaat dan niet mee in het planvoorstel. 
+
+Indien de huurder pas mogelijkheden heeft na de uiterste gereeddatum van de onderhoudsorder, vul dan de reden hiervan in in het veld Reden na uiterste datum. Hierdoor is het mogelijk een datum op te vragen die na de uiterste gereeddatum ligt. 
+
+Klik op OK 
+
+Dynamics Empire komt nu met de opties vanuit de leverancier 
+
+Kies een optie en klik op OK. 
+
+De onderhoudsorder is nu gepland bij de leverancier. 
+
+ 
+
+Verstrekken onderhoudsorder: 
+
+Wanneer de leverancier gebruik maakt van het Leveranciersportaal of Ketenstandaard dan wordt de onderhoudsorder automatisch na het gunnen verstrekt via de koppeling. 
+
+Indien de leverancier hier geen gebruik van maakt, dan moet de onderhoudsorder handmatig verstrekt worden via mail of per post. 
+
+Navigeer via het zoekveld zoeken icon naar de lijst Onderhoudsverzoeken. 
+
+Navigeer via het zoekveld zoeken icon naar de het juiste onderhoudsverzoek 
+
+Open het onderhoudsverzoek door op het Nr. te klikken. 
+
+Klik in het feitenblok Onderhoudsverzoekgegevens, sectie Algemeen op het Aantal naast Onderhoudsorders. 
+
+Klik op Rapport 
+
+Kies hier Afdrukken, zodat je deze per post kunt sturen. Of E-mailen, om deze per mail te verzenden. 
 
 ## Zie ook
 

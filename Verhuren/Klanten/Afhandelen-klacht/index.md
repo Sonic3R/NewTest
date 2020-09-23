@@ -27,7 +27,7 @@ In deze stap beoordeelt u de klacht inhoudelijk en bepaalt u wat eventuele vervo
 
 In deze stap voegt u eerst actieregels toe aan het dossier: één actieregel voor elke vervolgactie.  Dit doet u door de standaard processtappen toe te voegen die zijn gedefinieerd voor het afhandelen van klachten en/of door handmatig actieregels aan te maken. Vervolgens wijst u taken toe aan andere collega's die de vervolgacties moeten gaan uitvoeren. 
 
-1. Open het **Leefbaarheidsdossier***. 
+1. Open het **Leefbaarheidsdossier**. 
 2. Klik op **Acties** en kies voor **Processtappen toevoegen**. Het systeem toont een overzicht met procestappensjablonen. Selecteer *Klacht* en klik op **OK**. Het systeem voegt nu de actieregels uit het geselecteerde sjabloon toe aan het dossier. 
 3.  Controleer per actieregel de voorgestelde datum en pas deze datum eventueel aan. 
 4. Voeg per actieregel eventueel een opmerking toe. Selecteer de regel, klik op *Nee* in de kolom **Opmerkingen**. Klik op **Kladblok** en type de opmerking.  De tekst die u hier invult zal automatisch gesplitst worden over verschillende regels.

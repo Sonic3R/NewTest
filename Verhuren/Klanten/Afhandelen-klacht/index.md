@@ -27,56 +27,56 @@ In deze stap beoordeelt u de klacht inhoudelijk en bepaalt u wat eventuele vervo
 
 In deze stap voegt u eerst actieregels toe aan het dossier: één actieregel voor elke vervolgactie.  Dit doet u door de standaard processtappen toe te voegen die zijn gedefinieerd voor het afhandelen van klachten en/of door handmatig actieregels aan te maken. Vervolgens wijst u taken toe aan andere collega's die de vervolgacties moeten gaan uitvoeren. 
 
-1. Open het **Leefbaarheidsdossier**. 
-2. Klik op **Acties** en kies voor **Processtappen toevoegen**. Het systeem toont een overzicht met procestappensjablonen. Selecteer *Klacht* en klik op **OK**. Het systeem voegt nu de actieregels uit het geselecteerde sjabloon toe aan het dossier. 
-3.  Controleer per actieregel de voorgestelde datum en pas deze datum eventueel aan. 
-4. Voeg per actieregel eventueel een opmerking toe. Selecteer de regel, klik op *Nee* in de kolom **Opmerkingen**. Klik op **Kladblok** en type de opmerking.  De tekst die u hier invult zal automatisch gesplitst worden over verschillende regels.
-5. Maak per actieregel een taak aan. Selecteer de regel, klik op **Beheren** en kies voor **Taak aanmaken**. Vul de **Omschrijving**, **Notities** en wijs de taak toe aan een medewerker of team. De nieuw aangemaakte taak wordt automatisch aan het dossier de actieregel gekoppeld.
+1. Navigeer indien nodig via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Leefbaarheidsdossieroverzicht** en open het juiste dossier.
+2. Kies voor de actie/functie **Processtappen toevoegen**. Het systeem toont een overzicht met procestappensjablonen. Selecteer 'Klacht' en klik op **OK**. Het systeem voegt nu de actieregels uit het geselecteerde sjabloon toe aan het dossier.
+3. Controleer onder **Leefbaarheidsactieregels** per actieregel de voorgestelde datum en pas deze datum eventueel aan.
+4. Voeg per actieregel eventueel een opmerking toe. Selecteer daartoe de regel, klik op 'Nee' in de kolom **Opmerkingen**. Klik op **Kladblok** en type de opmerking. De tekst die u hier invult zal automatisch gesplitst worden over verschillende regels.
+5. Maak per actieregel een taak aan. Selecteer de regel, klik op **Beheren** en kies voor **Taak aanmaken**. Vul de **Omschrijving**, **Notities** en wijs de taak toe aan een medewerker of team. De nieuw aangemaakte taak wordt automatisch aan het dossier in de actieregel gekoppeld.
 6. U kunt ook een taak aanmaken die wordt gekoppeld aan het gehele dossier en niet aan een specifieke actieregel. Klik daartoe in het menu va het dossier op **Acties** en kies voor **Taak aanmaken**. Deze taak wordt automatisch gekoppeld aan het dossier.
 
+## Uitvoeren vervolgacties
 
-## Uitvoeren vervolgacties 
 In deze stap voert u één of meer vervolgacties uit t.b.v. het afhandelen van een klacht. Voor elke vervolgactie heeft u een taak toegewezen gekregen. Elke vervolgactie is gedefinieerd in de vorm van een actieregel in een leefbaarheidsdossier van het type 'KLACHT'. 
 
 1. Navigeer naar het **Rolcentrum**. 
 2. Klik op de activiteit **Mijn taken**
-3. Selecteer de juiste taak en klik op **Bewerken**. In het tabblad **Gekoppelde activiteiten** ziet u aan welk dossier en eventueel aan welke actieregel uw taak is gekoppeld. 
-4. Verander de **Status** van de taak in *In uitvoering*. 
-5. Navigeer naar het leefbaarheidsdossier via het veld **Leefbaarheidsdossiernr.** of via de menu-opties **Navigeren** en **Leefbaarheidsdossier**. 
+3. Selecteer de juiste taak en klik op **Bewerken**. Op het tabblad **Gekoppelde activiteiten** ziet u aan welk dossier en eventueel aan welke actieregel uw taak is gekoppeld. 
+4. Verander de **Status** van de taak in 'In uitvoering'. 
+5. Navigeer naar het leefbaarheidsdossier via het veld **Leefbaarheidsdossiernr.** of via de menu-optie **Leefbaarheidsdossier** (onder **Navigeren**). 
 6. Voeg **Opmerkingen** toe aan het gehele dossier of aan de actieregel waarop uw taak betrekking heeft. 
-7. Indien de vervolgactie vereist dat u een brief verstuurt, klikt u op **Nieuw** en **Worddocument** en kiest u  het briefsjabloon dat u wilt gebruiken. Beantwoord eventuele vragen. De brief is automatisch gekoppeld aan het leefbaarheidsdossier. 
-8. Wanneer uw vervolgactie is voltooid, verander dan de **Actieregelstatus** van de dossieractieregel in *Voltooid* en selecteer eventueel een **Afhandelingsreden**.  Verander ook de **Status** van uw taak in *Voltooid*. U krijgt nu de vraag of u een interactielogpost wilt maken. Indien van toepassing doet u dit en vult u het leefbaarheidsdossiernummer en leefbaarheidsdossieractieregelnr. in.
-
+7. Indien de vervolgactie vereist dat u een brief verstuurt, klikt u op **Nieuw** en **Worddocument** en kiest u het briefsjabloon dat u wilt gebruiken. Beantwoord eventuele vragen. De brief is automatisch gekoppeld aan het leefbaarheidsdossier. 
+8. Wanneer uw vervolgactie is voltooid, verander dan de **Actieregelstatus** van de dossieractieregel in 'Voltooid' en selecteer eventueel een **Afhandelingsreden**. Verander ook de **Status** van uw taak in 'Voltooid'. U krijgt nu de vraag of u een interactielogpost wilt maken. Indien van toepassing doet u dit en vult u het leefbaarheidsdossiernummer en leefbaarheidsdossieractieregelnummer in.
 
 ## Controleren oplossing 
+
 In deze stap controleert u, als behandelend medewerker van het dossier, of de klacht naar tevredenheid van de klager is opgelost. 
 
 1. Navigeer naar het **Rolcentrum**. 
 2. Klik op **Mijn leefbaarheidsdossiers**. 
 3. Selecteer het juiste dossier dat n.a.v. de klacht is aangemaakt en klik op **Bewerken**. 
-4. Controleer aan de hand van de uitgevoerde actieregels en per actie de bijbehorende taken, interactielogposten en ingevoerde opmerkingen of de klacht naar tevredenheid van de klager is opgelost. Interactielogposten die zijn gekoppeld aan het leefbaarheidsdossier kunt u inzien door aan de rechterzijde in het feitenblok op het blauwe getal achter **Interactielogposten** te drukken. 
+4. Controleer aan de hand van de uitgevoerde actieregels en per actie de bijbehorende taken, interactielogposten en ingevoerde opmerkingen of de klacht naar tevredenheid van de klager is opgelost. Interactielogposten die zijn gekoppeld aan het leefbaarheidsdossier kunt u inzien door aan de rechterzijde in het feitenblok op het getal achter **Interactielogposten** te klikken. 
 5. In het geval de klager niet tevreden is, beoordeelt u of de verhuurder al het redelijke heeft gedaan om de klacht naar tevredenheid van de klager te verhelpen. Mocht dat niet het geval zijn, dan kunt u nieuwe actieregels aanmaken en bijbehorende taken toewijzen. 
 
+## Verwijzen klager
 
-## Verwijzen klager 
-In het geval u van mening bent dat de verhuurder al het redelijke heeft gedaan om de klacht op te lossen en de klager is nog niet tevreden, dan neemt u contact op met de klager en verwijst u hem of haar naar een externe instantie. In deze stap bevestigt u die verwijzing in een brief aan de klager.  
+Als u van mening bent dat de verhuurder al het redelijke heeft gedaan om de klacht op te lossen en de klager is nog niet tevreden, dan neemt u contact op met de klager en verwijst u hem of haar naar een externe instantie. In deze stap bevestigt u die verwijzing in een brief aan de klager.  
 
 1. Navigeer naar het **Rolcentrum**. 
 2. Klik op **Mijn leefbaarheidsdossiers**. 
 3. Selecteer het juiste dossier dat n.a.v. de klacht is aangemaakt en klik op **Bewerken**. 
 4. Klik op **Nieuw** en **Worddocument** en kies het briefsjabloon dat u wilt gebruiken. Beantwoord eventuele vragen. De brief wordt automatisch gekoppeld aan het leefbaarheidsdossier.
 
-## Afsluiten klacht 
+## Afsluiten klacht
+
  In deze stap sluit u het dossier dat is aangemaakt n.a.v. de klacht.  
 
 1. Navigeer naar het **Rolcentrum**. 
 2. Klik op **Mijn leefbaarheidsdossiers**. 
 3. Selecteer het juiste dossier dat n.a.v. de klacht is aangemaakt en klik op **Bewerken**. 
-4. Controleer of alle actieregels van het dossier zijn voltooid. Zo niet, verander dan de **Actieregelstatus** van de actieregels in *Voltooid* en selecteer eventueel een **Afhandelingsreden**.  
-5. Controleer of alle aan het dossier gekoppelde taken zijn voltooid.  Zo niet, verander dan de **Status** van de taken in *Voltooid*. 
-6. Verander de **Dossierstatus** naar *Voltooid*. Het systeem toont een overzicht met **Dossierafhandelingsredenen**. 
-7. Selecteer de juiste reden en klik op **OK**. 
-
+4. Controleer of alle actieregels van het dossier zijn voltooid. Zo niet, verander dan de **Actieregelstatus** van de actieregels in 'Voltooid' en selecteer eventueel een **Afhandelingsreden**.  
+5. Controleer of alle aan het dossier gekoppelde taken zijn voltooid. Zo niet, verander dan de **Status** van de taken in 'Voltooid'. 
+6. Verander de **Dossierstatus** naar 'Voltooid'. Het systeem toont een overzicht met **Dossierafhandelingsredenen**. 
+7. Selecteer de juiste reden en klik op **OK**.
 
 ## Zie ook
 

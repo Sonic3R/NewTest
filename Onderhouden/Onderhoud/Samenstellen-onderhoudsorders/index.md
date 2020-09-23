@@ -4,14 +4,14 @@ Bij het doorlopen van de vraagboom wordt voor het onderhoudsverzoek automatisch 
 
 1. Uitgangspunt: er is via de vraagboom of handmatig een onderhoudsverzoek aangemaakt met meerdere taken. 
 2. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onderhoudstaken**.
-3. Klik op Functies en kies Onderhoudsorders aanmaken. Indien je voor de eigen onderhoudsdienst een order aanmaakt, kun je deze ook direct plannen. Kies dan voor Onderhoudsorder aanmaken en plannen 
-4. Dynamics Empire maakt nu 1 of meerdere onderhoudsorders aan. Afhankelijk dus of onderhoudstaken samengebundeld kunnen worden tot 1 onderhoudsorder. 
+3. Selecteer de juiste taak, of meerdere taken taken (via **Meer selecteren**).
+4. Kies voor de actie/functie **Onderhoudsorder aanmaken**. Als u voor de eigen onderhoudsdienst een order aanmaakt, kunt u deze ook direct plannen. Kies dan voor **Onderhoudsorder aanmaken en plannen**.
+5. Dynamics Empire maakt nu één of meerdere onderhoudsorders aan, afhankelijk of onderhoudstaken samengebundeld kunnen worden tot één onderhoudsorder. 
 
- 
+## Plannen onderhoudsorder
 
-Plannen onderhoudsorder: 
+### Uitvoering door eigen onderhoudsdienst
 
-Uitvoering door eigen onderhoudsdienst: 
 Bij het aanmaken van de onderhoudsorder voor de eigen onderhoudsdienst kan ook direct gekozen worden voor Onderhoudsorder aanmaken en plannen. In dit geval krijg je direct de planopties te zien. 
 
 Open het betreffende onderhoudsverzoek 

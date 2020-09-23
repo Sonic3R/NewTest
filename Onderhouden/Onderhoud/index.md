@@ -10,7 +10,7 @@ Werkproces | Omschrijving
 [Uitvoeren inspectie-opdracht](uitvoeren-inspectie-opdracht/) | 
 [Registreren onderhoudsverzoek](registreren-onderhoudsverzoek/) | Registreren van een onderhoudsverzoek, al dan niet gebruik makend van de vraagboom in Dynamics Empire.
 [Samenstellen onderhoudsorder](samenstellen-onderhoudsorder/) | Handmatig orders samenstellen na het aanmaken van een onderhoudsverzoek.
-[Bewaken uitvoering onderhoudsorder](bewaken-uitvoering-onderhoudsorder/) | 
+[Bewaken uitvoering onderhoudsorder](bewaken-uitvoering-onderhoudsorder/) | Bewaken van de status van de onderhoudsorder die door de leverancier wordt uitgevoerd.
 [Beoordelen-ZAV-aanvraag](beoordelen-zav-aanvraag/) | 
 
 ## Zie ook

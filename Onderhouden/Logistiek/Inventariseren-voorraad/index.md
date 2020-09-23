@@ -20,10 +20,13 @@ Het aantal artikelen per magazijn wordt nu weergegeven in het inventarisatiedagb
  
 ## Controleren inventarisatie
 
-1. Klik in het menu op de drie puntjes (...) en kies onder **Acties | Boeken** voor **Testrapport**.
-2. Klik op de knop **Voorbeeld** om eerst het rapport op scherm te bekijken. Kies voor een van de andere knoppen als u het rapport wil afdrukken, of het wil verzenden als bijvoorbeeld PDF.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Inventarisatiedagboeken**. 
+2. Ga vanuit het inventarisatiedagboek naar **Testrapport** (onder **... | Acties | Boeken**). De pagina **Voorraad boeken-controle** wordt geopend.
+3. Klik op **Afdrukken**. 
+4. Het controlerapport wordt weergegeven, waarbij u ervoor kunt kiezen om dit te printen. 
  
 ## Boeken voorraadverschillen
+
 1. Klik in het menu onder **Boeken/afdrukken** op **Boeken**.  
 2. Op de melding 'Wilt u de dagboekregels boeken?' reageert u met een klik op **Ja**.  
 3. Wanneer de boeking succesvol is verlopen krijgt u hiervan een bevestigingsmelding; klik op **OK**.  

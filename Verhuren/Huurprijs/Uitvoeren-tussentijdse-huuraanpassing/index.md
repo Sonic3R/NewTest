@@ -93,7 +93,6 @@ In deze stap specificeert u de inhoud van de collectieve huuraanpassing in terme
 3. Open het veld **Batch** en klik op **+Nieuw**. 
 4. Voer de **Code** en **Omschrijving** van de nieuwe batch in en klik op **OK**. U keert terug op pagina **Huurverhogingsbatch**. 
 5. Specificeer de huuraanpassing in termen van elementen: elke aanpassing van een element op een aparte regel. Doe dit per element door een nieuwe regel aan te maken en de volgende kolommen in te vullen:
-
 	- **Elementnr.**: Het nummer van het element dat u wilt toevoegen, wijzigen of verwijderen. 
 	- **Verhogingsoort**: Het soort aanpassing dat u wilt doorvoeren. Als u een element wilt toevoegen aan de contracten van de OG Eenheden, kies dan voor 'Toevoegen'. Als u een element wilt verwijderen van de contracten van de OG Eenheden, kies dan voor 'Vervalt'. Als u het bedrag van een element wilt aanpassen, kies dan voor 'Bedrag' of '%' of 'Was/wordt'. 
 	- **Verhoging**: Als u in de vorige kolom hebt gekozen voor 'Bedrag' of '%', voer dan de concrete waarde (bedrag resp. percentage) in waarmee u het bedrag van het element wilt verhogen. Voer een negatief getal in als u het bedrag wilt verlagen. 

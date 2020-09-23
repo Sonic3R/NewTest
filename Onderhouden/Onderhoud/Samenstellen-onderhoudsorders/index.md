@@ -1,14 +1,10 @@
 # Samenstellen onderhoudsorders
 
-Bij het doorlopen van de vraagboom, wordt voor het onderhoudsverzoek automatisch een onderhoudsorder aangemaakt. 
+Bij het doorlopen van de vraagboom wordt voor het onderhoudsverzoek automatisch een onderhoudsorder aangemaakt. Als er meerdere verzoeken tegelijk gemeld worden, dan wordt er in Dynamics Empire één onderhoudsverzoek aangemaakt met meerdere taken. Deze taken kunt u samenbundelen tot één order mits ze bepaalde overeenkomsten hebben, zoals kostencode, leveranciersnr. en dergelijke. Het startpunt van dit proces is het onderhoudsverzoek met meerdere taken.
 
-Indien er meerdere verzoeken tegelijk gemeld worden, dan wordt er in Dynamics Empire 1 Onderhoudsverzoek aangemaakt met meerdere taken. Deze taken kun je samenbundelen tot 1 order indien ze bepaalde overeenkomsten hebben, zoals kostencode, leveranciersnr. E.d. Het startpunt van dit proces is het onderhoudsverzoek met meerdere taken. 
-
-Er is via de vraagboom of handmatig een onderhoudsverzoek aangemaakt met meerdere taken. 
-
-Ga naar de Onderhoudstaken en klik op Functies en kies Onderhoudsorders aanmaken. Indien je voor de eigen onderhoudsdienst een order aanmaakt, kun je deze ook direct plannen. Kies dan voor Onderhoudsorder aanmaken en plannen 
-
-Dynamics Empire maakt nu 1 of meerdere onderhoudsorders aan. Afhankelijk dus of onderhoudstaken samengebundeld kunnen worden tot 1 onderhoudsorder. 
+1. Uitgangspunt: er is via de vraagboom of handmatig een onderhoudsverzoek aangemaakt met meerdere taken. 
+2. Ga naar de Onderhoudstaken en klik op Functies en kies Onderhoudsorders aanmaken. Indien je voor de eigen onderhoudsdienst een order aanmaakt, kun je deze ook direct plannen. Kies dan voor Onderhoudsorder aanmaken en plannen 
+3. Dynamics Empire maakt nu 1 of meerdere onderhoudsorders aan. Afhankelijk dus of onderhoudstaken samengebundeld kunnen worden tot 1 onderhoudsorder. 
 
  
 

@@ -6,7 +6,7 @@ Als voorbereiding op het vastleggen van, eventueel, inkoopoffertes en inkooporde
 
 Als het projectmodel is doorgezet naar een project zal het project moeten worden voorzien van een aantal (verplichte) items. Dit is nodig om het inkoopproces te starten. 
 
- 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projecten**/**Projectoverzicht**. 
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**. 
  2. Selecteer het project waarvoor u de gegevens wilt actualiseren en open de projectkaart.
  3. Op tabblad **Algemeen** selecteert u bij het veld **Projectfase** de gewenste fase. 
  4. Op tabblad **Contactpersonen** vult u de volgende velden:
@@ -23,7 +23,7 @@ Het is goed mogelijk dat bij een lopend project het projectteam wijzigt, dan kan
 
 ## Aanpassen projectteam
 
- 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projecten**/**Projectoverzicht**. 
+ 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectoverzicht**. 
  2. Selecteer het project waarvoor u de gegevens wilt actualiseren en open de projectkaart.
  3. Kies op tabblad **Contactpersonen** een nieuwe regel en kies in het veld **Contactnr.** het nummer van de persoon die erbij komt, en vervolgens in het veld **Functiecode** de juiste functie.
  4. Indien van toepassing, verwijder dan de regel van de persoon die niet meer van toepassing is.

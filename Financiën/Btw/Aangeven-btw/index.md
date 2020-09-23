@@ -6,7 +6,7 @@ In dit werkproces wordt de BTW-aangifte gegenereerd en geboekt zodat deze kan wo
 
 In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Btw-aangiften**. De gelijknamige pagina opent.
 2. Klik op **Voorbeeld**. De pagina **Btw-aangiftevoorbeeld** opent.
 3. Vul de volgende velden met de aangegeven waarden:
 	- **Selectie posten o.b.v.**: 'Documentdatum'.
@@ -19,7 +19,7 @@ In deze stap wordt een voorstel gemaakt voor welke klanten aangemaand worden.
 
 In deze stap wordt het rapport gegenereerd met daarop de bedragen die op de Btw-aangifte overgenomen kunnen worden.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Btw-aangiften**. De gelijknamige pagina opent.
 2. Klik op **Afdrukken**. De pagina **Btw-aangifte** opent. Klik op *Meer tonen* om alle velden zichtbaar te maken. Vul de volgende velden met de aangegeven waarden:
 	- **Begindatum**: 1 januari van het huidige jaar.
 	- **Einddatum**: De einddatum van de periode waarover u de BTW aan wilt geven.
@@ -34,7 +34,7 @@ In deze stap wordt het rapport gegenereerd met daarop de bedragen die op de Btw-
 
 Dit betreft het boeken van de bedragen op de BTW-aangifte.
 
-1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Btw-aangiften** (Taken). De gelijknamige pagina opent.
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Btw-aangiften**. De gelijknamige pagina opent.
 2. Klik op **Btw-vereffening berekenen en boeken.** De gelijknamige pagina opent.
 3. Vul de volgende velden met de aangegeven waarden:
     - **Begindatum**: 1 januari van het huidige jaar.

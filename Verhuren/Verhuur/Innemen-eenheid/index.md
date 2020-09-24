@@ -3,7 +3,7 @@
 In dit werkproces neemt de verhuurder de eenheid in van de vertrekkende huurder en registreert de verhuurder de overdracht van de sleutels. Dit betreft de sleutels van zowel de eenheid als eventuele gemeenschappelijke ruimtes.
 
 ## Innemen sleutels bij de eenheid met registratie in de Dynamics Empire InspectieApp 
-N.t.b. door Vastgoed.
+Deze actie vindt plaats binnen de procedure die via de InspectieApp wordt geregistreerd.
 
 ## Innemen sleutels bij de corporatie met registratie direct in Dynamics Empire ERP 
 In deze stap registreert u de overdracht van sleutels door de vertrekkende huurder aan de verhuurder. Deze overdracht vindt plaats vlak vóór of nadat de eindinspectie heeft plaatsgevonden. Hierbij wordt ervan uitgegaan dat in de Empire-instellingen de indicatie **Sleuteladministratie automatisch aanmaken bij opzegging** is aangevinkt. 

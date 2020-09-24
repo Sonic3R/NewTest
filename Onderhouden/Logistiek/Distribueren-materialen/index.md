@@ -38,7 +38,8 @@ Wanneer niet alle artikelen zijn ontvangen dan kun je ook een deelontvangst regi
  
 Het aanmaken van een inkoop- of transferorder doet u door de planningsboodschap uit te voeren. Dit rapport kan zowel geaccepteerde als niet-geaccepteerde regels geven. Niet-geaccepteerde regels moeten na controle verwijderd worden, of alsnog geaccepteerd worden. u gaat nu inkoop- en transferorders aanmaken.  
 
-1. 2. Vul de volgende velden op het scherm dat verschijnt:  
+1. 
+2. Vul de volgende velden op het scherm dat verschijnt:  
 
     - Inkooporder: Kies voor Inkooporders aanmaken, als je voor de leverancier een inkooporder wilt 
       aanmaken om materiaal te bestellen.  

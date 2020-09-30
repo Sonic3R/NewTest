@@ -8,7 +8,7 @@ Werkproces | Omschrijving
 [Bepalen huurverhogingsbeleid](bepalen-huurverhogingsbeleid/) | Het beleid ten aanzien van de jaarlijkse huurverhoging vastleggen.
 [Uitvoeren jaarlijkse huurverhoging](uitvoeren-jaarlijkse-huurverhoging/) | De effecten van het huurverhogingsbeleid doorrekenen.
 [Rappelleren klant](rappelleren-klant/) | Rappelleren van klanten in het kader van de jaarlijkse huurverhoging.
-[Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/) | 
+[Afhandelen huurverhogingsbezwaren](afhandelen-huurverhogingsbezwaren/) | Afhandelen van een bezwaar dat een klant heeft ingediend tegen de jaarlijkse huurverhoging.
 [Uitvoeren tussentijdse huuraanpassing](uitvoeren-tussentijdse-huurprijsaanpassing/) | Doorvoeren van tussentijdse huuraanpassingen. Tussentijdse huuraanpassingen zijn alle aanpassingen van de huurprijs van verhuurde en leegstaande OG Eenheden die gedurende het jaar worden doorgevoerd naast de jaarlijkse huurverhoging.
 
 ## Zie ook

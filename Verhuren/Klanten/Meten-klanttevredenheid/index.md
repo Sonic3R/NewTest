@@ -1,6 +1,6 @@
 # Meten klanttevredenheid
 
-Dit werkproces betreft het uitvoeren van onderzoek naar de tevredenheid van klanten t.a.v. de algemene dienstverlening van de verhuurder en t.a.v. de volgende 3 specifieke soorten dienstverlening: 
+Dit werkproces betreft het uitvoeren van onderzoek naar de tevredenheid van klanten t.a.v. de algemene dienstverlening van de verhuurder en t.a.v. de volgende drie specifieke soorten dienstverlening: 
 - Afhandelen reparatieverzoek 
 - Afhandelen huuropzegging 
 - Nieuwe verhuring 
@@ -8,27 +8,27 @@ Dit werkproces betreft het uitvoeren van onderzoek naar de tevredenheid van klan
 In deze werkinstructie wordt ervan uitgegaan dat het klanttevredenheidsonderzoek wordt uitgevoerd in samenwerking met KWH en dat u de populatie van het onderzoek aanlevert aan KWH via een daarvoor bestemde upload in het portaal van KWH. 
 
 ## Opzetten onderzoek 
-Deze stap wordt niet ondersteund in Dynamics Empire. 
 
+Deze stap wordt niet ondersteund in Dynamics Empire.
 
-## Genereren populatie 
-In deze stap genereert u de de huurdergegevens die behoren bij de populatie van het onderzoek. Hiervoor zijn 4 standaard rapporten beschikbaar in Dynamics Empire: 1 rapport voor elk soort dienstverlening: 
+## Genereren populatie
+In deze stap genereert u de huurdergegevens die horen bij de populatie van het onderzoek. Hiervoor zijn vier standaard rapporten beschikbaar in Dynamics Empire, één rapport voor elk soort dienstverlening: 
 
 - KWH - Overzicht algemene dienstverlening 
 - KWH - Overzicht Reparaties 
 - KWH - Overzicht Huur opzeggen 
 - KWH - Woning zoeken - Nieuwe woning 
 
-Elk rapport heeft zijn eigen opties en filtermogelijkheden. Door middel van het uitvoeren van een rapport genereert u een Excel bestand met huurdergegevens: 1 regel per huurder en 1 kolom voor elke soort eigenschap van de huurders. 
+Elk rapport heeft zijn eigen opties en filtermogelijkheden. Door middel van het uitvoeren van een rapport genereert u een Excel-bestand met huurdergegevens: één regel per huurder en één kolom voor elke soort eigenschap van de huurders. 
 
-KWH heeft een vaste set aan eigenschappen van huurders nodig om de huurder te kunnen benaderen voor het onderzoek, zoals: * VHE* *geslacht*, *naam*, *adres*, *postcode*, *plaats*, *telefoon* en *email*. Deze vaste set aan eigenschappen worden vermeld in de zogenoemde vaste kolommen van elk Excel-bestand. 
+KWH heeft een vaste set aan eigenschappen van huurders nodig om de huurder te kunnen benaderen voor het onderzoek, zoals: **VHE**, **geslacht**, **naam**, **adres**, **postcode**, **plaats**, **telefoon** en **e-mail**. Deze vaste set aan eigenschappen wordt vermeld in de gelijknamige vaste kolommen van elk Excel-bestand. 
 
-Daarnaast biedt KWH u de mogelijkheid om zelf 4 soort eigenschappen van huurders te kiezen die gebruikt moeten worden voor de uitsplitsing van uw onderzoek. Elk Excel-bestand bevat naast de vaste kolommen ook een aantal extra kolommen die u kunt gebruiken voor de uitsplitsing, zoals: *Cluster*, *Rayon* of *OGE type*. Voordat u het Excel bestand kunt uploaden via het portaal van KWH, moet u van de extra kolommen die u wilt gebruiken voor de uitsplitsing de kolomnamen wijzigen in *uitsplitsing1*, *uitsplitsing2*, *uitsplitsing3* of *uitsplitsing4* en de overige extra kolommen verwijderen uit het Excel bestand.  
+Daarnaast biedt KWH u de mogelijkheid om zelf vier soorten eigenschappen van huurders te kiezen die gebruikt moeten worden voor de uitsplitsing van uw onderzoek. Elk Excel-bestand bevat naast de vaste kolommen ook een aantal extra kolommen die u kunt gebruiken voor de uitsplitsing, zoals: **Cluster**, **Rayon** of **OGE type**. Voordat u het Excel-bestand kunt uploaden via het portaal van KWH, moet u van de extra kolommen die u wilt gebruiken voor de uitsplitsing de kolomnamen wijzigen in **uitsplitsing1**, **uitsplitsing2**, **uitsplitsing3** of **uitsplitsing4** en de overige extra kolommen verwijderen uit het Excel-bestand.  
 
-U genereert de huurdergegevens voor een onderzoek als volgt: 
-1. Zoek en open het juiste KWH rapport dat hoort bij de soort dienstverlening waarvoor u het onderzoek wil uitvoeren. 
-2. Vul de opties in. 
-3. Vul eventueel extra filters in als u de populatie wilt beperken. 
+U genereert de huurdergegevens voor een onderzoek als volgt:
+1. Zoek en open het juiste KWH-rapport dat hoort bij de soort dienstverlening waarvoor u het onderzoek wil uitvoeren.
+2. Vul de opties in.
+3. Vul eventueel extra filters in als u de populatie wilt beperken.
 4. Klik op **Verzenden naar** en kies voor **MS Excel**. Dynamics Empire genereert een MS Excel bestand met de huurdergegevens die nodig zijn voor het onderzoek. 
 5. Open het Excel-bestand. 
 6. Pas de kolomnamen aan van de extra kolommen die u wilt gebruiken voor de uitsplitsing. Deze extra kolommen moeten de volgende kolomnamen krijgen:  *uitsplitsing1*, *uitsplitsing2*, *uitsplitsing3* resp. *uitsplitsing4*. 

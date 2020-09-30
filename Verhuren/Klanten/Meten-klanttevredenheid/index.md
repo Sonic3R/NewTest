@@ -26,26 +26,24 @@ KWH heeft een vaste set aan eigenschappen van huurders nodig om de huurder te ku
 Daarnaast biedt KWH u de mogelijkheid om zelf vier soorten eigenschappen van huurders te kiezen die gebruikt moeten worden voor de uitsplitsing van uw onderzoek. Elk Excel-bestand bevat naast de vaste kolommen ook een aantal extra kolommen die u kunt gebruiken voor de uitsplitsing, zoals: **Cluster**, **Rayon** of **OGE type**. Voordat u het Excel-bestand kunt uploaden via het portaal van KWH, moet u van de extra kolommen die u wilt gebruiken voor de uitsplitsing de kolomnamen wijzigen in **uitsplitsing1**, **uitsplitsing2**, **uitsplitsing3** of **uitsplitsing4** en de overige extra kolommen verwijderen uit het Excel-bestand.  
 
 U genereert de huurdergegevens voor een onderzoek als volgt:
-1. Zoek en open het juiste KWH-rapport dat hoort bij de soort dienstverlening waarvoor u het onderzoek wil uitvoeren.
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het juiste KWH-rapport dat hoort bij de soort dienstverlening waarvoor u het onderzoek wil uitvoeren, en open het.
 2. Vul de opties in.
 3. Vul eventueel extra filters in als u de populatie wilt beperken.
-4. Klik op **Verzenden naar** en kies voor **MS Excel**. Dynamics Empire genereert een MS Excel bestand met de huurdergegevens die nodig zijn voor het onderzoek. 
+4. Klik op **Verzenden naar** en kies voor **Microsoft Excel-document**. Dynamics Empire genereert een Excelbestand met de huurdergegevens die nodig zijn voor het onderzoek. 
 5. Open het Excel-bestand. 
-6. Pas de kolomnamen aan van de extra kolommen die u wilt gebruiken voor de uitsplitsing. Deze extra kolommen moeten de volgende kolomnamen krijgen:  *uitsplitsing1*, *uitsplitsing2*, *uitsplitsing3* resp. *uitsplitsing4*. 
-7. Verwijder  de overige extra kolommen uit het Excel-bestand. 
+6. Pas de kolomnamen aan van de extra kolommen die u wilt gebruiken voor de uitsplitsing. Deze extra kolommen moeten de volgende kolomnamen krijgen: **uitsplitsing1**, **uitsplitsing2**, **uitsplitsing3** resp. **uitsplitsing4**. 
+7. Verwijder de overige extra kolommen uit het Excel-bestand. 
 8. Sla het gewijzigde Excel-bestand op (eventueel onder een andere naam). 
 
 Vervolgens kunt u het Excel-bestand uploaden in het portaal van KWH. Dit valt buiten deze werkinstructie. 
 
+## Uitvoeren onderzoek
 
-## Uitvoeren onderzoek 
 Deze stap wordt niet ondersteund in Dynamics Empire. 
 
+## Rapporteren klanttevredenheid
 
-## Rapporteren klanttevredenheid 
-Deze stap wordt niet ondersteund in Dynamics Empire. 
-
-
+Deze stap wordt niet ondersteund in Dynamics Empire.
 
 ## Zie ook
 

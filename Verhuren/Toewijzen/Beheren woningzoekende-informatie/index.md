@@ -4,11 +4,11 @@ Dit werkproces betreft het beheren van informatie over woningzoekenden. Best pra
 
 Best practice is er één situatie waarin een woningzoekende/kandidaat rechtstreeks in Dynamics Empire wordt ingevoerd, namelijk in het geval van directe bemiddeling. In die situatie wordt een vrijgekomen eenheid niet gepubliceerd in het externe woonruimteverdeelsysteem, maar wordt de kandidaat rechtstreeks in Dynamics Empire ingevoerd, zodat hij aan de verhuuraanbieding kan worden gekoppeld. 
 
+## Registreren huishouden
 
-## Registreren huishouden 
 In deze stap registreert u een huishouden, met bijbehorende personen, dat kandidaat is voor een OG Eenheid die via directe bemiddeling wordt toegewezen. U begint met het registeren van de persoon die fungeert als contractant. Vervolgens maakt u voor die persoon een huishouden c.q. bedrijf aan. En tenslotte registreert u daar waar nodig en gewenst extra personen binnen het huishouden. 
 
-1. Navigeer naar het **Rolcentrum**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Rolcentrum**. 
 2. Klik op de bladwijzer **Contacten**. De lijst met bestaande contacten wordt getoond. 
 3. Controleer of het huishouden met de betreffende personen al bestaat in Dynamics Empire. Als dat het geval is, hoeft u geen nieuw huishouden te registreren.  
 4. Als het huishouden nog niet bestaat, klikt u op **+Nieuw**. Een lege contactkaart wordt geopend. 

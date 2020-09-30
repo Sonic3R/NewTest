@@ -48,17 +48,17 @@ In deze stap controleert u de woningwaardering van de eenheid.
 
 Als in de vorige stap is gebleken dat de woningwaardering onjuist was, dan past u in deze stap de woningwaardering van de OG Eenheid aan. Dit doet u door een nieuwe versie van de woningwaardering aan te maken waarin u de correcties doorvoert. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarvoor u de woningwaardering wil aanpassen. 
-3. Klik op **Navigeren** en kies voor **Woningwaardering**. 
+3. Navigeer naar de **Woningwaardering**. 
 4. Klik op **Nieuw+**. 
-5. Vul de **Ingangsdatum** van de nieuwe woningwaardering met de de ingangsdatum van het huurverhogingstijdvak (doorgaans 1 juli van het lopende kalenderjaar) en klik op een ander deel van de pagina. Het systeem kopieert de vorige versie van de woningwaardering, haalt de juiste **WOZ-waarde** op uit de WOZ-gegevens van de OG Eenheid en berekent het aantal punten conform de wet- en regelgeving en de ingestelde **Woningwaarderingparameterset**.  Het systeem berekent op basis van het totaal aantal punten bovendien de maximale huurprijs en slaat deze op in de nieuwe versie van de woningwaardering. 
+5. Vul de **Ingangsdatum** van de nieuwe woningwaardering met de de ingangsdatum van het huurverhogingstijdvak (doorgaans 1 juli van het lopende kalenderjaar) en klik op een ander deel van de pagina. Het systeem kopieert de vorige versie van de woningwaardering, haalt de juiste **WOZ-waarde** op uit de WOZ-gegevens van de OG Eenheid en berekent het aantal punten conform de wet- en regelgeving en de ingestelde **Woningwaarderingparameterset**. Het systeem berekent op basis van het totaal aantal punten bovendien de maximale huurprijs en slaat deze op in de nieuwe versie van de woningwaardering. 
 6. Pas daar waar nodig één of meer aspecten van de nieuwe versie van de woningwaardering aan. Elke keer als u een aspect van de woningwaardering aanpast, berekent het systeem automatisch het aantal punten en de maximale huurprijs. 
 7. Sluit de pagina. 
 
 ## Simuleren nieuwe nettohuur 
 
-In deze stap bepaalt u of de aangepaste woningwaardering al dan niet zou leiden tot een lagere nieuwe nettohuur dan de nieuwe nettohuur die was berekend tijdens de originele jaarlijkse huurverhoging van deze OG Eenheid. Dit is zeker niet het geval als de aangepaste woningwaardering leidt tot ongewijzigde of zelfs hogere maximale huurprijs. In het geval de aangepaste woningwaardering leidt tot een lagere maximale huurprijs, dan moet de nieuwe nettohuur worden berekend op basis van de lagere maximale huurprijs en de andere, ongewijzigde huurverhogingsparameters. Aangezien de originele jaarlijkse huurverhoging i deze fase van de bezwaarprocedure nog niet wordt teruggedraaid, moet u de berekening buiten het systeem uitvoeren. 
+In deze stap bepaalt u of de aangepaste woningwaardering al dan niet zou leiden tot een lagere nieuwe nettohuur dan de nieuwe nettohuur die was berekend tijdens de originele jaarlijkse huurverhoging van deze OG Eenheid. Dit is zeker niet het geval als de aangepaste woningwaardering leidt tot ongewijzigde of zelfs hogere maximale huurprijs. Als de aangepaste woningwaardering leidt tot een lagere maximale huurprijs, dan moet de nieuwe nettohuur worden berekend op basis van de lagere maximale huurprijs en de andere, ongewijzigde huurverhogingsparameters. Aangezien de originele jaarlijkse huurverhoging in deze fase van de bezwaarprocedure nog niet wordt teruggedraaid, moet u de berekening buiten het systeem uitvoeren. 
 
 ## Opvragen bewijs klant 
 
@@ -66,26 +66,26 @@ In deze stap vraagt u de huurder informatie aan te leveren waarmee kan worden aa
 
 ## Beoordelen bewijs 
 
-In deze stap beoordeelt u het door de huurder aangeleverde informatie waarmee de huurder probeert te bewijzen dat de inkomensafhankelijke huurverhoging ten onrechte is toegepast. Op basis van deze beoordeling besluit u of het bezwaar gegrond of ongegrond is. Als het bezwaar gegrond is, dan registreert u dat bij het bewaar. 
+In deze stap beoordeelt u het door de huurder aangeleverde informatie waarmee de huurder probeert te bewijzen dat de inkomensafhankelijke huurverhoging ten onrechte is toegepast. Op basis van deze beoordeling besluit u of het bezwaar gegrond of ongegrond is. Als het bezwaar gegrond is, dan registreert u dat bij het bezwaar. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft. 
-3. Klik op **Navigeren** en kies voor **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
+3. Navigeer naar de **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
 4. Selecteer de contractregel waarin de huurverhoging is verwerkt waartegen bezwaar wordt gemaakt. 
 5. Klik op **Bewerken**. 
-6. Pas de **Bezwaarstatus** aan in *Ingetrokken verhuurder*. 
+6. Pas de **Bezwaarstatus** aan naar 'Ingetrokken verhuurder'. 
 
 ## Opvragen vervolgverklaring 
 
 In deze stap vraagt u een vervolgverklaring op bij de Belastingdienst. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft. 
 3. Kopieer het OG Eenheidsnummer. 
-4. Zoek en open de taak **Aanvraaggegevens huishoudverklaringen exporteren**. 
+4. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Aanvraaggegevens huishoudverklaringen exporteren**. 
 5. Selecteer het juiste **Huurverhogingstijdvak**. 
 6. Selecteer de **Huurverhogingsdatum**. 
-7. Plak het gekopieerde OG Eenheidsnummer in het filter **Eenheidsnr.**. 
+7. Plak het gekopieerde OG Eenheidsnummer in het filter **Eenheidsnr.**
 8. Klik op **OK**. Het systeem maakt een csv-bestand aan met de gegevens van de geselecteerde OG Eenheid. 
 9. Upload dit csv-bestand naar de Belastingdienst. 
 
@@ -93,22 +93,22 @@ In deze stap vraagt u een vervolgverklaring op bij de Belastingdienst.
 
 In deze stap verwerkt u de vervolgverklaring die u heeft ontvangen van de Belastingdienst. Als de vervolgverklaring dezelfde huishoudverklaringscode **J** bevat als de oorspronkelijke huishoudverklaring, dan verklaart u het bezwaar ongegrond. Als de vervolgverklaring een andere huishoudverklaringscode bevat, dan is het bezwaar gegrond en registreert u dat bij het bezwaar.  
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft. 
-3. Klik op **Navigeren** en kies voor **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
+3. Navigeer naar de **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
 4. Selecteer de contractregel waarin de huurverhoging is verwerkt waartegen bezwaar wordt gemaakt. 
 5. Klik op **Bewerken**. 
-6. Pas de **Bezwaarstatus** aan in *Ingetrokken verhuurder*. 
+6. Pas de **Bezwaarstatus** aan in 'Ingetrokken verhuurder'. 
 
 ## Inplannen inspectie 
 
 In deze stap plant u een inspectie om de staat van onderhoud van de eenheid te laten controleren. Daartoe maakt u eerst een onderhoudsverzoek aan voor de betreffende OG Eenheid en plant vervolgens een inspectie binnen dat onderhoudsverzoek. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft. 
 3. Klik op **Nieuw** en kies voor **Onderhoudsverzoek**. De pagina **Onderhoudsverzoekkaart** wordt geopend. 
-4. Selecteer de waarde *Reparatieverzoek* in het veld **Onderhoudstype**. 
-5. Geef aan in het veld **Omschrijving** dat het gaat om een controle van de staat van onderhoud van de eenheid i.v.m. een bezwaar tegen de jaarlijkse huurverhoging. 
+4. Selecteer de waarde 'Reparatieverzoek' in het veld **Onderhoudstype**. 
+5. Geef in het veld **Omschrijving** aan dat het gaat om een controle van de staat van onderhoud van de eenheid i.v.m. een bezwaar tegen de jaarlijkse huurverhoging. 
 6. Navigeer naar de pagina met inspectieafspraken. Deze pagina is te bereiken via de knop **Inspectieafspraken** in het menu of via de link in het gelijknamige veld in feitenblok **Onderhoudsverzoekgegevens**.  
 7. Klik op **Nieuw**. 
 8. Klik op **Verwerken** en kies voor **Inspectieafspraak plannen**. 

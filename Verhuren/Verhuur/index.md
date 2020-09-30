@@ -13,7 +13,7 @@ Werkproces | Omschrijving
 [Aanbieden eenheid](aanbieden-eenheid/) | Een kandidaat of meerdere kandidaten uitnodigen om de verhuurbare eenheid te bezichtigen en vastleggen of zij de aanbieding accepteren of weigeren.
 [Verantwoorden verhuring](verantwoorden-verhuring/) | De huishoudgegevens registreren op basis waarvan toewijzing wordt getoetst aan de passendheidstoets en staatssteunregeling.
 [Ondertekenen huurovereenkomst](ondertekenen-huurovereenkomst/) | De huurovereenkomst ondertekenen en effectueren.
-[Opleveren eenheid](opleveren-eenheid/) | De eenheid aan de nieuwe huurder opleveren.
+[Opleveren eenheid](opleveren-eenheid/) | Opleveren van de eenheid aan de nieuwe huurder, inclusief het aanmaken van een opleverstaat.
 
 ## Zie ook
 

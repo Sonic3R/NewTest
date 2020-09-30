@@ -7,7 +7,7 @@ Dit werkproces betreft het afhandelen van een bezwaar dat een klant heeft ingedi
  
 Dynamics Empire biedt standaard functionaliteit voor het registreren van een bezwaar en bijbehorend weigeringsbedrag en voor het op hoofdlijnen bijhouden van de status en vastleggen en verwerken van de uitkomst van een bezwaar. Deze werkinstructie beschrijft m.n. de toepassing van deze standaard functionaliteit. 
 
-Als u de procedure voor het afhandelen van een bezwaar meer in detail wilt monitoren en alle contactmomenten en documenten binnen die procedure bij elkaar wilt houden (bijvoorbeeld voor de communicatie met de huurcommissie), dan kunt u dat doen door per bezwaar een leefbaarheidsdossier van het type *BEZWAAR* aan te maken. Dit wordt niet verder beschreven in deze werkinstructie. Voor een beschrijving daarvan kunt u terecht in de werkinstructie voor **[Afhandelen overlast](../Afhandelen-overlast/)**.  
+Als u de procedure voor het afhandelen van een bezwaar meer in detail wilt monitoren en alle contactmomenten en documenten binnen die procedure bij elkaar wilt houden (bijvoorbeeld voor de communicatie met de huurcommissie), dan kunt u dat doen door per bezwaar een leefbaarheidsdossier van het type 'BEZWAAR' aan te maken. Dit wordt niet verder beschreven in deze werkinstructie. Voor een beschrijving daarvan kunt u terecht in de werkinstructie voor **[Afhandelen overlast](../../sociaal-beheer/afhandelen-overlast/)**.  
 
 ## Registreren bezwaar 
 
@@ -18,10 +18,10 @@ In deze stap registreert u het bezwaar in de contractregel waarin de huurverhogi
 3. Navigeer via het menu naar de **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
 4. Selecteer de contractregel waarin de huurverhoging is verwerkt waartegen bezwaar wordt gemaakt. 
 5. Klik op **Bewerken**. 
-6. Activeer de indicatie **Bezwaar huurverhoging** in sneltabblad **Huurverhoging**. Het systeem vult automatisch het **Weigeringsbedrag** met het bedrag waarmee de nettohuur is verhoogd als gevolg van de jaarlijkse huurverhoging. 
+6. Activeer de indicatie **Bezwaar huurverhoging** op tabblad **Huurverhoging**. Het systeem vult automatisch het **Weigeringsbedrag** met het bedrag waarmee de nettohuur is verhoogd als gevolg van de jaarlijkse huurverhoging. 
 7. Vul de **Ingangsdatum weigering** in. 
-8. Geef aan of de huurder al dan niet **Betalingsbereid** is. Activeer deze indicatie als de huurder, ondanks het bezwaar en in afwachting van de uitkomst van het bezwaar, toch bereid is de verhoogde nettohuur te betalen. In dat geval wordt de huurder wel aangemaand mocht hij de verhuurfacturen niet op tijd betalen; anders wordt de huurder niet aangemaand. 
-9. Wijzig de **Bezwaarstatus** naar *In afwachting*. 
+8. Geef aan of de huurder al dan niet **Betalingsbereid** is. Activeer deze indicatie als de huurder, ondanks het bezwaar en in afwachting van de uitkomst van het bezwaar, toch bereid is de verhoogde nettohuur te betalen. In dat geval wordt de huurder wel aangemaand als hij de verhuurfacturen niet op tijd betaalt; anders wordt de huurder niet aangemaand. 
+9. Wijzig de **Bezwaarstatus** naar 'In afwachting'. 
 
 ## Beoordelen en bepalen vervolgacties 
 
@@ -36,13 +36,13 @@ U kunt er vanzelfsprekend ook voor kiezen om het bezwaar te honoreren zonder nad
 
 In deze stap controleert u de woningwaardering van de eenheid. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarvoor u de woningwaardering wil controleren. 
-3. Klik op **Navigeren** en kies voor **Woningwaardering**. 
+3. Navigeer naar de **Woningwaardering**. 
 4. Navigeer m.b.v. **Pagina - Volgende** naar de versie van de woningwaardering met ingangsdatum gelijk aan de ingangsdatum van het huurverhogingstijdvak (doorgaans 1 juli van het lopende kalenderjaar). 
 5. Mocht de OG Eenheid geen versie van de woningwaardering hebben met de genoemde ingangsdatum, dan moet deze versie alsnog worden aangemaakt in de volgende stap. 
 6. Controleer of in de gevonden versie van de woningwaardering de juiste WOZ-waarde van de OG Eenheid is gebruikt. 
-7. Controleer of andere aspecten van de woningwaardering juist zijn geregistreerd. Houdt hierbij rekening met de inhoudelijke argumenten die de huurder eventueel heeft gebruikt in het bezwaar. 
+7. Controleer of andere aspecten van de woningwaardering juist zijn geregistreerd. Houd hierbij rekening met de inhoudelijke argumenten die de huurder eventueel heeft gebruikt in het bezwaar. 
 
 ## Aanpassen woningwaardering 
 

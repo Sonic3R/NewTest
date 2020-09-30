@@ -118,18 +118,18 @@ In deze stap plant u een inspectie om de staat van onderhoud van de eenheid te l
 
 ## Uitvoeren inspectie 
 
-In deze stap wordt de inspectie uitgevoerd ter controle van de staat van onderhoud van de OG Eenheid. Deze stap vindt plaats binnen het werkproces *Uitvoeren inspectie naar staat eenheid*. 
+In deze stap wordt de inspectie uitgevoerd ter controle van de staat van onderhoud van de OG Eenheid. Deze stap vindt plaats binnen het werkproces **[Uitvoeren inspectie naar staat eenheid](../../../onderhouden/onderhoud/Uitvoeren-inspectie-naar-staat-eenheid/)**.
 
 ## Verwerken resultaat inspectie 
 
 In deze stap verwerkt u het resultaat van de inspectie. Als uit de inspectie blijkt dat er inderdaad sprake is van achterstallig onderhoud waardoor huurverhoging niet redelijk is, dan is het bezwaar gegrond en registreert u dat bij het bezwaar.  
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft. 
-3. Klik op **Navigeren** en kies voor **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
+3. Navigeer naar **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
 4. Selecteer de contractregel waarin de huurverhoging is verwerkt waartegen bezwaar wordt gemaakt. 
 5. Klik op **Bewerken**. 
-6. Pas de **Bezwaarstatus** aan in *Ingetrokken verhuurder*. 
+6. Pas de **Bezwaarstatus** aan in 'Ingetrokken verhuurder'.
 
 ## Verzoek intrekken bezwaar 
 
@@ -139,21 +139,21 @@ In deze stap vraagt u de huurder zijn bezwaar in te trekken, met de argumenten w
 
 In deze stap berekent u de nieuwe nettohuur op basis van de aangepaste huurverhogingsparameters. Voordat u deze berekening kunt uitvoeren in het systeem, moet u eerst de originele jaarlijkse huurverhoging terugdraaien. Terugdraaien is mogelijk zolang de nieuwe contractregel nog niet is geprolongeerd. Terugdraaien heeft tot gevolg dat de originele jaarlijkse huurverhoging wordt overschreven en de nieuwe contractregel met ingangsdatum gelijk aan de huurverhogingsdatum wordt verwijderd. Als u de jaarlijkse huurverhoging niet kan of wil terugdraaien, dan moet u de berekening buiten het systeem uitvoeren. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarvoor u de woningwaardering wil aanpassen. 
-3. Klik op **Navigeren** en kies voor **Jaarlijkse huurverhoging**. 
+3. Navigeer naar de **Jaarlijkse huurverhoging**. 
 4. Selecteer de huurverhoging waartegen bezwaar wordt gemaakt. 
-5. Klik op **Proces** en kies voor **Huurverhoging terugdraaien**. Het systeem verwijdert de nieuwe contractregel en wijzigt de status van de jaarlijkse huurverhoging in *Ongeldig*.  
-6. Klik op **Proces** en kies voor **Parameters aanmaken**. Het systeem maakt de parameters aan op basis van de gewijzigde woningwaardering en maximale huurprijs en wijzigt de status van de jaarlijkse huurverhoging in *Aangemaakt*. 
-7. Klik op **Proces** en kies voor **Berekenen (simulatie)**. Het systeem berekent de nieuwe nettohuur en wijzigt de status van de jaarlijkse huurverhoging in *Simulatie*. 
-8. Klik op **Weergeven** en controleer de uitkomst van de berekening. Mocht de uitkomst niet akkoord zijn, pas dan het de uitgangspunten en/of het huurbeleid aan, en herhaal de voorgaande twee stappen (parameters aanmaken en berekenen (simulatie). 
-9. Klik op **Proces** en kies voor **Berekenen (definitief)**. Het systeem berekent de nieuwe nettohuur en wijzigt de status van de jaarlijkse huurverhoging in *Definitief*. 
+5. Klik op **Proces** en kies voor **Huurverhoging terugdraaien**. Het systeem verwijdert de nieuwe contractregel en wijzigt de status van de jaarlijkse huurverhoging in 'Ongeldig'.  
+6. Klik op **Proces** en kies voor **Parameters aanmaken**. Het systeem maakt de parameters aan op basis van de gewijzigde woningwaardering en maximale huurprijs en wijzigt de status van de jaarlijkse huurverhoging in 'Aangemaakt'. 
+7. Klik op **Proces** en kies voor **Berekenen (simulatie)**. Het systeem berekent de nieuwe nettohuur en wijzigt de status van de jaarlijkse huurverhoging in 'Simulatie'. 
+8. Klik op **Weergeven** en controleer de uitkomst van de berekening. Mocht de uitkomst niet akkoord zijn, pas dan het de uitgangspunten en/of het huurbeleid aan, en herhaal de voorgaande twee stappen (parameters aanmaken en berekenen (simulatie)). 
+9. Klik op **Proces** en kies voor **Berekenen (definitief)**. Het systeem berekent de nieuwe nettohuur en wijzigt de status van de jaarlijkse huurverhoging in 'Definitief'. 
 
 ## Effecturen huurprijsaanpassing 
 
 In deze stap effectueert u de huurprijsaanpassing. Als u de originele jaarlijkse huurverhoging heeft teruggedraaid, kunt u de huurprijsaanpassing effectueren door de zojuist berekende huurverhoging van de betreffende eenheid te verwerken. 
 
-1. Zoek en open de taak **Huurverhoging verwerken**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Huurverhoging verwerken**. 
 2. Vul de **Huurverhogingsdatum** in. 
 3. Selecteer de **Huurprijsmutatiereden**. 
 4. Selecteer in het filter **Eenheidnr.** de OG Eenheid waarvan u de huurprijsaanpassing wil effectueren. 
@@ -161,15 +161,15 @@ In deze stap effectueert u de huurprijsaanpassing. Als u de originele jaarlijkse
 
 Als u de originele jaarlijkse huurverhoging *niet* heeft teruggedraaid,  moet u handmatig een nieuwe contractregel aanmaken met als ingangsdatum de huurverhogingsdatum en met de juiste bedragen voor de nettohuurelementen. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft. 
-3. Klik op **Navigeren** en kies voor **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
+3. Navigeer naar de **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
 4. Selecteer de contractregel waarin de originele huurverhoging is verwerkt waartegen bezwaar wordt gemaakt.  
 5. Klik op **+Nieuw**. Een nieuwe regel wordt toegevoegd aan het overzicht. 
 6. Vul de **Ingangsdatum** van de nieuwe regel met de huurverhogingsdatum. 
 7. Selecteer een andere contractregel. Het systeem kopieert kopieert alle elementen en overige eigenschappen van de originele contractregel naar de nieuwe contractregel. De originele contractregel is nu logisch verwijderd. 
-8. Selecteer weer de nieuwe contractregel en klik op **Navigeren** en kies voor **Elementen**. 
-9. Selecteer het nettohuurelement, d.w.z. het element met **Elementsoort** gelijk aan *Kale huur*.  
+8. Selecteer weer de nieuwe contractregel en navigeer naar **Elementen**. 
+9. Selecteer het nettohuurelement, d.w.z. het element met **Elementsoort** gelijk aan 'Kale huur'.  
 10. Wijzig de waarde van kolom **Eenheidprijs** in de nieuwe nettohuur die u heeft berekend op basis van de aangepaste huurverhogingsparameters. 
 11. Sluit de pagina. 
 
@@ -177,7 +177,7 @@ Als u de originele jaarlijkse huurverhoging *niet* heeft teruggedraaid,  moet u 
 
 Hiertoe verstuurt u een brief met een omschrijving van de uitkomst van de bezwaarprocedure. Als u de originele jaarlijkse huurverhoging heeft teruggedraaid, kunt u de klant informeren door een nieuwe versie van het huurverhogingsdocument te genereren waarin het bezwaar is verwerkt.  
 
-1. Zoek en open rapport **Huurverhoging - Document**. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het rapport **Huurverhoging - Document**. 
 2. Selecteer de juiste **Huurverhogingsbatchnaam**. 
 3. Selecteer de juiste **Huurverhogingsdatum**. 
 4. Selecteer in het filter **Eenheidsnr.** de OG Eenheid waarvan het bezwaar is gegrond verklaard. 
@@ -185,9 +185,9 @@ Hiertoe verstuurt u een brief met een omschrijving van de uitkomst van de bezwaa
 
 Als u de originele jaarlijkse huurverhoging niet heeft teruggedraaid, kunt u de klant informeren door het aanmaken van een Word-document. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft.  
-3. Klik op het **Klantnr.** in het feitenblok **Klantinformatie**. De klantenkaart wordt geopend van de klant een actief huurcontract heeft op de OG Eenheid. 
+3. Klik op het **Klantnr.** in het feitenblok **Klantinformatie**. De klantenkaart wordt geopend van de klant die een actief huurcontract heeft op de OG Eenheid. 
 4. Klik op **+Nieuw** en kies voor **Word-document**. 
 5. Selecteer het juiste Word-sjabloon. 
 6. Het systeem vraagt of u het samengevoegde document wil downloaden en bewerken. Klik op **Ja**. 
@@ -198,7 +198,7 @@ Als u de originele jaarlijkse huurverhoging niet heeft teruggedraaid, kunt u de 
 
 ## Opsturen bezwaar naar huurcommissie 
 
-In deze stap stuurt u het bezwaar naar de huurcommissie. Deze stap vindt buiten Dynamics Empire plaats. U wordt geadviseerd om in dit geval een leefbaarheidsdossier van het type *BEZWAAR* aan te maken, zodat u de afhandeling van het bezwaar meer in detail kan monitoren en alle contactmomenten en documenten bij elkaar kan houden. 
+In deze stap stuurt u het bezwaar naar de huurcommissie. Deze stap vindt buiten Dynamics Empire plaats. U wordt geadviseerd om in dit geval een leefbaarheidsdossier van het type 'BEZWAAR' aan te maken, zodat u de afhandeling van het bezwaar meer in detail kunt monitoren en alle contactmomenten en documenten bij elkaar kunt houden. 
 
 ## Vastleggen uitspraak huurcommissie 
 
@@ -213,21 +213,21 @@ In deze stap verwerkt u de uitspraak van de huurcommissie, zodat de nieuwe netto
 
 Als de huurcommissie de verhuurder volledig in het gelijk heeft gesteld, dan hoeft u in deze stap niets te doen, omdat in dat geval de originele huurverhoging in stand blijft of de door de verhuurder voorgestelde en reeds doorgevoerde aanpassing van de nettohuur wordt geaccepteerd door de huurcommissie. 
 
-Als de huurcommissie de huurder in het gelijk heeft gesteld, dan moet u de nettohuur van de OG Eenheid (opnieuw) aanpassen. Dit doet u door handmatig een nieuwe contractregel aan te maken met als ingangsdatum de huurverhogingsdatum en met de juiste bedragen voor de nettohuurelementen. Zie de instructie bij stap *Effectueren huurprijsaanpassing*. 
+Als de huurcommissie de huurder in het gelijk heeft gesteld, dan moet u de nettohuur van de OG Eenheid (opnieuw) aanpassen. Dit doet u door handmatig een nieuwe contractregel aan te maken met als ingangsdatum de huurverhogingsdatum en met de juiste bedragen voor de nettohuurelementen. Zie de instructie bij stap **[Effectueren huurprijsaanpassing](#effectueren-huurprijsaanpassing)**.
 
 ## Registreren uitkomst 
 
 In deze stap registreert u de uitkomst van de procedure bij het bezwaar en rondt u de behandeling van het bezwaar af. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
 2. Zoek en selecteer de OG Eenheid waarop het bezwaar betrekking heeft. 
-3. Klik op **Navigeren** en kies voor **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
+3. Navigeer naar **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
 4. Selecteer de contractregel waarin de huurverhoging is verwerkt waartegen bezwaar wordt gemaakt. 
 5. Klik op **Bewerken**. 
-6. Als de huurder het bezwaar heeft ingetrokken, pas dan de **Bezwaarstatus** aan in *Ingetrokken huurder*. 
-7. Als de verhuurder het bezwaar gerond heeft verklaard en de huurder is akkoord gegaan met de door de verhuurder voorgestelde aanpassing van de nettohuur, pas dan de **Bezwaarstatus** aan in *Ingetrokken verhuurder*.
-8. Als de huurcommissie de huurder gelijk heeft gegeven, pas dan de **Bezwaarstatus** aan in *Toegewezen*.  
-9. Als de huurcommissie de verhuurder gelijk heeft gegeven, pas dan de **Bezwaarstatus** aan in *Afgewezen*.
+6. Als de huurder het bezwaar heeft ingetrokken, pas dan de **Bezwaarstatus** aan naar 'Ingetrokken huurder'. 
+7. Als de verhuurder het bezwaar gegrond heeft verklaard en de huurder is akkoord gegaan met de door de verhuurder voorgestelde aanpassing van de nettohuur, pas dan de **Bezwaarstatus** aan in 'Ingetrokken verhuurder'.
+8. Als de huurcommissie de huurder gelijk heeft gegeven, pas dan de **Bezwaarstatus** aan in 'Toegewezen'.  
+9. Als de huurcommissie de verhuurder gelijk heeft gegeven, pas dan de **Bezwaarstatus** aan in 'Afgewezen'.
 
 ## Zie ook
 

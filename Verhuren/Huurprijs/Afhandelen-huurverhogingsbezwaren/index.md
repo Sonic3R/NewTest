@@ -204,7 +204,7 @@ In deze stap stuurt u het bezwaar naar de huurcommissie. Deze stap vindt buiten 
 
 In deze stap legt u de uitspraak van de huurcommissie vast. 
 
-1. Maak vanuit het leefbaarheidsdossier van het bezwaar een interactielogpost aan. 
+1. Maak vanuit het leefbaarheidsdossier van het bezwaar een interactielogpost aan (zie hiervoor werkinstructie **[Afhandelen overlast](../../sociaal-beheer/afhandelen-overlast/)**).
 2. Kopieer de uitspraak van de huurcommissie en plak deze in een notitie bij de interactielogpost en/of koppel het document waarin de uitspraak wordt verwoord aan die interactielogpost. 
 
 ## Verwerken uitspraak huurcommissie 

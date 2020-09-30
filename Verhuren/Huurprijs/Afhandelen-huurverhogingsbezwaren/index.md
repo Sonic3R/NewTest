@@ -7,15 +7,15 @@ Dit werkproces betreft het afhandelen van een bezwaar dat een klant heeft ingedi
  
 Dynamics Empire biedt standaard functionaliteit voor het registreren van een bezwaar en bijbehorend weigeringsbedrag en voor het op hoofdlijnen bijhouden van de status en vastleggen en verwerken van de uitkomst van een bezwaar. Deze werkinstructie beschrijft m.n. de toepassing van deze standaard functionaliteit. 
 
-Als u de procedure voor het afhandelen van een bezwaar meer in detail wilt monitoren en alle contactmomenten en documenten binnen die procedure bij elkaar wilt houden (bijvoorbeeld voor de communicatie met de huurcommissie), dan kunt u dat doen door per bezwaar een leefbaarheidsdossier van het type *BEZWAAR* aan te maken. Dit wordt niet verder beschreven in deze werkinstructie. Voor een beschrijving daarvan kunt u terecht in de werkinstructie voor xxx.  
+Als u de procedure voor het afhandelen van een bezwaar meer in detail wilt monitoren en alle contactmomenten en documenten binnen die procedure bij elkaar wilt houden (bijvoorbeeld voor de communicatie met de huurcommissie), dan kunt u dat doen door per bezwaar een leefbaarheidsdossier van het type *BEZWAAR* aan te maken. Dit wordt niet verder beschreven in deze werkinstructie. Voor een beschrijving daarvan kunt u terecht in de werkinstructie voor **[Afhandelen overlast](../Afhandelen-overlast/)**.  
 
 ## Registreren bezwaar 
 
 In deze stap registreert u het bezwaar in de contractregel waarin de huurverhoging is verwerkt. 
 
-1. Open de **OG Eenheden** lijst door te klikken op de gelijknamige bladwijzer in het **Rolcentrum** 
-2. Zoek en selecteer de OG Eenheid waarvoor u het bezwaar wil registreren. 
-3. Klik op **Navigeren** en kies voor **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**. 
+2. Zoek en selecteer de OG Eenheid waarvoor u het bezwaar wilt registreren. 
+3. Navigeer via het menu naar de **Verhuurcontracten**. De lijst **Contracten** wordt geopend. 
 4. Selecteer de contractregel waarin de huurverhoging is verwerkt waartegen bezwaar wordt gemaakt. 
 5. Klik op **Bewerken**. 
 6. Activeer de indicatie **Bezwaar huurverhoging** in sneltabblad **Huurverhoging**. Het systeem vult automatisch het **Weigeringsbedrag** met het bedrag waarmee de nettohuur is verhoogd als gevolg van de jaarlijkse huurverhoging. 

@@ -34,7 +34,7 @@ De stappen door u te nemen:
 4. Navigeer vanuit de OG Eenheid naar de **Klant** aan wie de OG Eenheid zojuist is opgeleverd. De **Klantkaart** van de nieuwe huurder wordt geopend. 
 5. Noteer het **Klantnummer** en de **Verificatiecode** van de klant. 
 
-De stappen door de huurder op zijn eigen apparaat (smartphone, tablet of laptop) te nemen: 
+De stappen door de huurder op zijn eigen apparaat (smartphone, tablet of laptop) te nemen:  
 6. Open de browser.
 7. Navigeer naar de inlogpagina van het Klantportaal.
 8. Klik op de link **Registreer nu!**. 

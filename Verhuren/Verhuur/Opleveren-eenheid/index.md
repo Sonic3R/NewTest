@@ -35,19 +35,19 @@ De stappen door u te nemen:
 5. Noteer het **Klantnummer** en de **Verificatiecode** van de klant. 
 
 De stappen door de huurder op zijn eigen apparaat (smartphone, tablet of laptop) te nemen:  
-6. Open de browser.
-7. Navigeer naar de inlogpagina van het Klantportaal.
-8. Klik op de link **Registreer nu!**. 
-9. Type het **Klantnummer** en de **Verificatiecode** in die zojuist zijn genoteerd en klik op **Volgende**. 
-10. Type een zelf te kiezen **Gebruikersnaam** en **Wachtwoord** in. 
-11. Type uw **E-mailadres** in. 
-12. Klik op **Aanmaken**. Een pagina wordt geopend met een bevestiging dat het account is aangemaakt. Daarnaast wordt een e-mail met een activatielink verstuurd naar het opgegeven e-mailadres. 
-13. Open de zojuist verstuurde e-mail. 
-14. Klik op de activatielink. Een pagina in de browser wordt geopend met een bevestiging dat het account is bevestigd. 
-15. Klik op de link **Klik hier om in te loggen**. De inlogpagina van het Klantportaal wordt geopend. 
-16. Type uw zojuist gekozen **Gebruikersnaam** en **Wachtwoord** in en klik op **Inloggen**. 
-17. Klik op de menu-optie **Onderhoud** 
-18. Klik op de knop **Nieuw reparatieverzoek** en volg de instructies. 
+1. Open de browser.
+2. Navigeer naar de inlogpagina van het Klantportaal.
+3. Klik op de link **Registreer nu!**. 
+4. Type het **Klantnummer** en de **Verificatiecode** in die zojuist zijn genoteerd en klik op **Volgende**. 
+5. Type een zelf te kiezen **Gebruikersnaam** en **Wachtwoord** in. 
+6. Type uw **E-mailadres** in. 
+7. Klik op **Aanmaken**. Een pagina wordt geopend met een bevestiging dat het account is aangemaakt. Daarnaast wordt een e-mail met een activatielink verstuurd naar het opgegeven e-mailadres. 
+8. Open de zojuist verstuurde e-mail. 
+9. Klik op de activatielink. Een pagina in de browser wordt geopend met een bevestiging dat het account is bevestigd. 
+10. Klik op de link **Klik hier om in te loggen**. De inlogpagina van het Klantportaal wordt geopend. 
+11. Type uw zojuist gekozen **Gebruikersnaam** en **Wachtwoord** in en klik op **Inloggen**. 
+12. Klik op de menu-optie **Onderhoud** 
+13. Klik op de knop **Nieuw reparatieverzoek** en volg de instructies. 
 
 ## Opnemen meterstanden 
 

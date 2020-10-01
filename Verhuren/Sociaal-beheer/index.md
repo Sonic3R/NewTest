@@ -4,7 +4,7 @@ Voor deze bedrijfsfunctie zijn onderstaande werkprocessen gedefinieerd. Klik op 
 
 Werkproces | Omschrijving
 :--- | :---
-[Afhandelen overlast](afhandelen-overlast/) | 
+[Afhandelen overlast](afhandelen-overlast/) | Bewaken van de afhandeling van een melding van overlast, met registratie van alle daarbij behorende contactmomenten en acties. De bewaking vindt plaats met behulp van een leefbaarheidsdossier.
 [Verbeteren leefomgeving](verbeteren-leefomgeving/) | 
 
 ## Zie ook

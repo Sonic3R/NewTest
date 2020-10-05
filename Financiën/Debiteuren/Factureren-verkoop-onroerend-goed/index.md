@@ -54,5 +54,5 @@ Nadat de factuur goedgekeurd is kunt u de factuur boeken.
 [Factureren onderhoudsdiensten](../factureren-onderhoudsdiensten/)  
 [Factureren overige diensten](../factureren-overige-diensten/)  
 [Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
-[Factureren nieuwbouw](../factureren-nieuwbouw/)  
+[Vergoeden en belasten (her)ontwikkeling](../vergoeden-en-belasten-(her)ontwikkeling/)  
 

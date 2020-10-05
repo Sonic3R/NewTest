@@ -32,14 +32,12 @@ Het toewijzen van de ZAV-aanvraag wordt via een brief schriftelijk bevestigd aan
 4. Vul het veld **Omschrijving** in met bijv. 'Inspectie ZAV-aanvraag aanbouw'.
 5. Ga naar de **Onderhoudstaken** op het tabblad **Inspectie**.
 6. Open de **Kaart** van de taak via de optie **Beheren** in het menu van het tabblad.
-7. Vul de volgende velden in het onderhoudsverzoek in:  
-      Tab **Algemeen**: 
+7. Vul de volgende velden in het onderhoudsverzoek in, op tabbladen **Algemeen** en **Uitvoering**:  
       - **Ruimtesoortcode** 
       - **Bouwelementcode** 
       - **Activiteitcode**: 'INSP' (Inspectie)
       - **Onderhoudssoortcode** 
       - **Aantal**: 1  
-      Tab **Uitvoering**: 
       - **Uitvoering door**: Kies Eigen Dienst als het een medewerker van de corporatie i.
       - **Bekwaamheidscode**: Kies de inspecteur. Als u de inspectie in Fieldservice plant, dan kiest u bij bekwaamheidscode 'CONINSP'. 
 8. Sluit de onderhoudstaakkaart.

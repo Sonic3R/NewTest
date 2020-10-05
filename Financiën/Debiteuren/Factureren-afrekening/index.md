@@ -30,4 +30,4 @@ Wanneer er facturen verstuurd dienen te worden kunt u dit doen via Postex.
 [Factureren overige diensten](../factureren-overige-diensten/)  
 [Factureren verkoop onroerend goed](../factureren-verkoop-onroerend-goed/)  
 [Periodiek factureren huurovereenkomst](../periodiek-factureren-huurovereenkomst/)  
-[Factureren nieuwbouw](../factureren-nieuwbouw/)  
+[Vergoeden en belasten (her)ontwikkeling](../vergoeden-en-belasten-(her)ontwikkeling/)  

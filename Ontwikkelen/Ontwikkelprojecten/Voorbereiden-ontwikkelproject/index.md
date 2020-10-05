@@ -26,7 +26,7 @@ Wanneer de uitgangspunten van de Stichtingskosten (STIKO) zijn gedefinieerd en p
 
 ### Vastleggen projectmodel (gemengd)
 
-Bij een gemengd project herhaalt u de hierboven beschreven stappen die gelden voor het vastleggen van een enkel projectmodel. Voor het **Exploitatiemodel** geldt dat dit de eerste keer altijd 'Gemengd' is! Bij terugkeer op het overzicht met projectmodellen selecteert u de regel die zojuist is aangemaakt en kiest u voor **Nieuw** - **+Nieuw**. 
+Bij een gemengd project herhaalt u de hierboven beschreven stappen die gelden voor het vastleggen van een enkel projectmodel. Voor het **Exploitatiemodel** geldt dat dit de eerste keer altijd 'Gemengd' is! Bij terugkeer op het overzicht met projectmodellen selecteert u de regel die zojuist is aangemaakt en kiest u voor **Nieuw** | **+Nieuw**. 
     
  1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Projectmodellen**.
  2. Selecteer in het **Overzicht projecttypen** het projecttype waarvoor het model aangemaakt moet worden en klik op **OK**.

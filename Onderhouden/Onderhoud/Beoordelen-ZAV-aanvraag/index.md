@@ -8,67 +8,46 @@ Voor het in behandeling nemen van de taak, zie het werkproces **[Afhandelen cont
 
 Het toewijzen van de ZAV-aanvraag wordt via een brief schriftelijk bevestigd aan de huurder. 
 
-1. Navigeer via het zoekveld zoeken icon naar de lijst Klanten. 
-2. Zoek via het zoekveld zoeken icon de juiste klant op. 
-3. Klik op Nieuw en kies Worddocument. 
-4. Kies de juiste brief voor het toewijzen van een ZAV aanvraag. 
-5. Pas de brief aan en verwerk deze via de uitgaande post. Dit kan zijn zelf afdrukken en per post versturen of via Postex, de postkamer e.d. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
+2. Zoek de juiste klant op. 
+3. Klik op **Nieuw** en kies voor **Worddocument**. 
+4. Kies de juiste brief voor het toewijzen van een ZAV-aanvraag. 
+5. Pas de brief aan en verwerk deze via de uitgaande post. Dit kan door deze zelf af te drukken en per post te versturen, of via Postex, de postkamer e.d. 
 
 ## Afwijzen aanvraag
 
-Het toewijzen van de ZAV-aanvraag wordt middels brief schriftelijk bevestigd aan de huurder. 
+Het toewijzen van de ZAV-aanvraag wordt via een brief schriftelijk bevestigd aan de huurder. 
 
-Navigeer via het zoekveld zoeken icon naar de lijst Klanten. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
+2. Zoek de juiste klant op. 
+3. Klik op **Nieuw** en kies voor **Worddocument**. 
+4. Kies de juiste brief voor het afwijzen van een ZAV-aanvraag. 
+5. Pas de brief aan en verwerk deze via de uitgaande post. Dit kan door deze zelf af te drukken en per post te versturen, of via Postex, de postkamer e.d. 
 
-Zoek via het zoekveld zoeken icon de juiste klant op. 
+## Plannen inspectie
 
-Klik op Nieuw en kies Worddocument. 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
+2. Zoek de juiste eenheid op.
+3. Ga naar **Nieuw** en kies **Onderhoudsverzoek**.
+4. Vul het veld **Omschrijving** in met bijv. 'Inspectie ZAV-aanvraag aanbouw'.
+5. Ga naar de **Onderhoudstaken** op het tabblad **Inspectie**.
+6. Open de **Kaart** van de taak via de optie **Beheren** in het menu van het tabblad.
+7. Vul de volgende velden in het onderhoudsverzoek in:  
+      Tab **Algemeen**: 
+      - **Ruimtesoortcode** 
+      - **Bouwelementcode** 
+      - **Activiteitcode**: 'INSP' (Inspectie)
+      - **Onderhoudssoortcode** 
+      - **Aantal**: 1  
+      Tab **Uitvoering**: 
+      - **Uitvoering door**: Kies Eigen Dienst als het een medewerker van de corporatie i.
+      - **Bekwaamheidscode**: Kies de inspecteur. Als u de inspectie in Fieldservice plant, dan kiest u bij bekwaamheidscode 'CONINSP'. 
+8. Sluit de onderhoudstaakkaart.
+9. Nu gaan we de inspectie bij de inspecteur in de agenda plannen. Bij gebruik van Fieldservice zal de afspraak in Fieldservice gepland worden. 
+10. Kies voor de actie **Inspectieafspraak plannen**. U krijgt nu de mogelijke opties bij de inspecteurs te zien.
+11. Selecteer de juiste datum en tijd, en klik op **OK**. 
 
-Kies de juiste brief voor het afwijzen van een ZAV aanvraag. 
-
-Pas de brief aan en verwerk deze via de uitgaande post. Dit kan zijn zelf afdrukken en per post versturen of via Postex, de postkamer e.d. 
-
- 
-
-Plannen inspectie: 
-
-Navigeer via het zoekveld zoeken icon naar de lijst OG Eenheden. 
-
-Zoek via het zoekveld zoeken icon de juiste eenheid op. 
-
-Ga naar Nieuw en kies Onderhoudsverzoek aanmaken. 
-
-Vul het veld Omschrijving in met bijv. Inspectie ZAV-aanvraag aanbouw 
-
-Ga naar de Onderhoudstaken. 
-
-Open de onderhoudstaak kaart via Beheren, Kaart. 
-
-Vul de volgende velden in het onderhoudsverzoek in: 
-Sneltab Algemeen: 
-- Ruimtesoortcode: kies een waarde 
-- Bouwe elementcode: kies een waarde 
-- Activiteitcode: INSP (Inspectie) 
-- Onderhoudssoortcode: kies een waarde, bijvoorbeeld Woningverbetering 
-- Aantal: 1 
-Sneltab Uitvoering: 
-- Uitvoering door: kies Eigen dienst indien het een medewerker van de corporatie is 
-- Bekwaamheidscode: kies de inspecteur. Indien je de inspectie in Fieldservice 
-  plannen dan kies je bij bekwaamheidscode CONINSP. 
-
-Sluit de onderhoudstaak kaart. 
-
-Nu gaan we de inspectie bij de inspecteur in de agenda plannen. Bij gebruik van FIeldservice zal de afspraak in Fieldservice gepland worden. 
-
-Ga naar Acties, en kies Inspectieafspraak plannen. 
-
-Je krijgt nu de mogelijke opties bij de inspecteurs te zien. 
-
-Selecteer de juiste datum en tijd en klik op OK. 
-
-De afspraak is nu gepland in de Outlookagenda van de medewerker of in Fieldservice. (Dit is afhankelijk van de instellingen in uw systeem) 
-
- 
+De afspraak is nu gepland in de Outlookagenda van de medewerker of in Fieldservice (dit is afhankelijk van de instellingen in uw systeem).  
 
 ## Zie ook
 

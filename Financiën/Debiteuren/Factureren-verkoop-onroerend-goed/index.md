@@ -25,7 +25,7 @@ Nadat de factuur is aangemaakt kunt u de factuur controleren en aanvullen.
 	- **Reden uit exploitatie**
 	- **Boekings- /Stukdatum**
 	- **Documentdatum**
-	- **Extern stuknummer** (niet verplicht)
+	- **Extern stuknummer**
 	- **Transportdatum**
 	- **Definitief getransporteerd**: 'Aan'. 
 6. Vul de factuurregels aan met bijvoorbeeld de verkoop- of makelaarskosten. Selecteer een nieuwe regel en vul de volgende velden. 

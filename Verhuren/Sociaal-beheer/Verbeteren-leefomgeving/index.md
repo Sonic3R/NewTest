@@ -34,16 +34,16 @@ In deze stap maakt u vervolgacties aan. Dit doet u door één of meer actieregel
 8. Vul de relevante details van het onderhoudsverzoek in. Zie voor meer informatie de werkinstructie van het werkproces **[Registreren onderhoudsverzoek](../../../onderhouden/onderhoud/registreren-onderhoudsverzoek/)**.
 
 ## Afsluiten verbetering
+
 In deze stap sluit u het dossier nadat de verbetering van de leefomgeving is gerealiseerd. 
 
-1. Navigeer naar het **Rolcentrum**. 
-2. Klik op de activiteit **Mijn leefbaarheidsdossiers**. 
-3. Selecteer het leefbaarheidsdossier dat u wil afsluiten en klik op **Bewerken**. 
-4. Controleer of alle actieregels van het dossier zijn voltooid. Zo niet, verander dan de **Actieregelstatus** van de actieregels in *Voltooid* en selecteer eventueel een **Afhandelingsreden**.  
-5. Controleer of alle aan het dossier gekoppelde taken zijn voltooid.  Zo niet, verander dan de **Status** van de taken in *Voltooid*. 
-6. Verander de **Dossierstatus** naar *Voltooid*. Het systeem toont een overzicht met **Dossierafhandelingsredenen**. 
+1. Navigeer naar het **Rolcentrum**.
+2. Klik op de activiteit **Mijn leefbaarheidsdossiers**.
+3. Selecteer het leefbaarheidsdossier dat u wilt afsluiten en klik op **Bewerken**. 
+4. Controleer of alle actieregels van het dossier zijn voltooid. Zo niet, verander dan de **Actieregelstatus** van de actieregels in 'Voltooid' en selecteer eventueel een **Afhandelingsreden**.  
+5. Controleer of alle aan het dossier gekoppelde taken zijn voltooid. Zo niet, verander dan de **Status** van de taken in 'Voltooid'. 
+6. Verander de **Dossierstatus** naar 'Voltooid'. Het systeem toont een overzicht met **Dossierafhandelingsredenen**. 
 7. Selecteer de juiste reden en klik op **OK**. 
-
 
 ## Zie ook
 

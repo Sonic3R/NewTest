@@ -2,15 +2,17 @@
 
 In dit werkproces wordt de factuur ontvangen, vindt een eerste beoordeling plaats en wordt de factuur geregistreerd.
 
-## Het scannen en e-mailen van de factuur die via de post is binnengekomen.
-Deze processtap vind buiten Dynamics Empire plaats. Via de post binnengekomen facturen dienen gescand te worden en verzonden te worden naar de facturen inbox. 
+## Scannen en e-mailen van de factuur die via de post is binnengekomen.
+
+Deze processtap vindt buiten Dynamics Empire plaats. Via de post binnengekomen facturen dienen gescand te worden en verzonden te worden naar de factureninbox. 
 
 ## Registreren document
-Facturen die binnen zijn gekomen in de facturen inbox worden automatisch geregistreerd in Dynamics Empire als een **Inkomend document**. 
-Wanneer het aangemaakt document 1 PDF bevindt zal deze direct doorgezet worden naar de herken software van ReadSoft waarna u de herkende gegevens kunt aanvullen of accorderen. Hoe u dit doet wordt uitgelegd in processtap **Controleren herkenning**. 
+
+Facturen die zijn binnengekomen in de factureninbox worden automatisch geregistreerd in Dynamics Empire als een **Inkomend document**. Wanneer het aangemaakte document 1 PDF betreft zal deze direct doorgezet worden naar de herkensoftware van ReadSoft, waarna u de herkende gegevens kunt aanvullen of accorderen. Hoe u dit doet wordt uitgelegd in processtap **Controleren herkenning**. 
 Wanneer er meer dan 1 PDF aanwezig is op het inkomende document dan dient het document beoordeeld en handmatig afgehandeld te worden. Hou dit werkt wordt uitgelegd in de de processtap. **Beoordelen document**. 
 
 ## Beoordelen document
+
 Wanneer het inkomende document wat aangemaakt is vanuit de facturen mailbox niet direct doorgezet kan worden naar de herken software dient u het document te beoordelen. 
 
  - Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Inkomende documenten**. en zet een filter op alle inkomende documenten met de status **Nieuw**. Dit zij de documenten die nog niet doorgestuurd zijn naar de herken software en die beoordeeld dienen te worden. 
@@ -19,6 +21,7 @@ Wanneer het inkomende document wat aangemaakt is vanuit de facturen mailbox niet
 - Kan het document als nog doorgezet worden naar de herkensoftware of dienen er zaken aangepast te worden voor het document doorgezet kan worden ga dan verder bij processtap **Aanpassen document**. 
 
 ## Aanpassen document
+
 Wanneer na de processtap **Beoordelen document** gebleken is dat het inkomende document wel degelijk een factuur betreft dan kan na eventueel aanpassingen het document alsnog handmatig doorgezet worden naar de herken software. Alleen de bijlage die gepresenteerd wordt in het veld **Hoofdbijlage** wordt verstuurd naar de herken software. 
 
 Bevat het **Inkomende document** meer dan 1 factuur? 
@@ -44,6 +47,7 @@ In deze stap zal de herken software de tekens op het PDF document gaan herkennen
 Wanneer de factuur herkend is door de herken software dient de herkenning bevestigd, aangepast of aangevuld worden. Dit doet u binnen de herken software. De stappen die u hier dient te ondernemen zijn geen onderdeel van deze werkinstructie. De inkomende documenten die te controle klaar staan in de herken software hebben in het veld **OCR status** de waarde **In afwachting van verificatie**. 
 
 ## Aanpassen status
+
 Deze processtap wordt uitgevoerd binnen de herken software en is geen onderdeel van deze werkinstructie.
 
 ## Registreren herkende gegevens
@@ -51,6 +55,7 @@ Deze processtap wordt uitgevoerd binnen de herken software en is geen onderdeel 
 Wanneer de factuur herkend en aangevuld is in de herken software worden de herkende gegeven terug gestuurd naar Dynamics Empire en geregistreerd op het inkomende document. Dit gebeurt automatisch. 
 
 ## Aanmaken factuur
+
 Nadat de herkende gegevens geregistreerd zijn in Dynamics Empire wordt er o.b.v. de geregistreerde gegevens een inkoopfactuur aangemaakt. Dit gebeurd automatisch. Kan o.b.v. de herkende gegevens geen factuur aangemaakt worden dat wordt de **Status** van het inkomend document aangpast naar **Mislukt**. 
 
 ## Corrigeren herkende gegevens
@@ -63,9 +68,8 @@ Wanneer in de processtap **Aanmaken factuur** de factuur niet aangemaakt kon wor
  - Klik op **Document maken** om de inkoopfactuur aan te maken. 
 
 ## Informeren leverancier
+
 Wanneer het document of de factuur niet juist of volledig is dient de leverancier hiervan op de hoogte gesteld te worden. Dit gebeurd buiten de ERP. Bijvoorbeeld doormiddel van het sturen van een email. 
-
-
 
 ## Zie ook
 

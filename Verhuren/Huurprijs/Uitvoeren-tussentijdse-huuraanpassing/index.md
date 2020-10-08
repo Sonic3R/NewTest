@@ -71,7 +71,7 @@ In deze stap voert u de aanpassingen door van de voorschotten voor service en ve
 
 Nu moeten deze aanpassingen nog worden doorgevoerd in de desbetreffende contractregels. Dit doet u door het importeren en verwerken van het importbestand. Verwerking van het importbestand gaat op basis van een huurverhogingsbatch. Na verwerking van het importbestand zijn de aanpassingen vastgelegd in de bestaande contractregels, en wel in de vorm van een verhoging en verhogingssoort. Hierbij wordt ervan uitgegaan dat de huuraanpassing m.b.t. aanpassing van voorschotten tegelijkertijd met de jaarlijkse huurverhoging worden doorgevoerd. De stappen voor het aanmaken van de nieuwe contractregels d.m.v. het verwerken van de huurverhoging en het informeren van de klant vinden om die reden plaats binnen het proces van de jaarlijkse huurverhoging. 
 
-1. Zoek en start de taak **Huurverhoging-import** (deze taak kan in R20 niet gevonden worden, doordat het een XML-port is). 
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de taak **Huurverhoging-import**. 
 2. Selecteer het importbestand dat is aangemaakt binnen het proces van Service en Verbruik. 
 3. Klik op **OK**. Het importbestand wordt geïmporteerd en de gegevens worden weggeschreven in een tussentabel. 
 4. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Huurverhoging-import**. Een pagina wordt geopend met een overzicht van alle geïmporteerde regels. De kolom **Verwerkt** geeft aan welke regels al wel zijn verwerkt en welke nog niet. Controleer of alle regels uit het importbestand zijn geïmporteerd. 

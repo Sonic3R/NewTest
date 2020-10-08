@@ -8,25 +8,22 @@ In deze stap legt u de huuropzegging vast, inclusief nieuw correspondentieadres 
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Zoek de OG Eenheid op waarvoor de huuropzegging moet worden vastgelegd en selecteer deze.
-3. Klik op de link achter **Klantnr.** in het feitenblok **Klantinformatie**. De **Klantkaart** wordt geopend van de klant die een actief huurcontract op de geselecteerde OG Eenheid heeft.
-4. Controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegd is namens die klant het huurcontract te beëindigen.
-5. Sluit de Klantkaart. U keert weer terug naar het overzicht met OG Eenheden.
-6. Klik op **Nieuw** en kies voor **Huuropzegging maken**. Er verschijnt een popup met de vraag of u het contract op naam van de klant wilt beëindigen.
-7. Klik op **Ja**. De pagina **Opzegging huurcontract** wordt geopend.
-8. Controleer de standaardwaarde van de volgende velden en pas de waarde daar waar nodig aan en klik daarna op **OK**:
-   - **Huurcontracteinddatum:** De datum waarop het huurcontract van de klant eindigt. Dit is standaard gelijk aan de **Einddatum volgens opzegtermijn**.
-   - **Leegstandsboekingsgroep:** Deze is standaard gelijk aan de leegstandsboekingsgroep die als standaard is ingesteld in de **Empire-instellingen**.
-9. Als u de **Huurcontracteinddatum** heeft aangepast in een eerdere datum, dan verschijnt een popup met de mededeling dat de opzegtermijn niet in acht is genomen en de vraag of u wilt doorgaan. Klik op **Ja**.
-10. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag, en met de geselecteerde leegstandsboekingsgroep.
+3. Klik op de link achter **Klantnr.** in het feitenblok **Klantinformatie** of klik op een contactnummer van een persoon in het feitenblok **Huishouden van huurder**, en controleer of degene van wie de huuropzegging afkomstig is, overeenkomt met deze klant of bevoegd is namens die klant het huurcontract te beëindigen.
+4. Sluit de pagina. U keert weer terug naar het overzicht met OG Eenheden.
+5. Klik op **Nieuw** en kies voor **Huuropzegging maken**. De pagina **Nieuwe huuropzegging** wordt geopend.
+6. Controleer de standaardwaarde van de velden **Ontvangstdatum**, **Huurcontracteinddatum** en **Boekingsgroep**, pas de waarden daar waar nodig aan en klik daarna op **OK**.
+7. Als u de **Huurcontracteinddatum** heeft aangepast in een eerdere datum, dan verschijnt een popup met de mededeling dat de opzegtermijn niet in acht is genomen en de vraag of u wilt doorgaan. Klik op **Ja**.
+8. Achter de schermen wordt voor de geselecteerde OG Eenheid automatisch een **Leegstandscontract** aangemaakt, waarbij Ingangsdatum = Huurcontracteinddatum + 1 dag, en met de geselecteerde leegstandsboekingsgroep.
 Ook wordt voor de geselecteerde OG Eenheid automatisch een **Verhuurmutatie** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
-11. Als bij de OG Eenheid is ingesteld dat er één of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt achter de schermen automatisch een nieuw **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
-12. Pagina **Huurcontractopzeggingkaart** wordt geopend.
-13. Vul het veld **Huuropzeggingsreden** in.
-14. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan op tab **Huurcontract/Huurder** .
-15. Registreer het nieuwe correspondentieadres van de vertrekkende huurder op tab **Nieuw correspondentieadres**.
+9. Als bij de OG Eenheid is ingesteld dat er één of meer voor- en/of eindinspecties worden uitgevoerd, dan wordt achter de schermen automatisch een nieuw **Onderhoudsverzoek** aangemaakt en gekoppeld aan de nieuwe **Huuropzegging**.
+10. Pagina **Huurcontractopzeggingkaart** wordt geopend.
+11. Vul het veld **Huuropzeggingsreden** in.
+12. Controleer de telefoonnummer(s) en het e-mailadres van de vertrekkende huurder en pas deze indien nodig aan op tab **Huurcontract/Huurder** .
+13. Registreer het nieuwe correspondentieadres van de vertrekkende huurder op tab **Nieuw correspondentieadres**.
     Voor een Nederlands correspondentieadres doet u dit door in het veld **Straat** de postcode en het huisnummer en eventueel het huisnummer toevoegsel in te vullen (achter elkaar, zonder spaties). Nadat u het veld verlaat, vult het systeem automatisch de velden **Straat**, **Huisnummer**, **Huisnummer toevoegsel**, **Postcode** en **Plaats** in met de waarden die het systeem heeft gevonden in de postcodetabel.
     Voor een buitenlands correspondentieadres selecteert u eerst de juiste **Landcode**. Vervolgens vult u de overige velden van het correspondentieadres.
-16. Selecteer in veld **Contactgegevens wijzigingsdatum** de datum per wanneer het nieuwe correspondentieadres ingaat.
+14. Selecteer in veld **Contactgegevens wijzigingsdatum** de datum per wanneer het nieuwe correspondentieadres ingaat.
+15. Open tabblad **Lopende huurcontracten voor andere OG Eenheden** en controleer of deze klant een lopend huurcontract voor een andere eenheid heeft die ook opgezegd met worden. Zo ja, klik dan op het **Eenheidnr.** van die eenheid en herhaal de voorgaande stappen voor die andere eenheid. 
 
 ## Plannen inspectie(s)
 

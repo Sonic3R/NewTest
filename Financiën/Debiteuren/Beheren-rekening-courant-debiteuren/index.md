@@ -48,6 +48,18 @@ Wanneer u bepaalde klantposten uit wilt sluiten van aanmaningen kunt u dit doen 
 3. Open de klantkaart door op het nummer te klikken en kies voor **Posten**. De pagina **Klantposten** opent.
 4. Vul bij de post die u wilt uitsluiten van aanmaningen in het veld **Afwachten** de afwachtcode in die van toepassing is.
 
+## Instellen tijdelijke afwachtcode op klantniveau
+
+Wanneer u een klant tijdelijk uit wilt sluiten van aanmaningen kunt u dit doen door een tijdelijke afwachtcode in te stellen.
+
+1.	Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Klanten**.
+2.	Zoek de klant op waarvoor u een tijdelijke afwachtcode in wilt stellen. 
+3.	Klik op **Afwachtcodeinstellingen**. Vul in het veld **Code** de afwachtcode in die u wilt toepassen. 
+4.	Vul in het veld **Ingangsdatum** de datum in vanaf wanneer nieuw aangemaakte posten de nieuwe afwachtcode toegekend dienen te krijgen. Deze datum moet vóór de boekingsdatum van de nog openstaande klantposten liggen. 
+5.	Vul het veld **Einddatum** in. Tot deze datum krijgen nieuw aangemaakte posten automatisch de ingestelde afwachtcode. Na deze einddatum worden posten met deze afwachtcode weer aangemaand. 
+6.	Zet het vinkje **Overnemen** aan om ervoor te zorgen dat nieuwe posten deze afwachtcode automatisch toegekend krijgen. 
+7.	De huidige openstaande posten bij de klanten dienen de afwachtcode handmatig toegekend te krijgen. Klik in de Klantenlijst of Klantkaart op **Posten**. Selecteer bij de open posten in het veld **Afwachtcode** de afwachtcode die bij de voorgaande stappen is ingesteld.
+
 ## Uitsluiten debiteur van aanmaningen
 
 Wanneer u een klant in zijn geheel wilt uitsluiten van aanmaningen kunt u dit doen door een aanmaningsconditie in te stellen op de klantkaart.

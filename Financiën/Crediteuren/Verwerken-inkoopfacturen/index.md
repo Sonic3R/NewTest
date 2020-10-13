@@ -19,7 +19,8 @@ Zodra de algemene factuurgegevens in uw systeem geregistreerd zijn kan de betali
 	- **Factuur BTW-bedrag**: Wanneer het veld **Verl. BTW-productboekingsgroep** gevuld is wordt dit bedrag aan verlegde BTW geboekt wanneer u de verplichting boekt.
 	- **Bedrag naar G-rekening**
 4. Nadat u bovenstaande gegevens gecontroleerd en aangevuld heeft boekt u de verplichting door voor de optie **Boeken (verplichting)** te kiezen. De **boekstatus** van de factuur wijzigt naar '**Verplichting geboekt'**.
-5. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
+5. Wanneer u gebruik maakt van Dynamics Empire in de Cloud (DE Online) is er vanuit het proces **[Ontvangen inkoopfacturen](../ontvangen-inkoopfacturen/)** al een factuurregel aangemaakt die gespecificeerd is op een tussenrekening. In dit geval dient u deze regel eerst te verwijderen voordat u doorgaat naar de volgende stap. Staat er al een regel in de factuur, maar is deze niet gespecificeerd op de tussenrekening voor ingekomen facturen, verwijder deze regel(s) dan niet.
+6. Nadat de verplichting geboekt is dienen de factuurregels aangemaakt te worden:
 	-  Als er al **factuurregels aanwezig** zijn, ga dan verder met **[Controleren factuurregels](#controleren-factuurregels)**.
 	- Als er een **ordernummer vermeld** staat op de factuur, ga dan verder met **[Regels ophalen](#regels-ophalen)**.
 	- AIs er **geen ordernummer vermeld** staat op de factuur:

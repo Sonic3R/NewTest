@@ -46,11 +46,20 @@ In deze stap zal de herkensoftware de tekens op het PDF-document gaan herkennen 
 
 ## Controleren herkenning
 
-Wanneer de factuur herkend is door de herkensoftware dient de herkenning bevestigd, aangepast of aangevuld te worden. Dit doet u binnen de herkensoftware. De stappen die u hier dient te ondernemen zijn geen onderdeel van deze werkinstructie. De inkomende documenten die ter controle klaar staan in de herkensoftware hebben in het veld **OCR status** de waarde **In afwachting van verificatie**. 
+Wanneer de factuur herkend is door de herkensoftware dient de herkenning bevestigd, aangepast of aangevuld te worden. Dit doet u binnen de herkensoftware. De inkomende documenten die ter controle klaar staan in de herkensoftware hebben in het veld **OCR-status** de waarde 'In afwachting van verificatie'.
+
+1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Inkomende documenten** en zet een filter op alle inkomende documenten met OCR-status 'In afwachting van verificatie'. Dit zijn de documenten die doorgestuurd zijn naar de herkensoftware en die binnen de herkenapplicatie beoordeeld dienen te worden. 
+2. Klik op **In afwachting van verificatie** om de factuur te openen in de herkensoftware. 
+3. Aan de rechterkant van het scherm kunt u de herkende velden controleren. De oranjegekleurde velden dient u altijd te bevestigen of aan te vullen. Ook velden die oranjegekleurd zijn en terecht leeg zijn dient u met een **Enter** te bevestigen.
+4. Is een veld niet of niet juist herkend, dan kunt u de applicatie de herkenning leren verbeteren. Ga met uw cursor in het niet (juist) herkende veld staan. Klik vervolgens twee keer de positie in de factuur aan waar de te herkennen waarde zich bevindt. U zult zien dat het veld gevuld wordt met de geselecteerde waarde. 
+5. Zijn alle velden aan de rechterkant juist herkend of aangevuld, dan kunt u met de groene knop rechts onderin de herkende waarde terugsturen naar Dynamics Empire. U keert nu terug naar de lijst met facturen die gecontroleerd dienen te worden. U kunt de volgende factuur openen door te dubbelklikken op de regel met de volgende factuur.  
 
 ## Aanpassen status
 
-Deze processtap wordt uitgevoerd binnen de herkensoftware en is geen onderdeel van deze werkinstructie.
+Als het aanvullen van de factuurgegevens in de herkensoftware niet direct plaats kan vinden, bijvoorbeeld doordat de leverancier nog niet bekend is in Dynamics Empire, dan kunt u de factuur in de herkensoftware op 'Afwachten' zetten. 
+
+1. Klik in het scherm met de herkende factuur op de knop met het Pauze-teken. U kunt een reden opgeven waarom u deze factuur de afwachtstatus mee wilt geven. Klik op **OK**.
+2. U keert nu terug naar de lijst met facturen die nog gecontroleerd dienen te worden. U zult zien dat de factuur op 'Afwachten' staat en dat de reden die u opgegeven heeft getoond wordt. 
 
 ## Registreren herkende gegevens
 

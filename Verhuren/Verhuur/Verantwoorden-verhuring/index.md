@@ -80,4 +80,4 @@ In deze stap schoont u de privacygevoelige gegevens uit de verantwoordingen verh
 [Opleveren eenheid](../opleveren-eenheid/)  
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
-[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)
+[Annuleren/wijzigen huuropzegging](../annuleren-wijzigen-huuropzegging/)

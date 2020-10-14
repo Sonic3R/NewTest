@@ -1,5 +1,7 @@
 # Afronden projectfase
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=1a4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt de projectfase afgerond. Er wordt een fasedocument opgesteld met daarin onder ander de gewijzigde investeringsbegroting, gewijzigde budgetten en een rapportage van reeds aangegane verplichtingen van de inkoop. Op basis van dit document wordt besloten om de investeringsbegroting aan te passen of eventueel het project te stoppen.
 
 ## Maken boekingsvoorstel

@@ -1,5 +1,7 @@
 # Voorbereiden projectfase
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=1a2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Als voorbereiding op het vastleggen van, eventueel, inkoopoffertes en inkooporders dient het project geactualiseerd te worden met een aantal gegevens. 
 
 ## Aanmaken projectfase

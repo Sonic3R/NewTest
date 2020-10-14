@@ -1,5 +1,7 @@
 # Ondertekenen huurovereenkomst
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d9&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Voordat de huurovereenkomst wordt ondertekend, worden de betalingsgegevens van de klant en de contactgegevens van het huishouden en bijbehorende personen ingevuld of bijgewerkt. Ook worden, indien de klant dat wenst, extra elementen toegevoegd voor diensten die de klant wil afnemen van de corporatie. Naast de huurovereenkomst kan de corporatie ook nog andersoortige documenten ter ondertekening voorleggen aan de nieuwe huurder. Nadat de huurovereenkomst is ondertekend, wordt de overeenkomst geëffectueerd, gearchiveerd en verzonden.
 
 Deze werkinstructie gaat ervan uit dat de huurovereenkomst wordt ondertekend op de **VerhuurApp**. Daartoe worden de **Verhuuraanbieding** en de bijbehorende huishoudgegevens gesynchroniseerd vanuit de ERP-module naar de **VerhuurApp**.

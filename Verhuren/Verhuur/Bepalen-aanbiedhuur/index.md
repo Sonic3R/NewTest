@@ -71,4 +71,4 @@ In deze stap fiatteert u de nieuwe nettohuur. Hierbij wordt ervan uitgegaan dat 
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
-[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)
+[Annuleren/wijzigen huuropzegging](../annuleren-wijzigen-huuropzegging/)

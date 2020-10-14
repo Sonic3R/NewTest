@@ -1,5 +1,7 @@
 # Verantwoorden verhuring
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d8&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Elke toewijzing van een verhuurbare eenheid aan een nieuwe huurder moet worden verantwoord. Hiermee wordt bedoeld dat van elke toewijzing moet worden bepaald of de toewijzing voldoet aan de wettelijke eisen die zijn gesteld in de passendheidstoets en staatssteunregeling.
 
 Gedurende het kalenderjaar moet worden gemonitord of het percentage passende toewijzingen die gedurende het jaar zijn verantwoord, nog voldoet aan de daarvoor geldende wettelijke normen.

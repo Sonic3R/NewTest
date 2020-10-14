@@ -1,5 +1,7 @@
 # Opleveren eenheid
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d10&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het opleveren van de eenheid aan de nieuwe huurder, inclusief het aanmaken van een opleverstaat. Dit is een document waarin de staat van de eenheid is gespecificeerd zoals die is opgenomen op moment van oplevering van de eenheid aan de nieuwe huurder. Het bevat o.a. de opgenomen meterstanden en de eventueel geconstateerde gebreken. 
 
 ## Controleren staat van de eenheid 

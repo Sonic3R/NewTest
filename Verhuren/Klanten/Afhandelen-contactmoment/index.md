@@ -1,5 +1,7 @@
 # Afhandelen contactmoment
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2b2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt een contactmoment afgehandeld dat de corporatie heeft met een klant of een ander soort contact. Het contactmoment kan betrekking hebben op een vraag of een klacht.
 
 De term 'vraag' is in dit verband een ruim begrip. Het kan een vraag zijn die wordt afgehandeld door het verstrekken van het juiste antwoord (informatieverstrekking). Het kan ook een verzoek zijn dat kan worden afgehandeld door het uitvoeren van een bepaalde transactie, zoals het afsluiten van een betalingsregeling. Overigens behoort het uitvoeren van de transactie niet tot dit werkproces, maar het geven van terugkoppeling daarover aan de indiener va het verzoek, behoort hier wel toe. Waar in deze werkinstructie wordt gesproken over 'vraag' en 'vraag beantwoorden' wordt de ruime betekenis ervan bedoeld.

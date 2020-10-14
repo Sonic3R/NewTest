@@ -1,5 +1,7 @@
 # Registreren uren
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=1a3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Uren die zijn besteed aan Investeringsprojecten, Planmatig Onderhoud en Contractonderhoud worden rechtstreeks op het project geboekt. Voordat uren geschreven kunnen worden op een project moet er een Resourcekaart aangemaakt worden en moeten er resources gekoppeld worden aan een project.
  
 ## Aanmaken resourcekaart

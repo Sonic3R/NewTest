@@ -1,5 +1,7 @@
 # Toewijzen eenheid
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2a4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 De corporatie stuurt de kandidaat een uitnodiging voor het ondertekenen van de huurovereenkomst. Deze uitnodiging bevat tevens de bevestiging van de toewijzing van de eenheid aan de kandidaat. Een concept huurovereenkomst en een concept eerste verhuurfactuur worden als bijlage bij die uitnodiging toegevoegd.  
 
 ## Genereren concept huurovereenkomst

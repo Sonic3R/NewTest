@@ -1,5 +1,7 @@
 # Innemen eenheid
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces neemt de verhuurder de eenheid in van de vertrekkende huurder en registreert de verhuurder de overdracht van de sleutels. Dit betreft de sleutels van zowel de eenheid als eventuele gemeenschappelijke ruimtes.
 
 ## Innemen sleutels bij de eenheid met registratie in de Dynamics Empire InspectieApp 

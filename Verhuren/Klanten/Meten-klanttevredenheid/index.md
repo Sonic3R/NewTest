@@ -1,5 +1,7 @@
 # Meten klanttevredenheid
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2b4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het uitvoeren van onderzoek naar de tevredenheid van klanten t.a.v. de algemene dienstverlening van de verhuurder en t.a.v. de volgende drie specifieke soorten dienstverlening: 
 - Afhandelen reparatieverzoek 
 - Afhandelen huuropzegging 

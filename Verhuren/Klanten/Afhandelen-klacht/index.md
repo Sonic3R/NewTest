@@ -1,5 +1,7 @@
 # Afhandelen klacht
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2b3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het afhandelen van een klacht tegen de dienstverlening van de verhuurder. 
 
 De klacht is al geregistreerd in het kader van het werkproces **[Afhandelen contactmoment](../afhandelen-contactmoment/)**. Daarbij is een interactie aangemaakt en een taak toegewezen aan het team of de medewerker die de klacht moet beoordelen.

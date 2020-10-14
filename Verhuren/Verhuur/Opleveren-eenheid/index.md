@@ -71,4 +71,4 @@ In deze stap maakt u de opnamestaat aan. Hiertoe moeten eerst de gegevens en fot
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Registreren huuropzegging](../registreren-huuropzegging/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
-[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)
+[Annuleren/wijzigen huuropzegging](../annuleren-wijzigen-huuropzegging/)

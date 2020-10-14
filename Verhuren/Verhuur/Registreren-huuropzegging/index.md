@@ -1,5 +1,7 @@
 # Registreren huuropzegging
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt het huurcontract van een huurder op een eenheid beëindigd per een gegeven datum. Als de eenheid moet worden geïnspecteerd, worden bovendien afspraken geregistreerd voor de voor- en/of eindinspectie. Ten slotte wordt een bevestiging van de huuropzegging gestuurd.
 
 ## Vastleggen huuropzegging

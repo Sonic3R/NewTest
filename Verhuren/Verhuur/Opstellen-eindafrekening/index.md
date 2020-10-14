@@ -1,5 +1,7 @@
 # Opstellen eindafrekening
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d5&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit proces wordt de eindafrekening opgesteld voor een klant van wie een huurcontract is beëindigd. De eindafrekening geeft een overzicht van de openstaande facturen van de betreffende klant. De facturen kunnen betrekking hebben op o.a.:
 - kosten met betrekking tot mutatieonderhoud die de corporatie doorbelast aan de vertrekkende huurder;
 - nog niet betaalde huur van vorige prolongatieperioden;

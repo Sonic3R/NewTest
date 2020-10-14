@@ -1,5 +1,7 @@
 # Beheren woningzoekende-informatie
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2a1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het beheren van informatie over woningzoekenden. Best practice wordt deze informatie beheerd in de externe woonruimteverdeelsystemen waarmee Dynamics Empire is gekoppeld via de standaard VERA-WRV-koppeling. Nadat een woningzoekende in het externe woonruimteverdeelsysteem is geaccepteerd als kandidaat voor een gepubliceerde eenheid, dan wordt de informatie over die woningzoekende/kandidaat via de standaard VERA-WRV-koppeling naar Dynamics Empire gestuurd. 
 
 Best practice is er één situatie waarin een woningzoekende/kandidaat rechtstreeks in Dynamics Empire wordt ingevoerd, namelijk in het geval van directe bemiddeling. In die situatie wordt een vrijgekomen eenheid niet gepubliceerd in het externe woonruimteverdeelsysteem, maar wordt de kandidaat rechtstreeks in Dynamics Empire ingevoerd, zodat hij aan de verhuuraanbieding kan worden gekoppeld. 

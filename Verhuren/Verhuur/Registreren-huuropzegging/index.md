@@ -62,4 +62,4 @@ In deze stap plant u voor- en/of eindinspecties. Deze stap is alleen van toepass
 [Opleveren eenheid](../opleveren-eenheid/)  
 [Opstellen eindafrekening](../opstellen-eindafrekening/)  
 [Verantwoorden verhuring](../verantwoorden-verhuring/)  
-[Annuleren/verschuiven huuropzegging](../annuleren-verschuiven-huuropzegging/)
+[Annuleren/wijzigen huuropzegging](../annuleren-wijzigen-huuropzegging/)

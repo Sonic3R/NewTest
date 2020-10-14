@@ -1,5 +1,7 @@
 # Voorbereiden ontwikkelproject
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=1a1&view=Chart&maximize=true) voor de flowchart van dit werkproces.* 
+
 In dit werkproces wordt de projectadministratie van goedgekeurde (her)ontwikkelingsprojecten opgezet. Dit houdt onder andere in dat het exploitatiemodel wordt vastgelegd en de begrote stichtingskosten worden geregistreerd. Dit werkproces wordt ook doorlopen bij het aanpassen van de begrote stichtingskosten in een latere fase van het project.
 
 ## Aanmaken projectmodel

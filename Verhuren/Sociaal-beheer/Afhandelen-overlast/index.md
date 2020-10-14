@@ -1,5 +1,7 @@
 # Afhandelen overlast
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2c1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt de afhandeling van een melding van overlast bewaakt. Alle daarbij behorende contactmomenten en acties worden geregistreerd. De bewaking vindt plaats met behulp van een leefbaarheidsdossier, waarin alle betrokken partijen (melder(s), veroorzaker(s) en andere partijen), alle benodigde acties en alle contactmomenten worden geregistreerd. 
 In deze werkinstructie wordt ervan uitgegaan dat deze overlastmelding door de KCC is geregistreerd in de vorm van een interactielogpost met een taak die is toegewezen aan uw team. 
 

@@ -1,5 +1,7 @@
 # Beheren klantinformatie
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2b1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt informatie over bestaande klanten beheerd, zoals het aanpassen van contactpersonen, contactgegevens, correspondentieadres en betalingsgegevens.
 
 Bepaalde informatie kan niet rechtstreeks bij de klant worden aangepast. In plaats daarvan moet de informatie worden aangepast bij het gerelateerde huishouden, waarna de aangepaste informatie automatisch beschikbaar is bij de betreffende klant.

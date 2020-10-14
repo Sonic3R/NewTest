@@ -1,5 +1,7 @@
 # Aanbieden eenheid
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d7&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces bezichtigt de kandidaat of een groep kandidaten de beschikbare eenheid. Daarnaast controleert  de huishoudgegevens van de kandidaat en bepaalt u op basis daarvan of de toewijzing van de eenheid aan die kandidaat al dan niet passend is.
 Dit proces is beëindigd zodra beide partijen hebben geaccepteerd: een kandidaat heeft de eenheid en de aanbieding geaccepteerd, en  heeft de kandidaat geaccepteerd.
 

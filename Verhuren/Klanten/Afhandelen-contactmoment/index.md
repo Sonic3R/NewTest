@@ -14,29 +14,31 @@ In deze werkinstructie wordt ervan uitgegaan dat een contactmoment wordt vastgel
 
 ## Aanmaken contact
 
-In deze stap maakt u een nieuw contact aan. Dit is alleen nodig als degene die de vraag of klacht heeft gesteld resp. heeft ingediend, nog niet bekend is in Dynamics Empire.
+In deze stap maakt u een nieuw contact aan. Dit is alleen nodig als degene die de vraag of klacht heeft gesteld resp. heeft ingediend, nog niet bekend is in Dynamics Empire. Als de vraag of klacht afkomstig is van een rechtspersoon maakt u alleen een contact van het soort Huishouden/bedrijf aan; als het een natuurlijk persoon betreft maakt u daarnaast een bijbehorend contact van het soort Persoon aan.
 
-1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Contacten**. Klik op **Nieuw | + Nieuw**, waarna de contactkaart verschijnt.
-2. Vul de **Voorletters**, **Tussenvoegsels** en **Achternaam** van het nieuwe contact in. Het systeem bepaalt aan de hand daarvan automatisch de waarde van het veld **Naam**.
-3. Selecteer in veld **Bedrijf,Persoon** of het contact een 'Persoon' of een 'Huishouden / Bedrijf' is.
+1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Contacten**. Klik op **Nieuw | + Nieuw**, waarna de contactkaart verschijnt. Druk op Tab, waarna het systeem een nieuw contactnummer aanmaakt.
+2. Vul de **Initialen**, **Tussenvoegsels** en **Achternaam** van het nieuwe contact in. Het systeem bepaalt aan de hand daarvan automatisch de waarde van het veld **Naam**.
+3. Selecteer in veld **Soort** de waarde 'Huishouden / Bedrijf'.
 4. Voer op tabblad **Communicatie** het adres van het contact in. Doe dit door in veld **Straat** de postcode en het huisnummer en eventueel het toevoegsel in te voeren (zonder spaties) en vervolgens het veld te verlaten. Het systeem bepaalt automatisch de juiste waarden van de verschillende velden waaruit het adres is opgebouwd.
 5. Voer op hetzelfde tabblad de telefoonnummers en het e-mailadres van het contact in.
-6. Sluit de pagina.
+6. Maak eventueel een persoon aan binnen dit huishouden. Kies hiervoor de actie **Nieuw persoon voor huishouden/bedrijf** in het menu. Selecteer in het scherm **Rollen** de juiste rol (regel) en klik op **OK**. U komt dan op de contactkaart van die persoon, waar u de **Initialen**, **Tussenvoegsels** en **Achternaam** van de persoon in. Het systeem bepaalt aan de hand daarvan automatisch de waarde van het veld Naam. Ga via **Navigeren | Contact | Persoon** naar de **Persoonlijke gegevens** van de persoon en vul de **Geboortedatum** en **Aanhefcode** in.
+7. Als u geen persoon aanmaakt, vul dan de bedrijfsnaam in het veld **Achternaam** van het huishouden in. Navigeer naar de bedrijfsgegevens van het huishouden (via **Navigeren | Contact | Bedrijf | Huishouden- / bedrijfsgegevens**) en selecteer de **Aanhefcode** 'BLANCO'.
+8. Sluit de pagina('s).
 
 ## Vastleggen contactmoment
 
-In deze stap maakt u een contactmoment aan voor het registreren van de vraag of klacht of voor het registreren van de terugkoppeling n.a.v. een vraag. Als de vraag is gesteld door een klant, dan legt u het contactmoment bij de betreffende klant vast. Het systeem koppelt het contactmoment aan het gerelateerde huishouden en toont het bij de *klant*. Alleen als de vraag is gesteld door een andersoortig contact (bijvoorbeeld een woningzoekende of en leverancier), legt u het contactmoment rechtstreeks bij het betreffende *contact* vast.
+In deze stap maakt u een contactmoment aan voor het registreren van de vraag of klacht of voor het registreren van de terugkoppeling n.a.v. een vraag. Als de vraag is gesteld door een klant, dan legt u het contactmoment bij de betreffende klant vast. Het systeem koppelt het contactmoment aan het gerelateerde huishouden en toont het bij de *klant*. Alleen als de vraag is gesteld door een andersoortig contact (bijvoorbeeld een woningzoekende of en leverancier), legt u het contactmoment rechtstreeks bij het betreffende *contact* (van het soort **Huishouden/Bedrijf**) vast.
 
 1. Navigeer via de zoekfunctionaliteit ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **Klanten** of **Contacten**. Een pagina genaamd **Klanten** resp. **Contacten** verschijnt.
-2. Zoek en selecteer de klant resp. het contact voor wie u het contactmoment wilt vastleggen.
+2. Zoek en selecteer de klant resp. het contact van het soort Huishouden/Bedrijf voor wie u het contactmoment wilt vastleggen.
 3. Klik op het **Nr.** van de klant of het contact. Een pagina genaamd **Klantkaart** resp. **Contactkaart** wordt geopend met alle details van de geselecteerde klant resp. het geselecteerde contact.
-4. Klik op **+ Nieuw** en kies voor **Interactie via sjabloon**. Ee popuppagina genaamd **Interactie aanmaken** verschijnt.
-5. Selecteer het juiste sjabloon in veld **Sjabloon standaardwaarden**.
-6. Leg bij **Notitie** de formulering van de vraag of de formulering van de terugkoppeling vast.
-7. Geef in veld **Toon in klantportaal** aan of u wilt dat het contactmoment al dan niet moeten worden getoond op het klantportaal.
-8. Geef in veld **Taak aanmaken** aan of er een vervolgactie moet worden uitgevoerd om de vraag te kunnen beantwoorden.
-9. Selecteer in veld **Teamcode** de code van het team waaraan de taak moet worden toegewezen.
-10. Klik op **Voltooien**. Het systeem maakt een **interactielogpost** aan met de gegevens die u heeft ingevoerd en met de eigenschappen die zijn ingesteld in het geselecteerde sjabloon. Als u heeft aangegeven dat er een taak moet worden aangemaakt, dan maakt het systeem bovendien een **taak** aan met de eigenschappen die zijn ingesteld in het geselecteerde sjabloon. Deze taak wordt toegewezen aan alle medewerkers die tot het geselecteerde team behoren.
+4. Klik op **+ Nieuw** en kies voor **Interactie via sjabloon**. Een popuppagina genaamd **Interactie aanmaken** verschijnt.
+5. Selecteer het juiste sjabloon in veld **Sjabloon standaardwaarden** en klik op de Tab-toets.
+6. Geef in veld **Toon in klantportaal** aan of u wilt dat het contactmoment al dan niet moeten worden getoond op het klantportaal.
+7. Geef in veld **Taak aanmaken** aan of er een vervolgactie moet worden uitgevoerd om de vraag te kunnen beantwoorden.
+8. Selecteer in veld **Teamcode** de code van het team waaraan de taak moet worden toegewezen.
+9. Leg bij **Notitie** de formulering van de vraag of de formulering van de terugkoppeling vast.
+10. Klik op **Voltooien**. Het systeem maakt een *interactielogpost* aan met de gegevens die u heeft ingevoerd en met de eigenschappen die zijn ingesteld in het geselecteerde sjabloon. Als u heeft aangegeven dat er een taak moet worden aangemaakt, dan maakt het systeem bovendien een **taak** aan met de eigenschappen die zijn ingesteld in het geselecteerde sjabloon. Deze taak wordt toegewezen aan alle medewerkers die tot het geselecteerde team behoren.
 
 ## Aanmaken en toewijzen taak
 
@@ -44,7 +46,7 @@ Deze stap is automatisch uitgevoerd als u in de vorige stap een contactmoment he
 
 ## Afhandelen taak
 
-In deze stap handelt u een taak af die is toegewezen aan een team waarvan u deel uitmaakt. Het afhandelen van een taak verloopt in twee stappen. Ten eerste neemt u de taak in uitvoering, waardoor de taak niet meer zichtbaar is voor de overige medewerkers uit uw team, Vervolgens voert u de benodigde vervolgactie uit en formuleert u de uitkomsten van die vervolgactie in de notitie van de taak. Indien nodig maakt u een nieuwe interactie aan ter weergave van de terugkoppeling die u geeft aan de steller van de vraag.
+In deze stap handelt u een taak af die is toegewezen aan een team waarvan u deel uitmaakt. Het afhandelen van een taak verloopt in twee stappen. Ten eerste neemt u de taak in uitvoering, waardoor de taak niet meer zichtbaar is voor de overige medewerkers uit uw team, Vervolgens voert u de benodigde vervolgactie uit en formuleert u de uitkomsten van die vervolgactie in de notitie van de taak.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Teams**. Een pagina verschijnt met een overzicht van alle teams.
 2. Selecteer het team waarvan u de taken wilt zien.
@@ -58,8 +60,7 @@ In deze stap handelt u een taak af die is toegewezen aan een team waarvan u deel
 10. Navigeer naar de **Taken**. Een pagina verschijnt met de details van de geselecteerde taak.  
 11. Voer de benodigde vervolgactie uit en formuleer de uitkomst van die acties in de **Notities** van de taak.
 12. Zodra de vervolgacties volledig zijn uitgevoerd, past u de **Status** van de taak aan in 'Afgerond'.
-13. Het systeem vraagt of u een interactie wilt aanmaken. Klik op **Nee** als het voldoende is dat de uitkomsten van de vervolgactie worden weergegeven in de notitie van de taak. Klik op **Ja** als u n.a.v. de vervolgacties daadwerkelijk een terugkoppeling geeft aan de steller van de vraag en u deze terugkoppeling weergegeven wilt zien in de vorm van een interactielogpost bij de desbetreffende klant of het andersoortige contact.
-14. Als u **Ja** heeft geklikt, selecteer dan de eigenschappen van de nieuwe interactielogpost en klik op **OK**.
+13. Het systeem vraagt of u een interactie wilt aanmaken. Klik op **Nee**.
 
 ## Zie ook
 

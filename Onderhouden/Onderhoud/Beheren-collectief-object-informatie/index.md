@@ -1,5 +1,7 @@
 # Beheren collectief-object-informatie
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3a2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het aanmaken van nieuwe collectieve objecten en het beheren van algemene informatie over die eenheden.
 
 ## Aanmaken nieuw collectief object

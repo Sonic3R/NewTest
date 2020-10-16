@@ -1,5 +1,7 @@
 # Registreren onderhoudsverzoek
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3a5&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Voor het registreren van een onderhoudsverzoek kunt u al dan niet gebruik maken van de vraagboom in Dynamics Empire. Beide manieren worden onderstaand beschreven.
 
 ## Registreren onderhoudsverzoek *zonder* gebruik van de vraagboom

@@ -1,5 +1,7 @@
 # Samenstellen onderhoudsorders
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3a6&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Bij het doorlopen van de vraagboom wordt voor het onderhoudsverzoek automatisch een onderhoudsorder aangemaakt. Als er meerdere verzoeken tegelijk gemeld worden, dan wordt er in Dynamics Empire één onderhoudsverzoek aangemaakt met meerdere taken. Deze taken kunt u samenbundelen tot één order mits ze bepaalde overeenkomsten hebben, zoals kostencode, leveranciersnr. en dergelijke. Het startpunt van dit proces is het onderhoudsverzoek met meerdere taken.
 
 1. Uitgangspunt: er is via de vraagboom of handmatig een onderhoudsverzoek aangemaakt met meerdere taken. 

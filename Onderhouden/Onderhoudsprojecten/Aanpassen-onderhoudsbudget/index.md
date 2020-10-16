@@ -1,5 +1,7 @@
 # Aanpassen onderhoudsbudget
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3b4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Tijdens het project kan het voorkomen dat de prognose bijgesteld moet worden en/of het onderhoudsbudget moet worden aangepast. Hieronder zijn beide opties beschreven.
 
 ## Actualiseren prognose

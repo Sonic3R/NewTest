@@ -1,5 +1,7 @@
 # Beoordelen ZAV-aanvraag
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3a9&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 De huurder heeft een ZAV-aanvraag ingediend en deze is via mail of post ontvangen. Hiervoor is een taak aangemaakt in Dynamics Empire voor de behandelaar.
 
 Voor het in behandeling nemen van de taak, zie het werkproces **[Afhandelen contactmoment](../../../verhuren/klanten/afhandelen-contactmoment/)**. Handel de taak pas af na het versturen van de toe- of afwijzing van de brief. 

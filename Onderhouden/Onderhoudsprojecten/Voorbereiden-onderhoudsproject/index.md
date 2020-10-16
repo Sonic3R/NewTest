@@ -1,5 +1,7 @@
 # Voorbereiden onderhoudsproject
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3b2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Alle uitvoeringsactiviteiten van de jaarbegroting zijn ingelezen in Dynamics Empire en moeten worden samengevoegd tot een gecombineerde uitvoering. De projecten worden in Dynamics Empire aangemaakt.
 
 ## Informeren huurders

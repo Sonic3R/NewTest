@@ -16,7 +16,7 @@ Bij het aanmaken van de onderhoudsorder voor de eigen onderhoudsdienst kan ook d
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Onderhoudsverzoekoverzicht**. 
 2. Zoek het juiste onderhoudsverzoek op en open de kaart door op het **Nr.** te klikken. 
-3. Selecteer op tabblad **Onderhoudstaken** de juiste regel en kies boven in het tabblad voor de functie **Onderhoudsorder aanmaken en plannen **.
+3. Selecteer op tabblad **Onderhoudstaken** de juiste regel en kies boven in het tabblad voor de functie **Onderhoudsorder aanmaken en plannen**.
 4. De pagina **Bewerken - voorstel voorkeuren** wordt geopend. Elk dagdeel wordt automatisch aangezet; als de huurder op een bepaald dagdeel niet kan, klik dan op het schuifje en zet dat dagdeel 'uit'. Deze optie gaat dan niet mee in het planvoorstel.
 5. Als de huurder pas mogelijkheden heeft na de uiterste gereeddatum van de onderhoudsorder, vul dan de reden hiervan in in het veld **Reden na uiterste datum**. Hierdoor is het mogelijk een datum op te vragen die na de uiterste gereeddatum ligt.
 6. Klik op **OK**. Dynamics Empire komt nu met de opties vanuit Field Service.

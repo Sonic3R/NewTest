@@ -1,5 +1,7 @@
 # Aangaan koopovereenkomst
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=4a2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het aangaan van de koopovereenkomst voor de verkoop van een OG Eenheid. De eenheid kan worden verkocht aan de zittende huurder of aan een derde partij. 
 
 ## Taxeren eenheid

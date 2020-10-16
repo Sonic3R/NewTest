@@ -1,5 +1,7 @@
 # Registreren (onderhouds)jaarbegroting
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3b1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit proces worden alle uitvoeringsactiviteiten van de jaarbegroting ingelezen in Dynamics Empire.
 
 ## Registreren begroting

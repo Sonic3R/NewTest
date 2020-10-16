@@ -1,5 +1,7 @@
 # Distribueren materialen
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3c4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 ## Bepalen behoefte
 
 In deze processtap wordt beschreven hoe u bepaalt welke artikelen voor het magazijn besteld moeten worden. Zie hiervoor de instructie **[Bestellen materialen](../bestellen-materialen/)**.

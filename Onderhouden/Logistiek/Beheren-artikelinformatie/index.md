@@ -1,5 +1,7 @@
 # Beheren artikelinformatie
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3c1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden nieuwe artikelen aangemaakt en wordt de informatie van bestaande artikelen beheerd.
 
 ## Aanmaken nieuw artikel

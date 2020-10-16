@@ -1,5 +1,7 @@
 # Inventariseren voorraad
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3c5&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Het is gebruikelijk om periodiek (bijvoorbeeld één keer per jaar) de aanwezige magazijnen te (her)inventariseren. Hierbij wordt de vastgelegde voorraadstand in Dynamics Empire vergeleken met hetgeen daadwerkelijk in de magazijnen aanwezig is. Het doel is om de voorraadstand in Dynamics Empire bij te werken, zodat deze één-op-één overeenkomt met wat er in de magazijnen aanwezig is en daarmee de waarde klopt en het inkoopvoorstel de juiste waarden geeft.
 
 Uitgangspunt bij het inventarisatiedagboek is dat dit leeg moet zijn voordat er geïnventariseerd wordt. Als er nog regels bestaan moeten deze eerst verwijderd worden.

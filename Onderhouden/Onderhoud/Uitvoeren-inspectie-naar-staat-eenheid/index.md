@@ -2,7 +2,7 @@
 
 *[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3a3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
 
-Binnenkort beschikbaar
+Dit geschiedt niet binnen Dynamics Empire, maar in de InspectieApp. [Zie de betreffende handleiding](https://docs.cegeka-dsa.nl/media/1022/inspectieapp.pdf).
 
 ## Zie ook
 

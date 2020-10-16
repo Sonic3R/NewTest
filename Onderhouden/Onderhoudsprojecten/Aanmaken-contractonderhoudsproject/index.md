@@ -1,5 +1,7 @@
 # Aanmaken contractonderhoudsproject
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3b5&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden één of meerdere contractonderhoudsprojecten per onderhoudscontract aangemaakt en aan het onderhoudscontract gekoppeld. Door middel van contractonderhoudsprojecten worden de verplichtingen en de voortgang van het onderhoud voor het lopend boekjaar bewaakt.
 
 ## Aanmaken contractclusters (optioneel)

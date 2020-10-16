@@ -1,5 +1,7 @@
 # Uitvoeren tussentijdse huuraanpassing
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2e6&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het doorvoeren van tussentijdse huuraanpassingen. Tussentijdse huuraanpassingen zijn alle aanpassingen van de huurprijs van verhuurde en leegstaande OG Eenheden die gedurende het jaar worden doorgevoerd naast de jaarlijkse huurverhoging. 
 
 Voorbeelden van tussentijdse huuraanpassingen zijn: 

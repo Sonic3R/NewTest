@@ -1,5 +1,7 @@
 # Bestellen materialen
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3c2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit proces wordt beschreven hoe u artikelen voor het magazijn bestelt en/of verplaatst (van hoofdmagazijn naar submagazijn(en)). 
 
 ## Bepalen bestelbehoefte 

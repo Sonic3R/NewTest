@@ -1,5 +1,7 @@
 # Bewaken project
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3b3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt de voortgang van het onderhoudsproject bewaakt en waar nodig bijgestuurd.
 
 ## Toezicht houden op werkzaamheden

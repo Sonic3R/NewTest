@@ -1,5 +1,7 @@
 # Rappelleren klant
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2e4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Deze werkinstructie betreft het werkproces voor het rappelleren van klanten in het kader van de jaarlijkse huurverhoging. De verhuurder is conform de wet verplicht om een aangetekende rappelbrief te sturen naar de klant die een huurcontract heeft waarvan de nettohuur m.i.v. de huurverhogingsdatum is verhoogd, maar waarbij die klant na de huurverhogingsdatum niet de nieuwe nettohuur betaalt. De originele huurverhogingsbrief dient als bijlage bij de rappelbrief te worden meegestuurd. Een klant heeft niet de nieuwe nettohuur betaald als ten minste één prolongatiefactuur die betrekking heeft op een prolongatieperiode na de huurverhogingsdatum, na de vervaldatum niet of niet volledig is betaald.
 
 Als de klant zelf al bezwaar had gemaakt tegen de jaarlijkse huurverhoging, hoeft de verhuurder de klant niet te rappelleren. Ook als de nettohuur van het huurcontract van de klant niet is verhoogd op de huurverhogingsdatum, hoeft de verhuurder de klant niet te rappelleren.

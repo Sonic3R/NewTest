@@ -1,5 +1,7 @@
 # Afhandelen huurverhogingsbezwaren
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2e5&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het afhandelen van een bezwaar dat een klant heeft ingediend tegen de jaarlijkse huurverhoging. Een klant kan met diverse argumenten bezwaar maken, zoals: 
 - Onjuiste woningwaardering en als gevolg daarvan verkeerde maximale huurprijs 
 - Ten onrechte toegepaste inkomensafhankelijke huurverhoging 

@@ -1,5 +1,7 @@
 # Beheren onroerend-goed-informatie
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=3a1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het aanmaken van nieuwe onroerendgoed-eenheden en het beheren van algemene informatie over die eenheden, dat wil zeggen: informatie die nodig is voor andere doeleinden dan het verhuren van de eenheden. Dit betreft o.a.:
 
 - adres van de eenheid, inclusief koppeling met CBS-buurt, CBS-wijk en gemeente;

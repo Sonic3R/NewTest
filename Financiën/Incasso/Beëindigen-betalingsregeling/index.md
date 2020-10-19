@@ -1,5 +1,7 @@
 # Beëindigen betalingsregeling
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6h4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden betalingsregeling(en) beëindigd. U kunt een individuele regeling beëindigen, of u kunt dit in bulk doen.
 
 ## Beëindigen betalingsregeling

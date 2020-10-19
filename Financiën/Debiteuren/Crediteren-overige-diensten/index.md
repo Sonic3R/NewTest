@@ -1,5 +1,7 @@
 # Crediteren overige diensten
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6a8&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden de diensten gecrediteerd die geen betrekking hebben op onderhoud, periodieke huur of het verkopen van onroerend goed.
 
 ## Maak creditnota voor niet-verhuurgerelateerde diensten

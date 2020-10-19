@@ -1,5 +1,7 @@
 # Factureren verkoop onroerend goed
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6a3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt het verkochte onroerend goed gefactureerd.
 
 ## Genereren verkoopfactuur

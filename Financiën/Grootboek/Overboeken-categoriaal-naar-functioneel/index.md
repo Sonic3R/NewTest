@@ -1,5 +1,7 @@
 # Overboeken categoriaal naar functioneel
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6g8&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit proces worden de categoriaal geboekte kosten in de 4-rubriek overgeboekt naar de functionele indeling in de 8-rubriek.
 
 ## Raadplegen rapportageschema directe toewijzing

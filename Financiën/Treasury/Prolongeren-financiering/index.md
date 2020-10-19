@@ -1,5 +1,7 @@
 # Prolongeren financiering
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6i2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden de maandelijkse rentelasten, de te betalen rente en aflossing en de te ontvangen stortingen geboekt.
 
 ## Prolongeren financieringen

@@ -1,5 +1,7 @@
 # Dichtzetten periode
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6g11&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit proces worden perioden dichtgezet, zodat er niet meer in geboekt kan worden. In eerste instantie zullen nog wel een aantal gebruikers toegang moeten hebben om de activiteiten met betrekking tot het afsluiten van deze periode uit te voeren, maar uiteindelijk zal de periode voor alle gebruikers worden dichtgezet.
 
 ## Dichtzetten periode

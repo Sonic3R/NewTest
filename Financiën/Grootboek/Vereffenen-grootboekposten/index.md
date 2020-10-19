@@ -1,5 +1,8 @@
 # Vereffenen grootboekposten
 
+
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6g7&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden grootboekposten met elkaar vereffend of worden eerder gemaakte vereffeningen gecorrigeerd.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **Rekeningschema**. Selecteer de rekening waarvoor u posten wilt vereffenen en ga naar de **Posten** van de rekening.

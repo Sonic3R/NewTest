@@ -1,5 +1,7 @@
 # Registreren inkooporder
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=5a2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt op basis van een inkoopbehoefte een inkooporder aangemaakt en deze wordt beoordeeld. Bij goedkeuring wordt de inkooporder gegund aan de leverancier.
 
 Het gaat in dit werkproces om overige inkopen en dus niet om inkopen gerelateerd aan onderhoud, projecten, vastgoed en artikelen die op voorraad worden gehouden.

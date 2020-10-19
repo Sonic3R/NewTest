@@ -1,5 +1,7 @@
 # Ontvangen inkoopfacturen
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6b1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt de factuur ontvangen, vindt een eerste beoordeling plaats en wordt de factuur geregistreerd.
 
 ## Scannen en e-mailen van de factuur die via de post is binnengekomen.

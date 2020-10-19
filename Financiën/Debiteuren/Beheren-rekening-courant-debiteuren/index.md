@@ -1,5 +1,7 @@
 # Beheren rekening-courant debiteuren
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6a9&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 De rekening-courant van de klant wordt gevormd door de klantposten. U kunt mutaties op deze **Klantposten** uitvoeren.
 U benadert de klantposten voor een specifieke klant door naar de klantlijst of -kaart te navigeren en op de actie/functie **Posten** te klikken.
 

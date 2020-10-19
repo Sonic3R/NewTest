@@ -1,5 +1,7 @@
 # Periodiek actualiseren clusterverdeelsleutels
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6g2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden de clusterverdeelsleutels (in bulk) geactualiseerd op basis van de status van de eenheden in het cluster.
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar het rapport **Verhuurde of leegstaande eenheden niet in meest recente clusterverdeelsleutel**. 

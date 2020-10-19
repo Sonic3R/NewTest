@@ -1,5 +1,7 @@
 # Aanleveren incassobestand
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6c1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt een incassobestand gegenereerd op basis van te incasseren klantposten.
 
 ## Ophalen voorstel klantposten

@@ -1,5 +1,7 @@
 # Aanmanen debiteuren
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6h2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden betalingsachterstanden gesignaleerd en wordt de debiteur op basis van de segmentatie en de duur van de achterstand gemaand om de achterstand te betalen.
 
 ## Voorstellen aanmaningen

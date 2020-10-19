@@ -1,5 +1,7 @@
 # Effectueren verkoop
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=4a3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Deze werkinstructie betreft het werkproces waarin een verkochte eenheid zowel fysiek als juridisch wordt overgedragen aan de koper en waarin lopende (onderhouds-)contracten, verzekeringen e.d. worden opgezegd. 
 
 ## Uit exploitatie nemen 

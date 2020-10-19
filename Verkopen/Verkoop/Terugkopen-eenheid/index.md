@@ -1,5 +1,7 @@
 # Terugkopen eenheid
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=4a4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het terugkopen van een eenheid die eerder aan de bewoner is verkocht. 
 
 ## Taxeren eenheid 

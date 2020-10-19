@@ -1,5 +1,7 @@
 # Verwerken periodieke mutaties vaste activa
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6e3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden mutaties binnen de vaste activa verwerkt als onderdeel van een periode-afsluiting.
 
 ## Opvoeren nieuwe activakaarten

@@ -1,5 +1,7 @@
 # Beheren dimensies
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6g3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden de dimensiewaarden beheerd. Nieuwe dimensiewaarden kunnen worden aangemaakt, of bestaande kunnen worden geblokkeerd voor verder gebruik.
 
 ## Aanmaken dimensiewaarden

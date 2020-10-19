@@ -1,5 +1,7 @@
 # Aanleveren betaalbestand
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6c2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt een betaalbestand gegenereerd op basis van uit te betalen klant- en leveranciersposten.
 
 ## Ophalen voorstel leveranciersposten

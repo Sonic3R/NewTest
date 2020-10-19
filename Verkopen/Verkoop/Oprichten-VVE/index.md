@@ -1,5 +1,7 @@
 # Oprichten VVE
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=4a5&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Dit werkproces betreft het oprichten van een Vereniging van Eigenaren (VvE). 
 
 Er is een wettelijke verplichting voor het oprichten van een VvE zodra het eerste appartement binnen een pand wordt verkocht aan een andere eigenaar, zodat het eigendom van de appartementen in het pand is verdeeld over ten minste twee verschillende eigenaren. 

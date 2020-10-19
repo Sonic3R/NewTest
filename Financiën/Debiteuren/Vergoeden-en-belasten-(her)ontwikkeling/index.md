@@ -1,5 +1,7 @@
 # Vergoeden en belasten (her)ontwikkeling
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6a6&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Als er binnen het (her)ontwikkelingsproject sprake is van vergoedingen aan bewoners bestaat de mogelijkheid dit vast te leggen. Daarnaast zijn ook opbrengsten zoals subsidie (gemeente) vast te leggen op het (her)ontwikkelingsproject. 
  
 ## Aanmaken vergoeding/factuur

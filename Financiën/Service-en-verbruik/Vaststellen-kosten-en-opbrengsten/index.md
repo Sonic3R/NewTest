@@ -1,5 +1,7 @@
 # Vaststellen kosten en opbrengsten
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6d1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden kosten en opbrengsten van service en verbruik bepaald en verrekend. De hieronder beschreven stappen worden per cluster uitgevoerd. 
 
 ## Vaststellen voorschotten

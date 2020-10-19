@@ -1,5 +1,7 @@
 # Muteren/prolongeren onderhoudscontract
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=5a7&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 Gedurende het boekjaar kunnen er wijzigingen plaatsvinden die van invloed zijn op het contract, zoals het aantal eenheden waar het contract betrekking op heeft en/of de werkzaamheden die uitgevoerd dienen te worden.
 Mutaties die buiten de contractuele afspraken vallen dienen eerst afgestemd te worden met de leverancier.
 

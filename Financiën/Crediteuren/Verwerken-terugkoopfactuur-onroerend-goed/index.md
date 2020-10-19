@@ -1,5 +1,7 @@
 # Verwerken terugkoopfactuur onroerend goed
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6b5&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt de factuur van teruggekochte eenheden verwerkt en wordt de waarde geregistreerd.
 
 ## Opvoeren vast activum

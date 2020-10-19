@@ -1,5 +1,7 @@
 # Aangeven BTW
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6f1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt de BTW-aangifte gegenereerd en geboekt zodat deze kan worden aangegeven bij de belastingdienst en worden betaald.
 
 ## Genereren BTW-voorstel

@@ -1,5 +1,7 @@
 # Factureren onderhoudsdiensten
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6a2&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt een factuur voor diensten correctief onderhoud gecontroleerd, geboekt en eventueel afgedrukt.
 
 ## Controleren factuur

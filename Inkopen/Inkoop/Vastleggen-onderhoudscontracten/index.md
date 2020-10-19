@@ -1,5 +1,7 @@
 # Vastleggen onderhoudscontracten
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=5a6&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden de uitgangspunten van een contract in Dynamics Empire vastgelegd en door een contractbeheerder gefiatteerd. De contractbeheerder heeft zodoende het totaalbudget beschikbaar voor de duur van de looptijd van het contract. Vervolgens kunnen ook onderhoudsprojecten op contract worden aangemaakt waarin de verplichtingenadministratie kan worden gevoerd.
 
 ## Opvoeren onderhoudscontract

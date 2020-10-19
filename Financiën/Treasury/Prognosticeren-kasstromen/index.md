@@ -1,5 +1,7 @@
 # Prognosticeren kasstromen
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6i4&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces wordt het overzicht van de te verwachte kasstromen gegenereerd en geanalyseerd.
 
 ## Genereren kasstroomprognoseposten

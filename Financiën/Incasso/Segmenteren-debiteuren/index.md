@@ -1,5 +1,7 @@
 # Segmenteren debiteuren
 
+*[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=6h1&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
+
 In dit werkproces worden de debiteuren gesegmenteerd op basis van betaalgedrag om debiteuren met achterstanden gericht te kunnen benaderen.
 
 ## Voorstellen segmentatie

@@ -2,11 +2,11 @@
 
 *[Klik hier](https://cegeka-dsabestpracticeprocessen.mavimcloud.com//Portal/code?id=2d3&view=Chart&maximize=true) voor de flowchart van dit werkproces (Ctrl+link om een nieuw browservenster te openen).*
 
-Dit werkproces betreft het annuleren van een huuropzegging (in het geval de klant de eenheid bij nader inzien wil blijven huren) of het wijzigen van een huurcontracteinddatum van een huuropzegging (in het geval de klant de eenheid bij nader inzien korter of langer wil huren). 
+Dit werkproces betreft het annuleren van een huuropzegging (als de klant de eenheid bij nader inzien wil blijven huren) of het wijzigen van een huurcontracteinddatum van een huuropzegging (als de klant de eenheid bij nader inzien korter of langer wil huren). 
 
 ## Beoordelen aanvraag
 
-In deze stap bekijkt u hoever de eenheid is gevorderd in het verhuurmutatieproces en besluit u of u de aanvraag van de klant honoreert of afwijst. 
+In deze stap bekijkt u hoe ver de eenheid is gevorderd in het verhuurmutatieproces en besluit u of u de aanvraag van de klant honoreert of afwijst. 
 
 1. Klik op de bladwijzer **Verhuurmutaties** in het rolcentrum. De ljjst met openstaande verhuurmutaties wordt geopend. 
 2. Zoek en open de verhuurmutatie waarop de aanvraag betrekking heeft. 

@@ -107,7 +107,7 @@ De streefhuur van een OG Eenheid kan worden bepaald op het niveau van de individ
 
 1. Navigeer via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar de lijst **OG Eenheden**.
 2. Selecteer de juiste OG Eenheid en open de kaart door op het nummer te klikken.
-3. Open tabblad **Exploitatie (Fin.)**.  
+3. Open tabblad **Verhuurmutatieparameters**.  
 4. Als u de streefhuur van de OG Eenheid dynamisch wilt laten bepalen, selecteer dan de waarde **Dynamisch** in het veld **Streefhuurmethode** en een waarde in het veld **Streefhuurcode**. Het systeem berekent automatisch de waarde van het veld **Streefhuur jjjj**, waarbij 'jjjj' het lopende kalenderjaar is.
 5. Als u de streefhuur van de OG Eenheid statisch wilt bepalen, selecteer dan de waarde **Statisch** in het veld **Streefhuurmethode** en vul het streefhuurbedrag in het veld **Streefhuur jjjj** in, waarbij 'jjjj' het lopende kalenderjaar is.
 

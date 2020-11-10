@@ -26,6 +26,8 @@ Alle regels die niet kunnen worden samengevoegd, worden gekopieerd van tabblad *
 
 De sjablooncode wordt bij de bewerking **Samenvoegen alle regels op basis van Sjablooncode** gekopieerd naar kolom **Voorlopig projectnummer** op tabblad **Voorlopige projectregels**. Alle regels met hetzelfde voorlopige projectnummer zullen bij het aanmaken van onderhoudsprojecten gekoppeld worden onder één project. De sjablooncode in deze kolom is indien nodig aan te passen.
 
+Het is ook mogelijk om in het kladblok budgethouders te selecteren voor orders, facturen en verkoop. Hiervoor moet bij het betreffende projecttype een vinkje worden gezet bij **Selecteer budgethouders in kladblok budgetimport**. In de kop van het kladblok staan drie velden: **Orderbudgethouders**, **Inkoopfactuurbudgethouders** en **Verkoopbudgethouders**. Deze zullen worden gevuld met de ingestelde budgethouders van het betreffende projecttype. Het is mogelijk handmatig budgethouders toe te voegen of te verwijderen. Bij de acties **Kopiëren** en **Samenvoegen** wordt het scherm **Budgethouderselectie** geopend en kunnen de gewenste budgethouders worden geselecteerd. Deze worden dan meegenomen naar de 'Voorlopige projectregels' en later naar de projectbudgetregels.
+
 ### Het oplossen van samenvoegingsconflicten
 
 Wanneer regels voldoen aan de criteria om te worden samengevoegd, maar de **Projectomschrijving**, **Contactpersonen**, **Plaats** of vrije tekstvelden van die regels verschillen, dan treedt er een samenvoegingsconflict op. Dit is te zien aan een 'Ja' in kolom **Samenvoegingsconflict** op tabblad **Voorlopige projectregels**.

@@ -18,7 +18,7 @@ _**Ad a:**_
 
 1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **OG Eenheden**.
 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
-3. Open tabblad **Exploitatie (Fin.)**.
+3. Open tabblad **Jaarlijkse huurverhoging**.
 4. Selecteer in veld **Huurverhogingsbeleidstype** het juiste beleidstype.
 5. Sluit de pagina.
 
@@ -43,7 +43,7 @@ _**Ad a:**_
 
 1. Ga via het zoekveld ![zoeken icon](/assets/images/zoeken.png "zoeken icon") naar **OG Eenheden**.
 2. Klik op het **Nr.** van de OG Eenheid waaraan u een beleidstype wil toewijzen. De pagina **Onroerend goed eenheidkaart** wordt geopend met de details van de geselecteerde OG Eenheid.
-3. Open tabblad **Exploitatie (Fin.)**.
+3. Open tabblad **Jaarlijkse huurverhoging**.
 4. Selecteer in veld **Nettohuuraftopping** de juiste aftopping.
 5. Sluit de pagina.
 

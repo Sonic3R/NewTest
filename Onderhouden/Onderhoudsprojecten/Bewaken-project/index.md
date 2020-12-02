@@ -80,4 +80,4 @@ Tot slot dient de leverancier te worden beoordeeld op zijn prestaties, waarna he
 [Registreren (onderhouds) jaarbegroting](../registreren-(onderhouds)-jaarbegroting/)  
 [Voorbereiden onderhoudsproject](../voorbereiden-onderhoudsproject/)  
 [Aanmaken contractonderhoudsproject](../aanmaken-contractonderhoudsproject/)  
-[Uitvoeren contractonderhoud](../uitvoeren-contractonderhoud/)  
+[Bewaken contractonderhoud](../bewaken-contractonderhoud/)  

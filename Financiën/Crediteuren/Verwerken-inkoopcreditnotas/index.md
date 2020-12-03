@@ -112,7 +112,7 @@ Wanneer het document door alle personen die het document goed moeten keuren, goe
 
 ## Goedkeuren inkoopfactuur
 
-Nadat de inkoopcreditnota verwerkt is kan ook de oorspronkelijke debitfactuur goedgekeurd en geboekt worden, via **[Goedkeuren documenten](../inkopen/inkoop/goedkeuren-documenten/)**.
+Nadat de inkoopcreditnota verwerkt is kan ook de oorspronkelijke debitfactuur goedgekeurd en geboekt worden, via **[Goedkeuren documenten](../../../inkopen/inkoop/goedkeuren-documenten/)**.
 
 ## Zie ook
 
